@@ -9,11 +9,9 @@
 
 <--
 ### Electives 
-* [AP Statistics](APstatistics.md)
-* [Data Challenge](datachallenge.md)
+* [Logic puzzles](logicpuzzles.md)
 
 ---
--->
 
 
 ## Challenges
