@@ -7,11 +7,14 @@
 * [Division 2 Math](div2.md)
 * [AP Calculus](Calculus.md)
 
+<--
 ### Electives 
 * [AP Statistics](APstatistics.md)
 * [Data Challenge](datachallenge.md)
 
 ---
+-->
+
 
 ## Challenges
 
