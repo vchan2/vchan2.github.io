@@ -7,7 +7,7 @@
 * [Division 2 Math](div2.md)
 * [AP Calculus](Calculus.md)
 
-<--
+---
 ### Electives 
 * [Logic puzzles](logicpuzzles.md)
 
