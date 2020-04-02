@@ -5,12 +5,13 @@
 ___
 
 ### Homework
-For Monday
+For Monday, April 6: Try IXL problems from Grade 7, Unit U, sections 1, 3, 5, 6, 8, 9 
 
 ---
 
 ### Challenges
 * <a href="https://MerrickMath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge</a> 
+* Prove basic "facts" using the axioms given in class 
 
 
 <!--
