@@ -15,6 +15,8 @@
 
 ---
 
+### The Exam
+The AP Calculus exam will be held on May 12, at 12PM. More information found <a href="https://vchan2.github.io/Calculus/BCCalculusexam2020.pdf"> here</a>. 
 
 ### The Essence of Calculus (brought to you by <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"> 3 Blue 1 Brown</a>)
 <p align="center"> 
