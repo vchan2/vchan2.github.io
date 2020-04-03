@@ -4,9 +4,10 @@ For Monday, April 6, we will be exploring slope fields. Have graph paper at the 
 
 ---
 
-### Notes 
+### Online resources
 
 * <a href="https://drive.google.com/drive/folders/1ekaLMvkDQc4mT82x0QFs_Nmo8b33312p?usp=sharing"> Shared content with notes and videos </a>
+* [Interactive Slope Fields](SlopeFields.md)
 
 ---
 
