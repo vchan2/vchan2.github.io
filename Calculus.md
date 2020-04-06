@@ -1,6 +1,6 @@
 ### Updates
-* There will now be a password for all zoom meetings. If you do not have it still, please e-mail me.
-* For Monday, April 6, we will be exploring slope fields. Have graph paper at the ready, or print out 2 copies of <a href="https://vchan2.github.io/Calculus/Cartesian_grid3x3.pdf"> this Cartesian Grid</a>. We will also be using  <a href="https://vchan2.github.io/Calculus/Slope_Fields.pdf"> these slope field plots</a>.
+* For Tuesday, April 7, we will be continuing out exploration of slope fields. We will be using  <a href="https://vchan2.github.io/Calculus/Slope_Fields2.pdf"> these slope field plots</a>.
+* BC AP Calculus people, we will (hopefully) require calculators for the second half of class - given time, I would like to go over section 7.5. 
 
 ---
 
