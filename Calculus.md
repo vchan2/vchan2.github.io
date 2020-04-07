@@ -1,7 +1,5 @@
 ### Updates
-* For Tuesday, April 7:
-  * We will be continuing out exploration of slope fields. We will be using  <a href="https://vchan2.github.io/Calculus/Slope_Fields2.pdf"> these slope field plots</a>. (Note: the axes are all from -3 to 3 in both directions.)
-  * BC AP Calculus people, we will (hopefully) require calculators for the second half of class - given time, I would like to go over section 7.5. 
+* For Wednesday, April 8: BC AP Calculus people, we will require calculators for the first half of class - we will finish the computation started today. If you have time, I encourage you to attempt to finish off the remaining steps yourself prior to class.
 
 ---
 
