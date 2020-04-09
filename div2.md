@@ -6,8 +6,9 @@
 ___
 
 ### Homework
-For Monday, April 6: Try IXL problems from Grade 7, Unit U, sections 1, 3, 5, 6, 8, 9 
-
+For Tuesday, April 14: 
+* Keep working through workbooks.
+* Keep working through IXL problems related to algebra. You may find the grade 7 unit U a little too easy, especially compared to what we do in class - some harder ones can be found at higher grades, such as: Grade 10, G.5, and Grade 11, B.1. 
 ---
 
 ### Challenges
