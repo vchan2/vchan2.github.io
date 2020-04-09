@@ -14,6 +14,7 @@ For Monday, April 6: Try IXL problems from Grade 7, Unit U, sections 1, 3, 5, 6,
 * <a href="https://MerrickMath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge</a> 
 * <a href="https://vchan2.github.io/div2/Algebra_challenge.pdf"> Algebraic "Facts" Challenge</a>
 * <a href="https://vchan2.github.io/div2/equation_challenge.pdf"> Equation Challenge</a>
+* Do there exist k+1 consecutive (increasing) integers which sums to the sum of the next k consecutive integers?
 
 
 <!--
