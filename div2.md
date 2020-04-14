@@ -1,6 +1,6 @@
 # Division 2 Mathematics
 ### Update and Help Ticket Form
-* For Wednesday's class: 
+* For Wednesday's class: <a href="https://vchan2.github.io/div2/Triangular_numbers.pdf"> Triangular Numbers worksheet</a>
 * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwd1gGPLT06LTX-wfmoZQfu8dhYr0geGC0SXo51dXV_Qrw4g/viewform?usp=sf_link"> Let me know where you are at</a>: Complete this form at least once per week (Mondays) so I know where you are at in your book, and if you have any questions. You can also use this form if you have any **QUESTIONS**. This lets me know what topics we still need to explore. 
 
 ___
@@ -8,7 +8,7 @@ ___
 ### Homework
 
 
-<--
+<!--
 For Tuesday, April 14: 
 * Keep working through workbooks.
 * Keep working through IXL problems related to algebra. You may find the grade 7 unit U a little too easy, especially compared to what we do in class - some harder ones can be found at higher grades, such as: Grade 10, G.5, and Grade 11, B.1. 
