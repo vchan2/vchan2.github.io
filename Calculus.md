@@ -1,5 +1,5 @@
 ### Updates
-* For Wednesday, April 8: BC AP Calculus people, we will require calculators for the first half of class - we will finish the computation started today. If you have time, I encourage you to attempt to finish off the remaining steps yourself prior to class.
+* AB Calculus people: We are done all the content for your exam, but there is still lots to do - we need to practice hard word problems and problems that incorporate multiple ideas. Please continue coming to class in case we have class activities, though much of class time will be used for the BC Calculus people.
 
 ---
 
