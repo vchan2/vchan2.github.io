@@ -1,5 +1,4 @@
 ### Updates
-* For Friday's class (Apr 17): <a href="https://vchan2.github.io/Calculus/Forensics.pdf"> Forensics problem </a>
 * AB Calculus: Join Mr. Merrick's room until further notice.
 * BC Calculus: Join my room as usual.
 * I have put together a review test for you on the AP Classroom website, called "Review 01." There are 18 questions, with some short and some long questions, covering most of the topics we need to know for the exam. Note that Unit 7 is not very well represented in this review test, because we just finished learning the material and thus it should still be fresh. You should be able to finish the entire test within 180 minutes, so I expect everyone to be finished by Wednesday, April 22.
@@ -17,6 +16,7 @@
 
 * <a href="https://MerrickMath.github.io/Calculus/Projects/PiazzaFun.pdf"> Piazza Fun </a>
 * <a href="https://MerrickMath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge</a> 
+* <a href="https://vchan2.github.io/Calculus/Forensics.pdf"> Forensics problem </a> and its <a href="https://vchan2.github.io/Calculus/Forensics_soln.pdf"> solution </a>
 
 ---
 
