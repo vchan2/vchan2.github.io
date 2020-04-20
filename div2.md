@@ -1,6 +1,7 @@
 # Division 2 Mathematics
 ### Update and Help Ticket Form
-* For Wednesday's class: <a href="https://docs.google.com/spreadsheets/d/1ema5Q5k6BlUWyZKvT-BGBoPv9iUM7IzCbIpHrIY5wAY/edit?usp=sharing">Awwapp links</a>
+* For Monday's class: <a href="https://www.mathplayground.com/deep_sea_math_mystery.html">Deep sea math mystery</a> and <a href="https://www.mathplayground.com/algebra_puzzle.html">Algebra puzzle</a>
+<!--* For Monday's class: <a href="https://docs.google.com/spreadsheets/d/1ema5Q5k6BlUWyZKvT-BGBoPv9iUM7IzCbIpHrIY5wAY/edit?usp=sharing">Awwapp links</a>-->
 <!--<a href="https://vchan2.github.io/div2/Triangular%20numbers.pdf"> Triangular Numbers worksheet</a>-->
 * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwd1gGPLT06LTX-wfmoZQfu8dhYr0geGC0SXo51dXV_Qrw4g/viewform?usp=sf_link"> Let me know where you are at</a>: Complete this form at least once per week (Mondays) so I know where you are at in your book, and if you have any questions. You can also use this form if you have any **QUESTIONS**. This lets me know what topics we still need to explore. 
 
