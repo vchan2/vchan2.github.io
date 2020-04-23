@@ -8,7 +8,8 @@
 ### Online resources
 
 * <a href="https://drive.google.com/drive/folders/1ekaLMvkDQc4mT82x0QFs_Nmo8b33312p?usp=sharing"> Shared content with notes and videos </a>
-* [Interactive slope fields](SlopeFields.md)
+* [Interactive slope fields (Geogebra)](SlopeFields.md)
+* <a href="https://www.geogebra.org/m/s9SkCsvC"> Taylor Polynomials (Geogebra) </a>
 
 ---
 
