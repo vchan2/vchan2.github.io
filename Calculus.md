@@ -15,9 +15,9 @@
 
 ### Challenges 
 
-* <a href="https://MerrickMath.github.io/Calculus/Projects/PiazzaFun.pdf"> Piazza Fun </a>
-* <a href="https://MerrickMath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge</a> 
-* <a href="https://vchan2.github.io/Calculus/Forensics.pdf"> Forensics problem </a> and its <a href="https://vchan2.github.io/Calculus/Forensics_soln.pdf"> solution </a>
+* <a href="https://MerrickMath.github.io/Calculus/Projects/PiazzaFun.pdf"> Piazza Fun </a> (expired)
+* <a href="https://MerrickMath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge</a> (expired)
+* <a href="https://vchan2.github.io/Calculus/Forensics.pdf"> Forensics problem </a> and its <a href="https://vchan2.github.io/Calculus/Forensics_soln.pdf"> solution </a> (expired)
 
 ---
 
