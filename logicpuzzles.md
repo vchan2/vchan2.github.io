@@ -7,6 +7,8 @@
 
 * <a href="https://www.kenkenpuzzle.com/play_now"> Online kenken puzzles from kenkenpuzzle.com </a>
 * <a href="https://krazydad.com/inkies/"> Printable kenken puzzles from KrazyDad </a>
+* <a href="https://picture-enigmas.com/"> Online pixel puzzles from picma </a>
+
 
 ---
 
