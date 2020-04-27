@@ -12,6 +12,8 @@
 * <a href="https://www.geogebra.org/m/s9SkCsvC"> Taylor Polynomials (Geogebra) </a>
 
 ### Practice problems
+
+* <a href="https://vchan2.github.io/Calculus/Review_01.pdf"> Review 1 </a>
 * <a href="https://merrickmath.github.io/Calculus/Notes/practice1.pdf"> Practice 1 </a>
 * <a href="https://merrickmath.github.io/Calculus/Notes/practice2.pdf"> Practice 2 </a>
 * <a href="https://merrickmath.github.io/Calculus/Notes/practice3.pdf"> Practice 3 </a>
