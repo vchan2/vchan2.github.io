@@ -4,13 +4,13 @@
 
 ### Updates:
 
-Tuesday, April 28: <a href="https://www.mathplayground.com/venn_puzzle.html"> Venn puzzle game</a> - Place the numbers in the correct part of the Venn diagram
 
 ---
 
 ### Links
 * <a href="https://www.mathplayground.com/order_of_operations.html"> Order of operations game</a> - Find numbers which make an equation true (+,-,*,/) 
 * <a href="https://www.mathplayground.com/pemdas_exhibit.html"> Order of operations game</a> - Work through 2, 3, or 4-step order of operations (+,-,*,/,^)
+* <a href="https://www.mathplayground.com/venn_puzzle.html"> Venn puzzle game</a> - Place the numbers in the correct part of the Venn diagram
 
 
 ---
