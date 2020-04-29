@@ -2,7 +2,7 @@
 
 ### Updates
 
-* HW for Monday, May 4: Finish the 10-question algebra word problem Google Form (link to be posted).
+* HW for Monday, May 4: Finish the 10-question <a href="https://docs.google.com/forms/d/e/1FAIpQLSevnNr2B7mDHeTrC-F6p0WxZ7apbl6g4-SEUYsL8EYFY3ptrg/viewform"> algebra word problem Google Form</a>
 
 ---
 
