@@ -2,7 +2,7 @@
 * AB Calculus: Join Mr. Merrick's room until further notice.
 * BC Calculus: Join my room as usual.
 * I have put together a review test for you on the AP Classroom website, called "Review 01." There are 18 questions, with some short and some long questions, covering most of the topics we need to know for the exam. Note that Unit 7 is not very well represented in this review test, because we just finished learning the material and thus it should still be fresh. You should be able to finish the entire test within 180 minutes, so I expect everyone to be finished by Wednesday, April 22.
-* <a href="https://vchan2.github.io/Calculus/Unit%206%20-%20FRQ%20Review.pdf"> BC Integration (Unit 6) review </a> - I will go over solutions on Thursday, April 30.
+* <a href="https://vchan2.github.io/Calculus/Unit%206%20-%20FRQ%20Review.pdf"> BC Integration (Unit 6) review (Q4-6) </a> - I will go over solutions at 10AM on Friday, May 1.
 
 
 ---
@@ -20,6 +20,11 @@
 * <a href="https://merrickmath.github.io/Calculus/Notes/practice2.pdf"> Practice 2 </a>
 * <a href="https://merrickmath.github.io/Calculus/Notes/practice3.pdf"> Practice 3 </a>
 * <a href="https://merrickmath.github.io/Calculus/Notes/practice4.pdf"> Practice 4 </a>
+* <a href="https://merrickmath.github.io/Calculus/Notes/practice5.pdf"> Practice 5 </a>
+* <a href="https://vchan2.github.io/Calculus/Review/Day%2024%20-%20FR%20Problem%20Stems%20-%20Tabular.pdf"> Free Response - Tabular </a>
+* <a href="https://vchan2.github.io/Calculus/Review/Day%2025%20-%20FR%20Problem%20Stems%20-%20Graphical.pdf"> Free Response - Graphical </a>
+* <a href="https://vchan2.github.io/Calculus/Review/Day%2026%20-%20FR%20Problem%20Stems%20-%20Algebraic.pdf"> Free Response - Algebraic </a>
+
 
 ---
 
