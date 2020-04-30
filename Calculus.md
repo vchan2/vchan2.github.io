@@ -26,6 +26,8 @@
 * <a href="https://vchan2.github.io/Calculus/Review/Day%2026%20-%20FR%20Problem%20Stems%20-%20Algebraic.pdf"> Free Response - Algebraic </a>
 * <a href="https://vchan2.github.io/Calculus/Review/Day%2027%20-%20FR%20Problem%20Stems%20-%20Verbal.pdf"> Free Response - Verbal </a>
 
+FYI if you're in a bind for time, focus on tabular and graphical first, then verbal, then algebraic. I've arranged these based on likelihood of appearing on the exam.
+
 ---
 
 ### Challenges 
