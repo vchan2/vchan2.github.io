@@ -33,7 +33,6 @@ Up to and including Friday, May 22: Mr. Merrick will be doing AP Statistics in h
 
 ### Practice problems
 
-* <a href="https://vchan2.github.io/Calculus/Review_01.pdf"> Review 01 </a> (<a href="https://vchan2.github.io/Calculus/Review_01_soln.pdf"> Solution </a>)
 * <a href="https://vchan2.github.io/Calculus/Unit%206%20-%20FRQ%20Review.pdf"> BC Integration (Unit 6) review </a>
 * <a href="https://merrickmath.github.io/Calculus/Notes/practice1.pdf"> Practice 1 </a>
 * <a href="https://merrickmath.github.io/Calculus/Notes/practice2.pdf"> Practice 2 </a>
