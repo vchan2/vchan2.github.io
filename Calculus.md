@@ -15,6 +15,13 @@ Monday, May 11: everyone in my room - we will be doing random review problems an
 
 Tuesday, May 12: exam is at 12PM!
 
+---
+
+After the exam date:
+
+Wednesdays: if there is interest, during the usual "BC AP Calculus" choice, we can go over further material which is normally taught in a university-level calculus course. There may be portions which are either easier with BC-specific material, or require BC-specific material.
+
+Up to and including Friday, May 22: Mr. Merrick will be doing AP Statistics in his room for those interested in pursuing the exam. Everyone else will be in my room.
 
 ---
 
