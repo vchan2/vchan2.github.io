@@ -1,15 +1,15 @@
 ### Updates
 Tentative schedule:
 
-Monday, May 4: everyone in my room - we will be going over a few AB-specific problems focusing on tabular, graphical, and verbal-type questions.
+Tuesday, May 5: everyone in my room - we will go over exam logistics, practice going on the online exam page, then we will be doing a practice exam; AB people will do an AB-specific exam while BC people will do a BC-specific exam (exam 1). This will be a mock of FRQ#2, which is 15 minutes with 5 minutes allowed for submission.
 
-Tuesday, May 5: everyone in my room - we will be doing a practice exam; AB people will do an AB-specific exam while BC people will do a BC-specific exam (exam 1).
+Wednesday, May 6 (period 3): AB people in Mr. Merrick's room and BC people in my room - we will be going over exam 1 (it may not take the whole period, in which case the remaining time is a word period).
 
-Wednesday, May 6 (periods 3 and 4): AB people in Mr. Merrick's room and BC people in my room - we will be going over exam 1 (it may not take both periods).
+Wednesday, May 6 (period 4): Mr. Merrick and I will be in my room, offering additional help.
 
 Thursday, May 7: everyone in my room - we will be doing a practice exam; AB people will do an AB-specific exam while BC people will do a BC-specific exam (exam 2).
 
-Friday, May 8: (periods 3 and 4): AB people in Mr. Merrick's room and BC people in my room - we will be going over exam 2 (it may not take both periods). I realize you all have class in period 3: I have talked to Dr. Renert about it, but this is still unconfirmed (hence the "tentative").
+Friday, May 8: (period 4): AB people in Mr. Merrick's room and BC people in my room - we will be going over exam 2.
 
 Monday, May 11: everyone in my room - we will be doing random review problems and answering any last-minute questions.
 
