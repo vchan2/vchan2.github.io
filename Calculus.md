@@ -9,7 +9,7 @@ Wednesday, May 6 (period 4): Mr. Merrick and I will be in my room, offering addi
 
 Thursday, May 7: everyone in my room - we will be doing a practice exam; AB people will do an AB-specific exam while BC people will do a BC-specific exam (exam 2).
 
-Friday, May 8: (period 4): AB people in Mr. Merrick's room and BC people in my room - we will be going over exam 2.
+Friday, May 8: AB people in Mr. Merrick's room and BC people in my room - we will be going over exam 2.
 
 Monday, May 11: everyone in my room - we will be doing random review problems and answering any last-minute questions.
 
