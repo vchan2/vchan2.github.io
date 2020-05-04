@@ -64,7 +64,7 @@ Please take a moment to go over <a href="https://vchan2.github.io/Calculus/ap-te
 
 AP Exam logistics walkthrough
 <p align="center"> 
-  <iframe src="https://www.youtube.com/watch?v=qHZ2zpqlZNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="vid"></iframe> </p>
+  <iframe src="https://www.youtube.com/embed/qHZ2zpqlZNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="vid"></iframe> </p>
 
 
 
