@@ -5,11 +5,11 @@ Tuesday, May 5: everyone in my room - we will go over exam logistics, practice g
 
 <a href="https://forms.gle/obrkDEC1cau6Hw8o9"> Mock exam 1: FRQ#2 submission </a>
 
-Wednesday, May 6 (period 3): AB people in Mr. Merrick's room and BC people in my room - we will be going over exam 1 (it may not take the whole period, in which case the remaining time is a word period).
+Wednesday, May 6 (period 3): AB people in Mr. Merrick's room and BC people in my room - we will be going over exam 1 (it may not take the whole period, in which case the remaining time is a work period).
 
 Wednesday, May 6 (period 4): Mr. Merrick and I will be in my room, offering additional help.
 
-Thursday, May 7: everyone in my room - we will be doing a practice exam; AB people will do an AB-specific exam while BC people will do a BC-specific exam (exam 2).
+Thursday, May 7: everyone in my room - we will be doing a practice exam; AB people will do an AB-specific exam while BC people will do a BC-specific exam (exam 2). Treat this like an actual exam - be situated in the work space you will actually be writing the exam, and come with your papers already marked with your AP ID, initials, and page number. Have your extra paper, pens/pencils, notes, and calculator at the ready.
 
 Friday, May 8: AB people in Mr. Merrick's room and BC people in my room - we will be going over exam 2.
 
