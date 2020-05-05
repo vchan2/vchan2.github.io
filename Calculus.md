@@ -60,17 +60,16 @@ FYI if you're in a bind for time, focus on tabular and graphical first, then ver
 ---
 
 ### The Exam
-The AP Calculus exam will be held on May 12, at 12PM. More information found <a href="https://vchan2.github.io/Calculus/ABCalculusexam2020.pdf"> here for AB</a> and <a href="https://vchan2.github.io/Calculus/BCCalculusexam2020.pdf"> here for BC</a>. 
-
-Please take a moment to go over <a href="https://vchan2.github.io/Calculus/ap-testing-guide-2020.pdf"> instructions and details</a>
-
-<a href="https://ap2020examdemo.collegeboard.org/?excmpid=mtg638-2-gd"> Exam demo </a>
+* The AP Calculus exam will be held on May 12, at 12PM. More information found <a href="https://vchan2.github.io/Calculus/ABCalculusexam2020.pdf"> here for AB</a> and <a href="https://vchan2.github.io/Calculus/BCCalculusexam2020.pdf"> here for BC</a>. 
+* Please take a moment to go over <a href="https://vchan2.github.io/Calculus/ap-testing-guide-2020.pdf"> instructions and details</a>
+* Try out the <a href="https://ap2020examdemo.collegeboard.org/?excmpid=mtg638-2-gd"> exam demo</a>.
+* Here is an <a href="https://vchan2.github.io/Calculus/ap-student-exam-day-checklist.pdf"> exam day checklist </a> you can use to help keep you organized.
 
 AP Exam logistics walkthrough
 <p align="center"> 
   <iframe src="https://www.youtube.com/embed/qHZ2zpqlZNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="vid"></iframe> </p>
 
-
+---
 
 ### The Essence of Calculus (brought to you by <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"> 3 Blue 1 Brown</a>)
 <p align="center"> 
