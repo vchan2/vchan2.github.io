@@ -3,6 +3,8 @@ Tentative schedule:
 
 Tuesday, May 5: everyone in my room - we will go over exam logistics, practice going on the online exam page, then we will be doing a practice exam; AB people will do an AB-specific exam while BC people will do a BC-specific exam (exam 1). This will be a mock of FRQ#2, which is 15 minutes with 5 minutes allowed for submission.
 
+<a href="https://forms.gle/obrkDEC1cau6Hw8o9"> Mock exam 1: FRQ#2 submission </a>
+
 Wednesday, May 6 (period 3): AB people in Mr. Merrick's room and BC people in my room - we will be going over exam 1 (it may not take the whole period, in which case the remaining time is a word period).
 
 Wednesday, May 6 (period 4): Mr. Merrick and I will be in my room, offering additional help.
