@@ -62,6 +62,8 @@ The AP Calculus exam will be held on May 12, at 12PM. More information found <a 
 
 Please take a moment to go over <a href="https://vchan2.github.io/Calculus/ap-testing-guide-2020.pdf"> instructions and details</a>
 
+<a href="https://ap2020examdemo.collegeboard.org/?excmpid=mtg638-2-gd"> Exam demo </a>
+
 AP Exam logistics walkthrough
 <p align="center"> 
   <iframe src="https://www.youtube.com/embed/qHZ2zpqlZNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="vid"></iframe> </p>
