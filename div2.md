@@ -2,6 +2,8 @@
 
 ### Updates
 
+* Thursday's class: Finish the "Venn Puzzler" sheet. <a href="https://vchan2.github.io/div2/2020-05-06%20Venn%20puzzler-1.pdf"> Here </a> is how far we made it yesterday (there is at least 1 mistake though!)
+
 * HW for Monday, May 4: Finish the 10-question <a href="https://docs.google.com/forms/d/e/1FAIpQLSevnNr2B7mDHeTrC-F6p0WxZ7apbl6g4-SEUYsL8EYFY3ptrg/viewform"> algebra word problem Google Form</a>
 
 ---
