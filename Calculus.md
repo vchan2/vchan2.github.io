@@ -1,15 +1,9 @@
 ### Updates
 Tentative schedule:
 
-Tuesday, May 5: everyone in my room - we will go over exam logistics, practice going on the online exam page, then we will be doing a practice exam; AB people will do an AB-specific exam while BC people will do a BC-specific exam (exam 1). This will be a mock of FRQ#2, which is 15 minutes with 5 minutes allowed for submission.
+Thursday, May 7: everyone in my room - we will be doing a practice exam; AB people will do an AB-specific exam while BC people will do a BC-specific exam (exam 2). Treat this like an actual exam - be situated in the work space you will actually be writing the exam, and come with your papers already marked with your AP ID, initials, and page number. Have your extra paper, pens/pencils, notes, and calculator at the ready. This will be a mock of FRQ#1, which is 25 minutes with 5 minutes allowed for submission.
 
-<a href="https://forms.gle/obrkDEC1cau6Hw8o9"> Mock exam 1: FRQ#2 submission </a>
-
-Wednesday, May 6 (period 3): AB people in Mr. Merrick's room and BC people in my room - we will be going over exam 1 (it may not take the whole period, in which case the remaining time is a work period).
-
-Wednesday, May 6 (period 4): Mr. Merrick and I will be in my room, offering additional help.
-
-Thursday, May 7: everyone in my room - we will be doing a practice exam; AB people will do an AB-specific exam while BC people will do a BC-specific exam (exam 2). Treat this like an actual exam - be situated in the work space you will actually be writing the exam, and come with your papers already marked with your AP ID, initials, and page number. Have your extra paper, pens/pencils, notes, and calculator at the ready.
+<a href="https://forms.gle/A2bmK934w8bReKhp7"> Mock exam 2: FRQ#1 submission </a>
 
 Friday, May 8: AB people in Mr. Merrick's room and BC people in my room - we will be going over exam 2.
 
@@ -64,6 +58,7 @@ FYI if you're in a bind for time, focus on tabular and graphical first, then ver
 * Please take a moment to go over <a href="https://vchan2.github.io/Calculus/ap-testing-guide-2020.pdf"> instructions and details</a>
 * Try out the <a href="https://ap2020examdemo.collegeboard.org/?excmpid=mtg638-2-gd"> exam demo</a>.
 * Here is an <a href="https://vchan2.github.io/Calculus/ap-student-exam-day-checklist.pdf"> exam day checklist </a> you can use to help keep you organized.
+* Here are some tips about <a href="https://vchan2.github.io/Calculus/justifications%20on%20the%20exam.pdf"> proper justification for the AP exam </a>.
 
 AP Exam logistics walkthrough
 <p align="center"> 
