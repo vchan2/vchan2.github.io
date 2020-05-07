@@ -35,10 +35,10 @@ Up to and including Friday, May 22: Mr. Merrick will be doing AP Statistics in h
 * <a href="https://merrickmath.github.io/Calculus/Notes/practice3.pdf"> Practice 3 </a>
 * <a href="https://merrickmath.github.io/Calculus/Notes/practice4.pdf"> Practice 4 </a>
 * <a href="https://merrickmath.github.io/Calculus/Notes/practice5.pdf"> Practice 5 </a>
-* <a href="https://vchan2.github.io/Calculus/Review/Day%2024%20-%20FR%20Problem%20Stems%20-%20Tabular.pdf"> Free Response - Tabular </a>
-* <a href="https://vchan2.github.io/Calculus/Review/Day%2025%20-%20FR%20Problem%20Stems%20-%20Graphical.pdf"> Free Response - Graphical </a>
-* <a href="https://vchan2.github.io/Calculus/Review/Day%2026%20-%20FR%20Problem%20Stems%20-%20Algebraic.pdf"> Free Response - Algebraic </a>
-* <a href="https://vchan2.github.io/Calculus/Review/Day%2027%20-%20FR%20Problem%20Stems%20-%20Verbal.pdf"> Free Response - Verbal </a>
+* <a href="https://vchan2.github.io/Calculus/Review/Day%2024%20-%20FR%20Problem%20Stems%20-%20Tabular.pdf"> BC Free Response - Tabular </a>
+* <a href="https://vchan2.github.io/Calculus/Review/Day%2025%20-%20FR%20Problem%20Stems%20-%20Graphical.pdf"> BC Free Response - Graphical </a>
+* <a href="https://vchan2.github.io/Calculus/Review/Day%2026%20-%20FR%20Problem%20Stems%20-%20Algebraic.pdf"> BC Free Response - Algebraic </a>
+* <a href="https://vchan2.github.io/Calculus/Review/Day%2027%20-%20FR%20Problem%20Stems%20-%20Verbal.pdf"> BC Free Response - Verbal </a>
 
 FYI if you're in a bind for time, focus on tabular and graphical first, then verbal, then algebraic. I've arranged these based on likelihood of appearing on the exam.
 
