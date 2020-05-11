@@ -5,6 +5,7 @@
 * Thursday's class: Finish the "Venn Puzzler" sheet. <a href="https://vchan2.github.io/div2/2020-05-06%20Venn%20puzzler-1.pdf"> Here </a> is how far we made it yesterday (there is at least 1 mistake though!)
 
 * HW for Monday, May 11: Finish at least 3 Euler diagrams in the <a href="https://vchan2.github.io/div2/Venn_puzzler_math_version.pdf"> math version of the Venn Puzzler</a>. Here is the <a href="https://vchan2.github.io/div2/Venn_puzzler_math_version_euler_diagrams.pdf"> page of all of the Euler diagrams</a>, and here is the <a href="https://vchan2.github.io/div2/Venn_puzzler_math_version_eg.jpg"> example we did in class</a>. Please let me know if you have any questions, and have fun!
+<a href="https://forms.gle/gkRmEfRRucTQy6qH9"> Submission</a>
 
 * HW for Monday, May 4: Finish the 10-question <a href="https://docs.google.com/forms/d/e/1FAIpQLSevnNr2B7mDHeTrC-F6p0WxZ7apbl6g4-SEUYsL8EYFY3ptrg/viewform"> algebra word problem Google Form</a>
 
