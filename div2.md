@@ -6,7 +6,7 @@
 
 * HW for Tuesday, May 19: If you did not get a perfect score, you may re-do  the 10-question <a href="https://forms.gle/5tRVVoEgscnGDixJ8"> algebra word problem Google Form</a>
 
-* <a href="https://skribbl.io/?jBOlXdscBtIz"> Cloick Here, Neomi </a>
+* <a href="https://skribbl.io/?jBOlXdscBtIz"> Click Here, Neomi </a>
 
 ---
 
