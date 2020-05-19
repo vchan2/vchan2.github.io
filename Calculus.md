@@ -4,6 +4,9 @@
 
 * If you wish, upload your exam solutions <a href="https://forms.gle/sHcCsryyTX8QMDpH8"> here</a>.
 
+* <a href="https://vchan2.github.io/Calculus/Projects/function_composition.pdf"> Function composition challenge </a>
+
+
 ---
 
 ### Online resources
