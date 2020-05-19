@@ -2,9 +2,9 @@
 
 ### Updates
 
-* HW for Tuesdasy, May 19: Finish at least 3 Euler diagrams in the <a href="https://vchan2.github.io/div2/Venn_puzzler_math_version.pdf"> math version of the Venn Puzzler</a>. Here is the <a href="https://vchan2.github.io/div2/Venn_puzzler_math_version_euler_diagrams.pdf"> page of all of the Euler diagrams</a>, and here is the <a href="https://vchan2.github.io/div2/Venn_puzzler_math_version_eg.jpg"> example we did in class</a>. Please let me know if you have any questions, and have fun! You can submit <a href="https://forms.gle/TTFDuJbAN4imeAxv7"> here</a>
+* HW for Tuesday, May 19: Finish at least 10 Euler diagrams in the <a href="https://vchan2.github.io/div2/Venn_puzzler_math_version.pdf"> math version of the Venn Puzzler</a>. Here is the <a href="https://vchan2.github.io/div2/Venn_puzzler_math_version_euler_diagrams.pdf"> page of all of the Euler diagrams</a>, and here is the <a href="https://vchan2.github.io/div2/Venn_puzzler_math_version_eg.jpg"> example we did in class</a>. Please let me know if you have any questions, and have fun! You can submit <a href="https://forms.gle/TTFDuJbAN4imeAxv7"> here</a>
 
-* HW for Tuesday, May 19: If you did not get a perfect score, you may re-do  the 10-question <a href="https://forms.gle/5tRVVoEgscnGDixJ8"> algebra word problem Google Form</a>
+* HW for Tuesday, May 19: If you scored less than 9, you must re-do  the 10-question <a href="https://forms.gle/5tRVVoEgscnGDixJ8"> algebra word problem Google Form</a>. If you scored 9, this is optional.
 
 ---
 
