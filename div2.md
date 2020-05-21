@@ -26,6 +26,7 @@
 * <a href="https://www.mathplayground.com/algebra_puzzle.html">Algebra puzzle</a> - Solve (simple) systems of linear equations
 * <a href="https://www.mathplayground.com/ASB_JumpingAliens.html">Jumping Aliens</a> - Multiply terms with variables
 * <a href="https://www.mathplayground.com/ASB_MartianHoverboards.html">Martian Hoverboards</a> - Evaluate expressions
+* <a href="https://netgames.io/">Social games</a> - use logic and bluffing to win!
 
 
 <!--
