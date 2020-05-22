@@ -34,6 +34,7 @@ FYI if you're in a bind for time, focus on tabular and graphical first, then ver
 
 ### Challenges 
 
+* <a href="https://vchan2.github.io/Calculus/Projects/continuous_additive_functions.pdf"> Continuous additive functions challenge </a>
 * <a href="https://vchan2.github.io/Calculus/Projects/minimum_arc_length.pdf"> Minimum arc length challenge </a>
 * <a href="https://vchan2.github.io/Calculus/series.pdf"> Series challenge </a>
 * <a href="https://vchan2.github.io/Calculus/Forensics.pdf"> Forensics problem </a> and its <a href="https://vchan2.github.io/Calculus/Forensics_soln.pdf"> solution </a> (expired)
