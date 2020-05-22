@@ -1,14 +1,14 @@
 ### Updates
 * Tentative schedule:
   * Monday, May 25: 
-   * If you would like to learn about arc length of parametric functions, differentiation and integration of vector-valued functions, and area of polar curves, join my room. (Pre-req: understanding of arc lengths for standard functions, polar equations)
-   * If you would like to learn AP BC integration techniques (integration by parts, partial fractions), join Mr. Merrick's room.
-   * Otherwise, you have a work period to finish the "Continuous additive functions challenge" posted below. I will also be uploading another challenge for those who have finished this as well, which is optional.
-  * Tuesday, May 26: Everybody in my room; we will be learning inverse trig substitutions.
-  * Wednesday, May 27: COL; no math class.
-  * Thursday, May 28: Everybody in my room; we will play a game of some sort.
-  * Friday, May 29: Everybody in my room; we will tackle another calculus challenge.
-  * Remaining weeks will follow a similar format.
+    * If you would like to learn about arc length of parametric functions, differentiation and integration of vector-valued functions, and area of polar curves, join my room. (Pre-req: understanding of arc lengths for standard functions, polar equations)
+    * If you would like to learn AP BC integration techniques (integration by parts, partial fractions), join Mr. Merrick's room.
+    * Otherwise, you have a work period to finish the "Continuous additive functions challenge" posted below. I will also be uploading another challenge for those who have finished this as well, which is optional.
+   * Tuesday, May 26: Everybody in my room; we will be learning inverse trig substitutions.
+   * Wednesday, May 27: COL; no math class.
+   * Thursday, May 28: Everybody in my room; we will play a game of some sort.
+   * Friday, May 29: Everybody in my room; we will tackle another calculus challenge.
+   * Remaining weeks will follow a similar format.
 
 
 * <a href="https://vchan2.github.io/Calculus/Projects/continuous_additive_functions.pdf"> Continuous additive functions challenge </a> - due Thursday, May 28. I would like everyone to submit their own solution, though I encourage you to work together.
