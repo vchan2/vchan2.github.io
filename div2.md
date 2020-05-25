@@ -1,6 +1,6 @@
 # Division 2 Mathematics
 
-### Updates
+### Announcements
 
 * HW for Monday, May 25: You must work on the following 3 IXL units (this can count as part of your daily 25 minutes)
   * Grade 7: T.10
@@ -19,8 +19,7 @@
 * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwd1gGPLT06LTX-wfmoZQfu8dhYr0geGC0SXo51dXV_Qrw4g/viewform?usp=sf_link"> Let me know where you are at</a>: Complete this form at least once per week (Mondays) so I know where you are at in your book, and if you have any questions. You can also use this form if you have any **QUESTIONS**. This lets me know what topics we still need to explore. 
 
 ---
-
-### Links
+### Game links
 
 * <a href="https://www.mathplayground.com/deep_sea_math_mystery.html">Deep sea math mystery</a> - Solve (simple) systems of linear equations
 * <a href="https://www.mathplayground.com/algebra_puzzle.html">Algebra puzzle</a> - Solve (simple) systems of linear equations
@@ -28,6 +27,11 @@
 * <a href="https://www.mathplayground.com/ASB_MartianHoverboards.html">Martian Hoverboards</a> - Evaluate expressions
 * <a href="https://netgames.io/">Social games</a> - use logic and bluffing to win!
 
+---
+
+### Other links
+
+* <a href="https://www.mathplayground.com/deep_sea_math_mystery.html">Deep sea math mystery</a> - Solve (simple) systems of linear equations
 
 <!--
 For Tuesday, April 14: 
