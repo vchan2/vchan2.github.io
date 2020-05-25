@@ -31,7 +31,7 @@
 
 ### Other links
 
-* <a href="https://www.mathplayground.com/deep_sea_math_mystery.html">Deep sea math mystery</a> - Solve (simple) systems of linear equations
+* [Euler diagrams](div2/eulerdiagrams.md)
 
 <!--
 For Tuesday, April 14: 
