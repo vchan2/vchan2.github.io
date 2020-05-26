@@ -2,6 +2,8 @@
 
 ### Announcements
 
+* HW for Thursday, May 28: Have a draft of your <a href="https://vchan2.github.io/div2/My_Euler_diagram.pdf"> "My Euler Diagram"</a> ready to discuss.
+
 * HW for Monday, May 25: You must work on the following 3 IXL units (this can count as part of your daily 25 minutes)
   * Grade 7: T.10
   * Grade 8: W.12
