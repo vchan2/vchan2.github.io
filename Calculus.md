@@ -1,13 +1,13 @@
 ### Updates
 * Tentative schedule:
-  * Monday, May 25: 
-    * If you would like to learn about arc length of parametric functions, differentiation and integration of vector-valued functions, and area of polar curves, join my room. (Pre-req: understanding of arc lengths for standard functions, polar equations)
+  * Monday, June 1: 
+    * If you would like to learn about area of polar curves, join my room. (Pre-req: understanding of polar equations)
     * If you would like to learn AP BC integration techniques (integration by parts, partial fractions), join Mr. Merrick's room.
-    * Otherwise, you have a work period to finish the "Continuous additive functions challenge" posted below. I will also be uploading another challenge for those who have finished this as well, which is optional.
-   * Tuesday, May 26: Everybody in my room; we will be learning trigonometric integrals. <!--inverse trig stitutions.-->
-   * Wednesday, May 27: COL; no math class.
-   * Thursday, May 28: Everybody in my room; we will play a game of some sort.
-   * Friday, May 29: Everybody in my room; we will tackle another calculus challenge.
+    * Otherwise, you have a work period to finish the challegne (to be posted Friday)
+   * Tuesday, June 2: Everybody in my room; we will be finishing trigonometric integrals, and starting inverse trig substitutions. <!--inverse trig stitutions.-->
+   * Wednesday, June 3: COL; no math class.
+   * Thursday, June 4: Everybody in my room; we will play a game of some sort.
+   * Friday, June 5: COL; no math class. 
    * Remaining weeks will follow a similar format.
 
 
