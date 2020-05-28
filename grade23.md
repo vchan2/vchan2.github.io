@@ -26,5 +26,5 @@
 ---
 
 ### Challenges
-* <a href="https://vchan2.github.io/grade23/Venn_puzzler_math_version.pdf"> Venn Puzzler Challenge </a>
+* <a href="https://vchan2.github.io/grade23/Venn_puzzler_math_version.pdf"> Venn Puzzler Challenge</a>. Here is the <a href="https://vchan2.github.io/div2/Venn_puzzler_math_version_euler_diagrams.pdf"> page of all of the Euler diagrams</a>
 * <a href="https://MerrickMath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge</a> (expired)
