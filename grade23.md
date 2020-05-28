@@ -26,4 +26,5 @@
 ---
 
 ### Challenges
+* <a href="https://vchan2.github.io/grade23/Venn_puzzler_math_version.pdf"> Venn Puzzler Challenge </a>
 * <a href="https://MerrickMath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge</a> (expired)
