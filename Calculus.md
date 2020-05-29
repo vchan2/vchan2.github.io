@@ -41,6 +41,7 @@ FYI if you're in a bind for time, focus on tabular and graphical first, then ver
 
 ### Challenges 
 
+* <a href="https://merrickmath.github.io/Calculus/Projects/Paintoff.pdf"> Parametric Paint Off </a>
 * <a href="https://vchan2.github.io/Calculus/Projects/continuous_additive_functions.pdf"> Continuous additive functions challenge </a>
 * <a href="https://vchan2.github.io/Calculus/Projects/continuous_affine_functions.pdf"> Continuous affine functions challenge </a>
 * <a href="https://vchan2.github.io/Calculus/Projects/function_composition.pdf"> Function composition challenge </a>
