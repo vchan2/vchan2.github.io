@@ -2,7 +2,7 @@
 
 ### Announcements
 
-* ~~HW for Thursday, June 4: Have a draft of your <a href="https://vchan2.github.io/div2/My_Euler_diagram.pdf"> presentation for your "My Euler Diagram"</a> ready to discuss.
+* HW for Thursday, June 4: ~~Have a draft of your <a href="https://vchan2.github.io/div2/My_Euler_diagram.pdf"> presentation for your "My Euler Diagram"</a> ready to discuss.~~ In light of the difficulties some students are having, we will be postponing the presentations. Instead, have the next draft of your diagram ready. 
 
 * HW for Monday, June 1: 
   * Submit your 2nd draft for your <a href="https://forms.gle/pti4dA7giuVLzjDa6"> "My Euler Diagram" here</a>. Your first draft was what you brought to class today; the 2nd draft is your refinement after the weekend of working on it.
