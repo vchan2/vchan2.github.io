@@ -5,7 +5,7 @@
     * If you would like to learn AP BC integration techniques (integration by parts, partial fractions), join Mr. Merrick's room.
     * Otherwise, you have a work period to finish the challegne (to be posted Friday)
    * Tuesday, June 2: Everybody in my room; we will be finishing trigonometric integrals, and starting inverse trig substitutions. <!--inverse trig stitutions.-->
-   * Wednesday, June 3: COL; no math class.
+   * Wednesday, June 3: BC AP - area of polar curves continued, in my room for period 4.
    * Thursday, June 4: Everybody in my room; we will play a game of some sort.
    * Friday, June 5: COL; no math class. 
    * Remaining weeks will follow a similar format.
