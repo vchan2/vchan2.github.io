@@ -2,6 +2,9 @@
 
 ### Announcements
 
+* HW for Monday, June 8: 
+  * IXL - Grade 9: N.10
+  
 * HW for Thursday, June 4: ~~Have a draft of your <a href="https://vchan2.github.io/div2/My_Euler_diagram.pdf"> presentation for your "My Euler Diagram"</a> ready to discuss.~~ In light of the difficulties some students are having, we will be postponing the presentations. Instead, have the next draft of your diagram ready. 
 
 * HW for Monday, June 1: 
@@ -37,7 +40,6 @@
 * <a href="https://www.mathplayground.com/ASB_MartianHoverboards.html">Martian Hoverboards</a> - Evaluate expressions (play against others)
 * <a href="https://www.mathplayground.com/ASB_FourWheelFracas.html">Four Wheel Fracas</a> - Solve (very simple) algebra problems (play against others)
 * <a href="https://www.mathplayground.com/ASB_DirtBikeProportions.html">Dirt Bike Proportions</a> - Solve (very simple) algebra problems (play against others)
-
 * <a href="https://netgames.io/">Social games</a> - use logic and bluffing to win!
 
 ---
