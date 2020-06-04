@@ -33,8 +33,11 @@
 
 * <a href="https://www.mathplayground.com/deep_sea_math_mystery.html">Deep sea math mystery</a> - Solve (simple) systems of linear equations
 * <a href="https://www.mathplayground.com/algebra_puzzle.html">Algebra puzzle</a> - Solve (simple) systems of linear equations
-* <a href="https://www.mathplayground.com/ASB_JumpingAliens.html">Jumping Aliens</a> - Multiply terms with variables
-* <a href="https://www.mathplayground.com/ASB_MartianHoverboards.html">Martian Hoverboards</a> - Evaluate expressions
+* <a href="https://www.mathplayground.com/ASB_JumpingAliens.html">Jumping Aliens</a> - Multiply terms with variables (play against others)
+* <a href="https://www.mathplayground.com/ASB_MartianHoverboards.html">Martian Hoverboards</a> - Evaluate expressions (play against others)
+* <a href="https://www.mathplayground.com/ASB_FourWheelFracas.html">Four Wheel Fracas</a> - Solve (very simple) algebra problems (play against others)
+* <a href="https://www.mathplayground.com/ASB_DirtBikeProportions.html">Dirt Bike Proportions</a> - Solve (very simple) algebra problems (play against others)
+
 * <a href="https://netgames.io/">Social games</a> - use logic and bluffing to win!
 
 ---
