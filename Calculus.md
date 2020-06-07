@@ -1,13 +1,12 @@
 ### Updates
 * Tentative schedule:
   * Monday, June 1: 
-    * If you would like to learn about area of polar curves, join my room. (Pre-req: understanding of polar equations)
-    * If you would like to learn AP BC integration techniques (integration by parts, partial fractions), join Mr. Merrick's room.
-    * Otherwise, you have a work period to finish the challegne (to be posted Friday)
-   * Tuesday, June 2: Everybody in my room; we will be finishing trigonometric integrals, and starting inverse trig substitutions. <!--inverse trig stitutions.-->
-   * Wednesday, June 3: BC AP - area of polar curves continued, in my room for period 4.
-   * Thursday, June 4: Everybody in my room; we will play a game of some sort.
-   * Friday, June 5: COL; no math class. 
+    * My room: continuation of BC AP Calculus which was omitted from the 2020 exam.
+    * Mr. Merrick's room: continuation of BC AP Calculus which the AB students have not done yet.
+   * Tuesday, June 2: Everybody in my room; continuation of inverse trig substitutions. 
+   * Wednesday, June 3: continuation of BC AP Calculus which was omitted from the 2020 exam.
+   * Thursday, June 4: Friday schedule, we will go over the parametric paint-off challenge.
+   * Friday, June 5: no math class. 
    * Remaining weeks will follow a similar format.
 
 
