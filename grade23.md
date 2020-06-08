@@ -22,6 +22,7 @@
 * <a href="https://www.mathplayground.com/venn_puzzle.html"> Venn puzzle game</a> - Place the numbers in the correct part of the Venn diagram
 * <a href="https://www.mathplayground.com/ASB_GrandPrixMultiplication.html"> Grand Prix multiplication racing game</a> - Compete against up to 3 other players in a racing game. You can move faster by answering multiplication questions correctly.
 * <a href="http://plastelina.net/"> Plastelina</a> - Lots of online logic puzzles.
+* <a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=psafa&ProjectName=Numbers%20Game"> Arithmetic estimation </a> - Try to estimate the correct answer to land in a target.
 
 
 
