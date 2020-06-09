@@ -24,6 +24,7 @@
   * <a href="https://www.mathplayground.com/ASB_GrandPrixMultiplication.html"> Grand Prix multiplication racing game</a> - Compete against up to 3 other players in a racing game. You can move faster by answering multiplication questions correctly.
   * <a href="https://www.mathplayground.com/ASB_DragRaceDivision.html"> Drag Race division racing game</a> - Compete against up to 3 other players in a racing game. You can move faster by answering division questions correctly.
 * <a href="http://plastelina.net/"> Plastelina</a> - Lots of online logic puzzles.
+* <a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=psafa&ProjectName=Numbers%20Game"> Arithmetic estimation game </a> - Estimate what number fits in the equation in order to hit the target.
 
 <!--* <a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=psafa&ProjectName=Numbers%20Game"> Arithmetic estimation </a> - Try to estimate the correct answer to land in a target.-->
 
@@ -33,5 +34,6 @@
 ---
 
 ### Challenges
+* <a href="https://vincentchan02.wixsite.com/cosmospuzzle"> CoSMOS 2020 Challenge</a> 
 * <a href="https://vchan2.github.io/grade23/Venn_puzzler_math_version.pdf"> Venn Puzzler Challenge</a>. Here is the <a href="https://vchan2.github.io/div2/Venn_puzzler_math_version_euler_diagrams.pdf"> page of all of the Euler diagrams</a>
 * <a href="https://MerrickMath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge</a> (expired)
