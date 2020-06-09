@@ -2,6 +2,8 @@
 
 ### Announcements
 
+* HW for Thursday, June 10: Have a draft of your <a href="https://vchan2.github.io/div2/My_Euler_diagram.pdf"> presentation for your "My Euler Diagram"</a> ready to discuss.
+
 * HW for Monday, June 8: 
   * IXL - Grade 9: N.10
   
