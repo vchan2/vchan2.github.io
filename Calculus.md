@@ -4,14 +4,10 @@
     * My room: continuation of BC AP Calculus which was omitted from the 2020 exam (Unit 10: series).
     * Mr. Merrick's room: continuation of BC AP Calculus which the AB students have not done yet.
    * Tuesday, June 2: Everybody in my room; continuation of inverse trig substitutions. 
-   * Wednesday, June 3: continuation of BC AP Calculus which was omitted from the 2020 exam.
+   * Wednesday, June 3: continuation of BC AP Calculus which was omitted from the 2020 exam (Unit 10: series).
    * Thursday, June 4: Friday schedule, we will go over the parametric paint-off challenge.
    * Friday, June 5: no math class. 
    * Remaining weeks will follow a similar format.
-
-
-* <a href="https://vchan2.github.io/Calculus/Projects/continuous_additive_functions.pdf"> Continuous additive functions challenge </a> - due Thursday, May 28. I would like everyone to submit their own solution, though I encourage you to work together. <a href="https://forms.gle/Fx2NE8ivGDqpY9N37"> Submit here </a>
-
 
 ---
 
@@ -40,11 +36,12 @@ FYI if you're in a bind for time, focus on tabular and graphical first, then ver
 
 ### Challenges 
 
+* <a href="https://MerrickMath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge</a> (expired)
 * <a href="https://merrickmath.github.io/Calculus/Projects/Paintoff.pdf"> Parametric Paint Off </a>
-* <a href="https://vchan2.github.io/Calculus/Projects/continuous_additive_functions.pdf"> Continuous additive functions challenge </a>
-* <a href="https://vchan2.github.io/Calculus/Projects/continuous_affine_functions.pdf"> Continuous affine functions challenge </a>
-* <a href="https://vchan2.github.io/Calculus/Projects/function_composition.pdf"> Function composition challenge </a>
-* <a href="https://vchan2.github.io/Calculus/Projects/minimum_arc_length.pdf"> Minimum arc length challenge </a>
+* <a href="https://vchan2.github.io/Calculus/Projects/continuous_additive_functions.pdf"> Continuous additive functions challenge </a> (expired)
+* <a href="https://vchan2.github.io/Calculus/Projects/continuous_affine_functions.pdf"> Continuous affine functions challenge </a> (expired)
+* <a href="https://vchan2.github.io/Calculus/Projects/function_composition.pdf"> Function composition challenge </a> (expired)
+* <a href="https://vchan2.github.io/Calculus/Projects/minimum_arc_length.pdf"> Minimum arc length challenge </a> (expired)
 * <a href="https://vchan2.github.io/Calculus/series.pdf"> Series challenge </a>
 * <a href="https://vchan2.github.io/Calculus/Forensics.pdf"> Forensics problem </a> and its <a href="https://vchan2.github.io/Calculus/Forensics_soln.pdf"> solution </a> (expired)
 * <a href="https://MerrickMath.github.io/Calculus/Projects/PiazzaFun.pdf"> Piazza Fun </a> (expired)
