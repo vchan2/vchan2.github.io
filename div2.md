@@ -58,10 +58,11 @@ For Tuesday, April 14:
 ---
 
 ### Challenges
-* <a href="https://MerrickMath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge</a> (expired)
+* <a href="https://vincentchan02.wixsite.com/cosmospuzzle"> CoSMOS 2020 Challenge</a> 
 * <a href="https://vchan2.github.io/div2/Algebra_challenge.pdf"> Algebraic "Facts" Challenge</a>
 * <a href="https://vchan2.github.io/div2/equation_challenge.pdf"> Equation Challenge</a>
 * Do there exist k+1 consecutive (increasing) integers which sums to the sum of the next k consecutive integers?
+* <a href="https://MerrickMath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge</a> (expired)
 
 
 <!--
