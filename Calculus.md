@@ -36,7 +36,7 @@ FYI if you're in a bind for time, focus on tabular and graphical first, then ver
 
 ### Challenges 
 
-* <a href="https://MerrickMath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge</a> (expired)
+* <a href="https://vincentchan02.wixsite.com/cosmospuzzle"> CoSMOS 2020 Challenge</a> 
 * <a href="https://merrickmath.github.io/Calculus/Projects/Paintoff.pdf"> Parametric Paint Off </a>
 * <a href="https://vchan2.github.io/Calculus/Projects/continuous_additive_functions.pdf"> Continuous additive functions challenge </a> (expired)
 * <a href="https://vchan2.github.io/Calculus/Projects/continuous_affine_functions.pdf"> Continuous affine functions challenge </a> (expired)
