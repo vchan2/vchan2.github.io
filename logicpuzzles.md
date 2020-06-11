@@ -9,7 +9,7 @@
 * <a href="https://krazydad.com/inkies/"> Printable kenken puzzles from KrazyDad </a>
 * <a href="https://picture-enigmas.com/"> Online pixel puzzles from picma </a>
 * <a href="https://www.kakuros.com/"> Online Kakuro puzzles </a>
-
+* <a href="https://www.puzzle-loop.com/"> Online slitherlink puzzles </a>
 
 
 ---
