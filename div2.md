@@ -2,6 +2,8 @@
 
 ### Announcements
 
+* We will be holding presentations on Wednesday, June 17, and Thursday, June 18.
+
 * HW for Monday, June 15:
   * IXL - Grade 7: P.4 OR Grade 8: N.3
 
