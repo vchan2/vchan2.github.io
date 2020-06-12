@@ -1,12 +1,12 @@
 ### Updates
 * Tentative schedule:
-  * Monday, June 1: 
+  * Monday, June 15: 
     * My room: continuation of BC AP Calculus which was omitted from the 2020 exam (Unit 10: series).
     * Mr. Merrick's room: continuation of BC AP Calculus which the AB students have not done yet.
-   * Tuesday, June 2: Everybody in my room; continuation of inverse trig substitutions. 
-   * Wednesday, June 3: continuation of BC AP Calculus which was omitted from the 2020 exam (Unit 10: series).
-   * Thursday, June 4: Friday schedule, we will go over the parametric paint-off challenge.
-   * Friday, June 5: no math class. 
+   * Tuesday, June 16: Everybody in my room; continuation of inverse trig substitutions and possibly some hyperbolic trig or approximation of integration.
+   * Wednesday, June 17: continuation of BC AP Calculus which was omitted from the 2020 exam (Unit 10: series).
+   * Thursday, June 18: Game day.
+   * Friday, June 19: Challenge! (To be announced.)
    * Remaining weeks will follow a similar format.
 
 ---
