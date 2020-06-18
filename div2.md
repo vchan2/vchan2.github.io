@@ -2,7 +2,7 @@
 
 ### Announcements
 
-* HW for Monday, June 22: Questions 1 and 2 from the <a href="https://vchan2.github.io/div2/My_Euler_diagram.pdf"> Venn Diagram Word Problems</a> worksheet. 
+* HW for Monday, June 22: Questions 1 and 2 from the <a href="https://vchan2.github.io/div2/Venn_diagram_WS.pdf"> Venn Diagram Word Problems</a> worksheet. 
 
 * We will be holding presentations on Wednesday, June 17, and Thursday, June 18.
 
