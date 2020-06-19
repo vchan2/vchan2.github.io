@@ -35,6 +35,7 @@ FYI if you're in a bind for time, focus on tabular and graphical first, then ver
 
 ### Challenges 
 
+* <a href="https://merrickmath.github.io/Merrickmath.github.io-MasterChefCalc/"> MasterChef Calculus </a>
 * <a href="https://vincentchan02.wixsite.com/cosmospuzzle"> CoSMOS 2020 Challenge</a> 
 * <a href="https://merrickmath.github.io/Calculus/Projects/Paintoff.pdf"> Parametric Paint Off </a> (expired)
 * <a href="https://vchan2.github.io/Calculus/Projects/continuous_additive_functions.pdf"> Continuous additive functions challenge </a> (expired)
