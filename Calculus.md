@@ -1,13 +1,12 @@
 ### Updates
 * Tentative schedule:
-  * Monday, June 15: 
-    * My room: continuation of BC AP Calculus which was omitted from the 2020 exam (Unit 10: series).
-    * Mr. Merrick's room: continuation of BC AP Calculus which the AB students have not done yet.
-   * Tuesday, June 16: Everybody in my room; continuation of inverse trig substitutions and possibly some hyperbolic trig or approximation of integration.
-   * Wednesday, June 17: continuation of BC AP Calculus which was omitted from the 2020 exam (Unit 10: series).
-   * Thursday, June 18: Game day.
-   * Friday, June 19: Challenge! (To be announced.)
-   * Remaining weeks will follow a similar format.
+  * Monday, June 22: 
+    * My room: continuation of BC AP Calculus which was omitted from the 2020 exam (10.12 Lagrange Error Bound, 10.13 Radius and Interval of Convergence).
+    * Mr. Merrick's room: continuation of BC AP Calculus which the AB students have not done yet (Partial Fraction Decomposition.
+   * Tuesday, June 23: Everybody in my room; Approximate integration.
+   * Wednesday, June 24: continuation of BC AP Calculus which was omitted from the 2020 exam (Unit 10: series).
+   * Thursday, June 18: <a href="https://merrickmath.github.io/Merrickmath.github.io-MasterChefCalc/"> MasterChef Calculus </a> presentations.
+   * Friday, June 19: <a href="https://merrickmath.github.io/Merrickmath.github.io-MasterChefCalc/"> MasterChef Calculus </a> presentations if needed, or game otherwise.
 
 ---
 
