@@ -4,7 +4,7 @@
     * My room: continuation of BC AP Calculus which was omitted from the 2020 exam (10.12 Lagrange Error Bound, 10.13 Radius and Interval of Convergence).
     * Mr. Merrick's room: continuation of BC AP Calculus which the AB students have not done yet (Partial Fraction Decomposition.
    * Tuesday, June 23: Everybody in my room; Approximate integration.
-   * Wednesday, June 24: continuation of BC AP Calculus which was omitted from the 2020 exam (Unit 10: series).
+   * Wednesday, June 24: continuation of BC AP Calculus which was omitted from the 2020 exam (10.13 Radius and Interval of Convergence, applications of pwoer series ).
    * Thursday, June 18: <a href="https://merrickmath.github.io/Merrickmath.github.io-MasterChefCalc/"> MasterChef Calculus </a> presentations.
    * Friday, June 19: <a href="https://merrickmath.github.io/Merrickmath.github.io-MasterChefCalc/"> MasterChef Calculus </a> presentations if needed, or game otherwise.
 
@@ -35,6 +35,7 @@ FYI if you're in a bind for time, focus on tabular and graphical first, then ver
 
 ### Challenges 
 
+* <a href="https://vchan2.github.io/Calculus/TaylorSeries.pdf"> Taylor Series challenge </a>
 * <a href="https://merrickmath.github.io/Merrickmath.github.io-MasterChefCalc/"> MasterChef Calculus </a>
 * <a href="https://vincentchan02.wixsite.com/cosmospuzzle"> CoSMOS 2020 Challenge</a> 
 * <a href="https://merrickmath.github.io/Calculus/Projects/Paintoff.pdf"> Parametric Paint Off </a> (expired)
