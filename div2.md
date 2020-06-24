@@ -53,6 +53,7 @@
   * <a href="https://www.mathplayground.com/ASB_FourWheelFracas.html">Four Wheel Fracas</a> - Solve (very simple) algebra problems
   * <a href="https://www.mathplayground.com/ASB_DirtBikeProportions.html">Dirt Bike Proportions</a> - Solve (very simple) algebra problems
 * <a href="https://netgames.io/">Social games</a> - use logic and bluffing to win!
+* <a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=psafa&ProjectName=Numbers%20Game"> Arithmetic estimation game </a> - Estimate what number fits in the equation in order to hit the target.
 
 ---
 
