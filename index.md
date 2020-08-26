@@ -3,13 +3,13 @@
 ## Classes 
 
 ### Mathematics 
-* [Grade 2/3 Math](grade23.md)
-* [Division 2 Math](div2.md)
-* [AP Calculus](Calculus.md)
+* [Grade 2/3](grade23.md)
+* [Division 2](div2.md)
+* [Division 3/4 (Calculus)](2020Calculus.md)
 
 ---
 ### Electives 
-* [Logic puzzles](logicpuzzles.md)
+
 
 ---
 
@@ -17,7 +17,6 @@
 ## Challenges
 
 * <a href="https://vincentchan02.wixsite.com/cosmospuzzle"> CoSMOS 2020 Challenge</a> 
-* <a href="https://MerrickMath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge</a> 
 
 ---
 
