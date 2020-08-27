@@ -4,7 +4,7 @@
 
 ### Mathematics 
 * [Grade 2/3](2020gr23.md)
-* [Grade 5/6](2020gr4.md)
+* [Grade 4](2020gr4.md)
 * [Grade 5/6](2020gr56.md)
 * [Division 3/4 (Calculus)](2020Calculus.md)
 
