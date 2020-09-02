@@ -17,4 +17,9 @@
 
 ### Challenges 
 
+---
+
+### Logistics
+
+* <a href="https://vchan2.github.io/2020Calculus/Div%2034%20Course%20Outline%202020-21%20online.pdf"> Course outline </a>
 
