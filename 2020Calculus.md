@@ -1,6 +1,13 @@
 
 ### Updates
 
+Homework expectations: 30-40 minutes/day on average
+
+Homework for Thursday, September 3, 2020:
+  * Join the Schoology course.
+  * Sign the course outline, have your parents sign it, and bring it to class.
+  * Finish your "biography sheet" with the 4 questions.
+
 ---
 
 ### Online resources
