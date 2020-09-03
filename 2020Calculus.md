@@ -3,6 +3,11 @@
 
 Homework expectations: 30-40 minutes/day on average
 
+Homework for Wednesday, September 9, 2020:
+  * Do problems from section 1.1
+  * Read 1.2 and start trying some problems (you don't need to finish all of the problems)
+  * Extra: This is a long weekend - if you struggle with math or are worried about the material, *read ahead*! We will eventually be covering all of chapter 1.
+
 Homework for Thursday, September 3, 2020:
   * Join the Schoology course.
   * Sign the course outline, have your parents sign it, and bring it to class.
