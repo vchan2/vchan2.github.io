@@ -1,6 +1,8 @@
 
 ### Updates
 
+<b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in 2405. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others.
+
 Homework expectations: 30-40 minutes/day on average
 
 Homework for Wednesday, September 9, 2020:
