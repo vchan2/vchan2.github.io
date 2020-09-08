@@ -11,6 +11,8 @@
 ---
 ### Electives 
 
+* [Logic Puzzles](2020logicpuzzles.md)
+
 
 ---
 
