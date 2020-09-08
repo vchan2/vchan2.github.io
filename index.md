@@ -1,4 +1,4 @@
-"Talent is important, but how one develops and nurtures it is even more so." - Terence Tao
+*"Talent is important, but how one develops and nurtures it is even more so."* - Terence Tao
 
 ## Classes 
 
