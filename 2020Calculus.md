@@ -5,6 +5,11 @@
 
 Homework expectations: 30-40 minutes/day on average
 
+Homework for Thursday, September 10, 2020:
+  * Do problems from section 1.2
+  * Do problems 1-8 in the <a href="https://vchan2.github.io/2020Calculus/01%20-%20Limits%20at%20Infinity%20(Kuta).pdf"> "Limits at infinity" worksheet </a> (Q9 and on are optional for now). Solutions are on pages 3 and 4.
+  * Read section 1.3
+
 Homework for Wednesday, September 9, 2020:
   * Do problems from section 1.1
   * Read 1.2 and start trying some problems (you don't need to finish all of the problems)
