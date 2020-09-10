@@ -5,6 +5,10 @@
 
 Homework expectations: 30-40 minutes/day on average
 
+Homework for Monday, September 14, 2020:
+  * Do problems from 1.3. I realized that you actually *do* have all the information you need to answer every question, since we talked about what continuity is yesterday. What we haven't talked about is *types* of discontinuites, which the textbook doesn't ask for - next week, I will discuss this and ask you to go back to classify the discontinuites in 1.3.
+  * At this point, you have all the calculus knowledge necessary to answer questions from 1.4 and 1.5 as well, though you'll need to understand the interpretation of the formulas we've been using. You should at least read 1.4 and 1.5.
+
 Homework for Thursday, September 10, 2020:
   * Do problems from section 1.2
   * Do problems 1-8 in the <a href="https://vchan2.github.io/2020Calculus/01%20-%20Limits%20at%20Infinity%20(Kuta).pdf"> "Limits at infinity" worksheet </a> (Q9 and on are optional for now). Solutions are on pages 3 and 4.
