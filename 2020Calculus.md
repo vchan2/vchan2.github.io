@@ -20,6 +20,7 @@ You should be proficient in all material contained in Chapter 1 plus limits at i
   * Be able to compute limits of sequences (geometric, using the dividing by highest power trick, or identifying the behaviour in general)
   * Be able to compute the sum of a series, either using the limit of the partial sums or, in the special case of a geometric series, using the formula derived in class
   * Demonstrate converting a repeating decimal to a fraction in lowest terms
+  
 There will also be several bonus questions which test your understanding at a deeper level.
 
 Homework expectations: 30-40 minutes/day on average
