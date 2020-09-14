@@ -3,7 +3,31 @@
 
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in 2405. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others.
 
+Chapter 1 test is tentatively scheduled for Wednesday, September 23. 
+You should be proficient in all material contained in Chapter 1 plus limits at infinity. More precisely:
+  * Know how to compute a limit of a function both graphically and algebraically via 4 techniques:
+    * Technique 0: rational-like function evaluation
+    * Technique 1: factor and reduce
+    * Technique 2: rationalize
+    * Technique 3: (for x approaching +/- infinity) divide by highest power in the denominator
+  * Know how to compute a one-sided limit, including checking for signs in absolute values and values close to 0
+  * Know how to compute a limit via one-sided limits
+  * Determine where a function is continuous, or find values for constants which give continuity 
+  * Be able to identify the type of a discontinuity
+  * Be able to compute the slope and equation of a tangent line from first principles (i.e. the limit of the quotient definition)
+  * Know how to find velocity and other rates of change (i.e. applications of slope) from first principles
+  * Be able to compute the average rate of change or approximate the instantaneous rate of change from a table of values or graph
+  * Be able to compute limits of sequences (geometric, using the dividing by highest power trick, or identifying the behaviour in general)
+  * Be able to compute the sum of a series, either using the limit of the partial sums or, in the special case of a geometric series, using the formula derived in class
+  * Demonstrate converting a repeating decimal to a fraction in lowest terms
+There will also be several bonus questions which test your understanding at a deeper level.
+
 Homework expectations: 30-40 minutes/day on average
+
+Homework for Monday, September 14, 2020:
+  * Do problems from 1.4
+  * Start problems from 1.5
+  * Start reading 1.6 and 1.7 - the aim is to finish these by the end of Thursday's class.
 
 Homework for Monday, September 14, 2020:
   * Do problems from 1.3. I realized that you actually *do* have all the information you need to answer every question, since we talked about what continuity is yesterday. What we haven't talked about is *types* of discontinuites, which the textbook doesn't ask for - next week, I will discuss this and ask you to go back to classify the discontinuites in 1.3.
