@@ -1,7 +1,9 @@
 
 ### Updates
 
-<b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in 2405. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others.
+<b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in 2405. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
+
+<b>NOTICE:</b> I will be opening my zoom room in period 5 on Tuesdays if you have any questions.
 
 Chapter 1 test is tentatively scheduled for Wednesday, September 23. 
 You should be proficient in all material contained in Chapter 1 plus limits at infinity. More precisely:
