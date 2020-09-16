@@ -25,9 +25,16 @@ You should be proficient in all material contained in Chapter 1 plus limits at i
   
 There will also be several bonus questions which test your understanding at a deeper level.
 
+---
+
+### Honmework
+
 Homework expectations: 30-40 minutes/day on average
 
-Homework for Monday, September 14, 2020:
+Homework for Thursday, September 17, 2020:
+  * Do problems from 1.5 and 1.6 (If you don't finish 1.6, that's fine - the weekend is coming up. However, the more you do now, the more prepared you will be for asking questions on Friday in Captivating Calculus.)
+
+Homework for Wednesday, September 16, 2020:
   * Do problems from 1.4
   * Start problems from 1.5
   * Start reading 1.6 and 1.7 - the aim is to finish these by the end of Thursday's class.
