@@ -5,7 +5,7 @@
 
 <b>NOTICE:</b> I will be opening my zoom room in period 5 on Tuesdays if you have any questions.
 
-Chapter 1 test is tentatively scheduled for Wednesday, September 23. 
+Chapter 1 test is tentatively scheduled for Monday, September 28. 
 You should be proficient in all material contained in Chapter 1 plus limits at infinity. More precisely:
   * Know how to compute a limit of a function both graphically and algebraically via 4 techniques:
     * Technique 0: rational-like function evaluation
@@ -30,6 +30,11 @@ There will also be several bonus questions which test your understanding at a de
 ### Homework
 
 Homework expectations: 30-40 minutes/day on average
+
+Homework for Monday, September 21, 2020:
+  * Practice for your test! 
+  * If you want to get a head start on Chapter 2 material while *still practicing for your test*, try to find the slopes of tangent lines via the limit of the Newton quotient. 
+  * If you are worried about your grasp of Math 30 material and want to practice 1 thing that will help immensely in the weeks to come, re-visit your Math 30 notes on *composition of functions*. Know inside-and-out how to identify the functions which make up a compound function, since I will assume this as prerequisite knowledge and will not spend class time on it.
 
 Homework for Thursday, September 17, 2020:
   * Do problems from 1.5 and 1.6 (If you don't finish 1.6, that's fine - the weekend is coming up. However, the more you do now, the more prepared you will be for asking questions on Friday in Captivating Calculus.)
