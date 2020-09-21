@@ -5,8 +5,8 @@
 
 <b>NOTICE:</b> I will be opening my zoom room in period 5 on Tuesdays if you have any questions.
 
-Chapter 1 test is tentatively scheduled for Monday, September 28 - Saturday, October 3. 
-You should be proficient in all material contained in Chapter 1 plus limits at infinity. More precisely:
+Chapter 1 test is tentatively scheduled for <b>Monday, September 28 - Saturday, October 3</b> in the exam centre. 
+You should be proficient in all material contained in Chapter 1 plus limits at infinity and types of discontinuities. More precisely:
   * Know how to compute a limit of a function both graphically and algebraically via 4 techniques:
     * Technique 0: rational-like function evaluation
     * Technique 1: factor and reduce
