@@ -5,7 +5,7 @@
 
 <b>NOTICE:</b> I will be opening my zoom room in period 5 on Tuesdays if you have any questions.
 
-Chapter 1 test is tentatively scheduled for Monday, September 28. 
+Chapter 1 test is tentatively scheduled for Monday, September 28 - Saturday, October 3. 
 You should be proficient in all material contained in Chapter 1 plus limits at infinity. More precisely:
   * Know how to compute a limit of a function both graphically and algebraically via 4 techniques:
     * Technique 0: rational-like function evaluation
@@ -30,6 +30,12 @@ There will also be several bonus questions which test your understanding at a de
 ### Homework
 
 Homework expectations: 30-40 minutes/day on average
+
+Homework for Wednesday, September 23, 2020:
+  * Practice for your test! 
+  * Focus especially on things you did poorly on today. Maybe it was finding discontinuities of a piecewise function, maybe it was the limit techniques, whatever.
+  * Finish 2.1 except for Q2, 3, 13, 16 (these require more graphical understanding, and while you know how to do it by now, I haven't done explicit examples in class yet).
+  * I'm going to say it again: if you struggled with composition of funtions in math 30, any additional time you have should be spent on re-learning how to identify compositions and what the components are.
 
 Homework for Monday, September 21, 2020:
   * Practice for your test! 
