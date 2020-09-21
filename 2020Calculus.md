@@ -25,6 +25,12 @@ You should be proficient in all material contained in Chapter 1 plus limits at i
   
 There will also be several bonus questions which test your understanding at a deeper level.
 
+Hours are:
+  * Monday 4PM-7PM
+  * Thursday 4PM-7PM
+  * Saturday 11AM-2PM
+I will not be answering questions regarding Chapter 1 starting Monday, September 28 at 4PM, treating it as if the exam has started for everyone. This also means that you are not to discuss any aspects of the test with anyone until after Saturday at 2PM, in order to maintain integrity of the exam. Please let me know ASAP if you cannot write at one of these times, and we will have to make alternate arrangements (such as during class).
+
 ---
 
 ### Homework
