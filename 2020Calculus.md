@@ -88,6 +88,9 @@ Homework for Thursday, September 3, 2020:
 
 ### Practice problems
 
+* <a href="https://vchan2.github.io/2020Calculus/Mini-math_Div3:4.pdf"> Mini-math for September 21 </a>
+
+
 ---
 
 ### Challenges 
