@@ -1,3 +1,12 @@
+Quick links
+
+[Updates](#updates)
+[Homework](#homework)
+[Online resources](#online-resources)
+[Practice problems](#practice-problems)
+[Challenges](#challenges)
+
+
 
 ### Updates
 
