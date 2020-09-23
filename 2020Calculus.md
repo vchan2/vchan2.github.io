@@ -1,10 +1,10 @@
 Quick links
 
-[Updates](#updates)
-[Homework](#homework)
-[Online resources](#online-resources)
-[Practice problems](#practice-problems)
-[Challenges](#challenges)
+  * [Updates](#updates)
+  * [Homework](#homework)
+  * [Online resources](#online-resources)
+  * [Practice problems](#practice-problems)
+  * [Challenges](#challenges)
 
 
 
@@ -100,6 +100,8 @@ Homework for Thursday, September 3, 2020:
 * <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
 * <a href="https://www.wolframalpha.com/"> Online calculator (WolframAlpha) </a>
 * <a href="https://www.desmos.com/"> Online graphing program (Desmos) </a>
+
+---
 
 ### Practice problems
 
