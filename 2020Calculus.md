@@ -47,6 +47,14 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 30-40 minutes/day on average
 
+Homework for Wednesday, September 30, 2020:
+  * Do problems from 2.2 and 2.3. 
+  
+Homework for Monday, September 28, 2020:
+  * Practice for your test! 
+  * Read 2.2 and 2.3. 
+  * Complete both Desmos "Card Sort: Derivative Match" and "Sketchy Derivatives" activities
+  
 Homework for Thursday, September 24, 2020:
   * Practice for your test! 
   * Finish the rest of 2.1. 
