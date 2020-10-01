@@ -108,6 +108,8 @@ Homework for Thursday, September 3, 2020:
 * <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
 * <a href="https://www.wolframalpha.com/"> Online calculator (WolframAlpha) </a>
 * <a href="https://www.desmos.com/"> Online graphing program (Desmos) </a>
+* <a href="http://webspace.ship.edu/msrenault/GeoGebraCalculus/derivative_intuitive_chain_rule.html"> Interactive visualization of the Chain Rule </a>
+
 
 ---
 
