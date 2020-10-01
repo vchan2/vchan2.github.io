@@ -13,7 +13,8 @@
 
 Logic puzzles
    * <a href="https://www.ahapuzzles.com/logic/logic-puzzles/basic-1/"> Basic 1 </a>
-   * <a href="https://www.ahapuzzles.com/logic/logic-puzzles/a-bargain/"> A Bargain </a>    * <a href="https://www.ahapuzzles.com/logic/logic-puzzles/a-michigan-adventure/"> A Michigan Adventure </a>
+   * <a href="https://www.ahapuzzles.com/logic/logic-puzzles/a-bargain/"> A Bargain </a>    
+   * <a href="https://www.ahapuzzles.com/logic/logic-puzzles/a-michigan-adventure/"> A Michigan Adventure </a>
 
 ---
 
