@@ -10,6 +10,11 @@
 * <a href="https://krazydad.com/starbattle/"> Printable star battle puzzles from krazydad (same puzzles as above) </a>
 
 
+Logic puzzles
+   * <a href="https://www.ahapuzzles.com/logic/logic-puzzles/basic-1/"> Basic 1 </a>
+   * <a href="https://www.ahapuzzles.com/logic/logic-puzzles/a-bargain/"> A Bargain </a>    
+   * <a href="https://www.ahapuzzles.com/logic/logic-puzzles/a-michigan-adventure/"> A Michigan Adventure </a>
+
 
 ---
 
