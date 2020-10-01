@@ -14,7 +14,7 @@ Quick links
 
 <b>NOTICE:</b> I will be opening my zoom room in period 5 on Tuesdays if you have any questions.
 
-Chapter 1 test is tentatively scheduled for <b>Monday, September 28 - Saturday, October 3</b> in the exam centre. 
+Chapter 1 test is scheduled for <b>Monday, September 28 - Saturday, October 3</b> in the exam centre. 
 You should be proficient in all material contained in Chapter 1 plus limits at infinity and types of discontinuities. More precisely:
   * Know how to compute a limit of a function both graphically and algebraically via 4 techniques:
     * Technique 0: rational-like function evaluation
@@ -47,6 +47,13 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 30-40 minutes/day on average
 
+Homework for Monday, October 5, 2020:
+  * Do problems from 2.6.
+  * Exercise: Find (d/dx)(f/g) by writing f/g as f\*g^{-1}, then using product rule, chain rule, and power rule. This will yield the "quotient rule," which we skipped.
+  
+Homework for Thursday, October 1, 2020:
+  * Do problems from 2.4.
+  
 Homework for Wednesday, September 30, 2020:
   * Do problems from 2.2 and 2.3. 
   
