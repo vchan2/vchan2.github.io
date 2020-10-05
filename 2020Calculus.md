@@ -14,6 +14,29 @@ Quick links
 
 <b>NOTICE:</b> I will be opening my zoom room in period 5 on Tuesdays if you have any questions.
 
+Chapter 2 test is tentatively scheduled for <b>Monday, October 19 - Saturday, October 24</b> in the exam centre. 
+You should be proficient in all material contained in Chapter 2. More precisely:
+
+  * Be able to compute a derivative from first principles.
+  * Be able to approximate the value of a derivative from either a table or graph.
+  * Be able to sketch the derivative of a function given a graph of the function and vice versa, the graph of a function given the derivative.
+  * Be able to apply the various derivative rules: sum/difference rule, constant multiple rule, power rule, product rule, quotient rule, chain rule (this is of course the vast majority of the test, either directly or indirectly)
+    * Note: This is true both for given functions as well as given a table of values for f(x), g(x), f'(x), g'(x).
+  * Be able to use derivatives to find the equation of tangent/normal lines with a given slope and through a point or parallel/perpendicular to given lines.
+  * Be able to compute dy/dx implicitly, and to find the slope of the tangent to an implicit curve at a point.
+  * Be able to compute higher-order derivatives.
+  * Be able to compute higher-order implicit derivatives.
+
+There will also be several bonus questions which test your understanding at a deeper level.
+
+Hours are:
+  * Monday, October 19 28, 4PM-7PM
+  * Thursday, October 22, 4PM-7PM
+  * Saturday, October 24, 11AM-2PM
+  
+I will not be answering questions regarding Chapter 2 starting Monday, October 19 at 4PM, treating it as if the exam has started for everyone. This also means that you are not to discuss any aspects of the test with anyone until after Saturday at 2PM, in order to maintain integrity of the exam. Please let me know ASAP if you cannot write at one of these times, and we will have to make alternate arrangements (such as during class).
+
+<!--
 Chapter 1 test is scheduled for <b>Monday, September 28 - Saturday, October 3</b> in the exam centre. 
 You should be proficient in all material contained in Chapter 1 plus limits at infinity and types of discontinuities. More precisely:
   * Know how to compute a limit of a function both graphically and algebraically via 4 techniques:
@@ -31,21 +54,26 @@ You should be proficient in all material contained in Chapter 1 plus limits at i
   * Be able to compute limits of sequences (geometric, using the dividing by highest power trick, or identifying the behaviour in general)
   * Be able to compute the sum of a series, either using the limit of the partial sums or, in the special case of a geometric series, using the formula derived in class
   * Demonstrate converting a repeating decimal to a fraction in lowest terms
-  
 There will also be several bonus questions which test your understanding at a deeper level.
+-->
 
+<!--
 Hours are:
   * Monday, September 28, 4PM-7PM
   * Thursday, October 1, 4PM-7PM
   * Saturday, October 3, 11AM-2PM
-  
 I will not be answering questions regarding Chapter 1 starting Monday, September 28 at 4PM, treating it as if the exam has started for everyone. This also means that you are not to discuss any aspects of the test with anyone until after Saturday at 2PM, in order to maintain integrity of the exam. Please let me know ASAP if you cannot write at one of these times, and we will have to make alternate arrangements (such as during class).
+-->
 
 ---
 
 ### Homework
 
 Homework expectations: 30-40 minutes/day on average
+
+Homework for Wednesday, October 7, 2020:
+  * Do problems from 2.5.
+  * Read 2.6 and 2.7.
 
 Homework for Monday, October 5, 2020:
   * Do problems from 2.6.
