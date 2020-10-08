@@ -71,6 +71,15 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 30-40 minutes/day on average
 
+Homework for Wednesday, October 14:
+  * Do problemns from 2.6, 2.7, 2.8, 2.9.
+  * Reflect on your Chapter 1 test and write down:
+    * Issues you may have had (not understanding something, not writing enough proof, calculation errors, etc) (If you did well, reflect on why you were successful)
+    * What you will do in the future to prepare for tests
+
+Homework for Thursday, October 8, 2020:
+  * Do problems from 2.6.
+
 Homework for Wednesday, October 7, 2020:
   * Do problems from 2.5.
   * Read 2.6 and 2.7.
