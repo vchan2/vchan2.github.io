@@ -71,77 +71,14 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 30-40 minutes/day on average
 
+Homework for Thursday, October 15:
+  * Practice for your Chapter 2 test!
+
 Homework for Wednesday, October 14:
   * Do problems from 2.6, 2.7, 2.8, 2.9.
   * Reflect on your Chapter 1 test and write down:
     * Issues you may have had (not understanding something, not writing enough proof, calculation errors, etc) (If you did well, reflect on why you were successful)
     * What you will do in the future to prepare for tests
-
-Homework for Thursday, October 8, 2020:
-  * Do problems from 2.6.
-
-Homework for Wednesday, October 7, 2020:
-  * Do problems from 2.5.
-  * Read 2.6 and 2.7.
-
-Homework for Monday, October 5, 2020:
-  * Do problems from 2.6.
-  * Exercise: Find (d/dx)(f/g) by writing f/g as f\*g^{-1}, then using product rule, chain rule, and power rule. This will yield the "quotient rule," which we skipped.
-  
-Homework for Thursday, October 1, 2020:
-  * Do problems from 2.4.
-  
-Homework for Wednesday, September 30, 2020:
-  * Do problems from 2.2 and 2.3. 
-  
-Homework for Monday, September 28, 2020:
-  * Practice for your test! 
-  * Read 2.2 and 2.3. 
-  * Complete both Desmos "Card Sort: Derivative Match" and "Sketchy Derivatives" activities
-  
-Homework for Thursday, September 24, 2020:
-  * Practice for your test! 
-  * Finish the rest of 2.1. 
-  * Finish the Desmos "Card Sort: Derivative Match" activity from class
-  * Complete the Desmos "Sketchy Derivatives" activity
-  
-Homework for Wednesday, September 23, 2020:
-  * Practice for your test! 
-  * Focus especially on things you did poorly on today. Maybe it was finding discontinuities of a piecewise function, maybe it was the limit techniques, whatever.
-  * Finish 2.1 except for Q2, 3, 13, 16 (these require more graphical understanding, and while you know how to do it by now, I haven't done explicit examples in class yet).
-  * I'm going to say it again: if you struggled with composition of funtions in math 30, any additional time you have should be spent on re-learning how to identify compositions and what the components are.
-
-Homework for Monday, September 21, 2020:
-  * Practice for your test! 
-  * If you want to get a head start on Chapter 2 material while *still practicing for your test*, try to find the slopes of tangent lines via the limit of the Newton quotient. 
-  * If you are worried about your grasp of Math 30 material and want to practice 1 thing that will help immensely in the weeks to come, re-visit your Math 30 notes on *composition of functions*. Know inside-and-out how to identify the functions which make up a compound function, since I will assume this as prerequisite knowledge and will not spend class time on it.
-
-Homework for Thursday, September 17, 2020:
-  * Do problems from 1.5 and 1.6 (If you don't finish 1.6, that's fine - the weekend is coming up. However, the more you do now, the more prepared you will be for asking questions on Friday in Captivating Calculus.)
-
-Homework for Wednesday, September 16, 2020:
-  * Do problems from 1.4
-  * Start problems from 1.5
-  * Start reading 1.6 and 1.7 - the aim is to finish these by the end of Thursday's class.
-
-Homework for Monday, September 14, 2020:
-  * Do problems from 1.3. I realized that you actually *do* have all the information you need to answer every question, since we talked about what continuity is yesterday. What we haven't talked about is *types* of discontinuites, which the textbook doesn't ask for - next week, I will discuss this and ask you to go back to classify the discontinuites in 1.3.
-  * At this point, you have all the calculus knowledge necessary to answer questions from 1.4 and 1.5 as well, though you'll need to understand the interpretation of the formulas we've been using. You should at least read 1.4 and 1.5.
-
-Homework for Thursday, September 10, 2020:
-  * Do problems from section 1.2
-  * Do problems 1-8 in the <a href="https://vchan2.github.io/2020Calculus/01%20-%20Limits%20at%20Infinity%20(Kuta).pdf"> "Limits at infinity" worksheet </a> (Q9 and on are optional for now). Solutions are on pages 3 and 4.
-  * Read section 1.3
-
-Homework for Wednesday, September 9, 2020:
-  * Do problems from section 1.1
-  * Read 1.2 and start trying some problems (you don't need to finish all of the problems)
-  * Extra: This is a long weekend - if you struggle with math or are worried about the material, *read ahead*! We will eventually be covering all of chapter 1.
-
-Homework for Thursday, September 3, 2020:
-  * Join the Schoology course.
-  * Sign the course outline, have your parents sign it, and bring it to class.
-  * Finish your "biography sheet" with the 4 questions.
 
 ---
 
