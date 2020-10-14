@@ -96,7 +96,10 @@ Homework for Wednesday, October 14:
 ### Practice problems
 
 * Mini-maths
-  * <a href="https://vchan2.github.io/2020Calculus/Mini-math_Div3:4.pdf"> Mini-math for September 21 </a>
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_21.pdf"> Mini-math for September 21 (limits) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_21_sol.pdf"> Solution </a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf"> Solution </a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_05.pdf"> Mini-math for October 5 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_05_sol.pdf"> Solution </a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_14.pdf"> Mini-math for October 14 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_14_sol.pdf"> Solution </a>)
 * <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
 * <a href="https://www.symbolab.com/practice/derivatives-practice"> Practice problems for derivatives </a>
 * <a href="https://homepages.bluffton.edu/~nesterd/apps/derivs.html"> Practice problems for derivatives </a> (Most of the time, these functions are annoying to differentiate simply because of the algebra and will not require differentiation techniques, but sometimes you get good questions randomly. For Chapter 2 test, remove all additional functions)
