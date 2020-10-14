@@ -86,7 +86,6 @@ Homework for Wednesday, October 14:
 
 * <a href="https://www.youtube.com/watch?v=WUvTyaaNkzM"> The Essence of Calculus YouTube series </a> (brought to you by <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"> 3 Blue 1 Brown</a>)
 * <a href="https://www.khanacademy.org/math/differential-calculus"> Differential Calculus course (Khan Academy) </a>
-* <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
 * <a href="https://www.wolframalpha.com/"> Online calculator (WolframAlpha) </a>
 * <a href="https://www.desmos.com/"> Online graphing program (Desmos) </a>
 * <a href="http://webspace.ship.edu/msrenault/GeoGebraCalculus/derivative_intuitive_chain_rule.html"> Interactive visualization of the Chain Rule </a>
@@ -96,7 +95,9 @@ Homework for Wednesday, October 14:
 
 ### Practice problems
 
-* <a href="https://vchan2.github.io/2020Calculus/Mini-math_Div3:4.pdf"> Mini-math for September 21 </a>
+* Mini-maths
+  * <a href="https://vchan2.github.io/2020Calculus/Mini-math_Div3:4.pdf"> Mini-math for September 21 </a>
+* <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
 * <a href="https://www.symbolab.com/practice/derivatives-practice"> Practice problems for derivatives </a>
 * <a href="https://homepages.bluffton.edu/~nesterd/apps/derivs.html"> Practice problems for derivatives </a> (Most of the time, these functions are annoying to differentiate simply because of the algebra and will not require differentiation techniques, but sometimes you get good questions randomly. For Chapter 2 test, remove all additional functions)
 
