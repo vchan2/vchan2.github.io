@@ -160,7 +160,7 @@ Homework for Thursday, September 3, 2020:
 ### Practice problems
 
 * <a href="https://vchan2.github.io/2020Calculus/Mini-math_Div3:4.pdf"> Mini-math for September 21 </a>
-
+* <a href="https://www.symbolab.com/practice/derivatives-practice"> Practice problems for derivatives </a>
 
 ---
 
@@ -171,6 +171,7 @@ Homework for Thursday, September 3, 2020:
 * <a href="https://vchan2.github.io/2020Calculus/02Continuous_nowhere.pdf"> Continuous nowhere </a> - Does there exist a function which is continuous nowhere?
 * <a href="https://vchan2.github.io/2020Calculus/03Continuous_on_irrationals.pdf"> Continuous on the irrationals </a> - Does there exist a function which is continuous only on the irrationals?
 * <a href="https://vchan2.github.io/2020Calculus/04Continuous_on_rationals.pdf"> Continuous on the rationals </a> - Does there exist a function which is continuous only on the rationals?
+* <a href="https://vchan2.github.io/2020Calculus/05Continuous_but_not_differentiable.pdf"> Continuous but not differentiable </a> - Does there exist a function which is continuous everywhere but differentiable nowhere?
 
 
 ---
