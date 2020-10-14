@@ -161,6 +161,7 @@ Homework for Thursday, September 3, 2020:
 
 * <a href="https://vchan2.github.io/2020Calculus/Mini-math_Div3:4.pdf"> Mini-math for September 21 </a>
 * <a href="https://www.symbolab.com/practice/derivatives-practice"> Practice problems for derivatives </a>
+* <a href="https://homepages.bluffton.edu/~nesterd/apps/derivs.html"> Practice problems for derivatives </a> (Most of the time, these functions are annoying to differentiate simply because of the algebra and will not require differentiation techniques, but sometimes you get good questions randomly. For Chapter 2 test, remove all additional functions)
 
 ---
 
