@@ -106,6 +106,16 @@ Homework for Wednesday, October 14:
   * <a href="https://www.symbolab.com/practice/derivatives-practice"> Generator for practice problems</a>
   * <a href="https://homepages.bluffton.edu/~nesterd/apps/derivs.html"> Generator for practice problems</a> (Most of the time, these functions are annoying to differentiate simply because of the algebra and will not require differentiation techniques, but sometimes you get good questions randomly. For Chapter 2 test, remove all additional functions)
   * <a href="https://vchan2.github.io/2020Calculus/practice_derivatives.pdf"> A collection of 43 multiple-choice questions</a>
+    * Q3: Option A should read "h \to 0", not "a \to 0" under the limit.
+    * Q11: This is not a great question, but is correct if you assume the scale is exactly the same as above. You need to have good eyes! (or a ruler...) If I had this on a test, I would put the graph of f on the same axes so you can directly compare them.
+    * Q12: This is beyond the class material (and is flawed - none of the choices are correct).
+    * Q14: Come see me if you need an answer.
+    * Q16, Q18: Requires a calculator - ignore for the purposes of the test, but try it out to test your understanding.
+    * Q19: Should read df/dx, not dy/dx (or it shoud say y = ... rather than f(x) = ...)
+    * Q29: Options A and C are identical.
+    * Q31: Notation: D_x means d/dx, and D_x^2 means d^2/dx^2.
+    * Q33: This is (algebraically) challenging, and has several answers (one which uses the original formula to simplify, and one which does not - both versions are valid in my mind).
+    * Q42, Q43: These questions are part of Chapter 3, not Chapter 2.
 
 ---
 
