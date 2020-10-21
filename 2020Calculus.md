@@ -71,6 +71,14 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 30-40 minutes/day on average
 
+Homework for Thursday, Oct. 22:
+  * Practice for your Chapter 2 test! Doing a lot of chain rule and implicit differentiation is great practice for Chapter 3 anyway.
+  * Read 3.5.
+
+Homework for Wednesday, Oct. 21:
+  * Practice for your Chapter 2 test! Hint: Chain rule will be heavily featured...
+  * Do problems from 3.1 and 3.2.
+
 Homework for Thursday, October 15:
   * Practice for your Chapter 2 test!
 
