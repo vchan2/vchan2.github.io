@@ -14,7 +14,7 @@ Quick links
 
 <b>NOTICE:</b> I will be opening my zoom room in period 5 on Tuesdays if you have any questions.
 
-Chapter 2 test is scheduled for <b>Thursday, October 22 - Monday, October 26</b> in the exam centre. 
+Chapter 2 test is scheduled for <b>Thursday, October 22 - Thursday, October 29</b> in the exam centre. 
 You should be proficient in all material contained in Chapter 2. More precisely:
 
   * Be able to compute a derivative from first principles.
@@ -33,6 +33,7 @@ Hours are:
   * Thursday, October 22, 4PM-7PM
   * Saturday, October 24, 11AM-2PM
   * Monday, October 26, 4PM-7PM
+  * Thursday, October 29, 4PM-7PM
   
 I will not be answering questions regarding Chapter 2 starting Thursday, October 22 at 4PM, treating it as if the exam has started for everyone. This also means that you are not to discuss any aspects of the test with anyone until after Monday at 7PM, in order to maintain integrity of the exam. Please let me know ASAP if you cannot write at one of these times, and we will have to make alternate arrangements (such as during class).
 
