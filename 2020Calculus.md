@@ -14,6 +14,8 @@ Quick links
 
 <b>NOTICE:</b> I will be opening my zoom room in period 5 on Tuesdays if you have any questions.
 
+<b>NOTICE:</b> Since no one will be writing the Ch 2 test tonight, I will be changing the date to Sat, Oct 24 - Thur, Oct. 29. This means that I will be available for help tomorrow during period 5.
+
 Chapter 2 test is scheduled for <b>Saturday, October 24 - Thursday, October 29</b> in the exam centre. 
 You should be proficient in all material contained in Chapter 2. More precisely:
 
