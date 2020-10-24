@@ -110,6 +110,8 @@ Homework for Wednesday, October 14:
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf"> Solution </a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_05.pdf"> Mini-math for October 5 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_05_sol.pdf"> Solution </a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_14.pdf"> Mini-math for October 14 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_14_sol.pdf"> Solution </a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_19.pdf"> Mini-math for October 19 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_19_sol.pdf"> Solution </a>)
+
 * <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
 
 * Derivatives
