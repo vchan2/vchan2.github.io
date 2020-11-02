@@ -14,11 +14,9 @@ Quick links
 
 <b>NOTICE:</b> I will be opening my zoom room in period 5 on Tuesdays if you have any questions.
 
-<b>NOTICE:</b> Please come to class on Monday with a calculator. You may want to use it for your mini-math.
-
+<!--
 Chapter 2 test is scheduled for <b>Saturday, October 24 - Thursday, October 29</b> in the exam centre. 
 You should be proficient in all material contained in Chapter 2. More precisely:
-
   * Be able to compute a derivative from first principles.
   * Be able to approximate the value of a derivative from either a table or graph.
   * Be able to sketch the derivative of a function given a graph of the function and vice versa, the graph of a function given the derivative.
@@ -28,15 +26,13 @@ You should be proficient in all material contained in Chapter 2. More precisely:
   * Be able to compute dy/dx implicitly, and to find the slope of the tangent to an implicit curve at a point.
   * Be able to compute higher-order derivatives.
   * Be able to compute higher-order implicit derivatives.
-
 There will also be several bonus questions which test your understanding at a deeper level.
-
 Hours are:
   * Saturday, October 24, 11AM-2PM
   * Monday, October 26, 4PM-7PM
   * Thursday, October 29, 4PM-7PM
-  
 I will not be answering questions regarding Chapter 2 starting Thursday, October 22 at 4PM, treating it as if the exam has started for everyone. This also means that you are not to discuss any aspects of the test with anyone until after Monday at 7PM, in order to maintain integrity of the exam. Please let me know ASAP if you cannot write at one of these times, and we will have to make alternate arrangements (such as during class).
+-->
 
 <!--
 Chapter 1 test is scheduled for <b>Monday, September 28 - Saturday, October 3</b> in the exam centre. 
@@ -72,6 +68,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 ### Homework
 
 Homework expectations: 30-40 minutes/day on average
+
+Homework for Wednesday, Nov. 4:
+  * Do problems from 4.1.
 
 Homework for Monday, Oct. 26:
   * Do problems from 3.5.
