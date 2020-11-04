@@ -14,6 +14,15 @@ Quick links
 
 <b>NOTICE:</b> I will be opening my zoom room in period 5 on Tuesdays if you have any questions.
 
+Chapter 3 test tentatively scheduled for Thursday, Nov. 19 - Monday, Nov. 23. Note that the test is designed to be completed in 45 min, so it's a short one; it will only be weighted half as much as Chapter 1 or 2.
+
+You should be proficient in all material covered in Chapter 3 (sections 1, 2, 5). More precisely:
+  * Be able to determine the velocity and acceleration of a particle moving in a straight-line given its position/displacement function as well as compute the value of the velocity or acceleration at particular times.
+  * Be able to determine when a particle is at rest as well as when it is moving in the positive or negative direction.
+  * Find the total distance travelled by a particle within a specified amount of time.
+  * Find rates of change in contexts other than motion
+  * Be able to solve related rates problems (you should know standard formulas for area/volume and perimeter/surface area, and be able to use simple geometry such as similarity and Pythagorean Theorem)
+
 <!--
 Chapter 2 test is scheduled for <b>Saturday, October 24 - Thursday, October 29</b> in the exam centre. 
 You should be proficient in all material contained in Chapter 2. More precisely:
