@@ -69,6 +69,13 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 30-40 minutes/day on average
 
+Homework for Monday, Nov. 16 (over the break):
+  * Do problems from 4.2 (should take you 1 day)
+  * Reflect on your Chapter 2 test and write down:
+    * Issues you may have had (not understanding something, not writing enough proof, calculation errors, etc) (If you did well, reflect on why you were successful)
+    * What you will do in the future to prepare for tests
+    * Compare with your reflection following Chapter 1: Did you meet your goals? Did you follow through with what you said you would do?
+
 Homework for Wednesday, Nov. 4:
   * Do problems from 4.1.
 
