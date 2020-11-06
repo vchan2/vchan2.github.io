@@ -88,25 +88,7 @@ Homework for Monday, Nov. 16 (over the break):
 Homework for Wednesday, Nov. 4:
   * Do problems from 4.1.
 
-Homework for Monday, Oct. 26:
-  * Do problems from 3.5.
 
-Homework for Thursday, Oct. 22:
-  * Practice for your Chapter 2 test! Doing a lot of chain rule and implicit differentiation is great practice for Chapter 3 anyway.
-  * Read 3.5.
-
-Homework for Wednesday, Oct. 21:
-  * Practice for your Chapter 2 test! Hint: Chain rule will be heavily featured...
-  * Do problems from 3.1 and 3.2.
-
-Homework for Thursday, October 15:
-  * Practice for your Chapter 2 test!
-
-Homework for Wednesday, October 14:
-  * Do problems from 2.6, 2.7, 2.8, 2.9.
-  * Reflect on your Chapter 1 test and write down:
-    * Issues you may have had (not understanding something, not writing enough proof, calculation errors, etc) (If you did well, reflect on why you were successful)
-    * What you will do in the future to prepare for tests
 
 ---
 
