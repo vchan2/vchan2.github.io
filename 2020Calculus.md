@@ -12,7 +12,7 @@ Quick links
 
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in 2405. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
-<b>NOTICE:</b> I will be opening my zoom room in period 5 on Tuesdays if you have any questions.
+<b>NOTICE:</b> The Renert Tutoring Centre is running help sessions via zoom for this class. See Schoology for details.
 
 Chapter 3 test tentatively scheduled for Thursday, Nov. 19 - Monday, Nov. 23. Note that the test is designed to be completed in 45 min, so it's a short one; it will only be weighted half as much as Chapter 1 or 2.
 
