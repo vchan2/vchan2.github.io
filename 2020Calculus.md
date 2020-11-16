@@ -78,6 +78,11 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 30-40 minutes/day on average
 
+Homework for Wednesday, Nov. 18:
+  * Fill out the <a href="https://forms.gle/CE8dHYnujxhRCDB57">feedback form</a>. It is anonymous, so feel free to express your honest opinion(s).
+  * Do problems from 4.3 as best you can.
+  * Note about 4.2: For Q8, don't use Newton's method, just use a graphing calculator to find the roots.
+
 Homework for Monday, Nov. 16 (over the break):
   * Do problems from 4.2 (should take you 1 day)
   * Reflect on your Chapter 2 test and write down:
