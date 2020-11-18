@@ -14,6 +14,8 @@ Quick links
 
 <b>NOTICE:</b> The Renert Tutoring Centre is running help sessions via zoom for this class. See Schoology for details.
 
+<b>NOTICE:</b> Class will be in 2305 tomorrow (Thursday, Nov. 19) - we've been kicked out of our class to make room for the BCC. 
+
 Section 3.5 corrections:
   * Q8 should be 20 &#215; 3^(1/4) ~ 26.32, not 20/sqrt(3) ~ 11.55.
   * Q15 is technically incorrect: the question tells you the plane is 20 km from Quinton, so that should mean direct distance (indeed, you are looking for the rate of change of the distance, which they are assuming means direct distance). If you assume the 20 km refers to horizontal distance (but you're trying to find the rate of change of direct distance still). then their answer is correct, 240 &#215; sqrt(5). However, the correct interpretation should yield 300 &#215; sqrt(3). If I were to use a question like this on a test, I would explicitly state "when it is 20 km horizontally from Quinton" vs "when it is directally 20 km away from Quinton" or something to that effect.
@@ -81,6 +83,11 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 ### Homework
 
 Homework expectations: 30-40 minutes/day on average
+
+Homework for Thursday, Nov. 19:
+  * Fill out the <a href="https://forms.gle/CE8dHYnujxhRCDB57">feedback form</a>. It is anonymous, so feel free to express your honest opinion(s).
+  * Finish section 4.3
+  * Try starting 4.4 - you absolutely don't need to finish it; we will be doing 4.4 right into next week
 
 Homework for Wednesday, Nov. 18:
   * Fill out the <a href="https://forms.gle/CE8dHYnujxhRCDB57">feedback form</a>. It is anonymous, so feel free to express your honest opinion(s).
