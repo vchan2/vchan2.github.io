@@ -10,11 +10,14 @@ Quick links
 
 ### Updates
 
+
+<b>NOTICE:</b> Class will be in 2305 tomorrow (Thursday, Nov. 19) - we've been kicked out of our class to make room for the BCC. 
+
+<b>NOTICE:</b> Notice only for Anand, Brendan, Eesha, and Tanisha: for the BCC tomorrow, you will begin at 1:05, during lunch. Bring your computer - I've already e-mailed you your username and password, so you can sign in right now to fill in your personal information and even do practice tests.  Come to room 2409/2410 or 2403/2404, either room is fine. You can bring pencils, erasers, and a simple calculator (you don’t need a calculator for anything, but it is allowed).
+
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in 2405. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
 <b>NOTICE:</b> The Renert Tutoring Centre is running help sessions via zoom for this class. See Schoology for details.
-
-<b>NOTICE:</b> Class will be in 2305 tomorrow (Thursday, Nov. 19) - we've been kicked out of our class to make room for the BCC. 
 
 Section 3.5 corrections:
   * Q8 should be 20 &#215; 3^(1/4) ~ 26.32, not 20/sqrt(3) ~ 11.55.
