@@ -11,7 +11,7 @@ Quick links
 ### Updates
 
 
-<b>NOTICE:</b> As you know, there is no school tomorrow (Friday, Nov. 20). However, please let me know if you wish to meet with me concerning chapter 4 material, and I can hold a zoom session.
+<b>NOTICE:</b> In light of the testing centre being closed today, the Chapter 3 test exam window will be extended to Thursday. This may change as well, once we have more information. Rest assured, you won't have only Monday night to write the test, in any case.
 
 <b>NOTICE:</b> Notice only for Anand, Brendan, Eesha, and Tanisha: for the BCC tomorrow, you will begin at 1:05, during lunch. Bring your computer - I've already e-mailed you your username and password, so you can sign in right now to fill in your personal information and even do practice tests.  Come to room 2409/2410 or 2403/2404, either room is fine. You can bring pencils, erasers, and a simple calculator (you don’t need a calculator for anything, but it is allowed).
 
