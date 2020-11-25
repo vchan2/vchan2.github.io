@@ -10,6 +10,7 @@ Quick links
 
 ### Updates
 
+<b>NOTICE:</b> For Wednesday, Nov. 25's class: <a href="https://vchan2.github.io/2020Calculus/2020-11-25_optimization_ex.pdf"> Optimization problems </a>
 
 <b>NOTICE:</b> In light of the testing centre being closed today, the Chapter 3 test exam window will be extended to Thursday. This may change as well, once we have more information. Rest assured, you won't have only Monday night to write the test, in any case. You can submit your Chapter 3 test <a href="https://forms.gle/LGQB4kFR23RZr6F1A"> here</a>.
 
