@@ -173,7 +173,7 @@ Homework for Wednesday, Nov. 4:
 * <a href="https://vchan2.github.io/2020Calculus/03Continuous_on_irrationals.pdf"> Continuous on the irrationals </a> - Does there exist a function which is continuous only on the irrationals?
 * <a href="https://vchan2.github.io/2020Calculus/04Continuous_on_rationals.pdf"> Continuous on the rationals </a> - Does there exist a function which is continuous only on the rationals?
 * <a href="https://vchan2.github.io/2020Calculus/05Continuous_but_not_differentiable.pdf"> Continuous but not differentiable </a> - Does there exist a function which is continuous everywhere but differentiable nowhere?
-* <a href="https://vchan2.github.io/2020Calculus/Ch4_01inradius.pdf"> Inradius </a> What is the third side of an isosceles triangle which maximizes the inradius?
+* <a href="https://vchan2.github.io/2020Calculus/Ch4_01inradius.pdf"> Inradius </a> - What is the third side of an isosceles triangle which maximizes the inradius?
 
 
 ---
