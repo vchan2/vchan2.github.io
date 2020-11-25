@@ -10,11 +10,15 @@ Quick links
 
 ### Updates
 
-<b>NOTICE:</b> For Wednesday, Nov. 25's class: <a href="https://vchan2.github.io/2020Calculus/2020-11-25_optimization_ex.pdf"> Optimization problems </a>
+<b>NOTICE:</b> Last two mini-maths are available onb this website. Today's notes and video available in the shared files google drive.
 
-<b>NOTICE:</b> In light of the testing centre being closed today, the Chapter 3 test exam window will be extended to Thursday. This may change as well, once we have more information. Rest assured, you won't have only Monday night to write the test, in any case. You can submit your Chapter 3 test <a href="https://forms.gle/LGQB4kFR23RZr6F1A"> here</a>.
+<b>NOTICE:</b> In light of the testing centre being closed today, the Chapter 3 test exam window will be extended to Thursday. You can submit your Chapter 3 test <a href="https://forms.gle/LGQB4kFR23RZr6F1A"> here</a>.
 
+<b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in my zoom room. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
+
+<!--
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in 2405. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
+-->
 
 <b>NOTICE:</b> The Renert Tutoring Centre is running help sessions via zoom for this class. See Schoology for details.
 
@@ -131,6 +135,8 @@ Homework for Wednesday, Nov. 4:
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_19.pdf"> Mini-math for October 19 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_19_sol.pdf"> Solution </a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_26.pdf"> Mini-math for October 26 (applications of derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_26_sol.pdf"> Solution </a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_02.pdf"> Mini-math for November 2 (applications of derivatives (related rates)) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_02_sol.pdf"> Solution </a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_16.pdf"> Mini-math for November 16 (applications of derivatives (related rates)) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_16_sol.pdf"> Solution </a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_23.pdf"> Mini-math for November 23 (applications of derivatives (related rates)) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_23_sol.pdf"> Solution </a>)
 
 * <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
 
@@ -148,6 +154,8 @@ Homework for Wednesday, Nov. 4:
     * Q31: Notation: D_x means d/dx, and D_x^2 means d^2/dx^2.
     * Q33: This is (algebraically) challenging, and has several answers (one which uses the original formula to simplify, and one which does not - both versions are valid in my mind).
     * Q42, Q43: These questions are part of Chapter 3, not Chapter 2.
+
+* <a href="https://vchan2.github.io/2020Calculus/2020-11-25_optimization_ex.pdf"> Optimization problems </a> (<a href="https://vchan2.github.io/2020Calculus/2020-11-25_optimization_ex_sol.pdf"> Solution </a>)
 
 ---
 
