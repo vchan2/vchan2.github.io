@@ -10,7 +10,7 @@ Quick links
 
 ### Updates
 
-<b>NOTICE:</b> Last two mini-maths are available onb this website. Today's notes and video available in the shared files google drive.
+<b>NOTICE:</b> Last two mini-maths are available on this website. Today's notes and video available in the shared files google drive.
 
 <b>NOTICE:</b> In light of the testing centre being closed today, the Chapter 3 test exam window will be extended to Thursday. You can submit your Chapter 3 test <a href="https://forms.gle/LGQB4kFR23RZr6F1A"> here</a>.
 
