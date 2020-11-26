@@ -27,6 +27,8 @@ Section 3.5 corrections:
   * Q8 should be 20 &#215; 3^(1/4) ~ 26.32, not 20/sqrt(3) ~ 11.55.
   * Q15 is technically incorrect: the question tells you the plane is 20 km from Quinton, so that should mean direct distance (indeed, you are looking for the rate of change of the distance, which they are assuming means direct distance). If you assume the 20 km refers to horizontal distance (but you're trying to find the rate of change of direct distance still). then their answer is correct, 240 &#215; sqrt(5). However, the correct interpretation should yield 300 &#215; sqrt(3). If I were to use a question like this on a test, I would explicitly state "when it is 20 km horizontally from Quinton" vs "when it is directally 20 km away from Quinton" or something to that effect.
 
+---
+
 ### Exams
 
 Chapter 4 test tentatively scheduled for Thursday, Dec. 3 - Monday, Dec. 7.
