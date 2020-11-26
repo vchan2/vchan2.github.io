@@ -102,6 +102,11 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 30-40 minutes/day on average
 
+Homework for Monday, Nov. 30:
+  * Finish the rest of 4.4
+  * Do 4.6, Q 1-9 (10 and 11 are section 4.5, which we are skipping)
+  * Do 4.7, Q 1-4, 6
+ 
 Homework for Thursday, Nov. 26:
   * Finish the optimization exercises we started in class. At this point, you should be more than half done 4.4.
   
