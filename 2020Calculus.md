@@ -11,14 +11,6 @@ Quick links
 
 ### Updates
 
-<b>NOTICE:</b> <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30.pdf"> Mini-math for November 30 (Optimization) </a> 
-
-<a href="https://forms.gle/k7JMKsk3ykg17Kp67"> Guess #1</a>
-
-<a href="https://forms.gle/HzaSWtUgNgrxhbR26"> Guess #2<a>
-
-<a href="https://forms.gle/PGvyG63diqm95PST8"> Guess #3<a>
-
 <b>NOTICE:</b> Notes and video from Thursday, Nov. 26 available in the shared files google drive. The notes included detailed solutions for the second example.
 
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in my zoom room. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
@@ -39,7 +31,7 @@ Section 3.5 corrections:
 
 ### Exams
 
-Chapter 4 test tentatively scheduled for Thursday, Dec. 3 - Monday, Dec. 7.
+Chapter 4 test scheduled for Saturday, Dec. 5 - Friday, Dec. 11.
 You should be proficient in covered material contained in Chapter 4 (sections 1, 2, 3, 4). More precisely:
   * Be able to determine intervals of increase and decrease of a function.
   * Be able to find and classify local extrema (using the First Derivative Test).
@@ -110,6 +102,14 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 ### Homework
 
 Homework expectations: 30-40 minutes/day on average
+
+Homework for Wednesday, Dec. 2:
+  * Do 4.8
+  * Read 5.1-5.3
+  * Reflect on your Chapter 3 test and write down:
+    * Issues you may have had (not understanding something, not writing enough proof, calculation errors, etc) (If you did well, reflect on why you were successful)
+    * What you will do in the future to prepare for tests
+    * Compare with your reflection following Chapter 1 and 2: Did you meet your goals? Did you follow through with what you said you would do?
 
 Homework for Monday, Nov. 30:
   * Finish the rest of 4.4
