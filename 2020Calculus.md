@@ -13,7 +13,10 @@ Quick links
 
 <b>NOTICE:</b><a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30.pdf"> Mini-math for November 30 (Optimization) </a>
 
-<!--<a href="https://forms.gle/k7JMKsk3ykg17Kp67"> Guess #1</a>-->
+<!--<a href="https://forms.gle/k7JMKsk3ykg17Kp67"> Guess #1</a>
+<a href="https://forms.gle/HzaSWtUgNgrxhbR26"> Guess #2<a>
+<a href="https://forms.gle/PGvyG63diqm95PST8"> Guess #3<a>
+-->
 
 <b>NOTICE:</b> Notes and video from Thursday, Nov. 26 available in the shared files google drive. The notes included detailed solutions for the second example.
 
