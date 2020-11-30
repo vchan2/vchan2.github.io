@@ -11,6 +11,10 @@ Quick links
 
 ### Updates
 
+<b>NOTICE:</b><a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30.pdf"> Mini-math for November 30 (Optimization) </a>
+
+<!--<a href="https://forms.gle/k7JMKsk3ykg17Kp67"> Guess #1</a>-->
+
 <b>NOTICE:</b> Notes and video from Thursday, Nov. 26 available in the shared files google drive. The notes included detailed solutions for the second example.
 
 <b>NOTICE:</b> In light of the testing centre being closed today, the Chapter 3 test exam window will be extended to Thursday. You can submit your Chapter 3 test <a href="https://forms.gle/LGQB4kFR23RZr6F1A"> here</a>.
