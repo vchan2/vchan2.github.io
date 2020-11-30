@@ -17,8 +17,6 @@ Quick links
 
 <b>NOTICE:</b> Notes and video from Thursday, Nov. 26 available in the shared files google drive. The notes included detailed solutions for the second example.
 
-<b>NOTICE:</b> In light of the testing centre being closed today, the Chapter 3 test exam window will be extended to Thursday. You can submit your Chapter 3 test <a href="https://forms.gle/LGQB4kFR23RZr6F1A"> here</a>.
-
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in my zoom room. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
 <!--
@@ -27,9 +25,11 @@ Quick links
 
 <b>NOTICE:</b> The Renert Tutoring Centre is running help sessions via zoom for this class. See Schoology for details.
 
+<!--
 Section 3.5 corrections:
   * Q8 should be 20 &#215; 3^(1/4) ~ 26.32, not 20/sqrt(3) ~ 11.55.
   * Q15 is technically incorrect: the question tells you the plane is 20 km from Quinton, so that should mean direct distance (indeed, you are looking for the rate of change of the distance, which they are assuming means direct distance). If you assume the 20 km refers to horizontal distance (but you're trying to find the rate of change of direct distance still). then their answer is correct, 240 &#215; sqrt(5). However, the correct interpretation should yield 300 &#215; sqrt(3). If I were to use a question like this on a test, I would explicitly state "when it is 20 km horizontally from Quinton" vs "when it is directally 20 km away from Quinton" or something to that effect.
+-->
 
 ---
 
@@ -42,14 +42,15 @@ You should be proficient in covered material contained in Chapter 4 (sections 1,
   * Be able to find global extrema (using the algorithm for continuous functions on closed and bounded functions, or the First Derivative Test for global extrema - you may also use the Second Derivative Test for global extrema, but this will not be explicitly tested)
   * Solve optimization problems
 
+<!--
 Chapter 3 test tentatively scheduled for Thursday, Nov. 19 - Thursday, Nov. 26. Note that the test is designed to be completed in 45 min, so it's a short one; it will only be weighted half as much as Chapter 1 or 2.
-
 You should be proficient in all material covered in Chapter 3 (sections 1, 2, 5). More precisely:
   * Be able to determine the velocity and acceleration of a particle moving in a straight-line given its position/displacement function as well as compute the value of the velocity or acceleration at particular times.
   * Be able to determine when a particle is at rest as well as when it is moving in the positive or negative direction.
   * Find the total distance travelled by a particle within a specified amount of time.
   * Find rates of change in contexts other than motion
   * Be able to solve related rates problems (you should know standard formulas for area/volume and perimeter/surface area, and be able to use simple geometry such as similarity and Pythagorean Theorem)
+-->
 
 <!--
 Chapter 2 test is scheduled for <b>Saturday, October 24 - Thursday, October 29</b> in the exam centre. 
