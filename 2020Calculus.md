@@ -11,12 +11,11 @@ Quick links
 
 ### Updates
 
-<b>NOTICE:</b><a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30.pdf"> Mini-math for November 30 (Optimization) </a>
+<b>NOTICE:</b> <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30.pdf"> Mini-math for November 30 (Optimization) </a> 
 
-<!--<a href="https://forms.gle/k7JMKsk3ykg17Kp67"> Guess #1</a>
+<a href="https://forms.gle/k7JMKsk3ykg17Kp67"> Guess #1</a>
 <a href="https://forms.gle/HzaSWtUgNgrxhbR26"> Guess #2<a>
 <a href="https://forms.gle/PGvyG63diqm95PST8"> Guess #3<a>
--->
 
 <b>NOTICE:</b> Notes and video from Thursday, Nov. 26 available in the shared files google drive. The notes included detailed solutions for the second example.
 
@@ -170,6 +169,7 @@ Homework for Wednesday, Nov. 4:
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_02.pdf"> Mini-math for November 2 (applications of derivatives (related rates)) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_02_sol.pdf"> Solution </a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_16.pdf"> Mini-math for November 16 (extreme values) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_16_sol.pdf"> Solution </a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_23.pdf"> Mini-math for November 23 (extreme values) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_23_sol.pdf"> Solution </a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30.pdf"> Mini-math for November 30 (Optimization) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30_sol.pdf"> Solution </a>)
 
 * <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
 
