@@ -11,6 +11,8 @@ Quick links
 
 ### Updates
 
+<b>NOTICE:</b> I have uploaded the marked Chapter 3 tests onto Google drive, and will be sharing each one specifically to your renertschool account.
+
 <b>NOTICE:</b> Notes and video from Thursday, Nov. 26 available in the shared files google drive. The notes included detailed solutions for the second example.
 
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in my zoom room. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
