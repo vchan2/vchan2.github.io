@@ -13,6 +13,8 @@
 * <a href="https://krazydad.com/inkies/"> Printable kenken (inkies) puzzles from krazydad (more puzzles than above) </a>
 * <a href="https://www.puzzle-skyscrapers.com/"> Online skyscrapers puzzles </a>
 * <a href="https://picture-enigmas.com/"> Online pixel puzzles (nonograms, squares, links) </a>
+* <a href="https://krazydad.com/tablet/suguru/"> Online Suguru puzzles from krazdydad (same puzzles as below) </a>
+* <a href="https://krazydad.com/suguru/"> Printable Suguru puzzles from krazdydad (same puzzles as above) </a>
 
 
 
