@@ -162,6 +162,8 @@ Homework for Wednesday, Nov. 4:
 * Optimization problems
   * <a href="https://www.desmos.com/calculator/l3bpllxpmb"> Visualization of: Cable to two points</a>
   * <a href="https://www.desmos.com/calculator/stfesdxk3f"> Visualization of: Distance from point to square root graph</a>
+* Concavity
+  * <a href="https://www.desmos.com/calculator/rn3t3zbamk"> Visualization of relationship between a curve's concavity, its tangent line, and the second derivative </a>
 
 ---
 
