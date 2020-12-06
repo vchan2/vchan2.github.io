@@ -177,7 +177,7 @@ Homework for Wednesday, Nov. 4:
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_19.pdf"> Mini-math for October 19 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_19_sol.pdf"> Solution </a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_26.pdf"> Mini-math for October 26 (applications of derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_26_sol.pdf"> Solution </a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_02.pdf"> Mini-math for November 2 (applications of derivatives (related rates)) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_02_sol.pdf"> Solution </a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_16.pdf"> Mini-math for November 16 (extreme values) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_16_sol.pdf"> Solution </a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3꞉4_2020_11_16.pdf"> Mini-math for November 16 (extreme values) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_16_sol.pdf"> Solution </a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_23.pdf"> Mini-math for November 23 (extreme values) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_23_sol.pdf"> Solution </a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30.pdf"> Mini-math for November 30 (Optimization) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30_sol.pdf"> Solution </a>)
 
