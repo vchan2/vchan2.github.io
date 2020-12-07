@@ -31,6 +31,15 @@ Section 3.5 corrections:
 
 ### Exams
 
+Chapter 5 test tentatively scheduled for Monday, Dec. 14 - Sunday, Dec. 20 (we can move this back if need be, but it eats into your break).
+You should be proficient in sections covered in Chapter 5 (i.e. 1, 2, 3, 4). More precisely:
+  * Find horizontal and vertical asymptotes (for vertical asymptotes, you should know how to argue via sign analysis why the answer is +infinity or -infinity when applicable)
+  * Know how to find intervals of concavity (up or down)
+  * Be able to find points of inflection (which requires a knowledge of what a point of inflection even is)
+  * Know how to apply the Second Derivative Test
+  * Be able to identify or provide a sketch for a function given the sign of f, f', and f''. More generally, be able to identify or provide a sketch for a function given information about a function, such as domain, intercepts, symmetry, asymptotes, intervals of increase/decrease, local/global extrema, intervals of concavity, and/or points of inflection.
+Note that 5.5 and 5.6 are not explicitly covered on the test, but may be useful in developing your understanding.
+
 Chapter 4 test scheduled for Saturday, Dec. 5 - Friday, Dec. 11.
 You should be proficient in covered material contained in Chapter 4 (sections 1, 2, 3, 4). More precisely:
   * Be able to determine intervals of increase and decrease of a function.
@@ -103,50 +112,14 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 30-40 minutes/day on average
 
+Homework for Wednesday, Dec. 9:
+  * Read 5.4 and start doing problems from it.
+
 Homework for Monday, Dec. 7:
   * Do 5.2 and 5.3. You have enough to do 5.4 as well, but I will assign this next week.
 
 Homework for Thursday, Dec. 3:
   * Do 5.1.
-
-Homework for Wednesday, Dec. 2:
-  * Do 4.8
-  * Read 5.1-5.3
-  * Reflect on your Chapter 3 test and write down:
-    * Issues you may have had (not understanding something, not writing enough proof, calculation errors, etc) (If you did well, reflect on why you were successful)
-    * What you will do in the future to prepare for tests
-    * Compare with your reflection following Chapter 1 and 2: Did you meet your goals? Did you follow through with what you said you would do?
-
-Homework for Monday, Nov. 30:
-  * Finish the rest of 4.4
-  * Do 4.6, Q 1-9 (10 and 11 are section 4.5, which we are skipping)
-  * Do 4.7, Q 1-4, 6
- 
-Homework for Thursday, Nov. 26:
-  * Finish the optimization exercises we started in class. At this point, you should be more than half done 4.4.
-  
-Homework for Wednesday, Nov. 25:
-  * Work on 4.4 - you should be done the first 7 questions by now.
-
-Homework for Thursday, Nov. 19:
-  * Fill out the <a href="https://forms.gle/CE8dHYnujxhRCDB57">feedback form</a>. It is anonymous, so feel free to express your honest opinion(s).
-  * Finish section 4.3
-  * Try starting 4.4 - you absolutely don't need to finish it; we will be doing 4.4 right into next week
-
-Homework for Wednesday, Nov. 18:
-  * Fill out the <a href="https://forms.gle/CE8dHYnujxhRCDB57">feedback form</a>. It is anonymous, so feel free to express your honest opinion(s).
-  * Do problems from 4.3 as best you can.
-  * Note about 4.2: For Q8, don't use Newton's method, just use a graphing calculator to find the roots.
-
-Homework for Monday, Nov. 16 (over the break):
-  * Do problems from 4.2 (should take you 1 day)
-  * Reflect on your Chapter 2 test and write down:
-    * Issues you may have had (not understanding something, not writing enough proof, calculation errors, etc) (If you did well, reflect on why you were successful)
-    * What you will do in the future to prepare for tests
-    * Compare with your reflection following Chapter 1: Did you meet your goals? Did you follow through with what you said you would do?
-
-Homework for Wednesday, Nov. 4:
-  * Do problems from 4.1.
 
 
 
