@@ -11,6 +11,8 @@ Quick links
 
 ### Updates
 
+<b>NOTICE:</b> <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_07.pdf"> Mini-math for December 7 (Asymptotes and Concavity) </a>
+
 <b>NOTICE:</b> I have uploaded fully worked solutions for 4.4 Q 13 and 17 in the shared files folder, since I was asked how to do them today.
 
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in my zoom room. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
