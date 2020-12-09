@@ -23,6 +23,8 @@
 * <a href="https://vchan2.github.io/Challenges/Rainbow_Stones.pdf"> Rainbow stones </a>
 * <a href="https://vchan2.github.io/Challenges/Guy_digit_puzzle.pdf"> Digit puzzle for "Mathematical Play (Remembering Richard Guy)" </a>
 * <a href="https://vchan2.github.io/Challenges/Guy_fractions.pdf"> Fraction puzzle for "Mathematical Play (Remembering Richard Guy)" </a>
+* <a href="https://vchan2.github.io/Challenges/Fruit_puzzle.pdf"> Fruit algebra puzzle - over 95% of people cannot solve this! </a>
+
 
 
 ---
