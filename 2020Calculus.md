@@ -32,11 +32,11 @@ Increasing on (-infinity,0) U (8,infinity)
 
 Local max at 0, local min at 8
 
-CD on (-infinity, -6) U (-2,2) U (5, infinity)
+CD on (-infinity, -6) U (-2,2) U (9, infinity)
 
-CU on (-6, -2) U (2, 5)
+CU on (-6, -2) U (2, 9)
 
-POI at -6, 5
+POI at -6, 9
 
 <b>NOTICE:</b> I have uploaded fully worked solutions for 4.4 Q 13 and 17 in the shared files folder, since I was asked how to do them today.
 
