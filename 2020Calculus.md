@@ -14,6 +14,8 @@ Quick links
 
 Thursday:
 
+Correction: the "5" was supposed to be a "9".
+
 Domain: R
 
 x-int: -3, 2, 6
