@@ -141,6 +141,12 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 30-40 minutes/day on average
 
+Homework for Monday, Dec. 14:
+  * Finish 5.7 and 5.8.
+
+Homework for Thursday, Dec. 10:
+  * Finish 5.4.
+
 Homework for Wednesday, Dec. 9:
   * Read 5.4 and start doing problems from it.
 
