@@ -24,6 +24,8 @@ No symmetry
 
 HA: -1/2 to the right, -infinity to the left
 
+VA: to infinity as x approaches 2 from the right, to 0 as x approaches 2 from the left
+
 Decreasing on (0,2) U (2,8)
 
 Increasing on (-infinity,0) U (8,infinity)
