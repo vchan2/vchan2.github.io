@@ -43,7 +43,7 @@ Section 3.5 corrections:
 
 ### Exams
 
-Chapter 5 test tentatively scheduled for Monday, Dec. 14 - Sunday, Dec. 20 (we can move this back if need be, but it eats into your break).
+Chapter 5 test scheduled for Wednesday, Dec. 16 - Tuesday, Dec. 22. 
 You should be proficient in sections covered in Chapter 5 (i.e. 1, 2, 3, 4). More precisely:
   * Find horizontal and vertical asymptotes (for vertical asymptotes, you should know how to argue via sign analysis why the answer is +infinity or -infinity when applicable)
   * Know how to find intervals of concavity (up or down)
