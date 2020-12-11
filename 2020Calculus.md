@@ -12,35 +12,18 @@ Quick links
 ### Updates
 
 
-Thursday:
+Starting next week, we will be keeping track of 
 
-Correction: the "5" was supposed to be a "9".
+<ol>
+  <li> Attendance
+  <li> Webcam usage
+</ol>
 
-Domain: R
+In order to expedite item 1, I'm going to take a screenshot of the participant list within the first minute of the start of class. Since you have extended breaks between classes and you're just joining via zoom, it seems like you should be able to join class at the right time - over the past few weeks, I've noticed people are joining very late, which gives us less time together. Your homeroom teacher/division lead will use this information (excused absenses/tardiness will be considered).
 
-x-int: -3, 2, 6
+For item 2, I've been told that webcams need to be on at all times, so I shouldn't have to request that anymore. 
 
-y-int: 3
-
-No symmetry
-
-HA: -1/2 to the right, -infinity to the left
-
-VA: to infinity as x approaches 2 from the right, to 0 as x approaches 2 from the left
-
-Decreasing on (0,2) U (2,8)
-
-Increasing on (-infinity,0) U (8,infinity)
-
-Local max at 0, local min at 8
-
-CD on (-infinity, -6) U (-2,2) U (9, infinity)
-
-CU on (-6, -2) U (2, 9)
-
-POI at -6, 9
-
-<b>NOTICE:</b> I have uploaded fully worked solutions for 4.4 Q 13 and 17 in the shared files folder, since I was asked how to do them today.
+Please let me know if you have any questions or concerns.
 
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in my zoom room. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
