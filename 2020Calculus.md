@@ -59,6 +59,8 @@ You should be proficient in covered material contained in Chapter 4 (sections 1,
   * Be able to find global extrema (using the algorithm for continuous functions on closed and bounded functions, or the First Derivative Test for global extrema - you may also use the Second Derivative Test for global extrema, but this will not be explicitly tested)
   * Solve optimization problems
 
+Submit <a href="https://forms.gle/iWJDnZnungUpbKDy6"> here</a>
+
 <!--
 Chapter 3 test tentatively scheduled for Thursday, Nov. 19 - Thursday, Nov. 26. Note that the test is designed to be completed in 45 min, so it's a short one; it will only be weighted half as much as Chapter 1 or 2.
 You should be proficient in all material covered in Chapter 3 (sections 1, 2, 5). More precisely:
