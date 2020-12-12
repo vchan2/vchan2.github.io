@@ -15,8 +15,8 @@ Quick links
 Starting next week, we will be keeping track of 
 
 <ol>
-  <li> Attendance
-  <li> Webcam usage
+  <li> Attendance </li>
+  <li> Webcam usage </li>
 </ol>
 
 In order to expedite item 1, I'm going to take a screenshot of the participant list within the first minute of the start of class. Since you have extended breaks between classes and you're just joining via zoom, it seems like you should be able to join class at the right time - over the past few weeks, I've noticed people are joining very late, which gives us less time together. Your homeroom teacher/division lead will use this information (excused absenses/tardiness will be considered).
