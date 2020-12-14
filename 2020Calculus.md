@@ -13,7 +13,7 @@ Quick links
 
 <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_14.pdf"> Mini-math for December 14 (concavity and curve sketching) </a>
 
-<a href="https://vchan2.github.io/2020Calculus/Ch5_Curve_sketch_matching.pdf.pdf"> Activity for December 14 (curve sketching) </a>
+<!--<a href="https://vchan2.github.io/2020Calculus/Ch5_Curve_sketch_matching.pdf"> Activity for December 14 (curve sketching) </a>-->
 
 
 <!--<a href="https://forms.gle/iWJDnZnungUpbKDy6"> Chapter 4 test submission </a>-->
