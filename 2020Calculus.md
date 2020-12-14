@@ -11,11 +11,6 @@ Quick links
 
 ### Updates
 
-<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_14.pdf"> Mini-math for December 14 (concavity and curve sketching) </a>
-
-<a href="https://vchan2.github.io/2020Calculus/Ch5_Curve_sketch_matching.pdf"> Activity for December 14 (curve sketching) </a>
-
-
 <!--<a href="https://forms.gle/iWJDnZnungUpbKDy6"> Chapter 4 test submission </a>-->
 
 Starting next week, we will be keeping track of 
@@ -131,6 +126,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 ### Homework
 
 Homework expectations: 30-40 minutes/day on average
+
+Homework for Wednesday, Dec. 16:
+  * Finish the <a href="https://vchan2.github.io/2020Calculus/Ch5_Curve_sketch_matching.pdf"> class activity for December 14 (curve sketching) </a>
 
 Homework for Monday, Dec. 14:
   * Finish 5.7 and 5.8.
