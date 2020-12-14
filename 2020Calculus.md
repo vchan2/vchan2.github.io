@@ -11,7 +11,12 @@ Quick links
 
 ### Updates
 
-<a href="https://forms.gle/iWJDnZnungUpbKDy6"> Chapter 4 test submission </a>
+<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_14.pdf"> Mini-math for December 14 (concavity and curve sketching) </a>
+
+<a href="https://vchan2.github.io/2020Calculus/Ch5_Curve_sketch_matching.pdf.pdf"> Activity for December 14 (curve sketching) </a>
+
+
+<!--<a href="https://forms.gle/iWJDnZnungUpbKDy6"> Chapter 4 test submission </a>-->
 
 Starting next week, we will be keeping track of 
 
@@ -175,6 +180,7 @@ Homework for Thursday, Dec. 3:
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_23.pdf"> Mini-math for November 23 (extreme values) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_23_sol.pdf"> Solution </a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30.pdf"> Mini-math for November 30 (optimization) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30_sol.pdf"> Solution </a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_07.pdf"> Mini-math for December 7 (asymptotes and concavity) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_07_sol.pdf"> Solution </a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_14.pdf"> Mini-math for December 14 (concavity and curve sketching) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_14_sol.pdf"> Solution </a>)
 
 * <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
 
