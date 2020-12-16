@@ -11,20 +11,7 @@ Quick links
 
 ### Updates
 
-<!--<a href="https://forms.gle/iWJDnZnungUpbKDy6"> Chapter 4 test submission </a>-->
-
-Starting next week, we will be keeping track of 
-
-<ol>
-  <li> Attendance </li>
-  <li> Webcam usage </li>
-</ol>
-
-In order to expedite item 1, I'm going to take a screenshot of the participant list within the first minute of the start of class. Since you have extended breaks between classes and you're just joining via zoom, it seems like you should be able to join class at the right time - over the past few weeks, I've noticed people are joining very late, which gives us less time together. Your homeroom teacher/division lead will use this information (excused absenses/tardiness will be considered).
-
-For item 2, I've been told that webcams need to be on at all times, so I shouldn't have to request that anymore. 
-
-Please let me know if you have any questions or concerns.
+<a href="https://forms.gle/xAm1p13AZw4eG1jD9"> Chapter 5 test submission </a>
 
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in my zoom room. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
@@ -43,6 +30,9 @@ Section 3.5 corrections:
 ---
 
 ### Exams
+
+
+<a href="https://forms.gle/xAm1p13AZw4eG1jD9"> Chapter 5 test submission </a>
 
 Chapter 5 test scheduled for Wednesday, Dec. 16 - Tuesday, Dec. 22. 
 You should be proficient in sections covered in Chapter 5 (i.e. 1, 2, 3, 4). More precisely:
@@ -126,6 +116,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 ### Homework
 
 Homework expectations: 30-40 minutes/day on average
+
+Homework for Thursday, Dec. 17:
+  * Study for your test!
 
 Homework for Wednesday, Dec. 16:
   * Finish the <a href="https://vchan2.github.io/2020Calculus/Ch5_Curve_sketch_matching.pdf"> class activity for December 14 (curve sketching) </a>
