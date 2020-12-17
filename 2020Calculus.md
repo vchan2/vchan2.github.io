@@ -195,14 +195,18 @@ Homework for Thursday, Dec. 3:
 ---
 
 ### Challenges 
-* <a href="https://vincentchan02.wixsite.com/cosmospuzzle"> CoSMOS 2020 Challenge</a> 
-* <a href="https://vchan2.github.io/Challenges/Rainbow_Stones.pdf"> Rainbow stones </a>
+Calculus-based:
 * <a href="https://vchan2.github.io/2020Calculus/01A_weird_limit.pdf"> A weird limit </a> - Find an example of a function whose limit at 0 from the right DNE
 * <a href="https://vchan2.github.io/2020Calculus/02Continuous_nowhere.pdf"> Continuous nowhere </a> - Does there exist a function which is continuous nowhere?
 * <a href="https://vchan2.github.io/2020Calculus/03Continuous_on_irrationals.pdf"> Continuous on the irrationals </a> - Does there exist a function which is continuous only on the irrationals?
 * <a href="https://vchan2.github.io/2020Calculus/04Continuous_on_rationals.pdf"> Continuous on the rationals </a> - Does there exist a function which is continuous only on the rationals?
 * <a href="https://vchan2.github.io/2020Calculus/05Continuous_but_not_differentiable.pdf"> Continuous but not differentiable </a> - Does there exist a function which is continuous everywhere but differentiable nowhere?
 * <a href="https://vchan2.github.io/2020Calculus/Ch4_01inradius.pdf"> Inradius </a> - What is the third side of an isosceles triangle which maximizes the inradius?
+
+Assorted:
+* <a href="https://vincentchan02.wixsite.com/cosmospuzzle"> CoSMOS 2020 Challenge</a> 
+* <a href="https://vchan2.github.io/Challenges/Rainbow_Stones.pdf"> Rainbow stones </a>
+* <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> Winter Break math challenges </a>
 
 
 ---
