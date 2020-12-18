@@ -15,6 +15,8 @@
 * <a href="https://picture-enigmas.com/"> Online pixel puzzles (nonograms, squares, links) </a>
 * <a href="https://krazydad.com/tablet/suguru/"> Online Suguru puzzles from krazdydad (same puzzles as below) </a>
 * <a href="https://krazydad.com/suguru/"> Printable Suguru puzzles from krazdydad (same puzzles as above) </a>
+* <a href="https://www.puzzle-aquarium.com/"> Online aquarium puzzles </a>
+
 
 
 
