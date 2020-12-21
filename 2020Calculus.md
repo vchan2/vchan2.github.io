@@ -11,6 +11,8 @@ Quick links
 
 ### Updates
 
+<b>NOTICE:</b> Master Aaron has changed the deadline of the Winter Break Math Challenges to Dec. 31. Please submit to <a href="mailto:vincent.chan@renertschool.ca">vincent.chan@renertschool.ca</a> with the subject ``2020-2021 Winter Break Math Challenges"
+
 <a href="https://forms.gle/xAm1p13AZw4eG1jD9"> Chapter 5 test submission </a>
 
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in my zoom room. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
