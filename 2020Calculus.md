@@ -160,6 +160,8 @@ Homework for Thursday, Dec. 3:
   * <a href="https://www.desmos.com/calculator/stfesdxk3f"> Visualization of: Distance from point to square root graph</a>
 * Concavity
   * <a href="https://www.desmos.com/calculator/rn3t3zbamk"> Visualization of relationship between a curve's concavity, its tangent line, and the second derivative </a>
+* Trigonometry
+  * <a href="https://mathisonian.github.io/trig/etymology/"> The etymology of the 6 standard trig fuctions, complete with animations </a>
 
 ---
 
