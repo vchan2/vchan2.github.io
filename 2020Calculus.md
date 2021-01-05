@@ -180,6 +180,7 @@ Homework for Thursday, Dec. 3:
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30.pdf"> Mini-math for November 30 (optimization) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30_sol.pdf"> Solution </a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_07.pdf"> Mini-math for December 7 (asymptotes and concavity) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_07_sol.pdf"> Solution </a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_14.pdf"> Mini-math for December 14 (concavity and curve sketching) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_14_sol.pdf"> Solution </a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_04.pdf"> Mini-math for January 4 (trigonometry review) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_04_sol.pdf"> Solution </a>)
 
 * <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
 
