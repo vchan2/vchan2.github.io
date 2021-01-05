@@ -16,6 +16,8 @@
 * <a href="https://krazydad.com/tablet/suguru/"> Online Suguru puzzles from krazdydad (same puzzles as below) </a>
 * <a href="https://krazydad.com/suguru/"> Printable Suguru puzzles from krazdydad (same puzzles as above) </a>
 * <a href="https://www.puzzle-aquarium.com/"> Online aquarium puzzles </a>
+* <a href="https://krazydad.com/tablet/ripple/"> Online ripple effect puzzles from krazdydad (same puzzles as below) </a>
+* <a href="https://krazydad.com/ripple/"> Printable ripple effect puzzles from krazdydad (same puzzles as above) </a>
 
 
 
