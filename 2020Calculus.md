@@ -119,6 +119,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 30-40 minutes/day on average
 
+Homework for Wedesday, Jan. 6:
+  * Do 7.1
+
 Homework for Monday, Jan. 4:
   * None - enjoy your break! If you'd like to get ahead with the content or you are worried about your understanding of trigonometry from Math 30, you can go through chapters 6 and 7. Remember that there are <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf">Winter Break math challenges</a> if you'd like to try them out.
   * Note: if you're worried about exponentials and logarithms, I can give you the chapter on that as well to look over the break. We'll be doing that immediately after trigonometry.
