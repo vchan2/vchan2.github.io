@@ -33,9 +33,22 @@ Section 3.5 corrections:
 
 ### Exams
 
+Chapter 7 test tentatively scheduled for Thursday, Jan. 21 - Monday, Jan. 25. 
 
+You should be proficient in sections covered in Chapter 7 (7.1-7.4). More precisely:
+* Know the Fundamental Trig Limits and be able to use them to find limits involving trig.
+* Be able to derive the 2nd and 3rd Fundamental Trig Limits using the 1st.
+* Be able to find the derivative of sin x and cos x from first principles (and 1st Fundamental Trig Limit) (1 of these guaranteed to be on the test).
+* Be able to find the derivative tan x, sec x, csc x, cot x assuming the derivatives of sin x and cos x (at least 2 of these guaranteed to be on the test).
+* Be able to differentiate trig functions, including implicit and higher-order.
+* Be able to find local max/min and/or concavity of functions involving trig.
+* Be able to solve related rates problems with trig (will be 1 of the questions from 7.4, q3-14, with potentially different numbers and language)
+* Be able to solve optimization problems with trig (will be 1 of the questions from 7.4, q3-14, with potentially different numbers and language)
+
+Note that 7.5 and 7.6 are not explicitly covered on the test, but may be useful in developing your understanding (and will be necessary once we do integrals).
+
+<!--
 <a href="https://forms.gle/xAm1p13AZw4eG1jD9"> Chapter 5 test submission </a>
-
 Chapter 5 test scheduled for Wednesday, Dec. 16 - Tuesday, Dec. 22. 
 You should be proficient in sections covered in Chapter 5 (i.e. 1, 2, 3, 4). More precisely:
   * Find horizontal and vertical asymptotes (for vertical asymptotes, you should know how to argue via sign analysis why the answer is +infinity or -infinity when applicable)
@@ -44,15 +57,17 @@ You should be proficient in sections covered in Chapter 5 (i.e. 1, 2, 3, 4). Mor
   * Know how to apply the Second Derivative Test
   * Be able to identify or provide a sketch for a function given the sign of f, f', and f''. More generally, be able to identify or provide a sketch for a function given information about a function, such as domain, intercepts, symmetry, asymptotes, intervals of increase/decrease, local/global extrema, intervals of concavity, and/or points of inflection.
 Note that 5.5 and 5.6 are not explicitly covered on the test, but may be useful in developing your understanding.
+-->
 
+<!--
 Chapter 4 test scheduled for Saturday, Dec. 5 - Friday, Dec. 11.
 You should be proficient in covered material contained in Chapter 4 (sections 1, 2, 3, 4). More precisely:
   * Be able to determine intervals of increase and decrease of a function.
   * Be able to find and classify local extrema (using the First Derivative Test).
   * Be able to find global extrema (using the algorithm for continuous functions on closed and bounded functions, or the First Derivative Test for global extrema - you may also use the Second Derivative Test for global extrema, but this will not be explicitly tested)
   * Solve optimization problems
-
 Submit <a href="https://forms.gle/iWJDnZnungUpbKDy6"> here</a>
+-->
 
 <!--
 Chapter 3 test tentatively scheduled for Thursday, Nov. 19 - Thursday, Nov. 26. Note that the test is designed to be completed in 45 min, so it's a short one; it will only be weighted half as much as Chapter 1 or 2.
