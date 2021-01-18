@@ -142,6 +142,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 30-40 minutes/day on average
 
+Homework for Wednesday, Jan. 20:
+  * Study for Chapter 7 test.
+
 Homework for Thursday, Jan. 14:
   * Finish 7.2 and 7.3 (skip Q8 in 7.2)
 
