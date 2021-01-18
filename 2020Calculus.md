@@ -45,7 +45,7 @@ You should be proficient in sections covered in Chapter 7 (7.1-7.4). More precis
 * Be able to solve related rates problems with trig (will be 1 of the questions from 7.4, q3-14, with potentially different numbers and language)
 * Be able to solve optimization problems with trig (will be 1 of the questions from 7.4, q3-14, with potentially different numbers and language)
 
-Note that 7.5 and 7.6 are not explicitly covered on the test, but may be useful in developing your understanding (and will be necessary once we do integrals).
+Note that 7.5 and 7.6 are not explicitly covered on the test, but may be useful in developing your understanding (and will be necessary once we do Chapter 8).
 
 <!--
 <a href="https://forms.gle/xAm1p13AZw4eG1jD9"> Chapter 5 test submission </a>
