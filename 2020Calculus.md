@@ -33,7 +33,12 @@ Section 3.5 corrections:
 
 ### Exams
 
-Chapter 7 test tentatively scheduled for Thursday, Jan. 21 - Monday, Jan. 25. 
+Testing centre hours are:
+  * Mondays, 4PM-7PM
+  * Wednesdays, 4PM-7PM
+  * Saturdays, 10AM-3PM
+
+Chapter 7 test scheduled for Wednesday, Jan. 20 - Wednesday, Jan. 27. 
 
 You should be proficient in sections covered in Chapter 7 (7.1-7.4). More precisely:
 * Know the Fundamental Trig Limits and be able to use them to find limits involving trig.
