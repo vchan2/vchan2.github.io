@@ -41,7 +41,7 @@ Testing centre hours are:
   * Wednesdays, 4PM-7PM
   * Saturdays, 10AM-3PM
 
-Submit <a href="https://forms.gle/zm7HGnVynaXp6Gu38"> here</a>
+Submit Chapter 7 <a href="https://forms.gle/zm7HGnVynaXp6Gu38"> here</a>
 
 Chapter 7 test scheduled for Wednesday, Jan. 20 - Wednesday, Jan. 27. 
 
