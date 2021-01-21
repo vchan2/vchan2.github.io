@@ -27,6 +27,7 @@
   * <a href="https://www.mathplayground.com/ASB_FourWheelFracas.html"> Four Wheel Fracas racing game</a> - Compete against up to 11 other players in a racing game. You can move faster by answering (very simple) algebra questions correctly.
 * <a href="http://plastelina.net/"> Plastelina</a> - Lots of online logic puzzles.
 * <a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=psafa&ProjectName=Numbers%20Game"> Arithmetic estimation game </a> - Estimate what number fits in the equation in order to hit the target.
+* <a href="https://solveme.edc.org/mobiles/"> Mobile balance puzzles </a>
 
 <!--* <a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=psafa&ProjectName=Numbers%20Game"> Arithmetic estimation </a> - Try to estimate the correct answer to land in a target.-->
 
