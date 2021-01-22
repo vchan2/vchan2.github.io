@@ -3,7 +3,7 @@
 
 ---
 
-### Resources
+### Puzzles
 
 Star Battle
    * <a href="https://www.puzzle-star-battle.com/"> Online star battle puzzles </a>
@@ -41,6 +41,12 @@ Logic puzzles
    * <a href="https://www.ahapuzzles.com/logic/logic-puzzles/basic-1/"> Basic 1 </a>
    * <a href="https://www.ahapuzzles.com/logic/logic-puzzles/a-bargain/"> A Bargain </a>    
    * <a href="https://www.ahapuzzles.com/logic/logic-puzzles/a-michigan-adventure/"> A Michigan Adventure </a>
+
+
+Knights and Knaves
+
+
+River Crossing
 
 
 ---
