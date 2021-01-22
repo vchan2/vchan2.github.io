@@ -14,14 +14,14 @@ Quick links
 <!--
 <b>NOTICE:</b> Master Aaron has changed the deadline of the <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> Winter Break math challenges </a> to Dec. 31. Please submit to <a href="mailto:vincent.chan@renertschool.ca">vincent.chan@renertschool.ca</a> with the subject "MAHMC Solutions"
 -->
-<b>NOTICE:</b> I will be offering "AP Calculus" on Choice Fridays as a mandatory period for those who are pursuing AP Calculus this year or next year. This gives us an additional period of instruction every week, since we are behind schedule. Should we get back on track with my desired schedule, I will turn this into an optional period.
+<b>NOTICE:</b> I will be offering "AP Calculus" in period 5 on Choice Fridays (location TBD) as a mandatory period for those who are pursuing AP Calculus this year or next year. This gives us an additional period of instruction every week, since we are behind schedule. Should we get back on track with my desired schedule, I will turn this into an optional period.
 
 <!--
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in my zoom room. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 -->
 
 
-<b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in 2405. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
+<b>NOTICE:</b> I will be offering "Captivating Calculus" in period 8 on Choice Fridays (location TBD). Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
 
 <b>NOTICE:</b> The Renert Tutoring Centre is running help sessions via zoom for this class. See Schoology for details.
