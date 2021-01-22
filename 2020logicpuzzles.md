@@ -3,7 +3,7 @@
 
 ---
 
-### Puzzles
+### Nikoli-style Puzzles
 
 Star Battle
    * <a href="https://www.puzzle-star-battle.com/"> Online star battle puzzles </a>
@@ -36,8 +36,12 @@ Kakuro
    * <a href="https://krazydad.com/tablet/kakuro/"> Online Kakuro puzzles from krazdydad (same puzzles as below) </a>
    * <a href="https://krazydad.com/kakuro/"> Printable Kakuro puzzles from krazdydad (same puzzles as above) </a>
 
+---
 
-Logic puzzles
+### Other Logic Puzzles
+
+
+Grid-style puzzles
    * <a href="https://www.ahapuzzles.com/logic/logic-puzzles/basic-1/"> Basic 1 </a>
    * <a href="https://www.ahapuzzles.com/logic/logic-puzzles/a-bargain/"> A Bargain </a>    
    * <a href="https://www.ahapuzzles.com/logic/logic-puzzles/a-michigan-adventure/"> A Michigan Adventure </a>
