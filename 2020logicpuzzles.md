@@ -35,7 +35,7 @@ Logic puzzles
 * <a href="https://vincentchan02.wixsite.com/cosmospuzzle"> CoSMOS 2020 Challenge</a> 
 * <a href="https://vchan2.github.io/Challenges/Rainbow_Stones.pdf"> Rainbow stones </a>
 * <a href="https://vchan2.github.io/Challenges/Fruit_puzzle.pdf"> Fruit algebra puzzle - over 95% of people cannot solve this! </a>
-* <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> Winter Break math challenges </a>
+* <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> Winter Break math challenges </a> (<a href="https://vchan2.github.io/Challenges/2020-21Winter_Break_winners.pdf">Results</a>)
 
 
 ---
