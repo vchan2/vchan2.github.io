@@ -6,35 +6,35 @@
 ### Resources
 
 Star Battle
-    * <a href="https://www.puzzle-star-battle.com/"> Online star battle puzzles </a>
-    * <a href="https://krazydad.com/tablet/starbattle/"> Online star battle puzzles from krazydad (same puzzles as below) </a>
-    * <a href="https://krazydad.com/starbattle/"> Printable star battle puzzles from krazydad (same puzzles as above) </a>
+   * <a href="https://www.puzzle-star-battle.com/"> Online star battle puzzles </a>
+   * <a href="https://krazydad.com/tablet/starbattle/"> Online star battle puzzles from krazydad (same puzzles as below) </a>
+   * <a href="https://krazydad.com/starbattle/"> Printable star battle puzzles from krazydad (same puzzles as above) </a>
 
 Kenken
-    * <a href="http://www.kenkenpuzzle.com/play_now"> Online kenken (inkies) puzzles </a>
-    * <a href="https://krazydad.com/tablet/inkies/"> Online kenken (inkies) puzzles from krazydad (fewer puzzles than below) </a>
-    * <a href="https://krazydad.com/inkies/"> Printable kenken (inkies) puzzles from krazydad (more puzzles than above) </a>
+   * <a href="http://www.kenkenpuzzle.com/play_now"> Online kenken (inkies) puzzles </a>
+   * <a href="https://krazydad.com/tablet/inkies/"> Online kenken (inkies) puzzles from krazydad (fewer puzzles than below) </a>
+   * <a href="https://krazydad.com/inkies/"> Printable kenken (inkies) puzzles from krazydad (more puzzles than above) </a>
 
 Skyscrapers
-    * <a href="https://www.puzzle-skyscrapers.com/"> Online skyscrapers puzzles </a>
+   * <a href="https://www.puzzle-skyscrapers.com/"> Online skyscrapers puzzles </a>
 
 Pixel puzzles
-    * <a href="https://picture-enigmas.com/"> Online pixel puzzles (nonograms, squares, links) </a>
+   * <a href="https://picture-enigmas.com/"> Online pixel puzzles (nonograms, squares, links) </a>
 
 Suguru
-    * <a href="https://krazydad.com/tablet/suguru/"> Online Suguru puzzles from krazdydad (same puzzles as below) </a>
-    * <a href="https://krazydad.com/suguru/"> Printable Suguru puzzles from krazdydad (same puzzles as above) </a>
+   * <a href="https://krazydad.com/tablet/suguru/"> Online Suguru puzzles from krazdydad (same puzzles as below) </a>
+   * <a href="https://krazydad.com/suguru/"> Printable Suguru puzzles from krazdydad (same puzzles as above) </a>
 
 Aquarium
-    * <a href="https://www.puzzle-aquarium.com/"> Online aquarium puzzles </a>
+   * <a href="https://www.puzzle-aquarium.com/"> Online aquarium puzzles </a>
 
 Ripple Effect
-    * <a href="https://krazydad.com/tablet/ripple/"> Online ripple effect puzzles from krazdydad (same puzzles as below) </a>
-    * <a href="https://krazydad.com/ripple/"> Printable ripple effect puzzles from krazdydad (same puzzles as above) </a>
+   * <a href="https://krazydad.com/tablet/ripple/"> Online ripple effect puzzles from krazdydad (same puzzles as below) </a>
+   * <a href="https://krazydad.com/ripple/"> Printable ripple effect puzzles from krazdydad (same puzzles as above) </a>
 
 Kakuro
-    * <a href="https://krazydad.com/tablet/kakuro/"> Online Kakuro puzzles from krazdydad (same puzzles as below) </a>
-    * <a href="https://krazydad.com/kakuro/"> Printable Kakuro puzzles from krazdydad (same puzzles as above) </a>
+   * <a href="https://krazydad.com/tablet/kakuro/"> Online Kakuro puzzles from krazdydad (same puzzles as below) </a>
+   * <a href="https://krazydad.com/kakuro/"> Printable Kakuro puzzles from krazdydad (same puzzles as above) </a>
 
 
 Logic puzzles
