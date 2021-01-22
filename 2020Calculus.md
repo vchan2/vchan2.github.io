@@ -151,40 +151,6 @@ Homework for Monday, Jan. 25:
 Homework for Wednesday, Jan. 20:
   * Study for Chapter 7 test.
 
-Homework for Thursday, Jan. 14:
-  * Finish 7.2 and 7.3 (skip Q8 in 7.2)
-
-Homework for Thursday, Jan. 7:
-  * Finish 7.1
-  * Start 7.2 and 7.3
-
-Homework for Wedesday, Jan. 6:
-  * Do 7.1
-
-Homework for Monday, Jan. 4:
-  * None - enjoy your break! If you'd like to get ahead with the content or you are worried about your understanding of trigonometry from Math 30, you can go through chapters 6 and 7. Remember that there are <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf">Winter Break math challenges</a> if you'd like to try them out.
-  * Note: if you're worried about exponentials and logarithms, I can give you the chapter on that as well to look over the break. We'll be doing that immediately after trigonometry.
-
-Homework for Thursday, Dec. 17:
-  * Study for your test!
-
-Homework for Wednesday, Dec. 16:
-  * Finish the <a href="https://vchan2.github.io/2020Calculus/Ch5_Curve_sketch_matching.pdf"> class activity for December 14 (curve sketching) </a>
-
-Homework for Monday, Dec. 14:
-  * Finish 5.7 and 5.8.
-
-Homework for Thursday, Dec. 10:
-  * Finish 5.4.
-
-Homework for Wednesday, Dec. 9:
-  * Read 5.4 and start doing problems from it.
-
-Homework for Monday, Dec. 7:
-  * Do 5.2 and 5.3. You have enough to do 5.4 as well, but I will assign this next week.
-
-Homework for Thursday, Dec. 3:
-  * Do 5.1.
 
 
 
