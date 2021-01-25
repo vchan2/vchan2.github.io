@@ -11,6 +11,8 @@ Quick links
 
 ### Updates
 
+I wanted to clarify something we did in class that I spoke about, but didn't write down explicitly: the derivative of arccos(cos x) is only for sure 1 on the interval [0,&pi;], where we're using the restricted domain. I want to emphasize that this is not the "true" derivative in the most general sense, which is actually 1 on the interval [2&pi;n,&pi;+2&pi;n], and is -1 otherwise. I leave as an exercise to see why, either using the chain rule or reducing the argument in arccos(cos x) and using reflection identities. We'll talk more about this at a later time, when we get into AP calculus material.
+
 <!--
 <b>NOTICE:</b> Master Aaron has changed the deadline of the <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> Winter Break math challenges </a> to Dec. 31. Please submit to <a href="mailto:vincent.chan@renertschool.ca">vincent.chan@renertschool.ca</a> with the subject "MAHMC Solutions"
 -->
