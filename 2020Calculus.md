@@ -192,9 +192,9 @@ Homework for Wednesday, Jan. 20:
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_14.pdf"> Mini-math for December 14 (concavity and curve sketching) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_14_sol.pdf"> Solution </a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_04.pdf"> Mini-math for January 4 (trigonometry review) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_04_sol.pdf"> Solution </a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_11.pdf"> Mini-math for January 11 (derivatives of trigonometry) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_11_sol.pdf"> Solution </a>)
-<!--
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_18.pdf"> Mini-math for January 18 (derivatives of trigonometry) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_18_sol.pdf"> Solution </a>)
--->
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_25.pdf"> Mini-math for January 25 (derivatives of inverse trig) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_25_sol.pdf"> Solution </a>)
+
 
 * <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
 
