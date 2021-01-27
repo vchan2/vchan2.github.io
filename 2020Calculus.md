@@ -161,8 +161,6 @@ Homework for Wednesday, Jan. 20:
   * Study for Chapter 7 test.
 
 
-
-
 ---
 
 ### Online resources
