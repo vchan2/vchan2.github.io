@@ -146,6 +146,13 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 30-40 minutes/day on average
 
+Homework for Thursday, Jan. 28:
+  * Start 8.6
+
+Homework for Wednesday, Jan. 27:
+  * Do 8.2 
+  * Start 8.4 (8.3 optional)
+
 Homework for Monday, Jan. 25:
   * Do 7.6 (7.5 optional)
   * Start 8.2 (8.1 optional)
