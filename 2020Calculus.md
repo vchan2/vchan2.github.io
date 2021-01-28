@@ -217,6 +217,7 @@ Homework for Wednesday, Jan. 20:
     * Q31: Notation: D_x means d/dx, and D_x^2 means d^2/dx^2.
     * Q33: This is (algebraically) challenging, and has several answers (one which uses the original formula to simplify, and one which does not - both versions are valid in my mind).
     * Q42, Q43: These questions are part of Chapter 3, not Chapter 2.
+  * <a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice.pdf"> Inverse function differentiation </a>
 
 * <a href="https://vchan2.github.io/2020Calculus/2020-11-25_optimization_ex.pdf"> Optimization problems </a> (<a href="https://vchan2.github.io/2020Calculus/2020-11-25_optimization_ex_sol.pdf"> Solution </a>)
 
