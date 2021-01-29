@@ -159,9 +159,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 Homework expectations: 30-40 minutes/day on average
 
 Homework for Monday, Feb. 1:
-  * Finish the "Derivatives of inverse functions practice" handout
+  * Finish the <a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice.pdf"> "Derivatives of inverse functions practice" handout </a>
   * Study for your Chapter 8 test
-  * Start working on the Squeeze Theorem handout
+  * Start working on the <a href="https://vchan2.github.io/2020Calculus/Squeeze.pdf">"Squeeze Theorem" handout</a>
 
 Homework for Thursday, Jan. 28:
   * Start 8.6
@@ -219,6 +219,9 @@ Homework for Wednesday, Jan. 20:
 
 
 * <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
+
+* Limits
+  * <a href="https://vchan2.github.io/2020Calculus/Squeeze.pdf"> Squeeze Theorem </a>
 
 * Derivatives
   * <a href="https://www.symbolab.com/practice/derivatives-practice"> Generator for practice problems</a>
