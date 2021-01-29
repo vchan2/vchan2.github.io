@@ -163,9 +163,6 @@ Homework for Monday, Feb. 1:
   * Study for your Chapter 8 test
   * Start working on the Squeeze Theorem handout
 
-Homework for Monday, Feb. 1:
-  * Finish the <a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice.pdf">"Inverse function differentiation"</a> worksheet
-
 Homework for Thursday, Jan. 28:
   * Start 8.6
 
