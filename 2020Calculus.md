@@ -54,11 +54,9 @@ You should be proficient in sections covered in 7.6, 8.2, 8.4, 8.6, and derivati
 * Know how to apply logarithmic differentiation to find derivatives of functions involving lots of powers, products, and quotients, and to find derivatives of the form f(x)^g(x).
 * Know how to find the derivative of the inverse of a function at a given point.
 
-
+<!--
 Submit Chapter 7 <a href="https://forms.gle/zm7HGnVynaXp6Gu38"> here</a>
-
 Chapter 7 test scheduled for Wednesday, Jan. 20 - Wednesday, Jan. 27. 
-
 You should be proficient in sections covered in Chapter 7 (7.1-7.4). More precisely:
 * Know the Fundamental Trig Limits and be able to use them to find limits involving trig.
 * Be able to derive the 2nd and 3rd Fundamental Trig Limits using the 1st.
@@ -68,8 +66,8 @@ You should be proficient in sections covered in Chapter 7 (7.1-7.4). More precis
 * Be able to find local max/min and/or concavity of functions involving trig.
 * Be able to solve related rates problems with trig (will be 1 of the questions from 7.4, q3-14, with potentially different numbers and language)
 * Be able to solve optimization problems with trig (will be 1 of the questions from 7.4, q3-14, with potentially different numbers and language)
-
 Note that 7.5 and 7.6 are not explicitly covered on the test, but may be useful in developing your understanding (and will be necessary once we do Chapter 8).
+-->
 
 <!--
 <a href="https://forms.gle/xAm1p13AZw4eG1jD9"> Chapter 5 test submission </a>
