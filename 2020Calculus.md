@@ -159,6 +159,11 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 Homework expectations: 30-40 minutes/day on average
 
 Homework for Monday, Feb. 1:
+  * Finish the "Derivatives of inverse functions practice" handout
+  * Study for your Chapter 8 test
+  * Start working on the Squeeze Theorem handout
+
+Homework for Monday, Feb. 1:
   * Finish the <a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice.pdf">"Inverse function differentiation"</a> worksheet
 
 Homework for Thursday, Jan. 28:
