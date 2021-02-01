@@ -12,14 +12,12 @@ Quick links
 
 ### Updates
 
-If you are in grade 10 or 11 and wish to participate in the Cayley or Fermat (multiple-choice contests), please let me know ASAP. 
-
 I wanted to clarify something we did in class that I spoke about, but didn't write down explicitly: the derivative of arccos(cos x) is only for sure 1 on the interval [0,&pi;], where we're using the restricted domain. I want to emphasize that this is not the "true" derivative in the most general sense, which is actually 1 on the interval [2&pi;n,&pi;+2&pi;n], and is -1 otherwise. I leave as an exercise to see why, either using the chain rule or reducing the argument in arccos(cos x) and using reflection identities. We'll talk more about this at a later time, when we get into AP calculus material.
 
 <!--
 <b>NOTICE:</b> Master Aaron has changed the deadline of the <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> Winter Break math challenges </a> to Dec. 31. Please submit to <a href="mailto:vincent.chan@renertschool.ca">vincent.chan@renertschool.ca</a> with the subject "MAHMC Solutions"
 -->
-<b>NOTICE:</b> I will be offering "AP Calculus" in period 5 on Choice Fridays (location TBD) as a mandatory period for those who are pursuing AP Calculus this year or next year. This gives us an additional period of instruction every week, since we are behind schedule. Should we get back on track with my desired schedule, I will turn this into an optional period.
+<b>NOTICE:</b> I will be offering "AP Calculus" in period 5 on Choice Fridays (Room 2409/2410) as a mandatory period for those who are pursuing AP Calculus this year or next year. This gives us an additional period of instruction every week, since we are behind schedule. Should we get back on track with my desired schedule, I will turn this into an optional period.
 
 <!--
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in my zoom room. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
@@ -50,7 +48,7 @@ Testing centre hours are:
 7.6 + Ch 8 + Inverses test scheduled for Saturday, Feb. 6 - Wednesday, Feb. 10. 
 You should be proficient in sections covered in 7.6, 8.2, 8.4, 8.6, and derivatives of inverses. More precisely:
 * Know the derivatives of the inverse trig functions arcsin x, arccos x, arctan x (you should know how to derive them).
-* Know the derivatives of e^x and ln |x| (be able to derive this).
+* Know the derivatives of e^x and ln |x| (be able to derive this), as well as the more general b^x and log_b x.
 * Be able to solve derivative problems involving inverse trig, exponentials, and logarithms (e.g. involving constant multiple, sum/difference, product, quotient, chain rule, as well as higher-order, implicit differentiation, and applications).
 * Know how to apply logarithmic differentiation to find derivatives of functions involving lots of powers, products, and quotients, and to find derivatives of the form f(x)^g(x).
 * Know how to find the derivative of the inverse of a function at a given point.
