@@ -6,7 +6,7 @@ Quick links
   * [Online resources](#online-resources)
   * [Practice problems](#practice-problems)
   * [Challenges](#challenges)
-  * [Logistics] (#logistics)
+  * [Logistics](#logistics)
 
 
 
