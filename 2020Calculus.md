@@ -11,6 +11,8 @@ Quick links
 
 ### Updates
 
+<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_25.pdf"> Mini-math for February 1 (derivatives of inverses including logarithms and general exponentials) </a> 
+
 If you are in grade 10 or 11 and wish to participate in the Cayley or Fermat (multiple-choice contests), please let me know ASAP. 
 
 I wanted to clarify something we did in class that I spoke about, but didn't write down explicitly: the derivative of arccos(cos x) is only for sure 1 on the interval [0,&pi;], where we're using the restricted domain. I want to emphasize that this is not the "true" derivative in the most general sense, which is actually 1 on the interval [2&pi;n,&pi;+2&pi;n], and is -1 otherwise. I leave as an exercise to see why, either using the chain rule or reducing the argument in arccos(cos x) and using reflection identities. We'll talk more about this at a later time, when we get into AP calculus material.
@@ -214,6 +216,8 @@ Homework for Wednesday, Jan. 20:
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_11.pdf"> Mini-math for January 11 (derivatives of trigonometry) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_11_sol.pdf"> Solution </a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_18.pdf"> Mini-math for January 18 (derivatives of trigonometry) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_18_sol.pdf"> Solution </a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_25.pdf"> Mini-math for January 25 (derivatives of inverse trig) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_25_sol.pdf"> Solution </a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_25.pdf"> Mini-math for February 1 (derivatives of inverses including logarithms and general exponentials) </a> 
+  <!--(<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_25_sol.pdf"> Solution </a>)-->
 
 
 * <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
