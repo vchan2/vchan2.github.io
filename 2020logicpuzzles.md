@@ -36,6 +36,13 @@ Kakuro
    * <a href="https://krazydad.com/tablet/kakuro/"> Online Kakuro puzzles from krazdydad (same puzzles as below) </a>
    * <a href="https://krazydad.com/kakuro/"> Printable Kakuro puzzles from krazdydad (same puzzles as above) </a>
 
+Sudoku
+   * <a href="https://krazydad.com/tablet/sudoku/"> Online Sudoku puzzles from krazdydad (same puzzles as below) </a>
+   * <a href="https://krazydad.com/sudoku/"> Printable Sudoku puzzles from krazdydad (same puzzles as above) </a>
+
+Hidato
+  * <a href="https://www.puzzlesandbrains.com/Hidato.php"> Printable Hidato puzzles </a>
+
 ---
 
 ### Other Logic Puzzles
