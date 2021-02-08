@@ -46,6 +46,7 @@ Testing centre hours are:
   * Wednesdays, 4PM-7PM
   * Saturdays, 10AM-3PM
 
+<a href="https://forms.gle/TNHPzyLvSDVKJnYd6"> Chapter 8 test submission </a>
 
 7.6 + Ch 8 + Inverses test scheduled for Saturday, Feb. 6 - Wednesday, Feb. 10. 
 You should be proficient in sections covered in 7.6, 8.2, 8.4, 8.6, and derivatives of inverses. More precisely:
