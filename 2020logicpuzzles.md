@@ -45,7 +45,8 @@ Hidato
 
 Killer Sudoku
    * <a href="https://www.puzzle-killer-sudoku.com/"> Online Killer Sudoku puzzles </a>
-<!--   * <a href="https://krazydad.com/tablet/killersudoku/"> Online Killer Sudoku puzzles from krazdydad (same puzzles as below) </a>
+
+<!--* <a href="https://krazydad.com/tablet/killersudoku/"> Online Killer Sudoku puzzles from krazdydad (same puzzles as below) </a>
    * <a href="https://krazydad.com/killersudoku/"> Printable Killer Sudoku puzzles from krazdydad (same puzzles as above) </a>-->
 
 
