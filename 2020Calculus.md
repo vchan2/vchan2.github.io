@@ -158,6 +158,13 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 30-40 minutes/day on average
 
+AP Homework for Friday, Feb. 13:
+  * Finish the linearizations handout.
+  * Finish 10.4 and 11.1
+  
+Homework for Thursday, Feb. 11:
+  * Start working on 10.4 and 11.1
+
 Homework for Thursday, Feb. 3:
   * Finish the <a href="https://vchan2.github.io/2020Calculus/Squeeze.pdf">"Squeeze Theorem" handout</a>
   * Finish the <a href="https://vchan2.github.io/2020Calculus/IVT.pdf"> Intermediate Value Theorem handout</a>, Q1-4. The remaining questions are optional and are for review of Unit 1.
