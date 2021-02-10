@@ -204,23 +204,23 @@ Homework for Wednesday, Jan. 20:
 ### Practice problems
 
 * Mini-maths
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_21.pdf"> Mini-math for September 21 (limits) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_21_sol.pdf"> Solution </a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf"> Solution </a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_05.pdf"> Mini-math for October 5 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_05_sol.pdf"> Solution </a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_14.pdf"> Mini-math for October 14 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_14_sol.pdf"> Solution </a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_19.pdf"> Mini-math for October 19 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_19_sol.pdf"> Solution </a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_26.pdf"> Mini-math for October 26 (applications of derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_26_sol.pdf"> Solution </a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_02.pdf"> Mini-math for November 2 (applications of derivatives (related rates)) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_02_sol.pdf"> Solution </a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3꞉4_2020_11_16.pdf"> Mini-math for November 16 (extreme values) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_16_sol.pdf"> Solution </a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_23.pdf"> Mini-math for November 23 (extreme values) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_23_sol.pdf"> Solution </a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30.pdf"> Mini-math for November 30 (optimization) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30_sol.pdf"> Solution </a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_07.pdf"> Mini-math for December 7 (asymptotes and concavity) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_07_sol.pdf"> Solution </a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_14.pdf"> Mini-math for December 14 (concavity and curve sketching) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_14_sol.pdf"> Solution </a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_04.pdf"> Mini-math for January 4 (trigonometry review) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_04_sol.pdf"> Solution </a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_11.pdf"> Mini-math for January 11 (derivatives of trigonometry) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_11_sol.pdf"> Solution </a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_18.pdf"> Mini-math for January 18 (derivatives of trigonometry) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_18_sol.pdf"> Solution </a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_25.pdf"> Mini-math for January 25 (derivatives of inverse trig) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_25_sol.pdf"> Solution </a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_02_01.pdf"> Mini-math for February 1 (derivatives of inverses including logarithms and general exponentials) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_02_01_sol.pdf"> Solution </a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_21.pdf"> Mini-math for September 21 (limits) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_21_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_05.pdf"> Mini-math for October 5 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_05_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_14.pdf"> Mini-math for October 14 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_14_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_19.pdf"> Mini-math for October 19 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_19_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_26.pdf"> Mini-math for October 26 (applications of derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_26_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_02.pdf"> Mini-math for November 2 (applications of derivatives (related rates)) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_02_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3꞉4_2020_11_16.pdf"> Mini-math for November 16 (extreme values) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_16_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_23.pdf"> Mini-math for November 23 (extreme values) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_23_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30.pdf"> Mini-math for November 30 (optimization) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_07.pdf"> Mini-math for December 7 (asymptotes and concavity) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_07_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_14.pdf"> Mini-math for December 14 (concavity and curve sketching) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_14_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_04.pdf"> Mini-math for January 4 (trigonometry review) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_04_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_11.pdf"> Mini-math for January 11 (derivatives of trigonometry) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_11_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_18.pdf"> Mini-math for January 18 (derivatives of trigonometry) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_18_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_25.pdf"> Mini-math for January 25 (derivatives of inverse trig) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_25_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_02_01.pdf"> Mini-math for February 1 (derivatives of inverses including logarithms and general exponentials) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_02_01_sol.pdf">Solution</a>)
 
 
 * <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
@@ -243,9 +243,9 @@ Homework for Wednesday, Jan. 20:
     * Q31: Notation: D_x means d/dx, and D_x^2 means d^2/dx^2.
     * Q33: This is (algebraically) challenging, and has several answers (one which uses the original formula to simplify, and one which does not - both versions are valid in my mind).
     * Q42, Q43: These questions are part of Chapter 3, not Chapter 2.
-  * <a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice.pdf"> Inverse function differentiation </a>
+  * <a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice.pdf"> Inverse function differentiation </a> (<a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice_sol.pdf">Solution</a>)
 
-* <a href="https://vchan2.github.io/2020Calculus/2020-11-25_optimization_ex.pdf"> Optimization problems </a> (<a href="https://vchan2.github.io/2020Calculus/2020-11-25_optimization_ex_sol.pdf"> Solution </a>)
+* <a href="https://vchan2.github.io/2020Calculus/2020-11-25_optimization_ex.pdf"> Optimization problems </a> (<a href="https://vchan2.github.io/2020Calculus/2020-11-25_optimization_ex_sol.pdf">Solution</a>)
 
 ---
 
