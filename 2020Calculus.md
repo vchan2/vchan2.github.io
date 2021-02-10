@@ -12,7 +12,7 @@ Quick links
 
 ### Updates
 
-I have just finished a long meeting with Dr. Renert - long story short, we will be changing how we will be proceeding with the remaining units. Very soon, we will be moving on to Integral Calculus, rather than going back to cover the AP material we skipped. When we are doing Integral Calculus, we will focus on Math 31 material, then have a Math 31 test. Following this test, Math 31 is effectively finished, and we will go back to pick up all the AP material we skipped, including integral calculus-specific material. On Friday, we will continue with the AP units we skipped, starting with linearization this week.
+Reminder about Wednesday, Feb. 10: Mr. Merrick will administer this week's mini-math, which will take about 15 minutes. There are just 3 multiple-choice questions, so marking will be extremely easy. Afterward, you will have a work period for the rest of period 1. In period 2, we will be computing specific definite integrals using Riemann sums.
 
 I wanted to clarify something we did in class that I spoke about, but didn't write down explicitly: the derivative of arccos(cos x) is only for sure 1 on the interval [0,&pi;], where we're using the restricted domain. I want to emphasize that this is not the "true" derivative in the most general sense, which is actually 1 on the interval [2&pi;n,&pi;+2&pi;n], and is -1 otherwise. I leave as an exercise to see why, either using the chain rule or reducing the argument in arccos(cos x) and using reflection identities. We'll talk more about this at a later time, when we get into AP calculus material.
 
