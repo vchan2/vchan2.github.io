@@ -1,3 +1,5 @@
+### Renert pi Day challenge
+(Coming soon!)
 
 ### &pi; digit sheets
   * <a href="https://vchan2.github.io/pi/pi_100_10.pdf"> 100 digits, in groups of 5 and lines of 10 </a>
