@@ -48,7 +48,7 @@ Testing centre hours are:
 
 <a href="https://forms.gle/TNHPzyLvSDVKJnYd6"> Chapter 8 test submission </a>
 
-7.6 + Ch 8 + Inverses test scheduled for Saturday, Feb. 6 - Wednesday, Feb. 10. 
+7.6 + Ch 8 + Inverses test scheduled for Saturday, Feb. 6 - Saturday, Feb. 13. 
 You should be proficient in sections covered in 7.6, 8.2, 8.4, 8.6, and derivatives of inverses. More precisely:
 * Know the derivatives of the inverse trig functions arcsin x, arccos x, arctan x (you should know how to derive them).
 * Know the derivatives of e^x and ln &#124;x&#124; (be able to derive this), as well as the more general b^x and log_b x.
