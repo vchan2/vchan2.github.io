@@ -156,7 +156,7 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 ### Homework
 
-Homework expectations: 30-40 minutes/day on average
+Homework expectations: 40-60 minutes/day on average
 
 Homework for Monday, Feb. 22:
   * Finish 10.4 and 11.1 (I'm expecting you to be able to finish this by the weekend, so that you won't have work over the break.)
