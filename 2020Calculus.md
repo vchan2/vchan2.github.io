@@ -12,7 +12,7 @@ Quick links
 
 ### Updates
 
-Reminder about Wednesday, Feb. 10: Mr. Merrick will administer this week's mini-math, which will take about 15 minutes. There are just 3 multiple-choice questions, so marking will be extremely easy. Afterward, you will have a work period for the rest of period 1. In period 2, we will be computing specific definite integrals using Riemann sums.
+Thursday, Feb. 11: I will be teaching from home via zoom. Please bring your laptops, join with your camera on and muted. I don't yet know if there will be another latop connected to the TV for sound; we'll have to play it by ear.
 
 I wanted to clarify something we did in class that I spoke about, but didn't write down explicitly: the derivative of arccos(cos x) is only for sure 1 on the interval [0,&pi;], where we're using the restricted domain. I want to emphasize that this is not the "true" derivative in the most general sense, which is actually 1 on the interval [2&pi;n,&pi;+2&pi;n], and is -1 otherwise. I leave as an exercise to see why, either using the chain rule or reducing the argument in arccos(cos x) and using reflection identities. We'll talk more about this at a later time, when we get into AP calculus material.
 
