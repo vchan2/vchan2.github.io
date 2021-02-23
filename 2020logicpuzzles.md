@@ -36,18 +36,22 @@ Kakuro
    * <a href="https://krazydad.com/tablet/kakuro/"> Online Kakuro puzzles from krazdydad (same puzzles as below) </a>
    * <a href="https://krazydad.com/kakuro/"> Printable Kakuro puzzles from krazdydad (same puzzles as above) </a>
 
+Hidato
+   * <a href="https://www.puzzlesandbrains.com/Hidato.php"> Printable Hidato puzzles </a>
+
 Sudoku
    * <a href="https://krazydad.com/tablet/sudoku/"> Online Sudoku puzzles from krazdydad (same puzzles as below) </a>
    * <a href="https://krazydad.com/sudoku/"> Printable Sudoku puzzles from krazdydad (same puzzles as above) </a>
-
-Hidato
-   * <a href="https://www.puzzlesandbrains.com/Hidato.php"> Printable Hidato puzzles </a>
 
 Killer Sudoku
    * <a href="https://www.puzzle-killer-sudoku.com/"> Online Killer Sudoku puzzles </a>
 
 <!--* <a href="https://krazydad.com/tablet/killersudoku/"> Online Killer Sudoku puzzles from krazdydad (same puzzles as below) </a>
    * <a href="https://krazydad.com/killersudoku/"> Printable Killer Sudoku puzzles from krazdydad (same puzzles as above) </a>-->
+
+Jigsaw Sudoku
+   * <a href="https://krazydad.com/tablet/jigsawsudoku/"> Online Jigsaw Sudoku puzzles from krazdydad (same puzzles as below) </a>
+   * <a href="https://krazydad.com/jigsawsudoku/"> Printable Jigsaw Sudoku puzzles from krazdydad (same puzzles as above) </a>
 
 
 
