@@ -50,8 +50,8 @@ Killer Sudoku
    * <a href="https://krazydad.com/killersudoku/"> Printable Killer Sudoku puzzles from krazdydad (same puzzles as above) </a>-->
 
 Jigsaw Sudoku
-   * <a href="https://krazydad.com/tablet/jigsawsudoku/"> Online Jigsaw Sudoku puzzles from krazdydad (same puzzles as below) </a>
-   * <a href="https://krazydad.com/jigsawsudoku/"> Printable Jigsaw Sudoku puzzles from krazdydad (same puzzles as above) </a>
+   * <a href="https://krazydad.com/tablet/jigsaw/"> Online Jigsaw Sudoku puzzles from krazdydad (same puzzles as below) </a>
+   * <a href="https://krazydad.com/jigsaw/"> Printable Jigsaw Sudoku puzzles from krazdydad (same puzzles as above) </a>
 
 
 
