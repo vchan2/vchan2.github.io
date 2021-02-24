@@ -7,7 +7,6 @@
 * [Grade 4](2020gr4.md)
 * [Grade 5/6](2020gr56.md)
 * [Division 3/4 (Calculus)](2020Calculus.md)
-* <a href="http://renertmath.github.io/">Renert Math homepage</a> 
 
 ---
 ### Electives 
@@ -28,6 +27,10 @@
 * <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> Winter Break math challenges </a> (<a href="https://vchan2.github.io/Challenges/2020-21Winter_Break_winners.pdf">Results</a>)
 
 ---
+
+## Links
+
+* <a href="http://renertmath.github.io/">Renert Math homepage</a> 
 
 ### Exponential Growth and Epidemics (Brought to you by <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"> 3 Blue 1 Brown</a>)
 <p align="center"> 
