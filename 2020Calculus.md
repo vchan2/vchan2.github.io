@@ -14,7 +14,11 @@ Quick links
 
 <a href="https://renertmath.github.io/pi">&pi;-day information</a>
 
+AP Calculus: I have uploaded solutions to the linearization packet and both l'Hopital's Rule packets in the google shared folder.
+
+<!--
 I wanted to clarify something we did in class that I spoke about, but didn't write down explicitly: the derivative of arccos(cos x) is only for sure 1 on the interval [0,&pi;], where we're using the restricted domain. I want to emphasize that this is not the "true" derivative in the most general sense, which is actually 1 on the interval [2&pi;n,&pi;+2&pi;n], and is -1 otherwise. I leave as an exercise to see why, either using the chain rule or reducing the argument in arccos(cos x) and using reflection identities. We'll talk more about this at a later time, when we get into AP calculus material.
+-->
 
 <!--
 <b>NOTICE:</b> Master Aaron has changed the deadline of the <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> Winter Break math challenges </a> to Dec. 31. Please submit to <a href="mailto:vincent.chan@renertschool.ca">vincent.chan@renertschool.ca</a> with the subject "MAHMC Solutions"
@@ -46,8 +50,10 @@ Testing centre hours are:
   * Wednesdays, 4PM-7PM
   * Saturdays, 10AM-3PM
 
-<a href="https://forms.gle/TNHPzyLvSDVKJnYd6"> Chapter 8 test submission </a>
+Linearization and l'Hopital's Rule quiz tentatively Thursday, March 4, during regular class. 
 
+<!--
+<a href="https://forms.gle/TNHPzyLvSDVKJnYd6"> Chapter 8 test submission </a>
 7.6 + Ch 8 + Inverses test scheduled for Saturday, Feb. 6 - Saturday, Feb. 13. 
 You should be proficient in sections covered in 7.6, 8.2, 8.4, 8.6, and derivatives of inverses. More precisely:
 * Know the derivatives of the inverse trig functions arcsin x, arccos x, arctan x (you should know how to derive them).
@@ -55,6 +61,7 @@ You should be proficient in sections covered in 7.6, 8.2, 8.4, 8.6, and derivati
 * Be able to solve derivative problems involving inverse trig, exponentials, and logarithms (e.g. involving constant multiple, sum/difference, product, quotient, chain rule, as well as higher-order, implicit differentiation, and applications).
 * Know how to apply logarithmic differentiation to find derivatives of functions involving lots of powers, products, and quotients, and to find derivatives of the form f(x)^g(x).
 * Know how to find the derivative of the inverse of a function at a given point.
+* -->
 
 <!--
 Submit Chapter 7 <a href="https://forms.gle/zm7HGnVynaXp6Gu38"> here</a>
@@ -157,6 +164,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 ### Homework
 
 Homework expectations: 40-60 minutes/day on average
+
+AP Homework for Friday, Mar. 5:
+  * Finish the l'Hopital's Rule handouts.
 
 Homework for Wednesday, Feb. 24:
   * Do 10.1
