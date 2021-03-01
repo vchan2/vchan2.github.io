@@ -281,12 +281,12 @@ Calculus-based:
 * <a href="https://vchan2.github.io/2020Calculus/05Continuous_but_not_differentiable.pdf"> Continuous but not differentiable </a> - Does there exist a function which is continuous everywhere but differentiable nowhere?
 * <a href="https://vchan2.github.io/2020Calculus/Ch4_01inradius.pdf"> Inradius </a> - What is the third side of an isosceles triangle which maximizes the inradius?
 * <a href="https://vchan2.github.io/2020Calculus/Ch8_01definition_of_e.pdf"> Euler's number </a> - Prove that the two definitions of Euler's number we discussed in class are actually equivalent
-* <a href="https://vchan2.github.io/Challenges/pi%5Epi%5Epi%5Epi.pdf"> &pi;^&pi;^&pi;^&pi; </a> - Is &pi;^&pi;^&pi;^&pi; an integer?
 
 Assorted:
 * <a href="https://vincentchan02.wixsite.com/cosmospuzzle"> CoSMOS 2020 Challenge</a> 
 * <a href="https://vchan2.github.io/Challenges/Rainbow_Stones.pdf"> Rainbow stones </a>
 * <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> Winter Break math challenges </a> (<a href="https://vchan2.github.io/Challenges/2020-21Winter_Break_winners.pdf">Results</a>)
+* <a href="https://vchan2.github.io/Challenges/pi%5Epi%5Epi%5Epi.pdf"> &pi;^&pi;^&pi;^&pi; </a> - Is &pi;^&pi;^&pi;^&pi; an integer?
 
 
 ---
