@@ -53,6 +53,8 @@ Jigsaw Sudoku
    * <a href="https://krazydad.com/tablet/jigsaw/"> Online Jigsaw Sudoku puzzles from krazdydad (same puzzles as below) </a>
    * <a href="https://krazydad.com/jigsaw/"> Printable Jigsaw Sudoku puzzles from krazdydad (same puzzles as above) </a>
 
+Nonogram
+   * <a href="https://www.puzzle-nonograms.com/"> Online nonogram puzzles </a>
 
 
 ---
