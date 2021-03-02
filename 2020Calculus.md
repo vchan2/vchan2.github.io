@@ -50,7 +50,14 @@ Testing centre hours are:
   * Wednesdays, 4PM-7PM
   * Saturdays, 10AM-3PM
 
-Linearization and l'Hopital's Rule quiz tentatively Thursday, March 4, during regular class. 
+AP Calculus: Linearization and l'Hopital's Rule quiz tentatively Wednesday, March 10, during regular class. 
+
+Midterm part A scheduled for Saturday, March 6 - Wednesday, March 10.
+
+Midterm part B scheduled for Monday, March 8 - Saturday, March 13.
+
+
+<!--Chapter 10 and 11 test -->
 
 <!--
 <a href="https://forms.gle/TNHPzyLvSDVKJnYd6"> Chapter 8 test submission </a>
