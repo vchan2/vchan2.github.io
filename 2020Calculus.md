@@ -175,6 +175,12 @@ Homework expectations: 40-60 minutes/day on average
 AP Homework for Friday, Mar. 5:
   * Finish the l'Hopital's Rule handouts.
 
+Homework for Thursday, Mar. 4:
+  * Do 11.3, Q1-3
+
+Homework for Wednesday, Mar. 3:
+  * Finish 11.2
+
 Homework for Wednesday, Feb. 24:
   * Do 10.1
   * Start 11.2
