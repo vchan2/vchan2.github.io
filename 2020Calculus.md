@@ -54,7 +54,7 @@ AP Calculus: Linearization and l'Hopital's Rule quiz tentatively Wednesday, Marc
 
 Midterm part A scheduled for Saturday, March 6 - Wednesday, March 10.
 
-Midterm part B scheduled for Monday, March 8 - Saturday, March 13.
+Midterm part B scheduled for Saturday, March 6 - Saturday, March 13.
 
 
 <!--Chapter 10 and 11 test -->
