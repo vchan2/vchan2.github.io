@@ -14,6 +14,14 @@ Quick links
 
 <a href="https://renertmath.github.io/pi">&pi;-day information</a>
 
+Wednesday, March 10:
+  * AP Calculus: 30 minute Linearization and l'Hopital's Rule quiz in period 1. This will not be worth marks, but you will write in exam-like conditions. 
+  * Math 31: Work period in period 1. 
+  * For period 2, we will have class as normal, for everyone.
+
+Thursday, March 11:
+  * Work period for everyone.
+
 AP Calculus: I have uploaded solutions to the linearization packet and both l'Hopital's Rule packets in the google shared folder.
 
 <!--
@@ -50,7 +58,7 @@ Testing centre hours are:
   * Wednesdays, 4PM-7PM
   * Saturdays, 10AM-3PM
 
-AP Calculus: Linearization and l'Hopital's Rule quiz tentatively Wednesday, March 10, during regular class. 
+AP Calculus: 30 minute Linearization and l'Hopital's Rule quiz on Wednesday, March 10, during regular class. This will not be worth marks, but you will write in exam-like conditions. Math 31 people, you have a work period at this time. 
 
 Midterm part A scheduled for Saturday, March 6 - Wednesday, March 10.
 
@@ -171,6 +179,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 ### Homework
 
 Homework expectations: 40-60 minutes/day on average
+
+Homework for Monday, Mar. 8:
+  * Do 11.3, Q4-5. Q9 is optional for now, but good practice.
 
 AP Homework for Friday, Mar. 5:
   * Finish the l'Hopital's Rule handouts.
