@@ -180,6 +180,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 40-60 minutes/day on average
 
+Homework for Wednesday, Mar. 10:
+  * Finish 11.3
+
 Homework for Monday, Mar. 8:
   * Do 11.3, Q4-5. Q9 is optional for now, but good practice.
 
