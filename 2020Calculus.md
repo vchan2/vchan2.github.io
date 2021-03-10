@@ -14,11 +14,6 @@ Quick links
 
 <a href="https://renertmath.github.io/pi">&pi;-day information</a>
 
-Wednesday, March 10:
-  * AP Calculus: 30 minute Linearization and l'Hopital's Rule quiz in period 1. This will not be worth marks, but you will write in exam-like conditions. 
-  * Math 31: Work period in period 1. 
-  * For period 2, we will have class as normal, for everyone.
-
 Thursday, March 11:
   * Work period for everyone.
 
@@ -179,6 +174,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 ### Homework
 
 Homework expectations: 40-60 minutes/day on average
+
+Homework for Monday, Mar. 15:
+  * Finish 10.2
 
 Homework for Wednesday, Mar. 10:
   * Finish 11.3
