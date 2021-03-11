@@ -177,6 +177,7 @@ Homework expectations: 40-60 minutes/day on average
 
 Homework for Monday, Mar. 15:
   * Finish 10.2
+  * I have extra problem sets for the substitution rule and area between curves, let me know if you want them
 
 Homework for Wednesday, Mar. 10:
   * Finish 11.3
