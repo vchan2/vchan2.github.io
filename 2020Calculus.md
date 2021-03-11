@@ -14,11 +14,6 @@ Quick links
 
 <a href="https://renertmath.github.io/pi">&pi;-day information</a>
 
-Thursday, March 11:
-  * Work period for everyone.
-
-AP Calculus: I have uploaded solutions to the linearization packet and both l'Hopital's Rule packets in the google shared folder.
-
 <!--
 I wanted to clarify something we did in class that I spoke about, but didn't write down explicitly: the derivative of arccos(cos x) is only for sure 1 on the interval [0,&pi;], where we're using the restricted domain. I want to emphasize that this is not the "true" derivative in the most general sense, which is actually 1 on the interval [2&pi;n,&pi;+2&pi;n], and is -1 otherwise. I leave as an exercise to see why, either using the chain rule or reducing the argument in arccos(cos x) and using reflection identities. We'll talk more about this at a later time, when we get into AP calculus material.
 -->
@@ -26,14 +21,17 @@ I wanted to clarify something we did in class that I spoke about, but didn't wri
 <!--
 <b>NOTICE:</b> Master Aaron has changed the deadline of the <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> Winter Break math challenges </a> to Dec. 31. Please submit to <a href="mailto:vincent.chan@renertschool.ca">vincent.chan@renertschool.ca</a> with the subject "MAHMC Solutions"
 -->
+<!--
 <b>NOTICE:</b> I will be offering "AP Calculus" in period 5 on Choice Fridays (Room 2409/2410) as a mandatory period for those who are pursuing AP Calculus this year or next year. This gives us an additional period of instruction every week, since we are behind schedule. Should we get back on track with my desired schedule, I will turn this into an optional period.
+-->
+<b>NOTICE:</b> I will be offering "AP Calculus" in period 5 on Choice Fridays (Room 2409/2410) as a mandatory period for those who are pursuing AP Calculus this year or next year. This gives us an additional period of instruction every week, since we are behind schedule. Should we get back on track with my desired schedule, I will turn this into an optional period. This runs until Friday, March 26. Since we have the option of writing a delayed AP test, I'm optimistically going to not offer an "AP Calculus" class on Fridays in round 4 of Choice Friday. Please note that if we do fall behind again, I will be using the "Captivating Calculus" as a mandatory class instead, but I'm hoping it won't come to that - in fact, I'm hoping we'll be finished with the material early, to give plenty of time for practice.
 
 <!--
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in my zoom room. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 -->
 
 
-<b>NOTICE:</b> I will be offering "Captivating Calculus" in period 8 on Choice Fridays (location TBD). Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
+<b>NOTICE:</b> I will be offering "Captivating Calculus" in period 8 on Choice Fridays (2407). Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
 
 <b>NOTICE:</b> The Renert Tutoring Centre is running help sessions via zoom for this class. See Schoology for details.
