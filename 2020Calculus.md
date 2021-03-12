@@ -58,7 +58,7 @@ Midterm part A scheduled for Saturday, March 6 - Wednesday, March 10.
 Midterm part B scheduled for Saturday, March 6 - Saturday, March 13.
 
 
-<!--Chapter 10 and 11 test -->
+Chapter 10 and 11 test scheduled for Saturday, March 20 - Wednesday, March 24
 
 <!--
 <a href="https://forms.gle/TNHPzyLvSDVKJnYd6"> Chapter 8 test submission </a>
