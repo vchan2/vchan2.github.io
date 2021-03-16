@@ -51,14 +51,23 @@ Testing centre hours are:
   * Wednesdays, 4PM-7PM
   * Saturdays, 10AM-3PM
 
+
+Chapter 10 and 11 test scheduled for Saturday, March 20 - Saturday, March 27. You should be proficient in relevant sections and in-class content. Specifically:
+* Understand how to represent the area under a curve (or more generally, the signed area of a curve) using a limit of Riemann sums and using a definite integral.
+* Be able to represent a limit of Riemann sums as a definite integral or vice versa.
+* Know how to set up a left Riemann sum, right Riemann sum, Midpoint Rule, or Trapezoid Rule given a function or given a table of values .
+* Be able to use the Fundamental Theorem of Calculus II.
+* Be able to integrate basic functions (x^n, sin x, cos x, sec^2 x, sec x tan x, csc^2 x, csc x cot x, e^x, a^x, 1/(x^2+1), 1/sqrt(1-x^2))
+* Know how to use method of substitution both for indefinite integrals as well as definite integrals.
+* Be able to utilize simplification techniques to integrate (e.g. expanding, dividing).
+* Be able to compute the area between curves or bounded by curves, including those which intersect multiple times.
+
+
+<!--
 AP Calculus: 30 minute Linearization and l'Hopital's Rule quiz on Wednesday, March 10, during regular class. This will not be worth marks, but you will write in exam-like conditions. Math 31 people, you have a work period at this time. 
-
 Midterm part A scheduled for Saturday, March 6 - Wednesday, March 10.
-
 Midterm part B scheduled for Saturday, March 6 - Saturday, March 13.
-
-
-Chapter 10 and 11 test scheduled for Saturday, March 20 - Wednesday, March 24
+-->
 
 <!--
 <a href="https://forms.gle/TNHPzyLvSDVKJnYd6"> Chapter 8 test submission </a>
