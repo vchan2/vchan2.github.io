@@ -60,13 +60,15 @@ Jigsaw Sudoku
    * <a href="https://krazydad.com/tablet/jigsaw/"> Online Jigsaw Sudoku puzzles from krazdydad (same puzzles as below) </a>
    * <a href="https://krazydad.com/jigsawsudoku/"> Printable Jigsaw Sudoku puzzles from krazdydad (same puzzles as above) </a>
 
-<!--
 pidoku
+<!--
    * <a href="http://puzzleparasite.blogspot.com/2011/09/puzzle-10-pidoku.html"> Four pidokus from "Para's Puzzle Site" </a>
    * <a href="https://vchan2.github.io/logicpuzzles/pidoku2008.png"> 2008 Pidoku from brainfreezepuzzles.com (which no longer exists, unfortunately) </a>
    * <a href="https://vchan2.github.io/logicpuzzles/pidoku2009.png"> 2009 Pidoku from brainfreezepuzzles.com (which no longer exists, unfortunately) </a>
-   * <a href="https://vchan2.github.io/logicpuzzles/SEpidoku.png"> Pidoku from Stack Exchange, authored by NAMELESS </a>
 -->
+   * <a href="https://vchan2.github.io/logicpuzzles/pidokusmall.pdf"> Pidoku (small) from "Para's Puzzle Site" </a>
+   * <a href="https://vchan2.github.io/logicpuzzles/pidokusmall_killer.pdf"> Pidoku (small) from "Para's Puzzle Site" </a>
+   * <a href="https://vchan2.github.io/logicpuzzles/SEpidoku.png"> Pidoku from Stack Exchange, authored by NAMELESS </a>
 ---
 
 ### Other Logic Puzzles
