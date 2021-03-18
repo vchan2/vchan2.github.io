@@ -217,28 +217,6 @@ AP Homework for Friday, Feb. 13:
 Homework for Thursday, Feb. 11:
   * Start working on 10.4 and 11.1
 
-Homework for Thursday, Feb. 3:
-  * Finish the <a href="https://vchan2.github.io/2020Calculus/Squeeze.pdf">"Squeeze Theorem" handout</a>
-  * Finish the <a href="https://vchan2.github.io/2020Calculus/IVT.pdf"> Intermediate Value Theorem handout</a>, Q1-4. The remaining questions are optional and are for review of Unit 1.
-
-Homework for Monday, Feb. 1:
-  * Finish the <a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice.pdf"> "Derivatives of inverse functions practice" handout </a>
-  * Study for your Chapter 8 test
-  * Start working on the <a href="https://vchan2.github.io/2020Calculus/Squeeze.pdf">"Squeeze Theorem" handout</a>
-
-Homework for Thursday, Jan. 28:
-  * Start 8.6
-
-Homework for Wednesday, Jan. 27:
-  * Do 8.2 
-  * Start 8.4 (8.3 optional)
-
-Homework for Monday, Jan. 25:
-  * Do 7.6 (7.5 optional)
-  * Start 8.2 (8.1 optional)
-
-Homework for Wednesday, Jan. 20:
-  * Study for Chapter 7 test.
 
 
 ---
