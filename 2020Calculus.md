@@ -182,6 +182,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 40-60 minutes/day on average
 
+AP Homework for Monday, Mar. 22 :
+  * Finish the long division and completing the square handouts.
+
 Homework for Monday, Mar. 15:
   * Finish 10.2
   * I have extra problem sets for the substitution rule and area between curves, let me know if you want them
