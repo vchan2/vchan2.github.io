@@ -52,7 +52,7 @@ Testing centre hours are:
   * Saturdays, 10AM-3PM
 
 
-Chapter 10 and 11 test scheduled for Saturday, March 20 - Saturday, March 27. You should be proficient in relevant sections and in-class content. Specifically:
+Chapter 10 and 11 test scheduled for Monday, March 22 - Saturday, March 27. You should be proficient in relevant sections and in-class content. Specifically:
 * Understand how to represent the area under a curve (or more generally, the signed area of a curve) using a limit of Riemann sums and using a definite integral.
 * Be able to represent a limit of Riemann sums as a definite integral or vice versa.
 * Know how to set up a left Riemann sum, right Riemann sum, Midpoint Rule, or Trapezoid Rule given a function or given a table of values .
