@@ -185,6 +185,11 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 40-60 minutes/day on average
 
+<!--
+Homework for Monday, Mar. 29:
+  * Do Q1-26, 36-39 of 9.3 in Stewart (second packet). Q 52-54 optional.
+-->
+
 Homework for Wednesday, Mar. 24:
   * Do 9.2 and 9.3.
 
