@@ -184,6 +184,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 40-60 minutes/day on average
 
+Homework for Wednesday, Mar. 24:
+  * Do 9.2 and 9.3.
+
 AP Homework for Monday, Mar. 22 :
   * Finish the long division and completing the square handouts.
 
