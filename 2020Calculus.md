@@ -64,7 +64,7 @@ Chapter 10 and 11 test scheduled for Monday, March 22 - Monday, March 29. You sh
 * Be able to compute the area between curves or bounded by curves, including those which intersect multiple times.
 
 
-Chapter 9 quiz scheduled tentatively for Monday, March 29 - Saturday, April 3. You should be proficient in relevant sections and in-class content. 
+Chapter 9 quiz scheduled tentatively for Monday, April 12 - Saturday, April 17. You should be proficient in relevant sections and in-class content. 
 
 <!--
 AP Calculus: 30 minute Linearization and l'Hopital's Rule quiz on Wednesday, March 10, during regular class. This will not be worth marks, but you will write in exam-like conditions. Math 31 people, you have a work period at this time. 
