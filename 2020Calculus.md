@@ -187,46 +187,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 40-60 minutes/day on average
 
-Homework for Monday, Mar. 29:
-  * Do Q1-26, 36-39 of 9.3 in Stewart (second packet). Q 52-54 optional.
+Homework for Wednesday, March 31:
+ * CA#1 for 7.1 and 7.2
 
-Homework for Wednesday, Mar. 24:
-  * Do 9.2 and 9.3.
-
-AP Homework for Monday, Mar. 22 :
-  * Finish the long division and completing the square handouts.
-
-Homework for Monday, Mar. 15:
-  * Finish 10.2
-  * I have extra problem sets for the substitution rule and area between curves, let me know if you want them
-
-Homework for Wednesday, Mar. 10:
-  * Finish 11.3
-
-Homework for Monday, Mar. 8:
-  * Do 11.3, Q4-5. Q9 is optional for now, but good practice.
-
-AP Homework for Friday, Mar. 5:
-  * Finish the l'Hopital's Rule handouts.
-
-Homework for Thursday, Mar. 4:
-  * Do 11.3, Q1-3
-
-Homework for Wednesday, Mar. 3:
-  * Finish 11.2
-
-Homework for Wednesday, Feb. 24:
-  * Do 10.1
-  * Start 11.2
-
-Homework for Monday, Feb. 22:
-  * Finish 10.4 and 11.1 (I'm expecting you to be able to finish this by the weekend, so that you won't have work over the break.)
-
-AP Homework for Friday, Feb. 13:
-  * Finish the linearizations handout.
-  
-Homework for Thursday, Feb. 11:
-  * Start working on 10.4 and 11.1
 
 
 
