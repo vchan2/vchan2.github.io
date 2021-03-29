@@ -246,6 +246,9 @@ Homework for Thursday, Feb. 11:
   * <a href="https://www.desmos.com/calculator/rn3t3zbamk"> Visualization of relationship between a curve's concavity, its tangent line, and the second derivative </a>
 * Trigonometry
   * <a href="https://mathisonian.github.io/trig/etymology/"> The etymology of the 6 standard trig fuctions, complete with animations </a>
+* Differential Equations
+  * <a href="https://www.geogebra.org/m/W7dAdgqc"> Slope field plotter </a>
+
 
 ---
 
