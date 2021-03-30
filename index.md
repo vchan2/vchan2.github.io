@@ -27,6 +27,7 @@
 * <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> Winter Break math challenges </a> (<a href="https://vchan2.github.io/Challenges/2020-21Winter_Break_winners.pdf">Results</a>)
 * <a href="https://vchan2.github.io/Challenges/pi_digit_puzzle2021basic.pdf"> &pi; day 2021 challenge (basic version) </a>
 * <a href="https://vchan2.github.io/Challenges/pi_digit_puzzle2021.pdf"> &pi; day 2021 challenge (advanced version) </a>
+* <a href="https://vchan2.github.io/Challenges/2021-04-01_digit_puzzle.pdf"> 2021-04-01 challenge </a>
 
 
 ---
