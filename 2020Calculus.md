@@ -14,7 +14,6 @@ Quick links
 
 <a href="https://renertmath.github.io/pi">&pi;-day information</a>
 
-No lesson in period 5 tomorrow. Instead, I will be in our usual classroom answering questions.
 
 <!--
 I wanted to clarify something we did in class that I spoke about, but didn't write down explicitly: the derivative of arccos(cos x) is only for sure 1 on the interval [0,&pi;], where we're using the restricted domain. I want to emphasize that this is not the "true" derivative in the most general sense, which is actually 1 on the interval [2&pi;n,&pi;+2&pi;n], and is -1 otherwise. I leave as an exercise to see why, either using the chain rule or reducing the argument in arccos(cos x) and using reflection identities. We'll talk more about this at a later time, when we get into AP calculus material.
@@ -23,18 +22,23 @@ I wanted to clarify something we did in class that I spoke about, but didn't wri
 <!--
 <b>NOTICE:</b> Master Aaron has changed the deadline of the <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> Winter Break math challenges </a> to Dec. 31. Please submit to <a href="mailto:vincent.chan@renertschool.ca">vincent.chan@renertschool.ca</a> with the subject "MAHMC Solutions"
 -->
+
+<b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in my zoom room. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. Please note that if we do fall behind again, I will be using the "Captivating Calculus" as a mandatory class instead, but I'm hoping it won't come to that - in fact, I'm hoping we'll be finished with the material early, to give plenty of time for practice.
+
 <!--
 <b>NOTICE:</b> I will be offering "AP Calculus" in period 5 on Choice Fridays (Room 2409/2410) as a mandatory period for those who are pursuing AP Calculus this year or next year. This gives us an additional period of instruction every week, since we are behind schedule. Should we get back on track with my desired schedule, I will turn this into an optional period.
 -->
+<!--
 <b>NOTICE:</b> I will be offering "AP Calculus" in period 5 on Choice Fridays (Room 2409/2410) as a mandatory period for those who are pursuing AP Calculus this year or next year. This gives us an additional period of instruction every week, since we are behind schedule. Should we get back on track with my desired schedule, I will turn this into an optional period. This runs until Friday, March 26. Since we have the option of writing a delayed AP test, I'm optimistically going to not offer an "AP Calculus" class on Fridays in round 4 of Choice Friday. Please note that if we do fall behind again, I will be using the "Captivating Calculus" as a mandatory class instead, but I'm hoping it won't come to that - in fact, I'm hoping we'll be finished with the material early, to give plenty of time for practice.
+-->
 
 <!--
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in my zoom room. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 -->
 
-
+<!--
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 8 on Choice Fridays (2407). Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
-
+-->
 
 <b>NOTICE:</b> The Renert Tutoring Centre is running help sessions via zoom for this class. See Schoology for details.
 
@@ -53,8 +57,15 @@ Testing centre hours are:
   * Wednesdays, 4PM-7PM
   * Saturdays, 10AM-3PM
 
-<a href="https://forms.gle/CVhRQwLDXRZkzU9a9"> Chapter 10/11 test submission </a>
+Chapter 9 quiz scheduled for Wednesday, April 14 - Monday, April 19. You should be proficient in relevant sections and in-class content (9.2 and 9.3 in the standard textbook, 9.3 in the extra handout). Specifically:
+* Be able to solve simple differential equations of the form dy/dx = F(x)
+* Be able to use a differential equation to find tangent lines
+* Know how to solve problems involving motion using differential equations
+* Be able to use separation of variables to solve differential equations of the form dy/dx = f(x)g(y)
+* Be able to solve IVP
 
+<!--
+<a href="https://forms.gle/CVhRQwLDXRZkzU9a9"> Chapter 10/11 test submission </a>
 Chapter 10 and 11 test scheduled for Monday, March 22 - Monday, March 29. You should be proficient in relevant sections and in-class content. Specifically:
 * Understand how to represent the area under a curve (or more generally, the signed area of a curve) using a limit of Riemann sums and using a definite integral.
 * Be able to represent a limit of Riemann sums as a definite integral or vice versa.
@@ -64,9 +75,8 @@ Chapter 10 and 11 test scheduled for Monday, March 22 - Monday, March 29. You sh
 * Know how to use method of substitution both for indefinite integrals as well as definite integrals.
 * Be able to utilize simplification techniques to integrate (e.g. expanding, dividing).
 * Be able to compute the area between curves or bounded by curves, including those which intersect multiple times.
+-->
 
-
-Chapter 9 quiz scheduled tentatively for Monday, April 12 - Saturday, April 17. You should be proficient in relevant sections and in-class content. 
 
 <!--
 AP Calculus: 30 minute Linearization and l'Hopital's Rule quiz on Wednesday, March 10, during regular class. This will not be worth marks, but you will write in exam-like conditions. Math 31 people, you have a work period at this time. 
