@@ -12,6 +12,9 @@ Quick links
 
 ### Updates
 
+<b>Notice:</b> Bring your laptops for Wendesday, April 14, so we can continue our exploration with slope fields.
+
+
 FYI: the sections 7.6 and 7.7 in the third packet I handed out (contains CA #1 and CA #2 for each section) are good additional practice for the differential equations test.
 
 For 7.7, Q5 and 7 on CA #1 and CA #2 are related to section 7.4, which we haven't finished yet, and will not be tested. 
