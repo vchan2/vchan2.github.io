@@ -258,6 +258,7 @@ Homework for Wednesday, March 31:
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_02_10.pdf"> Mini-math for February 10 (Riemann sums) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_02_10_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_03_01.pdf"> Mini-math for March 1 (definite integrals) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_03_01_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_03_08.pdf"> Mini-math for March 8 (indefinite integrals and Substitution Rule) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_03_08_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_04_12.pdf"> Mini-math for April 12 (differential equations) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_04_12_sol.pdf">Solution</a>)
 
 
 * <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
