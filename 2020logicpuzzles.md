@@ -73,6 +73,10 @@ pidoku
    * <a href="https://vchan2.github.io/logicpuzzles/pidoku2009.png"> 2009 Pidoku from brainfreezepuzzles.com (which no longer exists, unfortunately) </a>
 -->
 
+Masyu
+   * <a href="https://krazydad.com/tablet/masyu/"> Online Masyu puzzles from krazdydad (same puzzles as below) </a>
+   * <a href="https://krazydad.com/masyu/"> Printable Masyu puzzles from krazdydad (same puzzles as above) </a>
+
 
 ### Other Logic Puzzles
 
