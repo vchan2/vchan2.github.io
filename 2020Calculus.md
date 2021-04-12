@@ -12,11 +12,15 @@ Quick links
 
 ### Updates
 
+FYI: the sections 7.6 and 7.7 in the third packet I handed out (contains CA #1 and CA #2 for each section) are good additional practice for the differential equations test.
+
+For 7.7, Q5 and 7 on CA #1 and CA #2 are related to section 7.4, which we haven't finished yet, and will not be tested. 
+
+(Packets can be found in their usual spot, shared notes -> textbook chapters and practice problems -> Unit 7)
+
 <!--
 <a href="https://renertmath.github.io/pi">&pi;-day information</a>
 -->
-
-<b>NOTICE:</b> I will be handing back the Chapter 10/11 test, as well as going over key points of the test which you struggled with. We'll then have a mini-math focused on chapter 9, which will be formally tested starting Wednesday. This means Math 31 students should be coming to class tomorrow.
 
 <!--
 I wanted to clarify something we did in class that I spoke about, but didn't write down explicitly: the derivative of arccos(cos x) is only for sure 1 on the interval [0,&pi;], where we're using the restricted domain. I want to emphasize that this is not the "true" derivative in the most general sense, which is actually 1 on the interval [2&pi;n,&pi;+2&pi;n], and is -1 otherwise. I leave as an exercise to see why, either using the chain rule or reducing the argument in arccos(cos x) and using reflection identities. We'll talk more about this at a later time, when we get into AP calculus material.
