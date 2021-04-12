@@ -200,6 +200,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 40-60 minutes/day on average
 
+Homework for Monday, April 12:
+ * CA#1 for 7.3
+
 Homework for Wednesday, March 31:
  * CA#1 for 7.1 and 7.2
 
