@@ -92,6 +92,7 @@ Knights and Knaves
 
 
 River Crossing
+   * <a href="https://vchan2.github.io/logicpuzzles/river_crossing.pdf"> Puzzles 1-5 </a>
 
 
 ---
