@@ -12,7 +12,7 @@ Quick links
 
 ### Updates
 
-<b>Notice:</b> Bring your laptops for Wendesday, April 14, so we can continue our exploration with slope fields.
+<b>Notice:</b> In Stewart, 9.3 Q7, 8, 15 use integration by parts - skip it.
 
 
 FYI: the sections 7.6 and 7.7 in the third packet I handed out (contains CA #1 and CA #2 for each section) are good additional practice for the differential equations test.
