@@ -67,6 +67,8 @@ Testing centre hours are:
   * Wednesdays, 4PM-7PM
   * Saturdays, 10AM-3PM
 
+<a href="https://forms.gle/oiWbqJiuxr8SWy2A7"> Chapter 9 test submission </a>
+
 Chapter 9 quiz scheduled for Wednesday, April 14 - Monday, April 19. You should be proficient in relevant sections and in-class content (9.2 and 9.3 in the standard textbook, 9.3 in the extra handout). Specifically:
 * Be able to solve simple differential equations of the form dy/dx = F(x)
 * Be able to use a differential equation to find tangent lines
