@@ -212,7 +212,11 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 40-60 minutes/day on average
 
-Homework for Wednesday, April 15:
+Homework for Monday, April 19:
+ * Watch videos and do CA#1 for 6.1 and 6.6
+ * Complete "Numerical Integration" handout
+
+Homework for Thursday, April 16:
  * CA#1 for 7.4 and 7.8
 
 Homework for Monday, April 12:
