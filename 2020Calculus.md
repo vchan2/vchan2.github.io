@@ -80,7 +80,7 @@ Chapter 9 quiz scheduled for Wednesday, April 14 - Wednesday, April 21. You shou
 * Be able to use a differential equation to find tangent lines
 * Know how to solve problems involving motion using differential equations
 * Be able to use separation of variables to solve differential equations of the form dy/dx = f(x)g(y)
-* Be able to solve IVP
+* Be able to solve initial value problems (IVP)
 
 <!--
 <a href="https://forms.gle/CVhRQwLDXRZkzU9a9"> Chapter 10/11 test submission </a>
