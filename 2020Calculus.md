@@ -12,6 +12,9 @@ Quick links
 
 ### Updates
 
+Friday, April 16: There will be an optional help session offered at 1PM-2PM. Let me know if you would like to meet but can't make that time.
+
+
 <b>Notice:</b> In Stewart, 9.3 Q7, 8, 15 use integration by parts - skip it.
 
 
