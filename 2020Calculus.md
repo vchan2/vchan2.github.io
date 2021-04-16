@@ -12,6 +12,9 @@ Quick links
 
 ### Updates
 
+<b>NOTICE:</b> The Chapter 9 test will be extended to at least Wednesday in light of the current issue.
+
+
 Friday, April 16: There will be an optional help session offered at 1PM-2PM. Let me know if you would like to meet but can't make that time.
 
 
@@ -72,7 +75,7 @@ Testing centre hours are:
 
 <a href="https://forms.gle/oiWbqJiuxr8SWy2A7"> Chapter 9 test submission </a>
 
-Chapter 9 quiz scheduled for Wednesday, April 14 - Monday, April 19. You should be proficient in relevant sections and in-class content (9.2 and 9.3 in the standard textbook, 9.3 in the extra handout). Specifically:
+Chapter 9 quiz scheduled for Wednesday, April 14 - Wednesday, April 21. You should be proficient in relevant sections and in-class content (9.2 and 9.3 in the standard textbook, 9.3 in the extra handout). Specifically:
 * Be able to solve simple differential equations of the form dy/dx = F(x)
 * Be able to use a differential equation to find tangent lines
 * Know how to solve problems involving motion using differential equations
