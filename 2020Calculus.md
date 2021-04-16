@@ -214,7 +214,7 @@ Homework expectations: 40-60 minutes/day on average
 
 Homework for Monday, April 19:
  * Watch videos and do CA#1 for 6.1 and 6.6
- * Complete "Numerical Integration" handout
+ * Complete <a href="https://vchan2.github.io/2020Calculus/Numerical_Integration.pdf">Numerical Integration</a> handout
 
 Homework for Thursday, April 16:
  * CA#1 for 7.4 and 7.8
