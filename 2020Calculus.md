@@ -75,7 +75,7 @@ Testing centre hours are:
 
 <a href="https://forms.gle/oiWbqJiuxr8SWy2A7"> Chapter 9 test submission </a>
 
-Chapter 9 quiz scheduled for Wednesday, April 14 - Wednesday, April 21. You should be proficient in relevant sections and in-class content (9.2 and 9.3 in the standard textbook, 9.3 in the extra handout). Specifically:
+Chapter 9 quiz scheduled for Wednesday, April 14 - Saturday, April 24. You should be proficient in relevant sections and in-class content (9.2 and 9.3 in the standard textbook, 9.3 in the extra handout). Specifically:
 * Be able to solve simple differential equations of the form dy/dx = F(x)
 * Be able to use a differential equation to find tangent lines
 * Know how to solve problems involving motion using differential equations
@@ -214,6 +214,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 ### Homework
 
 Homework expectations: 40-60 minutes/day on average
+
+Homework for Wednesday, April 21:
+ * Finish the practice and CA#1 for 6.5 and 8.1
 
 Homework for Monday, April 19:
  * Watch videos and do CA#1 for 6.1 and 6.6
