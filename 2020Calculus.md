@@ -253,6 +253,9 @@ Homework for Wednesday, March 31:
 * Differential Equations
   * <a href="https://www.geogebra.org/m/W7dAdgqc"> Slope field plotter </a>
 * <a href="https://calculus.flippedmath.com/list-of-lessons.html"> Notes, videos, and practice problems for all of AP Calculus AB </a>
+* Integration
+  * <a href="https://www.desmos.com/calculator/q3avtnrgoq">Volume with cross sections</a>
+  * <a href="https://www.desmos.com/calculator/0ir4zzke9i">Volumes of revolution</a>
 
 ---
 
