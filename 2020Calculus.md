@@ -12,8 +12,9 @@ Quick links
 
 ### Updates
 
-These are the sections which we'll be exploring until the end of next week: 8.7, 8.8, 8.9, 8.10, 8.11, 8.12, 8.3.
+<b>Notice:</b> This afternoon's AP tutorial led by Dr. Renert will take place at 4:45 PM.
 
+These are the sections which we'll be exploring until the end of next week: 8.7, 8.8, 8.9, 8.10, 8.11, 8.12, 8.3.
 
 <b>Notice:</b> In Stewart, 9.3 Q7, 8, 15 use integration by parts - skip it.
 
@@ -72,7 +73,7 @@ Testing centre hours are:
 
 <a href="https://forms.gle/oiWbqJiuxr8SWy2A7"> Chapter 9 test submission </a>
 
-Chapter 9 quiz scheduled for Wednesday, April 14 - Saturday, April 24. You should be proficient in relevant sections and in-class content (9.2 and 9.3 in the standard textbook, 9.3 in the extra handout). Specifically:
+Chapter 9 quiz scheduled for Wednesday, April 14 - Sunday, April 25. You should be proficient in relevant sections and in-class content (9.2 and 9.3 in the standard textbook, 9.3 in the extra handout). Specifically:
 * Be able to solve simple differential equations of the form dy/dx = F(x)
 * Be able to use a differential equation to find tangent lines
 * Know how to solve problems involving motion using differential equations
@@ -211,6 +212,12 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 ### Homework
 
 Homework expectations: 40-60 minutes/day on average
+
+Homework for Monday, April 26:
+ * Finish the practice and CA#1 for 8.7 and 8.8
+
+Homework for Thursday, April 22:
+ * Finish the practice and CA#1 for 8.5
 
 Homework for Wednesday, April 21:
  * Finish the practice and CA#1 for 6.5 and 8.1
