@@ -12,10 +12,7 @@ Quick links
 
 ### Updates
 
-<b>NOTICE:</b> The Chapter 9 test will be extended to at least Wednesday in light of the current issue.
-
-
-Friday, April 16: There will be an optional help session offered at 1PM-2PM. Let me know if you would like to meet but can't make that time.
+These are the sections which we'll be exploring until the end of next week: 8.7, 8.8, 8.9, 8.10, 8.11, 8.12, 8.3.
 
 
 <b>Notice:</b> In Stewart, 9.3 Q7, 8, 15 use integration by parts - skip it.
