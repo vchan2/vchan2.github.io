@@ -313,6 +313,9 @@ Homework for Wednesday, March 31:
 
 * <a href="https://vchan2.github.io/2020Calculus/2020-11-25_optimization_ex.pdf"> Optimization problems </a> (<a href="https://vchan2.github.io/2020Calculus/2020-11-25_optimization_ex_sol.pdf">Solution</a>)
 
+* Integration
+  * <a href="https://vchan2.github.io/2020Calculus/Numerical_Integration.pdf">Numerical Integration</a> (<a href="https://vchan2.github.io/2020Calculus/Numerical_Integration_sol.pdf">Solution</a>)
+
 ---
 
 ### Challenges 
