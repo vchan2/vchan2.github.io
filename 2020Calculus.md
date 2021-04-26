@@ -213,6 +213,10 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 40-60 minutes/day on average
 
+Homework for Wednesday, April 28:
+ * If you struggled with today's lesson, take a look at the videos on flippedmath on sections 8.9-8.12
+ * Try doing the problems on the practice and CA#1 of 8.9-8.12
+
 Homework for Monday, April 26:
  * Finish the practice and CA#1 for 8.7 and 8.8
 
