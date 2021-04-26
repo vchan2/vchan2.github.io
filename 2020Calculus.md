@@ -12,18 +12,15 @@ Quick links
 
 ### Updates
 
-<b>Notice:</b> This afternoon's AP tutorial led by Dr. Renert will take place at 4:45 PM.
-
 These are the sections which we'll be exploring until the end of next week: 8.7, 8.8, 8.9, 8.10, 8.11, 8.12, 8.3.
 
+<!--
 <b>Notice:</b> In Stewart, 9.3 Q7, 8, 15 use integration by parts - skip it.
-
-
 FYI: the sections 7.6 and 7.7 in the third packet I handed out (contains CA #1 and CA #2 for each section) are good additional practice for the differential equations test.
-
 For 7.7, Q5 and 7 on CA #1 and CA #2 are related to section 7.4, which we haven't finished yet, and will not be tested. 
-
 (Packets can be found in their usual spot, shared notes -> textbook chapters and practice problems -> Unit 7)
+-->
+
 
 <!--
 <a href="https://renertmath.github.io/pi">&pi;-day information</a>
@@ -71,14 +68,15 @@ Testing centre hours are:
   * Wednesdays, 4PM-7PM
   * Saturdays, 10AM-3PM
 
+<!--
 <a href="https://forms.gle/oiWbqJiuxr8SWy2A7"> Chapter 9 test submission </a>
-
 Chapter 9 quiz scheduled for Wednesday, April 14 - Sunday, April 25. You should be proficient in relevant sections and in-class content (9.2 and 9.3 in the standard textbook, 9.3 in the extra handout). Specifically:
 * Be able to solve simple differential equations of the form dy/dx = F(x)
 * Be able to use a differential equation to find tangent lines
 * Know how to solve problems involving motion using differential equations
 * Be able to use separation of variables to solve differential equations of the form dy/dx = f(x)g(y)
 * Be able to solve initial value problems (IVP)
+-->
 
 <!--
 <a href="https://forms.gle/CVhRQwLDXRZkzU9a9"> Chapter 10/11 test submission </a>
