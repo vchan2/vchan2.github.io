@@ -77,6 +77,12 @@ Masyu
    * <a href="https://krazydad.com/tablet/masyu/"> Online Masyu puzzles from krazdydad (same puzzles as below) </a>
    * <a href="https://krazydad.com/masyu/"> Printable Masyu puzzles from krazdydad (same puzzles as above) </a>
 
+Slitherlink
+   * <a href="https://krazydad.com/tablet/slitherlink/"> Online Slitherlink puzzles from krazdydad (same puzzles as below) </a>
+   * <a href="https://krazydad.com/slitherlink/"> Printable Slitherlink puzzles from krazdydad (same puzzles as above) </a>
+
+
+
 
 ### Other Logic Puzzles
 
