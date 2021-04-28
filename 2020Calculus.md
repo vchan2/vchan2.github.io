@@ -12,7 +12,7 @@ Quick links
 
 ### Updates
 
-For Wednesday, April 28th: <a href="https://vchan2.github.io/2020Calculus/Volumes.pdf"> questions on volumes </a>
+For Wednesday, April 28th: <a href="https://vchan2.github.io/2020Calculus/Volumes.pdf"> questions on volumes</a>. Have a graphing calculator (what you would use on the AP exam) ready.
 
 These are the sections which we'll be exploring until the end of next week: 8.7, 8.8, 8.9, 8.10, 8.11, 8.12, 8.3.
 
