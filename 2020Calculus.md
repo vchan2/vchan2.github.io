@@ -12,10 +12,6 @@ Quick links
 
 ### Updates
 
-For Wednesday, April 28th: <a href="https://vchan2.github.io/2020Calculus/Volumes.pdf"> questions on volumes</a>. Have a graphing calculator (what you would use on the AP exam) ready.
-
-These are the sections which we'll be exploring until the end of next week: 8.7, 8.8, 8.9, 8.10, 8.11, 8.12, 8.3.
-
 <!--
 <b>Notice:</b> In Stewart, 9.3 Q7, 8, 15 use integration by parts - skip it.
 FYI: the sections 7.6 and 7.7 in the third packet I handed out (contains CA #1 and CA #2 for each section) are good additional practice for the differential equations test.
@@ -214,7 +210,7 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 Homework expectations: 40-60 minutes/day on average
 
 Homework for Monday, May 3:
- * Finish the practice and CA#1 of 8.9-8.12
+ * Finish the practice and CA#1 of 8.9-8.12, and 8.3
  * Finish Q3 of the <a href="https://vchan2.github.io/2020Calculus/Volumes.pdf">questions on volumes</a>
 
 Homework for Wednesday, April 28:
