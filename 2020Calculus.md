@@ -209,6 +209,10 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 40-60 minutes/day on average
 
+Homework for Wednesday, May 5:
+ * Finish the practice and CA#1 of 5.1
+ * Finish the Unit 1 Progress Check: MCQ Part A, B, and C. You should be aiming to finish each in twice as many minutes as there are questions.
+
 Homework for Monday, May 3:
  * Finish the practice and CA#1 of 8.9-8.12, and 8.3
  * Finish Q3 of the <a href="https://vchan2.github.io/2020Calculus/Volumes.pdf">questions on volumes</a>
