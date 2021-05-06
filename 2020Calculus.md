@@ -209,6 +209,15 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 40-60 minutes/day on average
 
+Homework for Thursday, May 12:
+ * Finish the Unit 8 Progress Check: MCQ Part A and B (2 units total). You should be aiming to finish each in twice as many minutes as there are questions.
+
+Homework for Wednesday, May 11:
+ * Finish the Unit 6 Progress Check: MCQ Part B, and Unit 7 Progress Check: MCQ Part A and B (3 units total). You should be aiming to finish each in twice as many minutes as there are questions.
+
+Homework for Monday, May 10:
+ * Finish the Unit 3 Progress Check: MCQ Part A, Unit 4 Progress Check: MCQ Part A, Unit 5 Progress Check: MCQ Part A, B, and C, and Unit 6 Progress Check: MCQ Part A (6 units total). You should be aiming to finish each in twice as many minutes as there are questions.
+
 Homework for Thursday, May 6:
  * Finish the Unit 2 Progress Check: MCQ Part A and B. You should be aiming to finish each in twice as many minutes as there are questions.
 
