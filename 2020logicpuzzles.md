@@ -81,6 +81,10 @@ Slitherlink
    * <a href="https://krazydad.com/tablet/slitherlink/"> Online Slitherlink puzzles from krazdydad (same puzzles as below) </a>
    * <a href="https://krazydad.com/slitherlink/"> Printable Slitherlink puzzles from krazdydad (same puzzles as above) </a>
 
+Cow & Cactus
+   * <a href="https://krazydad.com/tablet/corral/"> Online Cow & Cactus puzzles from krazdydad (same puzzles as below) </a>
+   * <a href="https://krazydad.com/corral/"> Printable Cow & Cactus puzzles from krazdydad (same puzzles as above) </a>
+
 
 
 
