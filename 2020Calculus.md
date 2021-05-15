@@ -12,6 +12,8 @@ Quick links
 
 ### Updates
 
+AP Calculus Final Exam on Monday, May 24, in-school.
+
 <!--
 <b>Notice:</b> In Stewart, 9.3 Q7, 8, 15 use integration by parts - skip it.
 FYI: the sections 7.6 and 7.7 in the third packet I handed out (contains CA #1 and CA #2 for each section) are good additional practice for the differential equations test.
@@ -65,6 +67,9 @@ Testing centre hours are:
   * Mondays, 4PM-7PM
   * Wednesdays, 4PM-7PM
   * Saturdays, 10AM-3PM
+
+AP Calculus Final Exam on Monday, May 24, in-school.
+
 
 <!--
 <a href="https://forms.gle/oiWbqJiuxr8SWy2A7"> Chapter 9 test submission </a>
