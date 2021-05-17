@@ -42,6 +42,7 @@ Hidato
 Nonogram
    * <a href="https://www.puzzle-nonograms.com/"> Online nonogram puzzles </a>
    * <a href="https://www.nonograms.org/"> Online nonogram puzzles </a>
+   * <a href="https://nonograms-katana.com/"> Online nonogram puzzles </a>
 
 Binox
    * <a href="https://krazydad.com/tablet/binox/"> Online Binox puzzles from krazdydad (same puzzles as below) </a>
