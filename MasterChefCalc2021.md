@@ -4,12 +4,11 @@ After completing your recipe, you are requested to share a 3-6 minute video with
 
 You may work individually, or in teams of 2 or 3.
 
-You will be given a score based on a 40 point scale marked on four categories:
-
-Portrayal of approximation method through your recipe and video description (10 points)
-Beauty, style, and performance of food and video (10 points)
-Creativity (10 points)
-Taste (judged purely on your reaction to first bite, 10 points)
+You will be given a score based on a 40-point scale marked on four categories:
+  * Portrayal of approximation method through your recipe and video description (10 points)
+  * Beauty, style, and performance of food and video (10 points)
+  * Creativity (10 points)
+  * Taste (judged purely on your reaction to first bite, 10 points)
 
 Deadline: Wednesday, June 2
 
