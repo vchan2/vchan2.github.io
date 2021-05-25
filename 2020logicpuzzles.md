@@ -86,7 +86,9 @@ Cow & Cactus
    * <a href="https://krazydad.com/tablet/corral/"> Online Cow & Cactus puzzles from krazdydad (same puzzles as below) </a>
    * <a href="https://krazydad.com/corral/"> Printable Cow & Cactus puzzles from krazdydad (same puzzles as above) </a>
 
-
+Area 51
+   * <a href="https://krazydad.com/tablet/area51/"> Online Cow & Cactus puzzles from krazdydad (same puzzles as below) </a>
+   * <a href="https://krazydad.com/area51/"> Printable Cow & Cactus puzzles from krazdydad (same puzzles as above) </a>
 
 
 ### Other Logic Puzzles
