@@ -12,7 +12,9 @@ Quick links
 
 ### Updates
 
+<!--
 AP Calculus Final Exam on Monday, May 24, in-school.
+-->
 
 <!--
 <b>Notice:</b> In Stewart, 9.3 Q7, 8, 15 use integration by parts - skip it.
@@ -34,7 +36,9 @@ I wanted to clarify something we did in class that I spoke about, but didn't wri
 <b>NOTICE:</b> Master Aaron has changed the deadline of the <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> Winter Break math challenges </a> to Dec. 31. Please submit to <a href="mailto:vincent.chan@renertschool.ca">vincent.chan@renertschool.ca</a> with the subject "MAHMC Solutions"
 -->
 
+<!--
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in my zoom room. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. Please note that if we do fall behind again, I will be using the "Captivating Calculus" as a mandatory class instead, but I'm hoping it won't come to that - in fact, I'm hoping we'll be finished with the material early, to give plenty of time for practice.
+-->
 
 <!--
 <b>NOTICE:</b> I will be offering "AP Calculus" in period 5 on Choice Fridays (Room 2409/2410) as a mandatory period for those who are pursuing AP Calculus this year or next year. This gives us an additional period of instruction every week, since we are behind schedule. Should we get back on track with my desired schedule, I will turn this into an optional period.
@@ -51,7 +55,9 @@ I wanted to clarify something we did in class that I spoke about, but didn't wri
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 8 on Choice Fridays (2407). Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 -->
 
+<!--
 <b>NOTICE:</b> The Renert Tutoring Centre is running help sessions via zoom for this class. See Schoology for details.
+-->
 
 <!--
 Section 3.5 corrections:
@@ -63,13 +69,16 @@ Section 3.5 corrections:
 
 ### Exams
 
+<!--
 Testing centre hours are:
   * Mondays, 4PM-7PM
   * Wednesdays, 4PM-7PM
   * Saturdays, 10AM-3PM
+-->
 
+<!--
 AP Calculus Final Exam on Monday, May 24, in-school.
-
+-->
 
 <!--
 <a href="https://forms.gle/oiWbqJiuxr8SWy2A7"> Chapter 9 test submission </a>
@@ -214,53 +223,7 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 40-60 minutes/day on average
 
-Homework for Monday, May 17:
- * Finish the remaining Progress Checks: Unit 6 Part B, Unit 7, Unit 8 Parts A and B.
-
-Homework for Wednesday, May 11:
- * Finish the Unit 5 Progress Check: MCQ Part C and 6 Progress Check: MCQ Part A. (Unit 6 Progress Check: MCQ Part B optional.) You should be aiming to finish each in twice as many minutes as there are questions.
-
-Homework for Monday, May 10:
- * Finish the Unit 3 Progress Check: MCQ Part A, Unit 4 Progress Check: MCQ Part A, Unit 5 Progress Check: MCQ Part A and B (4 units total). You should be aiming to finish each in twice as many minutes as there are questions.
-
-Homework for Thursday, May 6:
- * Finish the Unit 2 Progress Check: MCQ Part A and B. You should be aiming to finish each in twice as many minutes as there are questions.
-
-Homework for Wednesday, May 5:
- * Finish the practice and CA#1 of 5.1
- * Finish the Unit 1 Progress Check: MCQ Part A, B, and C. You should be aiming to finish each in twice as many minutes as there are questions.
-
-Homework for Monday, May 3:
- * Finish the practice and CA#1 of 8.9-8.12, and 8.3
- * Finish Q3 of the <a href="https://vchan2.github.io/2020Calculus/Volumes.pdf">questions on volumes</a>
-
-Homework for Wednesday, April 28:
- * If you struggled with today's lesson, take a look at the videos on flippedmath on sections 8.9-8.12
- * Try doing the problems on the practice and CA#1 of 8.9-8.12
-
-Homework for Monday, April 26:
- * Finish the practice and CA#1 for 8.7 and 8.8
-
-Homework for Thursday, April 22:
- * Finish the practice and CA#1 for 8.5
-
-Homework for Wednesday, April 21:
- * Finish the practice and CA#1 for 6.5 and 8.1
-
-Homework for Monday, April 19:
- * Watch videos and do CA#1 for 6.1 and 6.6
- * Complete <a href="https://vchan2.github.io/2020Calculus/Numerical_Integration.pdf">Numerical Integration</a> handout
-
-Homework for Thursday, April 16:
- * CA#1 for 7.4 and 7.8
-
-Homework for Monday, April 12:
- * CA#1 for 7.3
-
-Homework for Wednesday, March 31:
- * CA#1 for 7.1 and 7.2
-
-
+Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/MasterChefCalc2021.html">MasterChef Calculus</a> presentations ready for presentation.
 
 
 ---
