@@ -12,6 +12,32 @@ Quick links
 
 ### Updates
 
+Tentative schedule for upcoming classes:
+  * Wednesday, May 26: <a href="https://vchan2.github.io/MasterChefCalc2021.html">MasterChef Calculus</a> - introduction to project and work period
+  * Thursday, May 27: <a href="https://vchan2.github.io/MasterChefCalc2021.html">MasterChef Calculus</a> - work period
+
+
+Tentative schedule for upcoming classes:
+  * Week of May 24
+    * Wednesday, May 26: <a href="https://vchan2.github.io/MasterChefCalc2021.html">MasterChef Calculus</a> - introduction to project and work period
+    * Thursday, May 27: <a href="https://vchan2.github.io/MasterChefCalc2021.html">MasterChef Calculus</a> - work period
+  * Week of May 31
+    * Monday, May 31: Approximate integration and numerical methods
+    * Wednesday, June 2: <a href="https://vchan2.github.io/MasterChefCalc2021.html">MasterChef Calculus</a> - presentations
+    * Thursday, June 3: Outdoor activity - ampitheatre
+  * Week of June 7
+    * Monday, June 7: Differential Equations - Newton's Law of Cooling and activity
+    * Wednesday, June 9: CHOICE FRIDAY
+    * Thursday, June 10: Outdoor activity - courtyard
+  * Week of June 14
+    * Monday, June 14: ?
+    * Wednesday, June 16: ?
+    * Thursday, June 17: Outdoor activity - ampitheatre
+  * Week of June 21
+    * Monday, June 21: ?
+    * Wednesday, June 23: Play Day (PE event)
+    * Thursday, June 24: CHOICE FRIDAY
+
 <!--
 AP Calculus Final Exam on Monday, May 24, in-school.
 -->
