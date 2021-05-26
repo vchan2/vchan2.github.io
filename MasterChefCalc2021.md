@@ -1,4 +1,4 @@
-<title> MasterChef Calculus 2021 </title>
+## MasterChef Calculus 2021
 
 You are asked to prepare a dish that resembles an approximation to the volume of a solid with 2D base and geometric cross sections. You are also required to calculate the theoretical volume of your given solid using integration.
 
