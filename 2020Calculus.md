@@ -30,8 +30,8 @@ Tentative schedule for upcoming classes:
     * Wednesday, June 9: CHOICE FRIDAY
     * Thursday, June 10: Outdoor activity - courtyard
   * Week of June 14
-    * Monday, June 14: ?
-    * Wednesday, June 16: ?
+    * Monday, June 14: SASMS
+    * Wednesday, June 16: SASMS
     * Thursday, June 17: Outdoor activity - ampitheatre
   * Week of June 21
     * Monday, June 21: ?
