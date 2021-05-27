@@ -24,7 +24,7 @@ Tentative schedule for upcoming classes:
   * Week of May 31
     * Monday, May 31: Approximate integration and numerical methods
     * Wednesday, June 2: <a href="https://vchan2.github.io/MasterChefCalc2021.html">MasterChef Calculus</a> - presentations
-    * Thursday, June 3: Outdoor activity - ampitheatre
+    * Thursday, June 3: COL - PE
   * Week of June 7
     * Monday, June 7: Differential Equations - Newton's Law of Cooling and activity
     * Wednesday, June 9: CHOICE FRIDAY
