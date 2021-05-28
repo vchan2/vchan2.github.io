@@ -28,11 +28,11 @@ Tentative schedule for upcoming classes:
   * Week of June 7
     * Monday, June 7: Differential Equations - Newton's Law of Cooling and activity
     * Wednesday, June 9: CHOICE FRIDAY
-    * Thursday, June 10: Outdoor activity - courtyard
+    * Thursday, June 10: Outdoor activity - courtyard (weather permitting)
   * Week of June 14
     * Monday, June 14: SASMS
     * Wednesday, June 16: SASMS
-    * Thursday, June 17: Outdoor activity - ampitheatre
+    * Thursday, June 17: Outdoor activity - ampitheatre (weather permitting)
   * Week of June 21
     * Monday, June 21: SASMS?
     * Wednesday, June 23: Play Day (PE event)
