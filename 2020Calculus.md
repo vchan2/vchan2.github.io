@@ -12,10 +12,7 @@ Quick links
 
 ### Updates
 
-Tentative schedule for upcoming classes:
-  * Wednesday, May 26: <a href="https://vchan2.github.io/MasterChefCalc2021.html">MasterChef Calculus</a> - introduction to project and work period
-  * Thursday, May 27: <a href="https://vchan2.github.io/MasterChefCalc2021.html">MasterChef Calculus</a> - work period
-
+I will be available in period 5 for Captivating Calculus should you need some help for your MasterChef Calculus project or want to discuss other things in calculus.
 
 Tentative schedule for upcoming classes:
   * Week of May 24
