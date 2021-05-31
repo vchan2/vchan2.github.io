@@ -29,9 +29,9 @@ Tentative schedule for upcoming classes:
   * Week of June 14
     * Monday, June 14: SASMS
     * Wednesday, June 16: SASMS
-    * Thursday, June 17: Outdoor activity - ampitheatre (weather permitting)
+    * Thursday, June 17: Outdoor activity - amphitheatre (weather permitting)
   * Week of June 21
-    * Monday, June 21: SASMS?
+    * Monday, June 21: SASMS
     * Wednesday, June 23: Play Day (PE event)
     * Thursday, June 24: CHOICE FRIDAY
 
