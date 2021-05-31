@@ -90,6 +90,9 @@ Area 51
    * <a href="https://krazydad.com/tablet/area51/"> Online Cow & Cactus puzzles from krazdydad (same puzzles as below) </a>
    * <a href="https://krazydad.com/area51/"> Printable Cow & Cactus puzzles from krazdydad (same puzzles as above) </a>
 
+Galaxies
+   * <a href="https://krazydad.com/tablet/galaxies/"> Online Galaxies puzzles from krazdydad (same puzzles as below) </a>
+   * <a href="https://krazydad.com/galaxies/"> Printable Galaxies puzzles from krazdydad (same puzzles as above) </a>
 
 ### Other Logic Puzzles
 
