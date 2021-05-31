@@ -248,7 +248,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 40-60 minutes/day on average
 
-Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/MasterChefCalc2021.html">MasterChef Calculus</a> presentations ready for presentation.
+Homework for Monday, June 14: Have your <a href="https://vchan2.github.io/SASMS2021.html">SASMS</a> presentations and synopses ready.
+
+Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/MasterChefCalc2021.html">MasterChef Calculus</a> presentations ready.
 
 
 ---
