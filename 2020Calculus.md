@@ -26,19 +26,19 @@ Tentative schedule for upcoming classes:
     * Monday, May 31: Approximate integration and numerical methods, then <a href="https://vchan2.github.io/2020Calculus/SASMS2021.pdf">SASMS</a> introduction
     * Wednesday, June 2: <a href="https://vchan2.github.io/MasterChefCalc2021.html">MasterChef Calculus</a> - presentations, then <a href="https://vchan2.github.io/2020Calculus/SASMS2021.pdf">SASMS</a> work period
     * Thursday, June 3: COL - PE (weather permitting - otherwise, we begin Newton's Law of Cooling)
--->
-
   * Week of June 7
     * Monday, June 7: <a href="https://vchan2.github.io/MasterChefCalc2021.html">MasterChef Calculus</a> - presentations. Differential Equations - Newton's Law of Cooling and activity, then <a href="https://vchan2.github.io/2020Calculus/SASMS2021.pdf">SASMS</a> work period
     * Wednesday, June 9: CHOICE FRIDAY
     * Thursday, June 10: <a href="https://vchan2.github.io/2020Calculus/SASMS2021.pdf">SASMS</a> work period
+-->
+
   * Week of June 14
     * Monday, June 14: <a href="https://vchan2.github.io/2020Calculus/SASMS2021.pdf">SASMS</a> presentations 
     * Wednesday, June 16: <a href="https://vchan2.github.io/2020Calculus/SASMS2021.pdf">SASMS</a> presentations
     * Thursday, June 17: Outdoor activity - amphitheatre (weather permitting)
   * Week of June 21
     * Monday, June 21: ?
-    * Wednesday, June 23: Play Day (PE event)
+    * Wednesday, June 23: ?
     * Thursday, June 24: CHOICE FRIDAY
 
 <!--
