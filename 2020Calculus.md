@@ -12,10 +12,6 @@ Quick links
 
 ### Updates
 
-For Monday, June 7 class: please bring a calculator. 
-<a href="https://vchan2.github.io/2020Calculus/Forensics.pdf">Forensics</a>
-
-
 Tentative schedule for upcoming classes:
 
 <!--
