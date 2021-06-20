@@ -33,7 +33,7 @@ Tentative schedule for upcoming classes:
 -->
 
   * Week of June 21
-    * Monday, June 21: SASMS (Eesha and Mac), then games day
+    * Monday, June 21: <a href="https://vchan2.github.io/2020Calculus/SASMS2021.pdf">SASMS</a> (Eesha and Mac), then games day
     * Wednesday, June 23: Outdoor activity - courtyard (weather permitting)
     * Thursday, June 24: CHOICE FRIDAY
 
@@ -248,7 +248,7 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 Homework expectations: 40-60 minutes/day on average
 
-Homework for Monday, June 14: Have your <a href="https://vchan2.github.io/SASMS2021.html">SASMS</a> presentations and synopses ready.
+Homework for Monday, June 14: Have your <a href="https://vchan2.github.io/2020Calculus/SASMS2021.pdf">SASMS</a> presentations and synopses ready.
 
 Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/MasterChefCalc2021.html">MasterChef Calculus</a> presentations ready.
 
