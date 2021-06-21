@@ -33,8 +33,8 @@ Tentative schedule for upcoming classes:
 -->
 
   * Week of June 21
-    * Monday, June 21: <a href="https://vchan2.github.io/2020Calculus/SASMS2021.pdf">SASMS</a> (Eesha and Mac), then games day
-    * Wednesday, June 23: Outdoor activity - courtyard (weather permitting)
+    * Monday, June 21: <a href="https://vchan2.github.io/2020Calculus/SASMS2021.pdf">SASMS</a> (Eesha and Mac), then outdoor activity (courtyard)
+    * Wednesday, June 23: Games day
     * Thursday, June 24: CHOICE FRIDAY
 
 <!--
