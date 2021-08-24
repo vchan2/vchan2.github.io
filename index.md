@@ -3,16 +3,17 @@
 ## Classes 
 
 ### Mathematics 
-* [Grade 2/3](2020gr23.md)
-* [Grade 4](2020gr4.md)
-* [Grade 5/6](2020gr56.md)
-* [Division 3/4 (Calculus)](2020Calculus.md)
+* [Grade 2/3](2021gr23.md)
+* [Grade 4/5](2021gr45.md)
+* [Grade 6](2021gr6.md)
+* [Division 3/4 (Calculus AP AB)](2021CalculusAB.md)
+* [Division 3/4 (Calculus AP BC)](2021CalculusBC.md)
 
 ---
 ### Electives 
-
+<!--
 * [Logic Puzzles](2020logicpuzzles.md)
-
+-->
 
 ---
 
