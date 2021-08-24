@@ -6,8 +6,8 @@
 * [Grade 2/3](2021gr23.md)
 * [Grade 4/5](2021gr45.md)
 * [Grade 6](2021gr6.md)
-* [Division 3/4 (Calculus AP AB)](2021CalculusAB.md)
-* [Division 3/4 (Calculus AP BC)](2021CalculusBC.md)
+* [Division 3/4 (AP Calculus AB)](2021CalculusAB.md)
+* [Division 3/4 (AP Calculus BC)](2021CalculusBC.md)
 
 ---
 ### Electives 
