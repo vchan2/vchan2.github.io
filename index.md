@@ -20,7 +20,9 @@
 
 ## Challenges
 
-* <a href="https://vincentchan02.wixsite.com/cosmospuzzle"> CoSMOS 2020 Challenge</a> 
+* <a href="https://renertmath.github.io/RenertMath-CelebrateMath/"> CoSMOS 2020 Challenge</a> 
+
+<!--
 * <a href="https://vchan2.github.io/Challenges/Rainbow_Stones.pdf"> Rainbow stones </a>
 * <a href="https://vchan2.github.io/Challenges/Guy_digit_puzzle.pdf"> Digit puzzle for "Mathematical Play (Remembering Richard Guy)" </a>
 * <a href="https://vchan2.github.io/Challenges/Guy_fractions.pdf"> Fraction puzzle for "Mathematical Play (Remembering Richard Guy)" </a>
@@ -29,7 +31,7 @@
 * <a href="https://vchan2.github.io/Challenges/pi_digit_puzzle2021basic.pdf"> &pi; day 2021 challenge (basic version) </a>
 * <a href="https://vchan2.github.io/Challenges/pi_digit_puzzle2021.pdf"> &pi; day 2021 challenge (advanced version) </a>
 * <a href="https://vchan2.github.io/Challenges/2021-04-01_digit_puzzle.pdf"> 2021-04-01 challenge </a>
-
+-->
 
 ---
 
