@@ -12,9 +12,23 @@ Quick links
 
 ### Updates
 
+Watch list for Wednesday, Sept. 8:
+  * <a href="https://calculus.flippedmath.com/11-can-change-occur-at-an-instant.html">1.1 Can Change Occur at an Instant?</a>
+  * <a href="https://calculus.flippedmath.com/12-defining-limits-and-using-limit-notation.html">1.2 Defining Limits and Using Limit Notation</a>
+  * <a href="https://calculus.flippedmath.com/13-limit-values-from-graphs.html">1.3 Estimating Limit Values from Graphs</a>
+  * <a href="https://calculus.flippedmath.com/14-limit-values-from-tables.html">1.4 Estimating Limit Values from Tables</a>
+  * 
+
 Tentative schedule for upcoming classes:
+  * Week of Sept. 6
+    * Wednesday, Sept. 8: 
+    * Friday, Sept. 10: 
+
 
 <!--
+  * Week of Sept. 6
+    * Wednesday, Sept. 8: 
+    * Friday, Sept. 10: 
   * Week of May 24
     * Wednesday, May 26: <a href="https://vchan2.github.io/MasterChefCalc2021.html">MasterChef Calculus</a> - introduction to project and work period
     * Thursday, May 27: <a href="https://vchan2.github.io/MasterChefCalc2021.html">MasterChef Calculus</a> - work period
