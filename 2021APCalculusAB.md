@@ -12,17 +12,28 @@ Quick links
 
 ### Updates
 
-Watch list for Wednesday, Sept. 8:
+Watch list for Friday, Sept. 3 - Tuesday, Sept. 7:
   * <a href="https://calculus.flippedmath.com/11-can-change-occur-at-an-instant.html">1.1 Can Change Occur at an Instant?</a>
   * <a href="https://calculus.flippedmath.com/12-defining-limits-and-using-limit-notation.html">1.2 Defining Limits and Using Limit Notation</a>
   * <a href="https://calculus.flippedmath.com/13-limit-values-from-graphs.html">1.3 Estimating Limit Values from Graphs</a>
   * <a href="https://calculus.flippedmath.com/14-limit-values-from-tables.html">1.4 Estimating Limit Values from Tables</a>
-  * 
+  * <a href="https://calculus.flippedmath.com/15-determining-limits-using-algebraic-properties.html">1.5 Determining Limits Using Algebraic Properties</a>
+
+<!--
+Watch list for Wednesday, Sept. 8 - Tuesday, Sept. 14:
+  * <a href="https://calculus.flippedmath.com/16-determining-limits-using-algebraic-manipulation.html">1.6 Determining Limits Using Algebraic Manipulation</a>
+  * <a href="https://calculus.flippedmath.com/17-selecting-procedures-for-determining-limits.html">1.7 Selecting Procedures for Determining Limits</a>
+  * <a href="https://calculus.flippedmath.com/18-determining-limits-using-the-squeeze-theorem.html">1.8 Determining Limits Using the Squeeze Theorem</a>
+  * <a href="https://calculus.flippedmath.com/19-connecting-multiple-representations-of-limits.html">1.9 Connecting Multiple Representations of Limits</a>
+  * <a href="https://calculus.flippedmath.com/110-exploring-types-of-discontinuities.html">1.10 Exploring Types of Discontinuities</a>
+  * <a href="https://calculus.flippedmath.com/111-defining-continuity-at-a-point.html">1.11 Defining Continuity at a Point</a>
+-->
+
 
 Tentative schedule for upcoming classes:
   * Week of Sept. 6
-    * Wednesday, Sept. 8: 
-    * Friday, Sept. 10: 
+    * Wednesday, Sept. 8: 1.1, 1.2, 1.3
+    * Friday, Sept. 10: 1.4, 1.5
 
 
 <!--
