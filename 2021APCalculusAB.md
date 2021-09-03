@@ -13,11 +13,15 @@ Quick links
 ### Updates
 
 Watch list for Friday, Sept. 3 - Tuesday, Sept. 7:
+  * Sections 1.1 to 1.5
+
+<!--
   * <a href="https://calculus.flippedmath.com/11-can-change-occur-at-an-instant.html">1.1 Can Change Occur at an Instant?</a>
   * <a href="https://calculus.flippedmath.com/12-defining-limits-and-using-limit-notation.html">1.2 Defining Limits and Using Limit Notation</a>
   * <a href="https://calculus.flippedmath.com/13-limit-values-from-graphs.html">1.3 Estimating Limit Values from Graphs</a>
   * <a href="https://calculus.flippedmath.com/14-limit-values-from-tables.html">1.4 Estimating Limit Values from Tables</a>
   * <a href="https://calculus.flippedmath.com/15-determining-limits-using-algebraic-properties.html">1.5 Determining Limits Using Algebraic Properties</a>
+-->
 
 <!--
 Watch list for Wednesday, Sept. 8 - Tuesday, Sept. 14:
