@@ -12,6 +12,8 @@ Quick links
 
 ### Updates
 
+<a href="2021Calculus/2021Calculus/calc_readiness_sol.pdf">Answers for calculus readiness test</a>
+
 Watch list for Friday, Sept. 3 - Tuesday, Sept. 7:
   * Sections 1.1 to 1.5
 
