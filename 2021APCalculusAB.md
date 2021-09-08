@@ -14,8 +14,12 @@ Quick links
 
 <a href="2021Calculus/2021Calculus/calc_readiness_sol.pdf">Answers for calculus readiness test</a>
 
-Watch list for Friday, Sept. 3 - Tuesday, Sept. 7:
-  * Sections 1.1 to 1.5
+Watch list
+  * Friday, Sept. 3 - Tuesday, Sept. 7: Sections 1.1 to 1.5
+  * Wednesday, Sept. 8 - Tuesday, Sept. 14: Sections 1.6 to 1.11
+  * Wednesday, Sept. 15 - Tuesday, Sept. 21: Sections 1.12 to 1.16
+  * Wednesday, Sept. 22 - Tuesday, Sept. 28: Sections 2.1 to 2.7
+  * Wednesday, Sept. 29 - Tuesday, Oct. 5: Sections 2.8 to 
 
 <!--
   * <a href="https://calculus.flippedmath.com/11-can-change-occur-at-an-instant.html">1.1 Can Change Occur at an Instant?</a>
@@ -124,6 +128,8 @@ Section 3.5 corrections:
 ---
 
 ### Exams
+
+Unit 1 final tentatively scheduled for Monday, September 27
 
 <!--
 Testing centre hours are:
@@ -398,6 +404,9 @@ Assorted:
 ---
 
 ### Logistics
+
+* <a href="https://vchan2.github.io/2020Calculus/ap-calculus-course-at-a-glance.pdf"> AP Calculus course at a glance </a>
+
 
 <!--
 * <a href="https://vchan2.github.io/2020Calculus/Div%2034%20Course%20Outline%202020-21%20online.pdf"> Course outline </a>
