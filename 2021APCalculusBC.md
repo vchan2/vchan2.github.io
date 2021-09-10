@@ -12,7 +12,11 @@ Quick links
 
 ### Updates
 
+Watch list
+  * Friday, Sept. 10 - Thursday, Sept. 16: Sections 10.1 to 10.3
+
 Tentative schedule for upcoming classes:
+ * Friday, Sept. 17: 10.1-10.3
 
 <!--
   * Week of May 24
@@ -261,6 +265,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 
 ### Online resources
 
+* <a href="https://calculus.flippedmath.com/list-of-lessons.html"> Flipped Math - Calculus </a>
 * <a href="https://www.youtube.com/watch?v=WUvTyaaNkzM"> The Essence of Calculus YouTube series </a> (brought to you by <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"> 3 Blue 1 Brown</a>)
 * <a href="https://www.khanacademy.org/math/differential-calculus"> Differential Calculus course (Khan Academy) </a>
 * <a href="https://www.wolframalpha.com/"> Online calculator (WolframAlpha) </a>
@@ -371,6 +376,8 @@ Assorted:
 ---
 
 ### Logistics
+
+* <a href="https://vchan2.github.io/2020Calculus/ap-calculus-course-at-a-glance.pdf"> AP Calculus course at a glance </a>
 
 <!--
 * <a href="https://vchan2.github.io/2020Calculus/Div%2034%20Course%20Outline%202020-21%20online.pdf"> Course outline </a>
