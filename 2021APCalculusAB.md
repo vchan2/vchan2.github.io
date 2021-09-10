@@ -300,7 +300,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 
 * <a href="https://calculus.flippedmath.com/list-of-lessons.html"> Flipped Math - Calculus </a>
 * <a href="https://www.youtube.com/watch?v=WUvTyaaNkzM"> The Essence of Calculus YouTube series </a> (brought to you by <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"> 3 Blue 1 Brown</a>)
-* <a href="https://www.khanacademy.org/math/differential-calculus"> Differential Calculus course (Khan Academy) </a>
+* <a href="https://www.khanacademy.org/math/ap-calculus-ab"> AP Calculus AB course (Khan Academy) </a>
 * <a href="https://www.wolframalpha.com/"> Online calculator (WolframAlpha) </a>
 * <a href="https://www.desmos.com/"> Online graphing program (Desmos) </a>
 
