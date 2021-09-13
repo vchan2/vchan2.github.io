@@ -44,6 +44,10 @@ Tentative schedule for upcoming classes:
   * Week of Sept. 6
     * Wednesday, Sept. 8: 1.1, 1.2, 1.3
     * Friday, Sept. 10: 1.4, 1.5
+  * Week of Sept. 13
+    * Monday, Sept. 13: 1.6, 1.7
+    * Wednesday, Sept. 8: 1.8, 1.9, 1.10
+    * Friday, Sept. 10: 1.11
 
 
 <!--
