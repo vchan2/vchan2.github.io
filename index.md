@@ -11,9 +11,9 @@
 
 ---
 ### Electives 
-<!--
-* [Logic Puzzles](2020logicpuzzles.md)
--->
+
+* [Counting](2021Counting.md)
+
 
 ---
 
