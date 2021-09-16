@@ -14,9 +14,11 @@ Quick links
 
 Watch list
   * Friday, Sept. 10 - Thursday, Sept. 16: Sections 10.1 to 10.3
+  * Friday, Sept. 17 - Thursday, Sept. 23: Sections 10.5 to 10.6
 
 Tentative schedule for upcoming classes:
  * Friday, Sept. 17: 10.1-10.3
+ * Friday, Sept. 23: 10.5-10.6
 
 <!--
   * Week of May 24
