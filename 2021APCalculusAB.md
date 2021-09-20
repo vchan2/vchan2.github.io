@@ -19,7 +19,7 @@ Watch list
   * Wednesday, Sept. 8 - Tuesday, Sept. 14: Sections 1.6 to 1.11
   * Wednesday, Sept. 15 - Tuesday, Sept. 21: Sections 1.12 to 1.16
   * Wednesday, Sept. 22 - Tuesday, Sept. 28: Sections 2.1 to 2.7
-  * Wednesday, Sept. 29 - Tuesday, Oct. 5: Sections 2.8 to 
+  * Wednesday, Sept. 29 - Tuesday, Oct. 5: Sections 2.8 to 2.10
 
 <!--
   * <a href="https://calculus.flippedmath.com/11-can-change-occur-at-an-instant.html">1.1 Can Change Occur at an Instant?</a>
@@ -46,12 +46,16 @@ Tentative schedule for upcoming classes:
     * Friday, Sept. 10: 1.4, 1.5
   * Week of Sept. 13
     * Monday, Sept. 13: 1.6, 1.7
-    * Wednesday, Sept. 8: 1.8, 1.9, 1.10
-    * Friday, Sept. 10: 1.11
+    * Wednesday, Sept. 15: 1.8, 1.9, 1.10
+    * Friday, Sept. 17: 1.11
   * Week of Sept. 20
     * Monday, Sept. 20: 1.12, 1.13, 1.14
-    * Wednesday, Sept. 8: 1.15, 1.16
-    * Friday, Sept. 10: Unit 1 Review
+    * Wednesday, Sept. 22: 1.15, 1.16
+    * Friday, Sept. 24: Unit 1 Review
+  * Week of Sept. 27
+    * Monday, Sept. 27: 2.1, 2.2, 2.3
+    * Wednesday, Sept. 29: 2.4, 2.5, 2.6
+    * Friday, Oct. 1: 2.7
 
 
 <!--
