@@ -337,9 +337,9 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 ---
 
 ### Practice problems
-<!--
 * Mini-maths
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_21.pdf"> Mini-math for September 21 (limits) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_21_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_17.pdf"> Mini-math for September 17 (1.1-1.11) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_17_sol.pdf">Solutions</a>)
+<!--
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_05.pdf"> Mini-math for October 5 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_05_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_14.pdf"> Mini-math for October 14 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_14_sol.pdf">Solution</a>)
