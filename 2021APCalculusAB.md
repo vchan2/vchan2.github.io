@@ -146,7 +146,25 @@ Section 3.5 corrections:
 
 ### Exams
 
-Unit 1 final tentatively scheduled for Monday, September 27
+Unit 1 test is scheduled for <b>Wednesday, September 29</b> in-class. 
+You should be proficient in all material contained in Unit 1. More precisely, you should be able to:
+  * Compute limits of a function graphically
+  * (AP) Compute limits of a composite function graphically
+  * Interpret tabular information for finding limits
+  * Use limit properties and arithmetic to find limits 
+  * Compute a limit of a function algebraically via 4 techniques:
+    * Technique 0: rational-like function evaluation
+    * Technique 1: factor and reduce
+    * Technique 2: rationalize
+    * Technique 3: Fundamental Trigonometric Limit
+    * Technique 4: (for x approaching +/- infinity) divide by dominant terms in the denominator
+      * (AP) Apply this technique for expressions involving radicals
+  * Compute a one-sided limit, including checking for signs in absolute values and values close to 0
+  * Find a limit via one-sided limits
+  * Determine where a function is continuous, or find values for constants which give continuity 
+  * Identify the type of a discontinuity
+  * Find vertical and horizontal asymptotes of a function
+There will also be several bonus questions which test your understanding at a deeper level.
 
 <!--
 Testing centre hours are:
