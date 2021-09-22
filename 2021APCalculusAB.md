@@ -59,9 +59,8 @@ Tentative schedule for upcoming classes:
   * Week of Oct. 4:
     * Monday, Oct. 4: 2.5, 2.6, 2.7
     * Wednesday, Oct. 6: 2.8, 2.9, 2.10
-    * Friday, Oct. 8: 2.11
+    * Friday, Oct. 8: Unit 2 Review
 
- 2.5, 2.6, 2.7
 
 <!--
   * Week of Sept. 6
