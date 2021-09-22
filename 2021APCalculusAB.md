@@ -53,7 +53,7 @@ Tentative schedule for upcoming classes:
     * Wednesday, Sept. 22: 1.15, 1.16
     * Friday, Sept. 24: Unit 1 Review
   * Week of Sept. 27
-    * Monday, Sept. 27: 
+    * Monday, Sept. 27: Unit 1 test
     * Wednesday, Sept. 29: 2.1, 2.2, 2.3
     * Friday, Oct. 1: 2.4
   * Week of Oct. 4:
