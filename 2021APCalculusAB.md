@@ -164,6 +164,8 @@ You should be proficient in all material contained in Unit 1. More precisely, yo
   * Determine where a function is continuous, or find values for constants which give continuity 
   * Identify the type of a discontinuity
   * Find vertical and horizontal asymptotes of a function
+  * (AP) Use Squeeze Theorem
+  * (AP) Use Intermediate Value Theorem
 There will also be several bonus questions which test your understanding at a deeper level.
 
 <!--
