@@ -53,10 +53,15 @@ Tentative schedule for upcoming classes:
     * Wednesday, Sept. 22: 1.15, 1.16
     * Friday, Sept. 24: Unit 1 Review
   * Week of Sept. 27
-    * Monday, Sept. 27: 2.1, 2.2, 2.3
-    * Wednesday, Sept. 29: 2.4, 2.5, 2.6
-    * Friday, Oct. 1: 2.7
+    * Monday, Sept. 27: 
+    * Wednesday, Sept. 29: 2.1, 2.2, 2.3
+    * Friday, Oct. 1: 2.4
+  * Week of Oct. 4:
+    * Monday, Oct. 4: 2.5, 2.6, 2.7
+    * Wednesday, Oct. 6: 2.8, 2.9, 2.10
+    * Friday, Oct. 8: 2.11
 
+ 2.5, 2.6, 2.7
 
 <!--
   * Week of Sept. 6
@@ -339,6 +344,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 ### Practice problems
 * Mini-maths
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_17.pdf"> Mini-math for September 17 (1.1-1.11) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_17_sol.pdf">Solutions</a>)
+
 <!--
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_05.pdf"> Mini-math for October 5 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_05_sol.pdf">Solution</a>)
@@ -360,14 +366,10 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_03_01.pdf"> Mini-math for March 1 (definite integrals) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_03_01_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_03_08.pdf"> Mini-math for March 8 (indefinite integrals and Substitution Rule) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_03_08_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_04_12.pdf"> Mini-math for April 12 (differential equations) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_04_12_sol.pdf">Solution</a>)
-
-
 * <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
-
 * Unit 1 - Limits and continuity
   * <a href="https://vchan2.github.io/2020Calculus/Squeeze.pdf"> Squeeze Theorem </a>
   * <a href="https://vchan2.github.io/2020Calculus/IVT.pdf"> Intermediate Value Theorem </a>
-
 * Derivatives
   * <a href="https://www.symbolab.com/practice/derivatives-practice"> Generator for practice problems</a>
   * <a href="https://homepages.bluffton.edu/~nesterd/apps/derivs.html"> Generator for practice problems</a> (Most of the time, these functions are annoying to differentiate simply because of the algebra and will not require differentiation techniques, but sometimes you get good questions randomly. For Chapter 2 test, remove all additional functions)
@@ -383,9 +385,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
     * Q33: This is (algebraically) challenging, and has several answers (one which uses the original formula to simplify, and one which does not - both versions are valid in my mind).
     * Q42, Q43: These questions are part of Chapter 3, not Chapter 2.
   * <a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice.pdf"> Inverse function differentiation </a> (<a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice_sol.pdf">Solution</a>)
-
 * <a href="https://vchan2.github.io/2020Calculus/2020-11-25_optimization_ex.pdf"> Optimization problems </a> (<a href="https://vchan2.github.io/2020Calculus/2020-11-25_optimization_ex_sol.pdf">Solution</a>)
-
 * Integration
   * <a href="https://vchan2.github.io/2020Calculus/Numerical_Integration.pdf">Numerical Integration</a> (<a href="https://vchan2.github.io/2020Calculus/Numerical_Integration_sol.pdf">Solution</a>)
 -->
