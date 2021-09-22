@@ -18,8 +18,9 @@ Watch list
   * Friday, Sept. 3 - Tuesday, Sept. 7: Sections 1.1 to 1.5
   * Wednesday, Sept. 8 - Tuesday, Sept. 14: Sections 1.6 to 1.11
   * Wednesday, Sept. 15 - Tuesday, Sept. 21: Sections 1.12 to 1.16
-  * Wednesday, Sept. 22 - Tuesday, Sept. 28: Sections 2.1 to 2.7
-  * Wednesday, Sept. 29 - Tuesday, Oct. 5: Sections 2.8 to 2.10
+  * Wednesday, Sept. 22 - Tuesday, Sept. 28: Sections 2.1 to 2.3
+  * Wednesday, Sept. 29 - Tuesday, Oct. 5: Sections 2.4 to 2.10
+
 
 <!--
   * <a href="https://calculus.flippedmath.com/11-can-change-occur-at-an-instant.html">1.1 Can Change Occur at an Instant?</a>
