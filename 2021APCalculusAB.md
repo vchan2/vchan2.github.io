@@ -146,7 +146,7 @@ Section 3.5 corrections:
 
 ### Exams
 
-Unit 1 test is scheduled for <b>Wednesday, September 29</b> in-class. 
+Unit 1 Math 31 test is scheduled for <b>Wednesday, September 29</b> in-class. Unit 1 AP material is scheduled for <b>Friday, October 1</b> in-class. 
 You should be proficient in all material contained in Unit 1. More precisely, you should be able to:
   * Compute limits of a function graphically
   * (AP) Compute limits of a composite function graphically
@@ -166,6 +166,7 @@ You should be proficient in all material contained in Unit 1. More precisely, yo
   * Find vertical and horizontal asymptotes of a function
   * (AP) Use Squeeze Theorem
   * (AP) Use Intermediate Value Theorem
+  * (AP) Handle more challenging expressions involving trigonometric functions, exponentials, and logarithms
 There will also be several bonus questions which test your understanding at a deeper level.
 
 <!--
