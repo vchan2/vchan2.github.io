@@ -55,8 +55,8 @@ Tentative schedule for upcoming classes:
     * Friday, Sept. 24: Unit 1 Review
   * Week of Sept. 27
     * Monday, Sept. 27: 2.1, 2.2, 2.3
-    * Wednesday, Sept. 29: <b>Unit 1 test</b>
-    * Friday, Oct. 1: 2.4
+    * Wednesday, Sept. 29: <b>Unit 1 test - Math 31</b>
+    * Friday, Oct. 1: <b>Unit 1 test - AP Calculus</b>
   * Week of Oct. 4:
     * Monday, Oct. 4: 2.5, 2.6, 2.7
     * Wednesday, Oct. 6: 2.8, 2.9, 2.10
