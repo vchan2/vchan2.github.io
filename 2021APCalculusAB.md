@@ -364,6 +364,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 ### Practice problems
 * Mini-maths
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_17.pdf"> Mini-math for September 17 (1.1-1.11) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_17_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_24.pdf"> Mini-math for September 24 (1.12-1.16) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_24_sol.pdf">Solutions</a>)
 
 <!--
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf">Solution</a>)
