@@ -300,7 +300,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 ### Practice problems
 
 * Mini-maths
-  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_09_24.pdf"> Mini-math for September 24 (10.1-10.2) </a> 
+  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_09_24.pdf"> Mini-math for September 24 (10.1-10.3) </a> 
   * <!--(<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_09_24_sol.pdf">Solution</a>)-->
 
 <!--
