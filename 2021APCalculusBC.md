@@ -12,8 +12,6 @@ Quick links
 
 ### Updates
 
-Unit 1 "assignment" will be handed out Friday, October 1 for those who are not currently in AP Calculus AB.
-
 Watch list
   * Friday, Sept. 10 - Thursday, Sept. 16: Sections 10.1 to 10.3
   * Friday, Sept. 17 - Thursday, Sept. 24: Sections 10.5 to 10.6
@@ -22,7 +20,7 @@ Watch list
 Tentative schedule for upcoming classes:
  * Friday, Sept. 17: 10.1-10.3
  * Friday, Sept. 24: 10.5-10.6
- * Friday, Oct. 1: 10.7-10.8
+ * Friday, Oct. 1: 10.7-10.8; Unit 1 assignment will be handed out for those not currently in AP Calculus AB.
 
 <!--
   * Week of May 24
