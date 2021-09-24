@@ -16,13 +16,13 @@ Unit 1 "assignment" will be handed out Friday, October 1 for those who are not c
 
 Watch list
   * Friday, Sept. 10 - Thursday, Sept. 16: Sections 10.1 to 10.3
-  * Friday, Sept. 17 - Thursday, Sept. 23: Sections 10.5 to 10.6
+  * Friday, Sept. 17 - Thursday, Sept. 24: Sections 10.5 to 10.6
   * Friday, Sept. 24 - Thursday, Sept. 30: Sections 10.7 to 10.8
 
 Tentative schedule for upcoming classes:
  * Friday, Sept. 17: 10.1-10.3
- * Friday, Sept. 23: 10.5-10.6
- * Friday, Sept. 30: 10.7-10.8
+ * Friday, Sept. 24: 10.5-10.6
+ * Friday, Oct. 1: 10.7-10.8
 
 <!--
   * Week of May 24
