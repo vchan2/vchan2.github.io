@@ -12,8 +12,6 @@ Quick links
 
 ### Updates
 
-<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_09_24.pdf"> Mini-math for September 24 (10.1-10.3) </a> 
-
 Unit 1 "assignment" will be handed out Friday, October 1 for those who are not currently in AP Calculus AB.
 
 Watch list
@@ -302,8 +300,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 ### Practice problems
 
 * Mini-maths
-  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_09_24.pdf"> Mini-math for September 24 (10.1-10.3) </a> 
-  * <!--(<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_09_24_sol.pdf">Solution</a>)-->
+  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_09_24.pdf"> Mini-math for September 24 (10.1-10.3) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_09_24_sol.pdf">Solution</a>)
 
 <!--
 * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf">Solution</a>)
