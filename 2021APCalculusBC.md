@@ -12,7 +12,9 @@ Quick links
 
 ### Updates
 
-<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_09_24.pdf"> Mini-math for September 24 (10.1-10.2) </a> 
+<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_09_24.pdf"> Mini-math for September 24 (10.1-10.3) </a> 
+
+Unit 1 "assignment" will be handed out Friday, October 1 for those who are not currently in AP Calculus AB.
 
 Watch list
   * Friday, Sept. 10 - Thursday, Sept. 16: Sections 10.1 to 10.3
