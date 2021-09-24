@@ -167,7 +167,6 @@ You should be proficient in all material contained in Unit 1. More precisely, yo
   * (AP) Use Squeeze Theorem
   * (AP) Use Intermediate Value Theorem
   * (AP) Handle more challenging expressions involving trigonometric functions, exponentials, and logarithms
-There will also be several bonus questions which test your understanding at a deeper level.
 
 <!--
 Testing centre hours are:
