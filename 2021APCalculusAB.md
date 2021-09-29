@@ -18,8 +18,8 @@ Watch list
   * Friday, Sept. 3 - Tuesday, Sept. 7: Sections 1.1 to 1.5
   * Wednesday, Sept. 8 - Tuesday, Sept. 14: Sections 1.6 to 1.11
   * Wednesday, Sept. 15 - Tuesday, Sept. 21: Sections 1.12 to 1.16
-  * Wednesday, Sept. 22 - Tuesday, Sept. 28: Sections 2.1 to 2.4
-  * Wednesday, Sept. 29 - Tuesday, Oct. 5: Sections 2.5 to 2.10
+  * Wednesday, Sept. 22 - Tuesday, Sept. 28: Sections 2.1 to 2.3
+  * Wednesday, Sept. 29 - Tuesday, Oct. 5: Sections 2.4 to 2.10
 
 
 <!--
@@ -58,9 +58,14 @@ Tentative schedule for upcoming classes:
     * Wednesday, Sept. 29: <b>Unit 1 test - Math 31</b>
     * Friday, Oct. 1: <b>Unit 1 test - AP Calculus</b>
   * Week of Oct. 4:
-    * Monday, Oct. 4: 2.5, 2.6, 2.7
-    * Wednesday, Oct. 6: 2.8, 2.9, 2.10
-    * Friday, Oct. 8: Unit 2 Review
+    * Monday, Oct. 4: 2.4, 2.5
+    * Wednesday, Oct. 6: 2.6, 2.7, 2.8
+    * Friday, Oct. 8: 2.9, 2.10
+  * Week of Oct. 11
+    * Monday, Oct. 11: Unit 2 Review
+    * Wednesday, Oct. 12: <b>Unit 2 test - Math 31</b>
+    * Friday, Oct. 13: <b>Unit 2 test - AP Calculus</b>
+
 
 
 <!--
