@@ -357,6 +357,8 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 ### Challenges 
 
 Calculus-based:
+* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit10_01Challenging_series.pdf"> A challenging series </a>
+
 
 <!--
 * <a href="https://vchan2.github.io/2020Calculus/01A_weird_limit.pdf"> A weird limit </a> - Find an example of a function whose limit at 0 from the right DNE
