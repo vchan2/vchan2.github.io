@@ -173,7 +173,6 @@ You should be proficient in all material contained in Unit 1. More precisely, yo
   * (AP) Use Intermediate Value Theorem
   * (AP) Handle more challenging expressions involving trigonometric functions, exponentials, and logarithms
 
-<!--
 Unit 2 test is scheduled for <b>Saturday, October 24 - Thursday, October 29</b> in the exam centre. 
 You should be proficient in all material contained in Chapter 2. More precisely, you should be able to:
   * Describe the relationship between continuity and differentiability.
@@ -181,10 +180,8 @@ You should be proficient in all material contained in Chapter 2. More precisely,
   * Approximate the value of a derivative from either a table or graph.
   * Sketch the derivative of a function given a graph of the function and vice versa, the graph of a function given the derivative.
   * Apply the various derivative rules: sum/difference rule, constant multiple rule, power rule, product rule, quotient rule (this is of course the vast majority of the test, either directly or indirectly)
-    * Note: This is true both for given functions as well as given a table of values for f(x), g(x), f'(x), g'(x).
+    * Note: This is true both for given functions (involving powers, trigonometric functions, exponential functions, and logarithmic functions) as well as given a table of values for f(x), g(x), f'(x), g'(x).
   * Use derivatives to find the equation of tangent/normal lines with a given slope and through a point or parallel/perpendicular to given lines.
-There will also be several bonus questions which test your understanding at a deeper level.
--->
 
 <!--
   * Chain rule
