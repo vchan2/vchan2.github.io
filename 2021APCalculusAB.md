@@ -177,6 +177,7 @@ Unit 2 test is scheduled for <b>Wednesday, October 11</b> in-class.
 You should be proficient in all material contained in Unit 2. More precisely, you should be able to:
   * Describe the relationship between continuity and differentiability.
   * Compute a derivative from first principles.
+  * Identify a limit as a derivative and use derivative rules to find the limit
   * Approximate the value of a derivative from either a table or graph.
   * Sketch the derivative of a function given a graph of the function and vice versa, the graph of a function given the derivative.
   * Apply the various derivative rules: sum/difference rule, constant multiple rule, power rule, product rule, quotient rule (this is of course the vast majority of the test, either directly or indirectly)
