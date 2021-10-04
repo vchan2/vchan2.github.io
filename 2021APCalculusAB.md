@@ -173,8 +173,8 @@ You should be proficient in all material contained in Unit 1. More precisely, yo
   * (AP) Use Intermediate Value Theorem
   * (AP) Handle more challenging expressions involving trigonometric functions, exponentials, and logarithms
 
-Unit 2 test is scheduled for <b>Saturday, October 24 - Thursday, October 29</b> in the exam centre. 
-You should be proficient in all material contained in Chapter 2. More precisely, you should be able to:
+Unit 2 test is scheduled for <b>Wednesday, October 11</b> in-class. 
+You should be proficient in all material contained in Unit 2. More precisely, you should be able to:
   * Describe the relationship between continuity and differentiability.
   * Compute a derivative from first principles.
   * Approximate the value of a derivative from either a table or graph.
