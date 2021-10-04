@@ -301,6 +301,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 
 * Mini-maths
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_09_24.pdf"> Mini-math for September 24 (10.1-10.3) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_09_24_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_10_01.pdf"> Mini-math for September 24 (10.5-10.6) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_10_01_sol.pdf">Solution</a>)
 
 <!--
 * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf">Solution</a>)
@@ -357,7 +358,10 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 ### Challenges 
 
 Calculus-based:
-* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit10_01Challenging_series.pdf"> A challenging series </a>
+* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit10_01Challenging_series.pdf"> Unit 10: A challenging series </a>
+* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit10_02Sparse_harmonic_series.pdf"> Unit 10: The "sparse" harmonic series </a>
+* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit10_03DivergenceTest2.pdf"> Unit 10: Divergence Test 2 </a>
+* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit10_04Sum_of_product.pdf"> Unit 10: Sum of product </a>
 
 
 <!--
