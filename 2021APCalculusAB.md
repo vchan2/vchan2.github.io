@@ -151,12 +151,14 @@ Section 3.5 corrections:
 
 ### Exams
 
+Unless otherwise specified, all material is contained in the AP exam. Those items with an (AP) tag could appear on an AP exam, but not a Math 31 exam. 
+
 Unit 1 Math 31 test is scheduled for <b>Wednesday, September 29</b> in-class. Unit 1 AP material is scheduled for <b>Friday, October 1</b> in-class. 
 You should be proficient in all material contained in Unit 1. More precisely, you should be able to:
-  * Compute limits of a function graphically
-  * (AP) Compute limits of a composite function graphically
-  * Interpret tabular information for finding limits
-  * Use limit properties and arithmetic to find limits 
+  * Compute limits of a function graphically.
+  * (AP) Compute limits of a composite function graphically.
+  * Interpret tabular information for finding limits.
+  * Use limit properties and arithmetic to find limits .
   * Compute a limit of a function algebraically via 4 techniques:
     * Technique 0: rational-like function evaluation
     * Technique 1: factor and reduce
@@ -164,24 +166,25 @@ You should be proficient in all material contained in Unit 1. More precisely, yo
     * Technique 3: Fundamental Trigonometric Limit
     * Technique 4: (for x approaching +/- infinity) divide by dominant terms in the denominator
       * (AP) Apply this technique for expressions involving radicals
-  * Compute a one-sided limit, including checking for signs in absolute values and values close to 0
-  * Find a limit via one-sided limits
-  * Determine where a function is continuous, or find values for constants which give continuity 
-  * Identify the type of a discontinuity
-  * Find vertical and horizontal asymptotes of a function
-  * (AP) Use Squeeze Theorem
-  * (AP) Use Intermediate Value Theorem
-  * (AP) Handle more challenging expressions involving trigonometric functions, exponentials, and logarithms
+  * Compute a one-sided limit, including checking for signs in absolute values and values close to 0.
+  * Find a limit via one-sided limits.
+  * Determine where a function is continuous, or find values for constants which give continuity.
+  * Identify the type of a discontinuity.
+  * Find vertical and horizontal asymptotes of a function.
+  * (AP) Use Squeeze Theorem.
+  * (AP) Use Intermediate Value Theorem.
+  * (AP) Handle more challenging expressions involving trigonometric functions, exponentials, and logarithms.
 
 Unit 2 test is scheduled for <b>Wednesday, October 11</b> in-class. 
 You should be proficient in all material contained in Unit 2. More precisely, you should be able to:
   * Describe the relationship between continuity and differentiability.
   * Compute a derivative from first principles.
-  * Identify a limit as a derivative and use derivative rules to find the limit
+  * Identify a limit as a derivative and use derivative rules to find the limit.
   * Approximate the value of a derivative from either a table or graph.
   * Sketch the derivative of a function given a graph of the function and vice versa, the graph of a function given the derivative.
   * Apply the various derivative rules: sum/difference rule, constant multiple rule, power rule, product rule, quotient rule (this is of course the vast majority of the test, either directly or indirectly)
     * Note: This is true both for given functions (involving powers, trigonometric functions, exponential functions, and logarithmic functions) as well as given a table of values for f(x), g(x), f'(x), g'(x).
+  * (Math 31 ONLY) Produce proofs for the derivatives of the trigonometric functions.
   * Use derivatives to find the equation of tangent/normal lines with a given slope and through a point or parallel/perpendicular to given lines.
 
 <!--
