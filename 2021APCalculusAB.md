@@ -392,6 +392,21 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_17.pdf"> Mini-math for September 17 (1.1-1.11) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_17_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_24.pdf"> Mini-math for September 24 (1.12-1.16) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_24_sol.pdf">Solutions</a>)
 
+* Derivatives
+  * <a href="https://vchan2.github.io/2021Calculus/Derivatives_from_table.pdf"> Derivatives from tables</a> (<a href="https://vchan2.github.io/2021Calculus/Derivatives_from_table_sol.pdf">Solution</a>)
+  * <a href="https://www.symbolab.com/practice/derivatives-practice"> Generator for practice problems</a>
+  * <a href="https://homepages.bluffton.edu/~nesterd/apps/derivs.html"> Generator for practice problems</a> (Most of the time, these functions are annoying to differentiate simply because of the algebra and will not require differentiation techniques, but sometimes you get good questions randomly. 
+  * <a href="https://vchan2.github.io/2021Calculus/practice_derivatives.pdf"> A collection of 43 multiple-choice questions</a> - this covers Units 2 and 3, but no trig, exponentials, or logs
+    * Q11: This is not a great question, but is correct if you assume the scale is exactly the same as above. You need to have good eyes! (or a ruler...) If I had this on a test, I would put the graph of f on the same axes so you can directly compare them.
+    * Q14: Come see me if you need an answer.
+    * Q16, Q18: Requires a calculator - ignore for the purposes of the test, but try it out to test your understanding.
+    * Q31: Notation: D_x means d/dx, and D_x^2 means d^2/dx^2.
+    * Q33: This is (algebraically) challenging, and has several answers (one which uses the original formula to simplify, and one which does not - both versions are valid in my mind).
+
+<!--
+* <a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice.pdf"> Inverse function differentiation </a> (<a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice_sol.pdf">Solution</a>)
+-->
+
 <!--
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_05.pdf"> Mini-math for October 5 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_05_sol.pdf">Solution</a>)
