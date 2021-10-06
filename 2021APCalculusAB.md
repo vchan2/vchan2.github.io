@@ -12,6 +12,9 @@ Quick links
 
 ### Updates
 
+Please take a moment to reflect on your Unit 1 test. What went well? What was challenging? How was your preparation leading up to the test? What might you want to keep the same or change for the next test?
+
+
 <a href="2021Calculus/calc_readiness_sol.pdf">Answers for calculus readiness test</a>
 
 Watch list
