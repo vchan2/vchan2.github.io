@@ -187,7 +187,7 @@ You should be proficient in all material contained in Unit 2. More precisely, yo
   * Sketch the derivative of a function given a graph of the function and vice versa, the graph of a function given the derivative.
   * Apply the various derivative rules: sum/difference rule, constant multiple rule, power rule, product rule, quotient rule (this is of course the vast majority of the test, either directly or indirectly)
     * Note: This is true both for given functions (involving powers, trigonometric functions, exponential functions, and logarithmic functions) as well as given a table of values for f(x), g(x), f'(x), g'(x).
-  * (Math 31 ONLY) Produce proofs for the derivatives of the trigonometric functions.
+  * (Math 31 ONLY) Produce <a href="https://vchan2.github.io/2021Calculus/Trig_derivatives_proofs.pdf">proofs for the derivatives of the trigonometric functions</a>. 
   * Use derivatives to find the equation of tangent/normal lines with a given slope and through a point or parallel/perpendicular to given lines.
   * (AP) Handle more challenging problems of the types above
 
@@ -370,6 +370,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 * <a href="https://www.khanacademy.org/math/ap-calculus-ab"> AP Calculus AB course (Khan Academy) </a>
 * <a href="https://www.wolframalpha.com/"> Online calculator (WolframAlpha) </a>
 * <a href="https://www.desmos.com/"> Online graphing program (Desmos) </a>
+* <a href="https://vchan2.github.io/2021Calculus/Trig_derivatives_proofs.pdf"> Proofs of Trigonometric Derivatives </a>
 
 <!--
 * <a href="http://webspace.ship.edu/msrenault/GeoGebraCalculus/derivative_intuitive_chain_rule.html"> Interactive visualization of the Chain Rule </a>
