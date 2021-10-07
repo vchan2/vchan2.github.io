@@ -189,6 +189,7 @@ You should be proficient in all material contained in Unit 2. More precisely, yo
     * Note: This is true both for given functions (involving powers, trigonometric functions, exponential functions, and logarithmic functions) as well as given a table of values for f(x), g(x), f'(x), g'(x).
   * (Math 31 ONLY) Produce proofs for the derivatives of the trigonometric functions.
   * Use derivatives to find the equation of tangent/normal lines with a given slope and through a point or parallel/perpendicular to given lines.
+  * (AP) Handle more challenging problems of the type above
 
 <!--
   * Chain rule
