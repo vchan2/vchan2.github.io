@@ -460,6 +460,15 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 
 ### Challenges 
 
+Calculus-based:
+* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit01_01A_weird_limit.pdf"> Unit 1: A weird limit </a> - Find an example of a function whose limit at 0 from the right DNE
+* <a href="https://vchan2.github.io/2021Calculus/Unit01_02Continuous_nowhere.pdf"> Unit 1: Continuous nowhere </a> - Does there exist a function which is continuous nowhere?
+* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit01_03Continuous_on_irrationals.pdf"> Unit 1: Continuous on the irrationals </a> - Does there exist a function which is continuous only on the irrationals?
+* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit01_04Continuous_on_rationals.pdf"> Unit 1: Continuous on the rationals </a> - Does there exist a function which is continuous only on the rationals?
+* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit02_01Continuous_but_not_differentiable.pdf"> Unit 2: Continuous but not differentiable </a> - Does there exist a function which is continuous everywhere but not differentiable infinitely often?
+* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit02_01Continuous_but_not_differentiable.pdf"> Unit 3: Continuous but nowhere differentiable </a> - Does there exist a function which is continuous everywhere but differentiable nowhere?
+
+
 <!--
 Calculus-based:
 * <a href="https://vchan2.github.io/2020Calculus/01A_weird_limit.pdf"> A weird limit </a> - Find an example of a function whose limit at 0 from the right DNE
