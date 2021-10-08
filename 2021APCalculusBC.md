@@ -17,7 +17,7 @@ Watch list
   * Friday, Sept. 17 - Thursday, Sept. 24: Sections 10.5 to 10.6
   * Friday, Sept. 24 - Thursday, Sept. 30: Sections 10.7 to 10.8
   * Friday, Oct. 8 - Thursday, Oct. 14: Sections 10.9 to 10.10
-  * Friday, Oct. 15 - Thursday, Oct. 21: Sections 
+  * Friday, Oct. 15 - Thursday, Oct. 21: Sections 2.1-2.2
 
 Tentative schedule for upcoming classes:
  * Friday, Sept. 17: 10.1-10.3
@@ -25,7 +25,7 @@ Tentative schedule for upcoming classes:
  * Friday, Oct. 1: 10.7-10.8; Unit 1 assignment will be handed out for those not currently in AP Calculus AB.
  * Friday, Oct. 8: Unit 1 assignment due.
  * Friday, Oct. 15: 10.9-10.10
- * Friday, Oct. 22: 
+ * Friday, Oct. 22: 2.1-2.2
 
 <!--
   * Week of May 24
