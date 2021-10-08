@@ -23,6 +23,8 @@ Watch list
   * Wednesday, Sept. 15 - Tuesday, Sept. 21: Sections 1.12 to 1.16
   * Wednesday, Sept. 22 - Tuesday, Sept. 28: Sections 2.1 to 2.3
   * Wednesday, Sept. 29 - Tuesday, Oct. 5: Sections 2.4 to 2.10
+  * Wednesday, Oct. 6 - Tuesday, Oct. 12: Section 3.1
+  * Wednesday, Oct. 13 - Tuesday, Oct. 19: Sections 3.2 to 3.6
 
 
 <!--
