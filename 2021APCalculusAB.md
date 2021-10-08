@@ -191,7 +191,7 @@ You should be proficient in all material contained in Unit 1. More precisely, yo
   * (AP) Use Intermediate Value Theorem.
   * (AP) Handle more challenging expressions involving trigonometric functions, exponentials, and logarithms.
 
-Unit 2 test is scheduled for <b>Wednesday, October 11</b> in-class. 
+Unit 2 test is scheduled for <b>Wednesday, October 11</b> in-class. Unit 2 AP material is scheduled for <b>Friday, October 13</b> in-class. 
 You should be proficient in all material contained in Unit 2. More precisely, you should be able to:
   * Describe the relationship between continuity and differentiability.
   * Calculate the average rate of change from a table, graph, or function.
@@ -206,10 +206,13 @@ You should be proficient in all material contained in Unit 2. More precisely, yo
   * (AP) Handle more challenging problems of the types above
 
 <!--
-  * Chain rule
+Unit 3 test is scheduled for <b>Wednesday, October 11</b> in-class. Unit 2 AP material is scheduled for <b>Friday, October 13</b> in-class. 
+You should be proficient in all material contained in Unit 2. More precisely, you should be able to:
+  * Apply chain rule
   * Compute dy/dx implicitly, and to find the slope of the tangent to an implicit curve at a point.
   * Compute higher-order derivatives.
   * Be able to compute higher-order implicit derivatives.
+  * (AP) Differentiate inverse functions, including the inverse trigonometric functions
 -->
 
 <!--
