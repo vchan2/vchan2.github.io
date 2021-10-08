@@ -47,6 +47,8 @@ Watch list for Wednesday, Sept. 8 - Tuesday, Sept. 14:
 
 
 Tentative schedule for upcoming classes:
+
+<!--
   * Week of Sept. 6
     * Wednesday, Sept. 8: 1.1, 1.2, 1.3
     * Friday, Sept. 10: 1.4, 1.5
@@ -66,10 +68,19 @@ Tentative schedule for upcoming classes:
     * Monday, Oct. 4: 2.4, 2.5
     * Wednesday, Oct. 6: 2.6, 2.7, 2.8
     * Friday, Oct. 8: 2.9, 2.10
+-->
+
   * Week of Oct. 11
-    * Monday, Oct. 11: Unit 2 Review
-    * Wednesday, Oct. 12: <b>Unit 2 test - Math 31</b>
-    * Friday, Oct. 13: <b>Unit 2 test - AP Calculus</b>
+    * Wednesday, Oct. 13: <b>Unit 2 test - Math 31</b>
+    * Friday, Oct. 15: <b>Unit 2 test - AP Calculus</b>
+  * Week of Oct. 18
+    * Monday, Oct. 18: 3.1-3.3
+    * Wednesday, Oct. 20: 3.4-3.6
+    * Friday, Oct. 22: Unit 3 Review
+  * Week of Oct. 25
+    * Monday, Oct. 25: <b>Unit 3 test - Math 31</b>
+    * Wednesday, Oct. 27: <b>Unit 3 test - AP Calculus</b>, 4.1
+    * Friday, Oct. 29: 4.2-4.3
 
 
 
@@ -183,6 +194,7 @@ You should be proficient in all material contained in Unit 1. More precisely, yo
 Unit 2 test is scheduled for <b>Wednesday, October 11</b> in-class. 
 You should be proficient in all material contained in Unit 2. More precisely, you should be able to:
   * Describe the relationship between continuity and differentiability.
+  * Calculate the average rate of change from a table, graph, or function.
   * Compute a derivative from first principles.
   * Identify a limit as a derivative and use derivative rules to find the limit.
   * Approximate the value of a derivative from either a table or graph.
