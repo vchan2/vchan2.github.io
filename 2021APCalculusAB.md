@@ -205,15 +205,13 @@ You should be proficient in all material contained in Unit 2. More precisely, yo
   * Use derivatives to find the equation of tangent/normal lines with a given slope and through a point or parallel/perpendicular to given lines.
   * (AP) Handle more challenging problems of the types above
 
-<!--
-Unit 3 test is scheduled for <b>Wednesday, October 11</b> in-class. Unit 2 AP material is scheduled for <b>Friday, October 13</b> in-class. 
+Unit 3 test is scheduled for <b>Monday, October 25</b> in-class. Unit 2 AP material is scheduled for <b>Wednesday, October 27</b> in-class. 
 You should be proficient in all material contained in Unit 2. More precisely, you should be able to:
   * Apply chain rule
   * Compute dy/dx implicitly, and to find the slope of the tangent to an implicit curve at a point.
   * Compute higher-order derivatives.
   * Be able to compute higher-order implicit derivatives.
   * (AP) Differentiate inverse functions, including the inverse trigonometric functions
--->
 
 <!--
 Testing centre hours are:
