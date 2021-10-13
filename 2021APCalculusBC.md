@@ -24,8 +24,8 @@ Tentative schedule for upcoming classes:
  * Friday, Sept. 17: 10.1-10.3
  * Friday, Sept. 24: 10.5-10.6
  * Friday, Oct. 1: 10.7-10.8; Unit 1 assignment will be handed out for those not currently in AP Calculus AB.
- * Friday, Oct. 8: Unit 1 assignment due.
- * Friday, Oct. 15: 10.9-10.10
+ * Friday, Oct. 8: 
+ * Friday, Oct. 15: 10.9-10.10; Unit 1 assignment due; Unit 2 assignment will be handed out for those not currently in AP Calculus AB.
  * Friday, Oct. 22: 9.1-9.2
  * Friday, Oct. 29: 
 
