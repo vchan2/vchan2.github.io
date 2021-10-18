@@ -74,14 +74,17 @@ Tentative schedule for upcoming classes:
     * Wednesday, Oct. 13: <b>Unit 2 test - Math 31</b>
     * Friday, Oct. 15: <b>Unit 2 test - AP Calculus</b>
   * Week of Oct. 18
-    * Monday, Oct. 18: 3.1-3.3
-    * Wednesday, Oct. 20: 3.4-3.6
-    * Friday, Oct. 22: Unit 3 Review
+    * Monday, Oct. 18: 3.1-3.2
+    * Wednesday, Oct. 20: 3.3-3.4
+    * Friday, Oct. 22: 
   * Week of Oct. 25
-    * Monday, Oct. 25: <b>Unit 3 test - Math 31</b>
-    * Wednesday, Oct. 27: <b>Unit 3 test - AP Calculus</b>, 4.1
-    * Friday, Oct. 29: 4.2-4.3
-
+    * Monday, Oct. 25: Unit 3 Review
+    * Wednesday, Oct. 27: 4.1-4.2
+    * Friday, Oct. 29: Halloween activities
+  * Week of Nov. 1
+    * Monday, Nov. 1: <b>Unit 3 test - Math 31</b>
+    * Wednesday, Nov. 3: <b>Unit 3 test - AP Calculus</b>, 4.3
+    * Friday, Nov. 5: PTC
 
 
 <!--
