@@ -175,6 +175,7 @@ Section 3.5 corrections:
 
 Unless otherwise specified, all material is contained in the AP exam. Those items with an (AP) tag could appear on an AP exam, but not a Math 31 exam. 
 
+<!--
 Unit 1 Math 31 test is scheduled for <b>Wednesday, September 29</b> in-class. Unit 1 AP material is scheduled for <b>Friday, October 1</b> in-class. 
 You should be proficient in all material contained in Unit 1. More precisely, you should be able to:
   * Compute limits of a function graphically.
@@ -196,7 +197,9 @@ You should be proficient in all material contained in Unit 1. More precisely, yo
   * (AP) Use Squeeze Theorem.
   * (AP) Use Intermediate Value Theorem.
   * (AP) Handle more challenging expressions involving trigonometric functions, exponentials, and logarithms.
+-->
 
+<!--
 Unit 2 test is scheduled for <b>Wednesday, October 11</b> in-class. Unit 2 AP material is scheduled for <b>Friday, October 13</b> in-class. 
 You should be proficient in all material contained in Unit 2. More precisely, you should be able to:
   * Describe the relationship between continuity and differentiability.
@@ -210,14 +213,18 @@ You should be proficient in all material contained in Unit 2. More precisely, yo
   * (Math 31 ONLY) Produce <a href="https://vchan2.github.io/2021Calculus/Trig_derivatives_proofs.pdf">proofs for the derivatives of the trigonometric functions</a>. 
   * Use derivatives to find the equation of tangent/normal lines with a given slope and through a point or parallel/perpendicular to given lines.
   * (AP) Handle more challenging problems of the types above
+-->
 
-Unit 3 test is scheduled for <b>Monday, October 25</b> in-class. Unit 2 AP material is scheduled for <b>Wednesday, October 27</b> in-class. 
+Unit 3 test is scheduled for <b>Monday, November 1</b> in-class. Unit 2 AP material is scheduled for <b>Wednesday, October 27</b> in-class. 
 You should be proficient in all material contained in Unit 2. More precisely, you should be able to:
   * Apply chain rule
-  * Compute dy/dx implicitly, and to find the slope of the tangent to an implicit curve at a point.
+  * Compute dy/dx implicitly, and find the slope of the tangent to an implicit curve at a point.
   * Compute higher-order derivatives.
   * Be able to compute higher-order implicit derivatives.
-  * (AP) Differentiate inverse functions, including the inverse trigonometric functions
+  * (AP) Differentiate inverse functions, including the inverse trigonometric functions.
+  * (AP) Handle more challenging problems of the types above.
+Note that you will need to be familiar with the techniques covered un Unit 2 as well. You should be able to handle problems given algebraic, verbal, tabular, or graphical information.
+
 
 <!--
 Testing centre hours are:
