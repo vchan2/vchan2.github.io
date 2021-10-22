@@ -12,10 +12,7 @@ Quick links
 
 ### Updates
 
-Please take a moment to reflect on your Unit 1 test. What went well? What was challenging? How was your preparation leading up to the test? What might you want to keep the same or change for the next test?
-
-
-<a href="2021Calculus/calc_readiness_sol.pdf">Answers for calculus readiness test</a>
+New resources are being added to practice problems. Take a look periodically.
 
 Watch list
   * Friday, Sept. 3 - Tuesday, Sept. 7: Sections 1.1 to 1.5
@@ -421,6 +418,9 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 ---
 
 ### Practice problems
+
+<a href="2021Calculus/calc_readiness_sol.pdf">Answers for calculus readiness test</a>
+
 * Mini-maths
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_17.pdf"> Mini-math for September 17 (1.1-1.11) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_17_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_24.pdf"> Mini-math for September 24 (1.12-1.16) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_24_sol.pdf">Solutions</a>)
