@@ -215,7 +215,7 @@ You should be proficient in all material contained in Unit 2. More precisely, yo
   * (AP) Handle more challenging problems of the types above
 -->
 
-Unit 3 test is scheduled for <b>Monday, November 1</b> in-class. Unit 2 AP material is scheduled for <b>Wednesday, October 27</b> in-class. 
+Unit 3 test is scheduled for <b>Monday, November 1</b> in-class. Unit 3 AP material is scheduled for <b>Wednesday, November 3</b> in-class. 
 You should be proficient in all material contained in Unit 2. More precisely, you should be able to:
   * Apply chain rule
   * Compute dy/dx implicitly, and find the slope of the tangent to an implicit curve at a point.
@@ -437,10 +437,8 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
     * Q16, Q18: Requires a calculator - ignore for the purposes of the test, but try it out to test your understanding.
     * Q31: Notation: D_x means d/dx, and D_x^2 means d^2/dx^2.
     * Q33: This is (algebraically) challenging, and has several answers (one which uses the original formula to simplify, and one which does not - both versions are valid in my mind).
-
-<!--
-* <a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice.pdf"> Inverse function differentiation </a> (<a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice_sol.pdf">Solution</a>)
--->
+  * <a href="https://vchan2.github.io/2021Calculus/Chain_rule_from_graph.pdf"> Chain rule from a table and graph</a> (<a href="https://vchan2.github.io/2021Calculus/Chain_rule_from_graph_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice.pdf"> Inverse function differentiation </a> (<a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice_sol.pdf">Solution</a>)
 
 <!--
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf">Solution</a>)
