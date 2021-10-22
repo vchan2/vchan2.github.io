@@ -437,9 +437,10 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
     * Q16, Q18: Requires a calculator - ignore for the purposes of the test, but try it out to test your understanding.
     * Q31: Notation: D_x means d/dx, and D_x^2 means d^2/dx^2.
     * Q33: This is (algebraically) challenging, and has several answers (one which uses the original formula to simplify, and one which does not - both versions are valid in my mind).
-  * <a href="https://vchan2.github.io/2021Calculus/Chain_rule_from_graph.pdf"> Chain rule from a table and graph</a> (<a href="https://vchan2.github.io/2021Calculus/Chain_rule_from_graph_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/Chain_rule_from_graph.pdf">Chain rule from a table and graph</a> (<a href="https://vchan2.github.io/2021Calculus/Chain_rule_from_graph_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2021Calculus/Inverse_from_values.pdf">Inverse function differentiation from given values</a> (<a href="https://vchan2.github.io/2021Calculus/Inverse_from_values_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice.pdf"> Inverse function differentiation </a> (<a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/Unit03_implicit_with_higher_order.pdf">Implicit differentiation with higher order derivatives</a> (Solution included)
 
 <!--
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf">Solution</a>)
