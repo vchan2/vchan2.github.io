@@ -438,6 +438,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
     * Q31: Notation: D_x means d/dx, and D_x^2 means d^2/dx^2.
     * Q33: This is (algebraically) challenging, and has several answers (one which uses the original formula to simplify, and one which does not - both versions are valid in my mind).
   * <a href="https://vchan2.github.io/2021Calculus/Chain_rule_from_graph.pdf"> Chain rule from a table and graph</a> (<a href="https://vchan2.github.io/2021Calculus/Chain_rule_from_graph_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/Implicit_from_values.pdf"> Inverse function differentiation </a> (<a href="https://vchan2.github.io/2021Calculus/Implicit_from_values_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice.pdf"> Inverse function differentiation </a> (<a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice_sol.pdf">Solution</a>)
 
 <!--
