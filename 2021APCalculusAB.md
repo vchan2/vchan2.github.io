@@ -220,7 +220,7 @@ You should be proficient in all material contained in Unit 2. More precisely, yo
   * Be able to compute higher-order implicit derivatives.
   * (AP) Differentiate inverse functions, including the inverse trigonometric functions.
   * (AP) Handle more challenging problems of the types above.
-  * (AP) Be able to compute derivatives via logarithmic differentiation.
+<!--  * (AP) Be able to compute derivatives via logarithmic differentiation.-->
 
 Note that you will need to be familiar with the techniques covered un Unit 2 as well. You should be able to handle problems given algebraic, verbal, tabular, or graphical information.
 
