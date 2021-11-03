@@ -12,7 +12,7 @@ Quick links
 
 ### Updates
 
-New resources are being added to practice problems. Take a look periodically.
+<a href="https://vchan2.github.io/2021Calculus/4.3_handout.pdf">4.3 Handout on rates of change in other applied contexts</a> (<a href="https://vchan2.github.io/2021Calculus/4.3_handout_sol.pdf">Solution</a>)
 
 Watch list
   * Friday, Sept. 3 - Tuesday, Sept. 7: Sections 1.1 to 1.5
@@ -25,6 +25,7 @@ Watch list
   * Wednesday, Oct. 20 - Tuesday, Oct. 26: Sections 4.1 to 4.2
   * Wednesday, Oct. 27 - Tuesday, Nov. 2: Section 4.3
   * Wednesday, Nov. 3 - Tuesday, Nov. 16: Section 4.4 to 4.7
+  * Wednesday, Nov. 17 - Tuesday, Nov. 23: 
 
 
 <!--
@@ -457,6 +458,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
   * <a href="https://vchan2.github.io/2021Calculus/Inverse_from_values.pdf">Inverse function differentiation from given values</a> (<a href="https://vchan2.github.io/2021Calculus/Inverse_from_values_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice.pdf"> Inverse function differentiation </a> (<a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2021Calculus/Unit03_implicit_with_higher_order.pdf">Implicit differentiation with higher order derivatives</a> (Solution included)
+  * <a href="https://vchan2.github.io/2021Calculus/4.3_handout.pdf">4.3 Handout on rates of change in other applied contexts</a> (<a href="https://vchan2.github.io/2021Calculus/4.3_handout_sol.pdf">Solution</a>)
 
 <!--
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf">Solution</a>)
