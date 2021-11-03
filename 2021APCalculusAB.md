@@ -24,7 +24,7 @@ Watch list
   * Wednesday, Oct. 13 - Tuesday, Oct. 19: Sections 3.2 to 3.6
   * Wednesday, Oct. 20 - Tuesday, Oct. 26: Sections 4.1 to 4.2
   * Wednesday, Oct. 27 - Tuesday, Nov. 2: Section 4.3
-  * Wednesday, Nov. 3 - Tuesday, Nov. 9: Section 4.4 to 4.?
+  * Wednesday, Nov. 3 - Tuesday, Nov. 16: Section 4.4 to 4.7
 
 
 <!--
@@ -68,8 +68,6 @@ Tentative schedule for upcoming classes:
     * Monday, Oct. 4: 2.4, 2.5
     * Wednesday, Oct. 6: 2.6, 2.7, 2.8
     * Friday, Oct. 8: 2.9, 2.10
--->
-
   * Week of Oct. 11
     * Wednesday, Oct. 13: <b>Unit 2 test - Math 31</b>
     * Friday, Oct. 15: <b>Unit 2 test - AP Calculus</b>
@@ -85,6 +83,16 @@ Tentative schedule for upcoming classes:
     * Monday, Nov. 1: <b>Unit 3 test - Math 31</b>
     * Wednesday, Nov. 3: <b>Unit 3 test - AP Calculus</b>, 4.3
     * Friday, Nov. 5: PTC
+-->
+  * Week of Nov. 15
+    * Monday, Nov. 15: 4.4-4.5
+    * Wednesday, Nov. 17: 4.6-4.7
+    * Friday, Nov. 19: Unit 4 Review
+  * Week of Nov. 22
+    * Monday, Nov. 22: Unit 4 Review
+    * Wednesday, Nov. 24: <b>Unit 4 test - Math 31</b>
+    * Friday, Nov. 26: <b>Unit 4 test - AP Calculus</b>
+
 
 
 <!--
@@ -212,6 +220,7 @@ You should be proficient in all material contained in Unit 2. More precisely, yo
   * (AP) Handle more challenging problems of the types above
 -->
 
+<!--
 Unit 3 test is scheduled for <b>Monday, November 1</b> in-class. Unit 3 AP material is scheduled for <b>Wednesday, November 3</b> in-class. 
 You should be proficient in all material contained in Unit 2. More precisely, you should be able to:
   * Apply chain rule
@@ -220,9 +229,13 @@ You should be proficient in all material contained in Unit 2. More precisely, yo
   * Be able to compute higher-order implicit derivatives.
   * (AP) Differentiate inverse functions, including the inverse trigonometric functions.
   * (AP) Handle more challenging problems of the types above.
+-->
 <!--  * (AP) Be able to compute derivatives via logarithmic differentiation.-->
-
+<!--
 Note that you will need to be familiar with the techniques covered un Unit 2 as well. You should be able to handle problems given algebraic, verbal, tabular, or graphical information.
+-->
+
+Unit 4 test is tentatively scheduled for <b>Wednesday, November 24</b> in-class. Unit 4 AP material is tentatively scheduled for <b>Friday, November 26</b> in-class. 
 
 
 <!--
