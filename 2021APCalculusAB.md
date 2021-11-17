@@ -90,12 +90,16 @@ Tentative schedule for upcoming classes:
 -->
   * Week of Nov. 15
     * Monday, Nov. 15: 4.4-4.5
-    * Wednesday, Nov. 17: 4.6-4.7
-    * Friday, Nov. 19: Unit 4 Review
+    * Wednesday, Nov. 17: 4.4-4.5
+    * Friday, Nov. 19: 4.6
   * Week of Nov. 22
-    * Monday, Nov. 22: Unit 4 Review
-    * Wednesday, Nov. 24: <b>Unit 4 test - Math 31</b>
-    * Friday, Nov. 26: <b>Unit 4 test - AP Calculus</b>
+    * Monday, Nov. 22: 4.7
+    * Wednesday, Nov. 24: Unit 4 Review
+    * Friday, Nov. 26: Unit 4 Review
+  * Week of Nov. 29
+    * Monday, Nov. 29: <b>Unit 4 test - Math 31</b>
+    * Wednesday, Dec. 1: <b>Unit 4 test - AP Calculus</b>, 5.1
+    * Friday, Dec. 3: 5.2
 
 
 
@@ -239,7 +243,7 @@ You should be proficient in all material contained in Unit 2. More precisely, yo
 Note that you will need to be familiar with the techniques covered un Unit 2 as well. You should be able to handle problems given algebraic, verbal, tabular, or graphical information.
 -->
 
-Unit 4 test is tentatively scheduled for <b>Wednesday, November 24</b> in-class. Unit 4 AP material is tentatively scheduled for <b>Friday, November 26</b> in-class. 
+Unit 4 test is tentatively scheduled for <b>Monday, November 29</b> in-class. Unit 4 AP material is tentatively scheduled for <b>Wednesday, December 1</b> in-class. 
 
 
 <!--
