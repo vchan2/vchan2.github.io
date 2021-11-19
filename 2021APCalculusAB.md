@@ -91,9 +91,9 @@ Tentative schedule for upcoming classes:
   * Week of Nov. 15
     * Monday, Nov. 15: 4.4-4.5
     * Wednesday, Nov. 17: 4.4-4.5
-    * Friday, Nov. 19: 4.6
+    * Friday, Nov. 19: Related Rates
   * Week of Nov. 22
-    * Monday, Nov. 22: 4.7
+    * Monday, Nov. 22: 4.6, 4.7
     * Wednesday, Nov. 24: Unit 4 Review
     * Friday, Nov. 26: Unit 4 Review
   * Week of Nov. 29
