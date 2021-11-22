@@ -248,6 +248,16 @@ Note that you will need to be familiar with the techniques covered un Unit 2 as 
 
 Unit 4 test is tentatively scheduled for <b>Monday, November 29</b> in-class. Unit 4 AP material is tentatively scheduled for <b>Wednesday, December 1</b> in-class. 
 
+Note that the test is designed to be completed in 45 min, so it's a short one; it will be weighted less than standard units.
+You should be proficient in all material covered in Chapter 3 (sections 1, 2, 5). More precisely, you should be able to:
+  * Determine the velocity and acceleration of a particle moving in a straight-line given its position/displacement function as well as compute the value of the velocity or acceleration at particular times.
+  * Determine when a particle is at rest as well as when it is moving in the positive or negative direction.
+  * Find the total distance travelled by a particle within a specified amount of time.
+  * Find rates of change in contexts other than motion including understanding the correct units
+  * Solve related rates problems (you should know standard formulas for area/volume and perimeter/surface area, and be able to use simple geometry such as similarity of triangles and Pythagorean Theorem)
+  * (AP) Approximate a function with local linearization and analyze a linearization
+  * (AP) Use l'H&ocirc;pital's rule appropriately
+
 
 <!--
 Testing centre hours are:
