@@ -257,7 +257,7 @@ You should be proficient in all material covered in Chapter 3 (sections 1, 2, 5)
   * Solve related rates problems (you should know standard formulas for area/volume and perimeter/surface area, and be able to use simple geometry such as similarity of triangles and Pythagorean Theorem)
   * (AP) Approximate a function with local linearization and analyze a linearization
   * (AP) Use l'H&ocirc;pital's rule appropriately
-
+  * (AP) Handle more challenging problems of the types above.
 
 <!--
 Testing centre hours are:
