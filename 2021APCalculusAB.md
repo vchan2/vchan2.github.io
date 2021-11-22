@@ -12,9 +12,16 @@ Quick links
 
 ### Updates
 
-<a href="https://vchan2.github.io/2021Calculus/4.3_handout.pdf">4.3 Handout on rates of change in other applied contexts</a> (<a href="https://vchan2.github.io/2021Calculus/4.3_handout_sol.pdf">Solution</a>)
-
 Watch list
+  * Wednesday, Nov. 3 - Tuesday, Nov. 16: Section 4.4 to 4.7
+  * Wednesday, Nov. 17 - Tuesday, Nov. 23: Section 5.1
+  * Wednesday, Nov. 24 - Tuesday, Nov. 30: Section 5.2 to 5.5
+  * Wednesday, Dec. 1 - Tuesday, Dec. 7: Section 5.6 to 5.9
+  * Wednesday, Dec. 1 - Tuesday, Dec. 7: Section 5.10 to 5.12
+
+
+
+<!--
   * Friday, Sept. 3 - Tuesday, Sept. 7: Sections 1.1 to 1.5
   * Wednesday, Sept. 8 - Tuesday, Sept. 14: Sections 1.6 to 1.11
   * Wednesday, Sept. 15 - Tuesday, Sept. 21: Sections 1.12 to 1.16
@@ -24,11 +31,7 @@ Watch list
   * Wednesday, Oct. 13 - Tuesday, Oct. 19: Sections 3.2 to 3.6
   * Wednesday, Oct. 20 - Tuesday, Oct. 26: Sections 4.1 to 4.2
   * Wednesday, Oct. 27 - Tuesday, Nov. 2: Section 4.3
-  * Wednesday, Nov. 3 - Tuesday, Nov. 16: Section 4.4 to 4.7
-  * Wednesday, Nov. 17 - Tuesday, Nov. 23: Section 5.1
-  * Wednesday, Nov. 24 - Tuesday, Nov. 30: Section 5.2 to 5.5
-  * Wednesday, Dec. 1 - Tuesday, Dec. 7: Section 5.6 to 5.9
-  * Wednesday, Dec. 1 - Tuesday, Dec. 7: Section 5.10 to 5.12
+-->
 
 
 <!--
@@ -466,6 +469,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
   * <a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice.pdf"> Inverse function differentiation </a> (<a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2021Calculus/Unit03_implicit_with_higher_order.pdf">Implicit differentiation with higher order derivatives</a> (Solution included)
   * <a href="https://vchan2.github.io/2021Calculus/4.3_handout.pdf">4.3 Handout on rates of change in other applied contexts</a> (<a href="https://vchan2.github.io/2021Calculus/4.3_handout_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/4.5_Related_Rates.pdf">4.5 Three related rates problems</a> (<a href="https://vchan2.github.io/2021Calculus/4.5_Related_Rates_sol.pdf">Solution</a>)
 
 <!--
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf">Solution</a>)
