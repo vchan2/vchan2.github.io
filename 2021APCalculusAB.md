@@ -100,9 +100,9 @@ Tentative schedule for upcoming classes:
     * Wednesday, Nov. 24: Unit 4 Review
     * Friday, Nov. 26: Unit 4 Review
   * Week of Nov. 29
-    * Monday, Nov. 29: <b>Unit 4 test - Math 31</b>
-    * Wednesday, Dec. 1: <b>Unit 4 test - AP Calculus</b>, 5.1
-    * Friday, Dec. 3: 5.2
+    * Monday, Nov. 29: 5.1-5.2
+    * Wednesday, Dec. 1: <b>Unit 4 test - Math 31</b>
+    * Friday, Dec. 3: <b>Unit 4 test - AP Calculus</b>
 
 
 
@@ -246,7 +246,7 @@ You should be proficient in all material contained in Unit 2. More precisely, yo
 Note that you will need to be familiar with the techniques covered un Unit 2 as well. You should be able to handle problems given algebraic, verbal, tabular, or graphical information.
 -->
 
-Unit 4 test is tentatively scheduled for <b>Monday, November 29</b> in-class. Unit 4 AP material is tentatively scheduled for <b>Wednesday, December 1</b> in-class. 
+Unit 4 test is tentatively scheduled for <b>Wednesday, December 1</b> in-class. Unit 4 AP material is tentatively scheduled for <b>Friday, December 3</b> in-class. 
 
 Note that the test is designed to be completed in 45 min, so it's a short one; it will be weighted less than standard units.
 You should be proficient in all material covered in Chapter 3 (sections 1, 2, 5). More precisely, you should be able to:
@@ -255,6 +255,7 @@ You should be proficient in all material covered in Chapter 3 (sections 1, 2, 5)
   * Find the total distance travelled by a particle within a specified amount of time.
   * Find rates of change in contexts other than motion including understanding the correct units
   * Solve related rates problems (you should know standard formulas for area/volume and perimeter/surface area, and be able to use simple geometry such as similarity of triangles and Pythagorean Theorem)
+    * Focus on questions 8-17 in section 3.5 and questions 8-14 in section 7.4 of Stewart
   * (AP) Approximate a function with local linearization and analyze a linearization
   * (AP) Use l'H&ocirc;pital's rule appropriately
   * (AP) Handle more challenging problems of the types above.
