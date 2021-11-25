@@ -15,9 +15,9 @@ Quick links
 Watch list
   * Wednesday, Nov. 3 - Tuesday, Nov. 16: Section 4.4 to 4.7
   * Wednesday, Nov. 17 - Tuesday, Nov. 23: Section 5.1
-  * Wednesday, Nov. 24 - Tuesday, Nov. 30: Section 5.2 to 5.5
-  * Wednesday, Dec. 1 - Tuesday, Dec. 7: Section 5.6 to 5.9
-  * Wednesday, Dec. 1 - Tuesday, Dec. 7: Section 5.10 to 5.12
+  * Wednesday, Nov. 24 - Tuesday, Nov. 30: Section 5.1 to 5.2
+  * Wednesday, Dec. 1 - Tuesday, Dec. 7: Section 5.3 to 5.7
+  * Wednesday, Dec. 8 - Tuesday, Dec. 14: Section 5.8 to 5.10
 
 
 
