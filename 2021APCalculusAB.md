@@ -412,7 +412,7 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 ### Homework
 
-Homework expectations: 40-60 minutes/day on average
+Homework expectations: about 40 minutes/day on average
 
 <!--
 Specific homework for Monday, June 21:
