@@ -19,6 +19,8 @@ Watch list
   * Friday, Oct. 8 - Thursday, Oct. 14: Sections 10.9 to 10.10
   * Friday, Oct. 15 - Thursday, Oct. 21: Sections 9.1-9.2
   * Friday, Oct. 22 - Thursday, Nov. 18: Sections 9.4, 9.7
+  * Friday, November 26 - Thursday, December 2: (AB class or for review only) Sections 6.2 (Video 1), 6.3 (Videos 1 and 2), 6.4 (Video 1)
+  * Friday, December 3 - Thursday, December 9: (AB class or for review only) Sections 6.6 (Videos 2 and 3), 6.7 (Video 1), 6.8 (Videos 1 and 2)
 
 Tentative schedule for upcoming classes:
  * Friday, Sept. 17: 10.1-10.3
@@ -31,6 +33,8 @@ Tentative schedule for upcoming classes:
  * Friday, Nov. 5: PTC
  * Friday, Nov. 12: November break
  * Friday, Nov. 19: 9.4, 9.7
+ * Friday, Nov. 26: Introduction to integration
+ * Friday, Dec. 3: 
 
 <!--
   * Week of May 24
