@@ -12,6 +12,8 @@ Quick links
 
 ### Updates
 
+Friday, Nov. 26: Class will be on zoom. I will go over any questions you may have, otherwise it is an opportunity to continue your review of Unit 4.
+
 Watch list
   * Wednesday, Nov. 3 - Tuesday, Nov. 16: Section 4.4 to 4.7
   * Wednesday, Nov. 17 - Tuesday, Nov. 23: Section 5.1
