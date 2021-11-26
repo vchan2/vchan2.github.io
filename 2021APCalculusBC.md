@@ -14,6 +14,10 @@ Quick links
 
 Friday, Nov. 26: Class will be on zoom. I will begin an introduction to integration, for those in AB calculus this term or want a refresher from last year.
 
+<a href="https://vchan2.github.io/2021Calculus/2021-11-26_AP_Calculus_BC.pdf">Notes for November 26</a> 
+
+
+
 Watch list
   * Friday, Sept. 10 - Thursday, Sept. 16: Sections 10.1 to 10.3
   * Friday, Sept. 17 - Thursday, Sept. 24: Sections 10.5 to 10.6
