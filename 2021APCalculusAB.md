@@ -432,12 +432,14 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 
 ### Online resources
 
-* <a href="https://calculus.flippedmath.com/list-of-lessons.html"> Flipped Math - Calculus </a>
+* <a href="https://calculus.flippedmath.com/list-of-lessons.html"> Flipped Math - AP Calculus </a>
 * <a href="https://www.youtube.com/watch?v=WUvTyaaNkzM"> The Essence of Calculus YouTube series </a> (brought to you by <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"> 3 Blue 1 Brown</a>)
 * <a href="https://www.khanacademy.org/math/ap-calculus-ab"> AP Calculus AB course (Khan Academy) </a>
 * <a href="https://www.wolframalpha.com/"> Online calculator (WolframAlpha) </a>
 * <a href="https://www.desmos.com/"> Online graphing program (Desmos) </a>
 * <a href="https://vchan2.github.io/2021Calculus/Trig_derivatives_proofs.pdf"> Proofs of Trigonometric Derivatives </a>
+* <a href="https://vchan2.github.io/2021Calculus/2021-11-26_AP_Calculus_AB.pdf">Notes for November 26</a> 
+
 
 <!--
 * <a href="http://webspace.ship.edu/msrenault/GeoGebraCalculus/derivative_intuitive_chain_rule.html"> Interactive visualization of the Chain Rule </a>
