@@ -12,9 +12,7 @@ Quick links
 
 ### Updates
 
-Friday, Nov. 26: Class will be on zoom. I will go over any questions you may have, otherwise it is an opportunity to continue your review of Unit 4.
-
-<a href="https://vchan2.github.io/2021Calculus/2021-11-26_AP_Calculus_AB.pdf">Notes for November 26</a> 
+Planning on postponing the Math 31 Unit 4 test until Monday, December 6 for everyone. Please let me know if you are opposed to this.
 
 
 Watch list
@@ -251,7 +249,7 @@ You should be proficient in all material contained in Unit 2. More precisely, yo
 Note that you will need to be familiar with the techniques covered un Unit 2 as well. You should be able to handle problems given algebraic, verbal, tabular, or graphical information.
 -->
 
-Unit 4 test is tentatively scheduled for <b>Wednesday, December 1</b> in-class. Unit 4 AP material is tentatively scheduled for <b>Friday, December 3</b> in-class. 
+Unit 4 test is tentatively scheduled for <b>Monday, December 6</b> in-class. Unit 4 AP material is tentatively scheduled for <b>Friday, December 3</b> in-class. 
 
 Note that the test is designed to be completed in 45 min, so it's a short one; it will be weighted less than standard units.
 You should be proficient in all material covered in Chapter 3 (sections 1, 2, 5). More precisely, you should be able to:
