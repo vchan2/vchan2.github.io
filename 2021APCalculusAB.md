@@ -104,8 +104,12 @@ Tentative schedule for upcoming classes:
     * Friday, Nov. 26: Unit 4 Review
   * Week of Nov. 29
     * Monday, Nov. 29: 5.1-5.2
-    * Wednesday, Dec. 1: <b>Unit 4 test - Math 31</b>
-    * Friday, Dec. 3: <b>Unit 4 test - AP Calculus</b>
+    * Wednesday, Dec. 1: Work period
+    * Friday, Dec. 3: 5.3
+  * Week of Dec. 6
+    * Monday, Dec. 6: <b>Unit 4 test - Math 31</b>
+    * Wednesday, Dec. 8: <b>Unit 4 test - AP Calculus</b>, 5.4
+    * Friday, Dec. 10: 5.5
 
 
 
