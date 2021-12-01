@@ -253,7 +253,7 @@ You should be proficient in all material contained in Unit 2. More precisely, yo
 Note that you will need to be familiar with the techniques covered un Unit 2 as well. You should be able to handle problems given algebraic, verbal, tabular, or graphical information.
 -->
 
-Unit 4 test is tentatively scheduled for <b>Monday, December 6</b> in-class. Unit 4 AP material is tentatively scheduled for <b>Friday, December 3</b> in-class. 
+Unit 4 test is tentatively scheduled for <b>Monday, December 6</b> in-class. Unit 4 AP material is tentatively scheduled for <b>Wednesday, December 8</b> in-class. 
 
 Note that the test is designed to be completed in 45 min, so it's a short one; it will be weighted less than standard units.
 You should be proficient in all material covered in Chapter 3 (sections 1, 2, 5). More precisely, you should be able to:
