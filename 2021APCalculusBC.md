@@ -40,7 +40,8 @@ Tentative schedule for upcoming classes:
  * Friday, Nov. 12: November break
  * Friday, Nov. 19: 9.4, 9.7
  * Friday, Nov. 26: Introduction to integration; Unit 2 assignment due; Unit 3 assignment will be handed out for those not currently in AP Calculus AB.
- * Friday, Dec. 3: 6.2-6.4
+ * Friday, Dec. 3: More on integration (FTC I and II), antiderivatives
+ * Friday, Dec. 10: Integration: substitution rule
 
 <!--
   * Week of May 24
