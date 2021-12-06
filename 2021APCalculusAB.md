@@ -110,6 +110,10 @@ Tentative schedule for upcoming classes:
     * Monday, Dec. 6: <b>Unit 4 test - Math 31</b>
     * Wednesday, Dec. 8: <b>Unit 4 test - AP Calculus</b>, 5.4
     * Friday, Dec. 10: 5.5
+  * Week of Dec. 13
+    * Monday, Dec. 6: Work period - catch up on previous sections or work ahead
+    * Wednesday, Dec. 8: 5.6-5.7
+    * Friday, Dec. 10: ? (pop quiz)
 
 
 
