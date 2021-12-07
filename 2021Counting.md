@@ -25,5 +25,7 @@ Homework for Tuesday, November 16
   * Q 2.640 to 2.840 on page 76 (3 questions total)
 
 Homework for Tuesday, November 30
-  * Q 2.150 to 2.060 on page 76 (10 questions total)
+  * Review: 2.1 to 2.5) Q 2.150 to 2.060 on page 76 (10 questions total)
 
+Homework for Tuesday, December 7
+  * 2.6) Q 2.080 to 2.090 on page 81 (11 questions total)
