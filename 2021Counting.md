@@ -29,3 +29,7 @@ Homework for Tuesday, November 30
 
 Homework for Tuesday, December 7
   * 2.6) Q 2.080 to 2.090 on page 81 (11 questions total)
+
+Homework for Tuesday, December 14
+  * NONE
+
