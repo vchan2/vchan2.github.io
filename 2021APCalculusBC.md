@@ -27,6 +27,7 @@ Watch list
   * Friday, Oct. 22 - Thursday, Nov. 18: Sections 9.4, 9.7
   * Friday, November 26 - Thursday, December 2: (AB class or for review only) Sections 6.2 (Video 1), 6.3 (Videos 1 and 2), 6.4 (Video 1)
   * Friday, December 3 - Thursday, December 9: (AB class or for review only) Sections 6.6 (Videos 2 and 3), 6.7 (Video 1), 6.8 (Videos 1 and 2)
+  * Friday, December 10 - : (AB class or for review only) Sections 6.9 (Videos 1 and 2), 6.10 (Videos 1 and 2)
 
 Tentative schedule for upcoming classes:
  * Friday, Sept. 17: 10.1-10.3
