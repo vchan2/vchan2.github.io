@@ -20,7 +20,7 @@ Watch list
   * Wednesday, Nov. 17 - Tuesday, Nov. 23: Section 5.1
   * Wednesday, Nov. 24 - Tuesday, Nov. 30: Section 5.1 to 5.5
   * Wednesday, Dec. 1 - Tuesday, Dec. 7: Section 5.6 to 5.7
-  * Wednesday, Dec. 8 - Tuesday, Dec. 14: Section 5.8 to 5.10
+  * Wednesday, Dec. 8 - Tuesday, Dec. 14: 
 
 
 
@@ -113,7 +113,7 @@ Tentative schedule for upcoming classes:
   * Week of Dec. 13
     * Monday, Dec. 6: Work period - catch up on previous sections or work ahead
     * Wednesday, Dec. 8: 5.6-5.7
-    * Friday, Dec. 10: ? <!-(pop quiz)-->
+    * Friday, Dec. 10: ? <!--(pop quiz)-->
 
 
 
