@@ -12,7 +12,7 @@ Quick links
 
 ### Updates
 
-Planning on postponing the Math 31 Unit 4 test until Monday, December 6 for everyone. Please let me know if you are opposed to this.
+Keep an eye out for the "12 days of giveaways" math puzzles hosted by the math team. Master Aaron posted the first one Sunday, December 12.
 
 
 Watch list
