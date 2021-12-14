@@ -20,7 +20,8 @@ Watch list
   * Wednesday, Nov. 17 - Tuesday, Nov. 23: Section 5.1
   * Wednesday, Nov. 24 - Tuesday, Nov. 30: Section 5.1 to 5.5
   * Wednesday, Dec. 1 - Tuesday, Dec. 7: Section 5.6 to 5.7
-  * Wednesday, Dec. 8 - Tuesday, Dec. 14: 
+  * During Winter break: 5.8 to 5.10
+     * Recommended (especially if you have been struggling so far): Unit 6 videos (14 sections)
 
 
 
@@ -93,7 +94,6 @@ Tentative schedule for upcoming classes:
     * Monday, Nov. 1: <b>Unit 3 test - Math 31</b>
     * Wednesday, Nov. 3: <b>Unit 3 test - AP Calculus</b>, 4.3
     * Friday, Nov. 5: PTC
--->
   * Week of Nov. 15
     * Monday, Nov. 15: 4.4-4.5
     * Wednesday, Nov. 17: 4.4-4.5
@@ -110,6 +110,7 @@ Tentative schedule for upcoming classes:
     * Monday, Dec. 6: <b>Unit 4 test - Math 31</b>
     * Wednesday, Dec. 8: <b>Unit 4 test - AP Calculus</b>, 5.4
     * Friday, Dec. 10: 5.5
+-->
   * Week of Dec. 13
     * Monday, Dec. 6: Work period - catch up on previous sections or work ahead
     * Wednesday, Dec. 8: 5.6-5.7
@@ -257,10 +258,8 @@ You should be proficient in all material contained in Unit 2. More precisely, yo
 Note that you will need to be familiar with the techniques covered un Unit 2 as well. You should be able to handle problems given algebraic, verbal, tabular, or graphical information.
 -->
 
-Unit 4 test is tentatively scheduled for <b>Monday, December 6</b> in-class. Unit 4 AP material is tentatively scheduled for <b>Wednesday, December 8</b> in-class. 
-
-Note that the test is designed to be completed in 45 min, so it's a short one; it will be weighted less than standard units.
-You should be proficient in all material covered in Chapter 3 (sections 1, 2, 5). More precisely, you should be able to:
+<!--
+Unit 4 test is tentatively scheduled for <b>Monday, December 6</b> in-class. Unit 4 AP material is tentatively scheduled for <b>Wednesday, December 8</b> in-class. You should be proficient in all material covered in Chapter 3 (sections 1, 2, 5). More precisely, you should be able to:
   * Determine the velocity and acceleration of a particle moving in a straight-line given its position/displacement function as well as compute the value of the velocity or acceleration at particular times.
   * Determine when a particle is at rest as well as when it is moving in the positive or negative direction.
   * Find the total distance travelled by a particle within a specified amount of time.
@@ -270,6 +269,9 @@ You should be proficient in all material covered in Chapter 3 (sections 1, 2, 5)
   * (AP) Approximate a function with local linearization and analyze a linearization
   * (AP) Use l'H&ocirc;pital's rule appropriately
   * (AP) Handle more challenging problems of the types above.
+-->
+
+
 
 <!--
 Testing centre hours are:
