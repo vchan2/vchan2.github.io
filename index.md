@@ -21,6 +21,8 @@
 ## Challenges
 
 * <a href="https://renertmath.github.io/RenertMath-CelebrateMath/"> CoSMOS 2020 Challenge</a> 
+* <a href="https://vchan2.github.io/Challenges/2021-22Winter_Break.pdf"> Winter Break math challenges (2021) </a>
+
 
 <!--
 * <a href="https://vchan2.github.io/Challenges/Rainbow_Stones.pdf"> Rainbow stones </a>
