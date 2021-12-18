@@ -556,6 +556,11 @@ Calculus-based:
 * <a href="https://vchan2.github.io/2021Calculus/challenge/Unit02_01Continuous_but_not_differentiable.pdf"> Unit 3: Continuous but nowhere differentiable </a> - Does there exist a function which is continuous everywhere but differentiable nowhere?
 
 
+Assorted:
+* <a href="https://vincentchan02.wixsite.com/cosmospuzzle"> CoSMOS 2020 Challenge</a> 
+* <a href="https://vchan2.github.io/Challenges/2021-22Winter_Break.pdf"> Winter Break math challenges (2021) </a>
+
+
 <!--
 Calculus-based:
 * <a href="https://vchan2.github.io/2020Calculus/01A_weird_limit.pdf"> A weird limit </a> - Find an example of a function whose limit at 0 from the right DNE
@@ -575,6 +580,8 @@ Assorted:
 * <a href="https://vchan2.github.io/Challenges/pi_digit_puzzle2021.pdf"> &pi; day 2021 challenge (advanced version) </a>
 * <a href="https://vchan2.github.io/Challenges/2021-04-01_digit_puzzle.pdf"> 2021-04-01 challenge </a>
 -->
+
+
 
 ---
 
