@@ -12,7 +12,6 @@ Quick links
 
 ### Updates
 
-Keep an eye out for the "12 days of giveaways" math puzzles hosted by the math team. Master Aaron posted the first one Sunday, December 12.
 
 
 Watch list
@@ -22,6 +21,11 @@ Watch list
   * Wednesday, Dec. 1 - Tuesday, Dec. 7: Section 5.6 to 5.7
   * During Winter break: 5.8 to 5.10
      * Recommended (especially if you have been struggling so far): Unit 6 videos (14 sections)
+  * Wednesday, Jan. 5: 5.11 (6:44), 5.12 Video 1 (10:04)
+  * Thursday, Jan. 6: 5.12 Video 2 (7:47), 5.12 Video 3 (7:07)
+  * Friday, Jan. 7: 
+  * Saturday, Jan. 8: 
+  * Sunday, Jan. 9: 
 
 
 
@@ -110,13 +114,15 @@ Tentative schedule for upcoming classes:
     * Monday, Dec. 6: <b>Unit 4 test - Math 31</b>
     * Wednesday, Dec. 8: <b>Unit 4 test - AP Calculus</b>, 5.4
     * Friday, Dec. 10: 5.5
--->
   * Week of Dec. 13
     * Monday, Dec. 6: Work period - catch up on previous sections or work ahead
     * Wednesday, Dec. 8: 5.6-5.7
-    * Friday, Dec. 10: ? <!--(pop quiz)-->
+    * Friday, Dec. 10: ? 
+-->
 
-
+  * Week of Jan. 3
+    * Wednesday, Jan. 5: 5.8-5.9
+    * Friday, Jan. 7: 5.10
 
 <!--
   * Week of Sept. 6
