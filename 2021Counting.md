@@ -33,3 +33,6 @@ Homework for Tuesday, December 7
 Homework for Tuesday, December 14
   * NONE
 
+Homework for Tuesday, January 4
+  * 2.7) Q 2.011 to 2.411 on page 85 (5 questions total)
+
