@@ -12,6 +12,7 @@ Quick links
 
 ### Updates
 
+<a href="https://vchan2.github.io/2021Calculus/notesAB/2022-01-05_AP_Calculus_AB_(5.8,5.9).pdf">Notes from 2021-01-05 on 5.8 and 5.9</a>
 
 
 Watch list
@@ -23,10 +24,21 @@ Watch list
      * Recommended (especially if you have been struggling so far): Unit 6 videos (14 sections)
   * Wednesday, Jan. 5: 5.11 (6:44), 5.12 Video 1 (10:04)
   * Thursday, Jan. 6: 5.12 Video 2 (7:47), 5.12 Video 3 (7:07)
-  * Friday, Jan. 7: 
-  * Saturday, Jan. 8: 
-  * Sunday, Jan. 9: 
+  * Friday, Jan. 7: NONE - focus on Unit 5 review
+  * Saturday, Jan. 8: NONE - focus on Unit 5 review
+  * Sunday, Jan. 9: NONE - focus on Unit 5 review
 
+<!--
+  * Monday, Jan. 10: NONE - focus on Unit 5 review
+  * Tuesday, Jan. 11: NONE - focus on Unit 5 review
+  * Wednesday, Jan. 12: 6.1
+  * Thursday, Jan. 13: 
+  * Friday, Jan. 14: 
+  * Saturday, Jan. 15: 
+  * Sunday, Jan. 16: 
+  * Monday, Jan. 17: 
+  * Tuesday, Jan. 18: 
+-->
 
 
 <!--
@@ -125,12 +137,12 @@ Tentative schedule for upcoming classes:
     * Friday, Jan. 7: 5.10
   * Week of Jan. 10
     * Monday, Jan. 10: 5.11-5.12
-    * Wednesday, Jan. 5: Unit 5 Review
-    * Friday, Jan. 7: Unit 5 Review
+    * Wednesday, Jan. 12: Unit 5 Review
+    * Friday, Jan. 14: Unit 5 Review
   * Week of Jan. 17
-    * Monday, Jan. 10: <b>Unit 5 test - Math 31</b>
-    * Wednesday, Jan. 5: <b>Unit 5 test - AP Calculus</b>, 6.1
-    * Friday, Jan. 7: 6.2
+    * Monday, Jan. 17: <b>Unit 5 test - Math 31</b>
+    * Wednesday, Jan. 19: <b>Unit 5 test - AP Calculus</b>, 6.1
+    * Friday, Jan. 21: 6.2
 
 <!--
   * Week of Sept. 6
