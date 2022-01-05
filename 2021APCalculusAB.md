@@ -123,6 +123,14 @@ Tentative schedule for upcoming classes:
   * Week of Jan. 3
     * Wednesday, Jan. 5: 5.8-5.9
     * Friday, Jan. 7: 5.10
+  * Week of Jan. 10
+    * Monday, Jan. 10: 5.11-5.12
+    * Wednesday, Jan. 5: Unit 5 Review
+    * Friday, Jan. 7: Unit 5 Review
+  * Week of Jan. 17
+    * Monday, Jan. 10: <b>Unit 5 test - Math 31</b>
+    * Wednesday, Jan. 5: <b>Unit 5 test - AP Calculus</b>, 6.1
+    * Friday, Jan. 7: 6.2
 
 <!--
   * Week of Sept. 6
@@ -276,6 +284,9 @@ Unit 4 test is tentatively scheduled for <b>Monday, December 6</b> in-class. Uni
   * (AP) Use l'H&ocirc;pital's rule appropriately
   * (AP) Handle more challenging problems of the types above.
 -->
+
+Unit 5 test is tentatively scheduled for <b>Monday, January 17</b> in-class. Unit 5 AP material is tentatively scheduled for <b>Wednesday, January 19</b> in-class. You should be proficient in 
+<!--all material covered in Chapter 3 (sections 1, 2, 5). More precisely, you should be able to:-->
 
 
 
