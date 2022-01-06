@@ -297,8 +297,19 @@ Unit 4 test is tentatively scheduled for <b>Monday, December 6</b> in-class. Uni
   * (AP) Handle more challenging problems of the types above.
 -->
 
-Unit 5 test is tentatively scheduled for <b>Monday, January 17</b> in-class. Unit 5 AP material is tentatively scheduled for <b>Wednesday, January 19</b> in-class. You should be proficient in 
-<!--all material covered in Chapter 3 (sections 1, 2, 5). More precisely, you should be able to:-->
+Unit 5 test is tentatively scheduled for <b>Monday, January 17</b> in-class. Unit 5 AP material is tentatively scheduled for <b>Wednesday, January 19</b> in-class. You should be proficient in all material contained in Unit 5. More precisely, you should be able to:
+  * Apply the Extreme Value Theorem
+  * Find and classify critical points
+  * Find local and global extrema
+  * Determine where a function is increasing or decreasing
+  * Use the First Derivative Test
+  * Determine the concavity of a function on an interval
+  * Use the Second Derivative Test
+  * Determine information about f, f', or f'' given information about another one of these functions
+  * Solve optimization problems
+  * (AP) Analyze an implicit function using derivatives and second derivatives 
+  * (AP) Apply the Mean Value Theorem
+  * (AP) Determine where a function satisfies the Mean Value Theorem
 
 
 
