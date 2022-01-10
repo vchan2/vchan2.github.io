@@ -29,11 +29,18 @@ Watch list
   * Sunday, Jan. 9: NONE - focus on Unit 5 review
   * Monday, Jan. 10: NONE - focus on Unit 5 review
   * Tuesday, Jan. 11: NONE - focus on Unit 5 review
-  * Wednesday, Jan. 12: 
-  * Thursday, Jan. 13: 
-  * Friday, Jan. 14: 
-  * Saturday, Jan. 15: 
-  * Sunday, Jan. 16: 
+  * Wednesday, Jan. 12: NONE - focus on Unit 5 review
+  * Thursday, Jan. 13: NONE - focus on Unit 5 review
+  * Friday, Jan. 14: NONE - focus on Unit 5 review
+  * Saturday, Jan. 15: 6.1 Video 1 (7:53), 6.1 Video 2 (9:39)
+  * Sunday, Jan. 16: 6.2 Video 1 (7:37), 6.2 Video 2 (11:39)
+  * Monday, Jan. 17: 6.2 Video 3 (10:11)
+  * Tuesday, Jan. 18: 6.3 Video 1 (7:51), 6.3 Video 2 (9:20)
+  * Wednesday, Jan. 19: 6.4 Video 1 (11:43)
+  * Thursday, Jan. 20: 6.5 Video 2 (9:53)
+  * Friday, Jan. 21: 6.6 Video 1 (8:39), 6.6 Video 2 (9:21)
+  * Saturday, Jan. 22: 6.6 Video 1 (8:39), 6.6 Video 2 (9:21)
+
 
 <!--
   * Monday, Jan. 10: NONE - focus on Unit 5 review
@@ -142,19 +149,81 @@ Tentative schedule for upcoming classes:
     * Monday, Dec. 6: Work period - catch up on previous sections or work ahead
     * Wednesday, Dec. 8: 5.6-5.7
     * Friday, Dec. 10: ? 
--->
-
   * Week of Jan. 3
     * Wednesday, Jan. 5: 5.8-5.9
     * Friday, Jan. 7: 5.10
+-->
+
   * Week of Jan. 10
-    * Monday, Jan. 10: 5.11-5.12
-    * Wednesday, Jan. 12: Unit 5 Review
+    * Monday, Jan. 10: 5.11
+    * Wednesday, Jan. 12: 5.12
     * Friday, Jan. 14: Unit 5 Review
   * Week of Jan. 17
-    * Monday, Jan. 17: <b>Unit 5 test - Math 31</b>
-    * Wednesday, Jan. 19: <b>Unit 5 test - AP Calculus</b>, 6.1
-    * Friday, Jan. 21: 6.2
+    * Monday, Jan. 17: Unit 5 Review
+    * Wednesday, Jan. 19: <b>Unit 5 test - Math 31</b>
+    * Friday, Jan. 21: <b>Unit 5 test - AP Calculus</b>
+  * Week of Jan. 24
+    * Monday, Jan. 24: 6.1-6.2
+    * Wednesday, Jan. 26: 6.3-6.4
+    * Friday, Jan. 28: 6.5
+  * Week of Jan. 31
+    * Monday, Jan. 31: 6.6-6.7
+    * Wednesday, Feb. 2: 6.8-6.9
+    * Friday, Feb. 4: 6.10
+  * Week of Feb. 7
+    * Monday, Feb. 7: <b>Unit 6 test - Math 31</b>
+    * Wednesday, Feb. 9: <b>Unit 6 test - AP Calculus</b>, 8.1
+    * Friday, Feb. 11: 8.2
+  * Week of Feb. 14
+    * Monday, Feb. 14: 8.2-8.3
+    * Wednesday, Feb. 16: 8.4-8.5
+    * Friday, Feb. 18: 
+  * Week of Feb. 21
+    * Monday, Feb. 21: FEBRUARY BREAK
+    * Wednesday, Feb. 23: FEBRUARY BREAK
+    * Friday, Feb. 25: FEBRUARY BREAK
+  * Week of Feb. 28
+    * Monday, Feb. 28: 8.6-8.8
+    * Wednesday, Mar. 2: 8.9-8.12
+    * Friday, Mar. 4: Unit 8 Review
+  * Week of Mar. 7
+    * Monday, Mar. 7: Unit 8 Review
+    * Wednesday, Mar. 9: Unit 8 test
+    * Friday, Mar. 11: 
+  * Week of Mar. 14
+    * Monday, Mar. 14: 7.1-7.2
+    * Wednesday, Mar. 16: 7.3-7.4
+    * Friday, Mar. 18: 
+  * Week of Mar. 21
+    * Monday, Mar. 21: 7.6-7.7
+    * Wednesday, Mar. 23: 7.7-7.8
+    * Friday, Mar. 25: Unit 7 Review
+  * Week of Mar. 28
+    * Monday, Mar. 28: Unit 7 Review
+    * Wednesday, Mar. 30: Unit 7 test
+    * Friday, Apr. 1: Review
+  * Week of Apr. 4
+    * Monday, Apr. 4: Review
+    * Wednesday, Apr. 6: Review
+    * Friday, Apr. 8: Review
+  * Week of Apr. 11
+    * Monday, Apr. 11: Review
+    * Wednesday, Apr. 13: Review
+    * Friday, Apr. 15: SPRING BREAK
+  * Week of Apr. 18
+    * Monday, Apr. 18: SPRING BREAK
+    * Wednesday, Apr. 20: SPRING BREAK
+    * Friday, Apr. 22: SPRING BREAK
+  * Week of Apr. 25
+    * Monday, Apr. 25: Review
+    * Wednesday, Apr. 27: Review
+    * Friday, Apr. 29: Review
+  * Week of May. 2
+    * Monday, May. 2: Review
+    * Wednesday, May. 4: Review
+    * Friday, May. 6: Final test prep
+  * Week of May. 9
+    * Monday, May. 9: AP Calculus AB test
 
 <!--
   * Week of Sept. 6
