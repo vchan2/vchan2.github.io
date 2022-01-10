@@ -27,6 +27,13 @@ Watch list
   * Friday, Jan. 7: NONE - focus on Unit 5 review
   * Saturday, Jan. 8: NONE - focus on Unit 5 review
   * Sunday, Jan. 9: NONE - focus on Unit 5 review
+  * Monday, Jan. 10: NONE - focus on Unit 5 review
+  * Tuesday, Jan. 11: NONE - focus on Unit 5 review
+  * Wednesday, Jan. 12: 
+  * Thursday, Jan. 13: 
+  * Friday, Jan. 14: 
+  * Saturday, Jan. 15: 
+  * Sunday, Jan. 16: 
 
 <!--
   * Monday, Jan. 10: NONE - focus on Unit 5 review
@@ -38,6 +45,11 @@ Watch list
   * Sunday, Jan. 16: 
   * Monday, Jan. 17: 
   * Tuesday, Jan. 18: 
+  * Wednesday, Jan. 12: 
+  * Thursday, Jan. 13: 
+  * Friday, Jan. 14: 
+  * Saturday, Jan. 15: 
+  * Sunday, Jan. 16: 
 -->
 
 
