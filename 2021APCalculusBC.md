@@ -28,6 +28,7 @@ Watch list
   * Friday, November 26 - Thursday, December 2: (AB class or for review only) Sections 6.2 (Video 1), 6.3 (Videos 1 and 2), 6.4 (Video 1)
   * Friday, December 3 - Thursday, December 9: (AB class or for review only) Sections 6.6 (Videos 2 and 3), 6.7 (Video 1), 6.8 (Videos 1 and 2)
   * Friday, December 10 - Thursday, December 16: (AB class or for review only) Sections 6.9 (Videos 1 and 2), 6.10 (Videos 1 and 2)
+  * Friday, January 14 - Thursday, January 20: Sections 6.11 to 6.12
 
 Tentative schedule for upcoming classes:
  * Friday, Sept. 17: 10.1-10.3
@@ -43,6 +44,8 @@ Tentative schedule for upcoming classes:
  * Friday, Nov. 26: Introduction to integration; Unit 2 assignment due; Unit 3 assignment will be handed out for those not currently in AP Calculus AB.
  * Friday, Dec. 3: More on integration (FTC I and II), antiderivatives
  * Friday, Dec. 10: Integration: substitution rule
+ * Friday, Dec. 17: Integration: long division and completing the square
+ * Friday, Jan. 14: Integration: review of substitution, long division, and completing the square
 
 <!--
   * Week of May 24
