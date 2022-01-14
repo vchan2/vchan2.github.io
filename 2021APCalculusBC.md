@@ -45,7 +45,8 @@ Tentative schedule for upcoming classes:
  * Friday, Dec. 3: More on integration (FTC I and II), antiderivatives
  * Friday, Dec. 10: Integration: substitution rule
  * Friday, Dec. 17: Integration: long division and completing the square
- * Friday, Jan. 14: Integration: review of substitution, long division, and completing the square
+ * Friday, Jan. 14: Integration: review of substitution, long division, and completing the square (Mini-Integration Bee)
+ * 
 
 <!--
   * Week of May 24
