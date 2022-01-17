@@ -32,14 +32,16 @@ Watch list
   * Wednesday, Jan. 12: NONE - focus on Unit 5 review
   * Thursday, Jan. 13: NONE - focus on Unit 5 review
   * Friday, Jan. 14: NONE - focus on Unit 5 review
-  * Saturday, Jan. 15: 6.1 Video 1 (7:53), 6.1 Video 2 (9:39)
-  * Sunday, Jan. 16: 6.2 Video 1 (7:37), 6.2 Video 2 (11:39)
-  * Monday, Jan. 17: 6.2 Video 3 (10:11)
-  * Tuesday, Jan. 18: 6.3 Video 1 (7:51), 6.3 Video 2 (9:20)
-  * Wednesday, Jan. 19: 6.4 Video 1 (11:43)
-  * Thursday, Jan. 20: 6.5 Video 2 (9:53)
-  * Friday, Jan. 21: 6.6 Video 1 (8:39), 6.6 Video 2 (9:21)
-  * Saturday, Jan. 22: 6.6 Video 1 (8:39), 6.6 Video 2 (9:21)
+  * Saturday, Jan. 15: NONE - focus on Unit 5 review
+  * Sunday, Jan. 16: NONE - focus on Unit 5 review
+  * Monday, Jan. 17: 6.1 Video 1 (7:53), 6.1 Video 2 (9:39)
+  * Tuesday, Jan. 18: 6.2 Video 1 (7:37), 6.2 Video 2 (11:39)
+  * Wednesday, Jan. 19: 6.2 Video 3 (10:11)
+  * Thursday, Jan. 20: 6.3 Video 1 (7:51), 6.3 Video 2 (9:20)
+  * Friday, Jan. 21: 6.4 Video 1 (11:43)
+  * Saturday, Jan. 22: 6.5 Video 2 (9:53)
+  * Sunday, Jan. 23: 6.6 Video 1 (8:39), 6.6 Video 2 (9:21)
+  * Monday, Jan. 24: 6.6 Video 1 (8:39), 6.6 Video 2 (9:21)
 
 
 <!--
