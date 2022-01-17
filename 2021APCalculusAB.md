@@ -600,6 +600,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_10_08.pdf"> Mini-math for October 8 (2.1-2.10) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_10_08_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_10_25.pdf"> Mini-math for October 25 (3.1-3.6) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_10_25_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_11_24.pdf"> Mini-math for November 24 (4.1-4.7) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_11_24_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_12_14.pdf"> Mini-math for January 24 (5.1-5.12) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_12_14_sol.pdf">Solutions</a>)
 
 * Derivatives
   * <a href="https://vchan2.github.io/2021Calculus/Derivatives_from_table.pdf"> Derivatives from tables</a> (<a href="https://vchan2.github.io/2021Calculus/Derivatives_from_table_sol.pdf">Solution</a>)
@@ -618,6 +619,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
   * <a href="https://vchan2.github.io/2021Calculus/Unit03_implicit_with_higher_order.pdf">Implicit differentiation with higher order derivatives</a> (Solution included)
   * <a href="https://vchan2.github.io/2021Calculus/4.3_handout.pdf">4.3 Handout on rates of change in other applied contexts</a> (<a href="https://vchan2.github.io/2021Calculus/4.3_handout_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2021Calculus/4.5_Related_Rates.pdf">4.5 Three related rates problems</a> (<a href="https://vchan2.github.io/2021Calculus/4.5_Related_Rates_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/5.11_Optimization.pdf">5.11 Three optimization problems</a> (<a href="https://vchan2.github.io/2021Calculus/5.11_Optimization_sol.pdf">Solution</a>)
 
 <!--
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf">Solution</a>)
