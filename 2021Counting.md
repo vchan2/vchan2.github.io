@@ -36,3 +36,10 @@ Homework for Tuesday, December 14
 Homework for Tuesday, January 4
   * 2.7) Q 2.011 to 2.411 on page 85 (5 questions total)
 
+Homework for Tuesday, January 18
+  * 2.7) Q 2.511 to 2.911 on page 85 (5 questions total)
+
+Homework for Tuesday, January 25
+  * 2.7) Q 2.021 to 2.721 on page 85 (8 questions total)
+
+
