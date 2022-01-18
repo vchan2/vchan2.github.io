@@ -602,7 +602,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_10_08.pdf"> Mini-math for October 8 (2.1-2.10) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_10_08_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_10_25.pdf"> Mini-math for October 25 (3.1-3.6) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_10_25_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_11_24.pdf"> Mini-math for November 24 (4.1-4.7) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_11_24_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_12_14.pdf"> Mini-math for January 24 (5.1-5.12) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_12_14_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_01_14.pdf"> Mini-math for January 24 (5.1-5.12) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_01_14_sol.pdf">Solutions</a>)
 
 * Derivatives
   * <a href="https://vchan2.github.io/2021Calculus/Derivatives_from_table.pdf"> Derivatives from tables</a> (<a href="https://vchan2.github.io/2021Calculus/Derivatives_from_table_sol.pdf">Solution</a>)
