@@ -16,6 +16,28 @@ Quick links
 
 
 Watch list
+  * Monday, Jan. 17: NONE - focus on Unit 5 review
+  * Tuesday, Jan. 18: NONE - focus on Unit 5 review
+  * Wednesday, Jan. 19: 6.1 Video 1 (7:53), 6.1 Video 2 (9:39)
+  * Thursday, Jan. 20: 6.2 Video 1 (7:37), 6.2 Video 2 (11:39)
+  * Friday, Jan. 21: 6.2 Video 3 (10:11)
+  * Saturday, Jan. 22: 6.3 Video 1 (7:51), 6.3 Video 2 (9:20)
+  * Sunday, Jan. 23: 6.4 Video 1 (11:43)
+  * Monday, Jan. 24: 6.5 Video 2 (9:53)
+  * Tuesday, Jan. 25: 6.6 Video 1 (8:39), 6.6 Video 2 (9:21)
+  * Wednesday, Jan. 26: 6.6 Video 1 (8:39), 6.6 Video 2 (9:21)
+
+
+<!--
+  * Friday, Sept. 3 - Tuesday, Sept. 7: Sections 1.1 to 1.5
+  * Wednesday, Sept. 8 - Tuesday, Sept. 14: Sections 1.6 to 1.11
+  * Wednesday, Sept. 15 - Tuesday, Sept. 21: Sections 1.12 to 1.16
+  * Wednesday, Sept. 22 - Tuesday, Sept. 28: Sections 2.1 to 2.3
+  * Wednesday, Sept. 29 - Tuesday, Oct. 5: Sections 2.4 to 2.10
+  * Wednesday, Oct. 6 - Tuesday, Oct. 12: Section 3.1
+  * Wednesday, Oct. 13 - Tuesday, Oct. 19: Sections 3.2 to 3.6
+  * Wednesday, Oct. 20 - Tuesday, Oct. 26: Sections 4.1 to 4.2
+  * Wednesday, Oct. 27 - Tuesday, Nov. 2: Section 4.3
   * Wednesday, Nov. 3 - Tuesday, Nov. 16: Section 4.4 to 4.7
   * Wednesday, Nov. 17 - Tuesday, Nov. 23: Section 5.1
   * Wednesday, Nov. 24 - Tuesday, Nov. 30: Section 5.1 to 5.5
@@ -34,44 +56,6 @@ Watch list
   * Friday, Jan. 14: NONE - focus on Unit 5 review
   * Saturday, Jan. 15: NONE - focus on Unit 5 review
   * Sunday, Jan. 16: NONE - focus on Unit 5 review
-  * Monday, Jan. 17: 6.1 Video 1 (7:53), 6.1 Video 2 (9:39)
-  * Tuesday, Jan. 18: 6.2 Video 1 (7:37), 6.2 Video 2 (11:39)
-  * Wednesday, Jan. 19: 6.2 Video 3 (10:11)
-  * Thursday, Jan. 20: 6.3 Video 1 (7:51), 6.3 Video 2 (9:20)
-  * Friday, Jan. 21: 6.4 Video 1 (11:43)
-  * Saturday, Jan. 22: 6.5 Video 2 (9:53)
-  * Sunday, Jan. 23: 6.6 Video 1 (8:39), 6.6 Video 2 (9:21)
-  * Monday, Jan. 24: 6.6 Video 1 (8:39), 6.6 Video 2 (9:21)
-
-
-<!--
-  * Monday, Jan. 10: NONE - focus on Unit 5 review
-  * Tuesday, Jan. 11: NONE - focus on Unit 5 review
-  * Wednesday, Jan. 12: 6.1
-  * Thursday, Jan. 13: 
-  * Friday, Jan. 14: 
-  * Saturday, Jan. 15: 
-  * Sunday, Jan. 16: 
-  * Monday, Jan. 17: 
-  * Tuesday, Jan. 18: 
-  * Wednesday, Jan. 12: 
-  * Thursday, Jan. 13: 
-  * Friday, Jan. 14: 
-  * Saturday, Jan. 15: 
-  * Sunday, Jan. 16: 
--->
-
-
-<!--
-  * Friday, Sept. 3 - Tuesday, Sept. 7: Sections 1.1 to 1.5
-  * Wednesday, Sept. 8 - Tuesday, Sept. 14: Sections 1.6 to 1.11
-  * Wednesday, Sept. 15 - Tuesday, Sept. 21: Sections 1.12 to 1.16
-  * Wednesday, Sept. 22 - Tuesday, Sept. 28: Sections 2.1 to 2.3
-  * Wednesday, Sept. 29 - Tuesday, Oct. 5: Sections 2.4 to 2.10
-  * Wednesday, Oct. 6 - Tuesday, Oct. 12: Section 3.1
-  * Wednesday, Oct. 13 - Tuesday, Oct. 19: Sections 3.2 to 3.6
-  * Wednesday, Oct. 20 - Tuesday, Oct. 26: Sections 4.1 to 4.2
-  * Wednesday, Oct. 27 - Tuesday, Nov. 2: Section 4.3
 -->
 
 
