@@ -29,8 +29,15 @@ Watch list
   * Friday, December 3 - Thursday, December 9: (AB class or for review only) Sections 6.6 (Videos 2 and 3), 6.7 (Video 1), 6.8 (Videos 1 and 2)
   * Friday, December 10 - Thursday, December 16: (AB class or for review only) Sections 6.9 (Videos 1 and 2), 6.10 (Videos 1 and 2)
   * Friday, January 14 - Thursday, January 20: Sections 6.11 to 6.12
-  * Friday, January 21 - Thursday, January 27: Section 6.13
-  * Friday, January 28 - Thursday, February 3: 
+  * Friday, Jan. 21 - Thursday, Jan. 27: 6.13
+  * Friday, Jan. 28 - Thursday, Feb. 3: 10.2, 10.11
+  * Friday, Feb. 4 - Thursday, Feb. 10: 10.12, 10.13
+  * Friday, Feb. 11 - Thursday, Feb. 17: 10.14, 10.15
+  * Friday, Feb. 18 - Thursday, Feb. 24: FEBRUARY BREAK (Review if needed)
+  * Friday, Feb. 25 - Thursday, Mar. 3: 8.13, 9.3
+  * Friday, Mar. 4 - Thursday, Mar. 10: 9.5, 9.6
+  * Friday, Mar. 11 - Thursday, Mar. 17: 9.8, 9.9
+  * Friday, Mar. 18 - Thursday, Mar. 24: 7.5, 7.9
 
 Tentative schedule for upcoming classes:
  * Friday, Sept. 17: 10.1-10.3
@@ -48,9 +55,23 @@ Tentative schedule for upcoming classes:
  * Friday, Dec. 10: Integration: substitution rule
  * Friday, Dec. 17: Integration: long division and completing the square
  * Friday, Jan. 14: Integration: review of substitution, long division, and completing the square (Mini-Integration Bee)
- * Friday, Jan. 21: 6.11 (integration by parts)
- * Friday, Jan. 28: 6.12 (partial fraction decomposition)
- * Friday, Feb. 4: 6.13 (improper fractions)
+ * Friday, Jan. 21: 6.11
+ * Friday, Jan. 28: 6.12-6.13
+ * Friday, Feb. 4: 10.2, 10.11
+ * Friday, Feb. 11: 10.12, 10.13
+ * Friday, Feb. 18: 10.14, 10.15
+ * Friday, Feb. 25: FEBRUARY BREAK
+ * Friday, Mar. 4: 8.13, 9.3
+ * Friday, Mar. 11: 9.5, 9.6
+ * Friday, Mar. 18: 9.8, 9.9
+ * Friday, Mar. 25: 7.5, 7.9
+ * Friday, Apr. 1: Review
+ * Friday, Apr. 8: Review
+ * Friday, Apr. 15: Review
+ * Friday, Apr. 22: SPRING BREAK
+ * Friday, Apr. 29: Review
+ * Friday, May. 6: Review
+ * Monday, May. 9: AP Calculus BC test
 
 <!--
   * Week of May 24
