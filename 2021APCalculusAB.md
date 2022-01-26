@@ -12,6 +12,8 @@ Quick links
 
 ### Updates
 
+Today's (Wed., Jan. 26) noted and video have been uploaded to the shared google drive. Please remember that these are intended to be a supplement to the videos you are already watching, not a replacement.
+
 
 Watch list
   * Monday, Jan. 17: NONE - focus on Unit 5 review
