@@ -16,15 +16,6 @@ Today's (Wed., Jan. 26) noted and video have been uploaded to the shared google 
 
 
 Watch list
-  * Monday, Jan. 17: NONE - focus on Unit 5 review
-  * Tuesday, Jan. 18: NONE - focus on Unit 5 review
-  * Wednesday, Jan. 19: 6.1 Video 1 (7:53), 6.1 Video 2 (9:39)
-  * Thursday, Jan. 20: 6.2 Video 1 (7:37), 6.2 Video 2 (11:39)
-  * Friday, Jan. 21: 6.2 Video 3 (10:11)
-  * Saturday, Jan. 22: 6.3 Video 1 (7:51), 6.3 Video 2 (9:20)
-  * Sunday, Jan. 23: 6.4 Video 1 (11:43)
-  * Monday, Jan. 24: 6.5 Video 2 (9:53)
-  * Tuesday, Jan. 25: 6.6 Video 1 (8:39), 6.6 Video 2 (9:21)
   * Wednesday, Jan. 26: 6.6 Video 1 (8:39), 6.6 Video 2 (9:21)
   * Thursday, Jan. 27: 6.7 Video 1 (9:13), 6.7 Video 2 (8:00)
   * Friday, Jan. 28: 6.7 Video 3 (11:10)
@@ -71,6 +62,15 @@ Watch list
   * Friday, Jan. 14: NONE - focus on Unit 5 review
   * Saturday, Jan. 15: NONE - focus on Unit 5 review
   * Sunday, Jan. 16: NONE - focus on Unit 5 review
+  * Monday, Jan. 17: NONE - focus on Unit 5 review
+  * Tuesday, Jan. 18: NONE - focus on Unit 5 review
+  * Wednesday, Jan. 19: 6.1 Video 1 (7:53), 6.1 Video 2 (9:39)
+  * Thursday, Jan. 20: 6.2 Video 1 (7:37), 6.2 Video 2 (11:39)
+  * Friday, Jan. 21: 6.2 Video 3 (10:11)
+  * Saturday, Jan. 22: 6.3 Video 1 (7:51), 6.3 Video 2 (9:20)
+  * Sunday, Jan. 23: 6.4 Video 1 (11:43)
+  * Monday, Jan. 24: 6.5 Video 2 (9:53)
+  * Tuesday, Jan. 25: 6.6 Video 1 (8:39), 6.6 Video 2 (9:21)
 -->
 
 
@@ -153,8 +153,6 @@ Tentative schedule for upcoming classes:
   * Week of Jan. 3
     * Wednesday, Jan. 5: 5.8-5.9
     * Friday, Jan. 7: 5.10
--->
-
   * Week of Jan. 10
     * Monday, Jan. 10: 5.11
     * Wednesday, Jan. 12: 5.12
@@ -163,6 +161,8 @@ Tentative schedule for upcoming classes:
     * Monday, Jan. 17: Unit 5 Review
     * Wednesday, Jan. 19: <b>Unit 5 test - Math 31</b>
     * Friday, Jan. 21: <b>Unit 5 test - AP Calculus</b>
+-->
+
   * Week of Jan. 24
     * Monday, Jan. 24: 6.1-6.2
     * Wednesday, Jan. 26: 6.3-6.4
