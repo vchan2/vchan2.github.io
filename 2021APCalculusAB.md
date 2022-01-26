@@ -26,6 +26,21 @@ Watch list
   * Monday, Jan. 24: 6.5 Video 2 (9:53)
   * Tuesday, Jan. 25: 6.6 Video 1 (8:39), 6.6 Video 2 (9:21)
   * Wednesday, Jan. 26: 6.6 Video 1 (8:39), 6.6 Video 2 (9:21)
+  * Thursday, Jan. 27: 6.7 Video 1 (9:13), 6.7 Video 2 (8:00)
+  * Friday, Jan. 28: 6.7 Video 3 (11:10)
+  * Saturday, Jan. 29: 6.8 Video 1 (8:31), 6.8 Video 2 (7:41)
+  * Sunday, Jan. 30: 6.9 Video 1 (7:25), 6.9 Video 2 (5:38)
+  * Monday, Jan. 31: 6.9 Video 3 (9:15), 6.10 Video 1 (8:00)
+  * Tuesday, Feb. 1: 6.10 Video 2 (9:17) , 6.14 Video 1 (8:46)
+  * Wednesday, Feb. 2: 6.14 Video 2 (8:43), 6.14 Video 3 (12:28)
+  * Thursday, Feb. 3: NONE - focus on Unit 6 review
+  * Friday, Feb. 4: NONE - focus on Unit 6 review
+  * Saturday, Feb. 5: NONE - focus on Unit 6 review
+  * Sunday, Feb. 6: NONE - focus on Unit 6 review
+  * Monday, Feb. 7: NONE - focus on Unit 6 review
+  * Tuesday, Feb. 8: NONE - focus on Unit 6 review
+  * Wednesday, Feb. 9: NONE - focus on Unit 6 review
+  * Thursday, Feb. 10: NONE - focus on Unit 6 review
 
 
 <!--
@@ -155,41 +170,41 @@ Tentative schedule for upcoming classes:
   * Week of Jan. 31
     * Monday, Jan. 31: 6.6-6.7
     * Wednesday, Feb. 2: 6.8-6.9
-    * Friday, Feb. 4: 6.10
+    * Friday, Feb. 4: 6.10, 6.14
   * Week of Feb. 7
-    * Monday, Feb. 7: <b>Unit 6 test - Math 31</b>
-    * Wednesday, Feb. 9: <b>Unit 6 test - AP Calculus</b>, 8.1
-    * Friday, Feb. 11: 8.2
+    * Monday, Feb. 7: Unit 6 Review
+    * Wednesday, Feb. 9: <b>Unit 6 test - Math 31</b>
+    * Friday, Feb. 11: <b>Unit 6 test - AP Calculus</b>
   * Week of Feb. 14
-    * Monday, Feb. 14: 8.2-8.3
-    * Wednesday, Feb. 16: 8.4-8.5
+    * Monday, Feb. 14: 8.1-8.2
+    * Wednesday, Feb. 16: 8.2-8.3
     * Friday, Feb. 18: 
   * Week of Feb. 21
     * Monday, Feb. 21: FEBRUARY BREAK
     * Wednesday, Feb. 23: FEBRUARY BREAK
     * Friday, Feb. 25: FEBRUARY BREAK
   * Week of Feb. 28
-    * Monday, Feb. 28: 8.6-8.8
-    * Wednesday, Mar. 2: 8.9-8.12
-    * Friday, Mar. 4: Unit 8 Review
+    * Monday, Feb. 28: 8.4-8.5
+    * Wednesday, Mar. 2: 8.6-8.8
+    * Friday, Mar. 4: 8.9-8.12
   * Week of Mar. 7
-    * Monday, Mar. 7: Unit 8 Review
-    * Wednesday, Mar. 9: Unit 8 test
-    * Friday, Mar. 11: 
+    * Monday, Mar. 7: 8.9-8.12
+    * Wednesday, Mar. 9: Unit 8 Review
+    * Friday, Mar. 11: Unit 8 Review
   * Week of Mar. 14
-    * Monday, Mar. 14: 7.1-7.2
-    * Wednesday, Mar. 16: 7.3-7.4
-    * Friday, Mar. 18: 
+    * Monday, Mar. 14: Unit 8 test
+    * Wednesday, Mar. 16: Unit 8 test
+    * Friday, Mar. 18: 7.1-7.2
   * Week of Mar. 21
-    * Monday, Mar. 21: 7.6-7.7
-    * Wednesday, Mar. 23: 7.7-7.8
-    * Friday, Mar. 25: Unit 7 Review
+    * Monday, Mar. 21: 7.3-7.4
+    * Wednesday, Mar. 23: 7.6-7.7
+    * Friday, Mar. 25: 7.8
   * Week of Mar. 28
     * Monday, Mar. 28: Unit 7 Review
-    * Wednesday, Mar. 30: Unit 7 test
-    * Friday, Apr. 1: Review
+    * Wednesday, Mar. 30: Unit 7 Review
+    * Friday, Apr. 1: Unit 7 test
   * Week of Apr. 4
-    * Monday, Apr. 4: Review
+    * Monday, Apr. 4: Unit 7 test
     * Wednesday, Apr. 6: Review
     * Friday, Apr. 8: Review
   * Week of Apr. 11
