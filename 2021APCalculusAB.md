@@ -12,8 +12,6 @@ Quick links
 
 ### Updates
 
-<a href="https://vchan2.github.io/2021Calculus/notesAB/2022-01-05_AP_Calculus_AB_(5.8,5.9).pdf">Notes from 2021-01-05 on 5.8 and 5.9</a>
-
 
 Watch list
   * Monday, Jan. 17: NONE - focus on Unit 5 review
