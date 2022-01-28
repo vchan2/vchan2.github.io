@@ -410,7 +410,7 @@ Unit 6 test is tentatively scheduled for <b>Wednesday, February 9</b> in-class. 
 
 
 Final exam information:
-<img src="vchan2.github.io/2021Calculus/Exam_info.png">
+<img src="https://vchan2.github.io/2021Calculus/Exam_info.png">
 Part I tests are MCQ and Part II tests are FRQ
 
 <!--
