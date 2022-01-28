@@ -1,0 +1,182 @@
+\documentclass[11pt]{report}
+
+\usepackage{fullpage}
+\usepackage{amsmath,amsthm, fancyhdr,graphicx,amssymb,xcolor,enumerate,enumitem,verbatim}
+\usepackage{mathtools}
+\usepackage{enumitem}
+\usepackage{verbatim}
+\usepackage[latin1]{inputenc}
+\usepackage{caption}
+%\usepackage{subcaption}
+%\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{tikz}
+\usepackage{polynom}
+\usetikzlibrary{matrix}
+\usetikzlibrary{arrows}
+\usetikzlibrary{positioning}
+\usetikzlibrary{calc}
+%\usepackage{mathpazo}
+%\PreviewEnvironment{tikzpicture}
+
+\usepackage[
+  margin=1in,
+  includefoot,
+  footskip=30pt,
+]{geometry}
+\usepackage{layout}
+
+\newcounter{row}
+\newcounter{col}
+
+\newcommand\setrow[9]{
+  \setcounter{col}{1}
+  \foreach \n in {#1, #2, #3, #4, #5, #6, #7, #8, #9} {
+    \edef\x{\value{col} - 0.5}
+    \edef\y{9.5 - \value{row}}
+    \node[anchor=center] at (\x, \y) {\n};
+    \stepcounter{col}
+  }
+  \stepcounter{row}
+}
+
+\theoremstyle{theorem}
+
+\newtheorem{thm}{Theorem}[section]
+\newtheorem{prop}[thm]{Proposition}
+\newtheorem{lem}[thm]{Lemma}
+\newtheorem{cor}[thm]{Corollary}
+\newtheorem{conj}[thm]{Conjecture}
+
+
+
+\theoremstyle{definition}
+
+\newtheorem{defn}[thm]{Definition}
+\newtheorem{rmk}[thm]{Remark}
+\newtheorem{ques}[thm]{Question}
+\newtheorem{eg}[thm]{Example}
+
+\newtheorem{prob}{Problem}
+
+\newtheorem{sol}{Solution}
+
+\makeatletter
+\newtheoremstyle{indented}
+  {\topsep}% space before
+  {\topsep}% space after
+  {\addtolength{\@totalleftmargin}{3.5em}
+   \addtolength{\linewidth}{-3.5em}
+   \parshape 1 3.5em \linewidth}% body font
+  {-3em}% indent
+  {\bfseries}% header font
+  {.}% punctuation
+  {.5em}% after theorem header
+  {}% header specification (empty for default)
+\makeatother
+
+\theoremstyle{indented}
+
+\newtheorem{alg}[thm]{Algorithm}
+
+%\theoremstyle{definition}
+
+\numberwithin{equation}{section}
+
+%toggle for showing solutions
+\newif\ifshowsolutions
+\showsolutionsfalse %turn off solutions
+%\showsolutionstrue %turn on solutions
+\newcommand{\solution}[1]{\ifshowsolutions \textbf{Solution: }{#1} \fi}
+\newcommand{\hint}[1]{\ifshowsolutions \textbf{Hint: }{#1} \fi}
+\newcommand{\problembreak}{\ifshowsolutions \hrulefill \fi}
+
+\renewcommand\labelenumi{(\theenumi)} %enumerate items with parentheses instead of period
+
+\newcommand{\rr}{{\mathbb R}}
+\newcommand{\qq}{{\mathbb Q}}
+\newcommand{\zz}{{\mathbb Z}}
+\newcommand{\nn}{{\mathbb N}}
+\newcommand{\cc}{{\mathbb C}}
+\newcommand{\ee}{{\mathbb E}}
+\newcommand{\eff}{{\mathbb F}}
+\newcommand{\pp}{{\mathbb P}}
+\newcommand{\bb}[1]{\mathbb {#1}}
+\newcommand{\calv}{{\cal V}}
+\newcommand{\calr}{{\cal R}}
+\newcommand{\cals}{\mathcal{S}}
+\newcommand{\calb}{{\cal B}}
+\newcommand{\calm}{{\cal M}}
+\newcommand{\calf}{{\cal F}}
+\newcommand{\calee}{{\cal E}}
+\newcommand{\calx}{{\cal X}}
+\newcommand{\loc}{{\rm loc}}
+\newcommand{\diam}{{\rm diam}}
+\newcommand{\one}{{\bf 1}}
+\newcommand{\half}{{\frac{1}{2}}}
+\newcommand{\ra}{\rightarrow}
+\newcommand{\eps}{\epsilon}
+\newcommand{\st}{\,\colon\,}
+\newcommand{\F}{{\rm F}}
+\newcommand{\E}{{\rm E}}
+\newcommand{\St}{{\rm S}}
+\newcommand{\ind}[1]{\mathbbm{1}_{#1}}
+\newcommand{\ceil}[1]{\left\lceil {#1} \right\rceil}
+\newcommand{\floor}[1]{\left\lfloor {#1} \right\rfloor}
+\newcommand{\angled}[1]{\left\langle {#1} \right\rangle}
+\newcommand{\len}{{\rm len}}
+\newcommand{\bmodu}[1]{~(\rm mod~{#1})}
+\newcommand{\ord}{{\rm ord}}
+\newcommand{\cha}{{\rm char}}
+\newcommand{\psp}{{\rm psp}}
+\newcommand{\epsp}{{\rm epsp}}
+\newcommand{\spsp}{{\rm spsp}}
+\newcommand{\QR}{{\rm QR}}
+\newcommand{\QN}{{\rm QN}}
+\newcommand{\ol}[1]{\overline{#1}}
+\newcommand{\leg}[2]{\left(\frac{#1}{#2}\right)}
+
+
+\newcommand{\lo}[1]{{(\log\frac{1}{\d})^{#1}}}
+\newcommand{\dist}{\hbox{dist\,}}
+\newcommand{\supp}{\mathrm{supp\,}}
+\newcommand{\tde}{T^e_\delta}
+\newcommand{\psieps}{\psi_\epsilon}
+\newcommand{\phieps}{\phi_\epsilon}
+\newcommand{\whm}{\widehat{\mu}}
+\newcommand{\h}[1]{\widehat{#1}}
+
+\DeclareMathOperator{\lcm}{lcm}
+\DeclareMathOperator{\cis}{cis}
+
+\newcommand{\aint}{{\mathfrak A}_{\text{int}}}
+\newcommand{\atr}{{\mathfrak A}_{\text{tr}}}
+
+\newcommand*{\defeq}{\mathrel{\vcenter{\baselineskip0.5ex \lineskiplimit0pt
+                     \hbox{\scriptsize.}\hbox{\scriptsize.}}}%
+                     =}
+
+\setlength{\textheight}{8.6in} \setlength{\topmargin}{0in}
+\setlength{\headheight}{0in} \setlength{\parskip}{2mm}
+\setlength{\parindent}{0mm}
+
+\begin{document}
+
+\begin{center}
+\textbf{Integration by parts}
+\end{center}
+
+Compute
+\[
+	\int \sec^3 x \,dx
+\]
+
+\begin{solution}
+{
+
+}
+\end{solution}
+
+\end{document}
+
+
