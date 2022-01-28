@@ -399,12 +399,13 @@ Unit 5 test is tentatively scheduled for <b>Monday, January 17</b> in-class. Uni
 Unit 6 test is tentatively scheduled for <b>Wednesday, February 9</b> in-class. Unit 6 AP material is tentatively scheduled for <b>Friday, February 11</b> in-class. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
   * Approximate the area under a curve using Right Riemann sums, both with equal and unequal intervals, from a function, graph, or table of values
     * (AP) also Left Riemann sums, Midpoint Rule, and Trapezoidal Rule
+  * Utilize the Fundamental Theorem of Calculus I to differentiate an accumulation function
+    * (AP) includes accumulation functions where the bounds are functions
   * Use integral properties
   * Solve indefinite integrals or utilize the Fundamental Theorem of Calculus II to solve definite integrals
     * this includes using algebraic techniques to simplify the integrand as well as the Substitution Rule 
   * (AP) Identify if an area estimate is an overestimate or underestimate
   * (AP) Interpret or produce an integral given a contextual application
-  * (AP) Utilize the Fundamental Theorem of Calculus I to differentiate an accumulation function
   * (AP) Determine where a function satisfies the Mean Value Theorem
   * (AP) Handle more challenging problems of the types above.
 
