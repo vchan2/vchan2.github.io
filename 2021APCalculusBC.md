@@ -355,6 +355,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_10_01.pdf"> Mini-math for October 1 (10.5-10.6)</a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_10_01_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_10_08.pdf"> Mini-math for October 8 (10.7-10.8)</a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_10_08_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_10_22.pdf"> Mini-math for October 22 (10.9-10.10)</a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2021_10_22_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2022_01_28.pdf"> Mini-math for January 28 (6.11-6.13)</a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2022_01_28_sol.pdf">Solution</a>)
 
 
 <!--
