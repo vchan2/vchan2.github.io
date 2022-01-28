@@ -12,12 +12,6 @@ Quick links
 
 ### Updates
 
-Friday, Nov. 26: Class will be on zoom. I will begin an introduction to integration, for those in AB calculus this term or want a refresher from last year.
-
-<a href="https://vchan2.github.io/2021Calculus/2021-11-26_AP_Calculus_BC.pdf">Notes for November 26</a> 
-
-
-
 Watch list
   * Friday, Sept. 10 - Thursday, Sept. 16: Sections 10.1 to 10.3
   * Friday, Sept. 17 - Thursday, Sept. 24: Sections 10.5 to 10.6
@@ -30,7 +24,7 @@ Watch list
   * Friday, December 10 - Thursday, December 16: (AB class or for review only) Sections 6.9 (Videos 1 and 2), 6.10 (Videos 1 and 2)
   * Friday, January 14 - Thursday, January 20: Sections 6.11 to 6.12
   * Friday, Jan. 21 - Thursday, Jan. 27: 6.13
-  * Friday, Jan. 28 - Thursday, Feb. 3: 10.2, 10.11
+  * Friday, Jan. 28 - Thursday, Feb. 3: 10.4, 10.11
   * Friday, Feb. 4 - Thursday, Feb. 10: 10.12, 10.13
   * Friday, Feb. 11 - Thursday, Feb. 17: 10.14, 10.15
   * Friday, Feb. 18 - Thursday, Feb. 24: FEBRUARY BREAK (Review if needed)
