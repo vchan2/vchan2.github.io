@@ -379,6 +379,7 @@ Unit 4 test is tentatively scheduled for <b>Monday, December 6</b> in-class. Uni
   * (AP) Handle more challenging problems of the types above.
 -->
 
+<!--
 Unit 5 test is tentatively scheduled for <b>Monday, January 17</b> in-class. Unit 5 AP material is tentatively scheduled for <b>Wednesday, January 19</b> in-class. You should be proficient in all material contained in Unit 5. More precisely, you should be able to:
   * Apply the Extreme Value Theorem
   * Find and classify critical points
@@ -392,8 +393,25 @@ Unit 5 test is tentatively scheduled for <b>Monday, January 17</b> in-class. Uni
   * (AP) Analyze an implicit function using derivatives and second derivatives 
   * (AP) Apply the Mean Value Theorem
   * (AP) Determine where a function satisfies the Mean Value Theorem
+  * (AP) Handle more challenging problems of the types above.
+-->
+
+Unit 6 test is tentatively scheduled for <b>Wednesday, February 9</b> in-class. Unit 6 AP material is tentatively scheduled for <b>Friday, February 11</b> in-class. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
+  * Approximate the area under a curve using Right Riemann sums, both with equal and unequal intervals, from a function, graph, or table of values
+    * (AP) also Left Riemann sums, Midpoint Rule, and Trapezoidal Rule
+  * Use integral properties
+  * Solve indefinite integrals or utilize the Fundamental Theorem of Calculus II to solve definite integrals
+    * this includes using algebraic techniques to simplify the integrand as well as the Substitution Rule 
+  * (AP) Identify if an area estimate is an overestimate or underestimate
+  * (AP) Interpret or produce an integral given a contextual application
+  * (AP) Utilize the Fundamental Theorem of Calculus I to differentiate an accumulation function
+  * (AP) Determine where a function satisfies the Mean Value Theorem
+  * (AP) Handle more challenging problems of the types above.
 
 
+Final exam information:
+<img src="vchan2.github.io/2021Calculus/Exam_info.png">
+Part I tests are MCQ and Part II tests are FRQ
 
 <!--
 Testing centre hours are:
