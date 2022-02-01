@@ -404,7 +404,6 @@ Unit 6 test is tentatively scheduled for <b>Wednesday, February 9</b> in-class. 
     * this includes using algebraic techniques to simplify the integrand as well as the Substitution Rule 
   * (AP) Identify if an area estimate is an overestimate or underestimate
   * (AP) Interpret or produce an integral given a contextual application
-  * (AP) Determine where a function satisfies the Mean Value Theorem
   * (AP) Handle more challenging problems of the types above.
 
 
