@@ -12,7 +12,7 @@ Quick links
 
 ### Updates
 
-<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_01_28.pdf"> Mini-math for January 28 (6.1-6.4) </a>
+Dates for exam and content have shifted by 5 days. It's clear to me that the class will not be ready for next Wednesday without an unfair amount of work put on you.
 
 
 Watch list
