@@ -32,6 +32,16 @@ Watch list
   * Tuesday, Feb. 8: NONE - focus on Unit 6 review
   * Wednesday, Feb. 9: NONE - focus on Unit 6 review
   * Thursday, Feb. 10: NONE - focus on Unit 6 review
+  * Friday, Feb. 11: NONE - focus on Unit 6 review
+  * Saturday, Feb. 12: NONE - focus on Unit 6 review
+  * Sunday, Feb. 13: NONE - focus on Unit 6 review
+  * Monday, Feb. 14: NONE - focus on Unit 6 review
+  * Tuesday, Feb. 15: 8.1 Video 1 (4:05), 8.1 Video 2 (4:48)
+  * Wednesday, Feb. 16: 8.2 Video 1 (6:13), 8.2 Video 2 (5:40)
+  * Thursday, Feb. 17: 8.3 Video 1 (8:08), 8.3 Video 2 (8:24)
+  * Friday, Feb. 18: 8.3 Video 3 (10:45)
+  * Saturday, Feb. 19: FEBRUARY BREAK (highly recommend watching videos in advance)
+  
 
 
 <!--
@@ -170,43 +180,43 @@ Tentative schedule for upcoming classes:
   * Week of Jan. 31
     * Monday, Jan. 31: 6.6-6.7
     * Wednesday, Feb. 2: 6.8-6.9
-    * Friday, Feb. 4: 6.10, 6.14
+    * Friday, Feb. 4: 6.9
   * Week of Feb. 7
-    * Monday, Feb. 7: Unit 6 Review
-    * Wednesday, Feb. 9: <b>Unit 6 test - Math 31</b>
-    * Friday, Feb. 11: <b>Unit 6 test - AP Calculus</b>
+    * Monday, Feb. 7: 6.10, 6.14
+    * Wednesday, Feb. 9: Unit 6 Review
+    * Friday, Feb. 11: Unit 6 Review
   * Week of Feb. 14
-    * Monday, Feb. 14: 8.1-8.2
-    * Wednesday, Feb. 16: 8.2-8.3
+    * Monday, Feb. 14: <b>Unit 6 test - Math 31</b>
+    * Wednesday, Feb. 16: <b>Unit 6 test - AP Calculus</b>, 8.1
     * Friday, Feb. 18: 
   * Week of Feb. 21
     * Monday, Feb. 21: FEBRUARY BREAK
     * Wednesday, Feb. 23: FEBRUARY BREAK
     * Friday, Feb. 25: FEBRUARY BREAK
   * Week of Feb. 28
-    * Monday, Feb. 28: 8.4-8.5
-    * Wednesday, Mar. 2: 8.6-8.8
-    * Friday, Mar. 4: 8.9-8.12
+    * Monday, Feb. 28: 8.2-8.3
+    * Wednesday, Mar. 2: 8.4-8.5
+    * Friday, Mar. 4: 8.6
   * Week of Mar. 7
-    * Monday, Mar. 7: 8.9-8.12
-    * Wednesday, Mar. 9: Unit 8 Review
+    * Monday, Mar. 7: 8.7-8.8
+    * Wednesday, Mar. 9: 8.9-8.12
     * Friday, Mar. 11: Unit 8 Review
   * Week of Mar. 14
-    * Monday, Mar. 14: Unit 8 test
-    * Wednesday, Mar. 16: Unit 8 test
-    * Friday, Mar. 18: 7.1-7.2
+    * Monday, Mar. 14: Unit 8 Review
+    * Wednesday, Mar. 16: <b>Unit 8 test - Math 31</b>
+    * Friday, Mar. 18: <b>Unit 8 test - AP Calculus</b>
   * Week of Mar. 21
-    * Monday, Mar. 21: 7.3-7.4
-    * Wednesday, Mar. 23: 7.6-7.7
-    * Friday, Mar. 25: 7.8
+    * Monday, Mar. 21: 7.1-7.2
+    * Wednesday, Mar. 23: 7.3-7.4
+    * Friday, Mar. 25: 7.4
   * Week of Mar. 28
-    * Monday, Mar. 28: Unit 7 Review
-    * Wednesday, Mar. 30: Unit 7 Review
-    * Friday, Apr. 1: Unit 7 test
+    * Monday, Mar. 28: 7.5-7.6
+    * Wednesday, Mar. 30: 7.7-7.8
+    * Friday, Apr. 1: Unit 7 Review
   * Week of Apr. 4
-    * Monday, Apr. 4: Unit 7 test
-    * Wednesday, Apr. 6: Review
-    * Friday, Apr. 8: Review
+    * Monday, Apr. 4: Unit 7 Review
+    * Wednesday, Apr. 6: <b>Unit 7 test - Math 31</b>
+    * Friday, Apr. 8: <b>Unit 7 test - AP Calculus</b>
   * Week of Apr. 11
     * Monday, Apr. 11: Review
     * Wednesday, Apr. 13: Review
@@ -394,7 +404,7 @@ Unit 5 test is tentatively scheduled for <b>Monday, January 17</b> in-class. Uni
   * (AP) Determine where a function satisfies the Mean Value Theorem
   * (AP) Handle more challenging problems of the types above.
 
-Unit 6 test is tentatively scheduled for <b>Wednesday, February 9</b> in-class. Unit 6 AP material is tentatively scheduled for <b>Friday, February 11</b> in-class. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
+Unit 6 test is tentatively scheduled for <b>Monday, February 14</b> in-class. Unit 6 AP material is tentatively scheduled for <b>Wednesday, February 16</b> in-class. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
   * Approximate the area under a curve using Right Riemann sums, both with equal and unequal intervals, from a function, graph, or table of values
     * (AP) also Left Riemann sums, Midpoint Rule, and Trapezoidal Rule
   * Utilize the Fundamental Theorem of Calculus I to differentiate an accumulation function
