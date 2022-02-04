@@ -180,7 +180,7 @@ Tentative schedule for upcoming classes:
   * Week of Jan. 31
     * Monday, Jan. 31: 6.6-6.7
     * Wednesday, Feb. 2: 6.8-6.9
-    * Friday, Feb. 4: 6.9
+    * Friday, Feb. 4: Mini-math + catch-up if time allows
   * Week of Feb. 7
     * Monday, Feb. 7: 6.10, 6.14
     * Wednesday, Feb. 9: Unit 6 Review
