@@ -4,7 +4,11 @@
 ---
 
 ### Nikoli-style Puzzles
+* <a href="https://www.puzzle-battleships.com/">Battleships</a>
+
+<!--
 * <a href="https://www.puzzle-tents.com/">Tents</a>
+-->
 
 ---
 
