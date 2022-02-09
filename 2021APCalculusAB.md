@@ -12,7 +12,7 @@ Quick links
 
 ### Updates
 
-Dates for exam and content have shifted by 5 days. It's clear to me that the class will not be ready for next Wednesday without an unfair amount of work put on you.
+Worksheets on substitution, long division, and completing the square have been added. They can be found in our shared drive, or under online resources below.
 
 
 Watch list
@@ -183,7 +183,7 @@ Tentative schedule for upcoming classes:
     * Friday, Feb. 4: Mini-math + catch-up if time allows
   * Week of Feb. 7
     * Monday, Feb. 7: 6.10, 6.14
-    * Wednesday, Feb. 9: Unit 6 Review
+    * Wednesday, Feb. 9: Unit 6 Review (Integration Bee)
     * Friday, Feb. 11: Unit 6 Review
   * Week of Feb. 14
     * Monday, Feb. 14: <b>Unit 6 test - Math 31</b>
@@ -649,6 +649,11 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
   * <a href="https://vchan2.github.io/2021Calculus/4.3_handout.pdf">4.3 Handout on rates of change in other applied contexts</a> (<a href="https://vchan2.github.io/2021Calculus/4.3_handout_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2021Calculus/4.5_Related_Rates.pdf">4.5 Three related rates problems</a> (<a href="https://vchan2.github.io/2021Calculus/4.5_Related_Rates_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2021Calculus/5.11_Optimization.pdf">5.11 Three optimization problems</a> (<a href="https://vchan2.github.io/2021Calculus/5.11_Optimization_sol.pdf">Solution</a>)
+
+* Integration
+  * <a href="https://vchan2.github.io/2021Calculus/6.9_WS%201%20on%20substitution.pdf">Worksheet 1 on substitution</a>
+  * <a href="https://vchan2.github.io/2021Calculus/6.9_WS%202%20on%20substitution.pdf">Worksheet 2 on substitution</a>
+  * <a href="https://vchan2.github.io/2021Calculus/6.10_WS%20on%20Long%20Division%20and%20Completing%20the%20Square.pdf">Worksheet on long division and completing the square</a>
 
 <!--
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf">Solution</a>)
