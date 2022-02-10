@@ -12,6 +12,9 @@ Quick links
 
 ### Updates
 
+Additional practice for series and Taylor polynomials is available in the shared google drive.
+
+
 Watch list
   * Friday, Sept. 10 - Thursday, Sept. 16: Sections 10.1 to 10.3
   * Friday, Sept. 17 - Thursday, Sept. 24: Sections 10.5 to 10.6
