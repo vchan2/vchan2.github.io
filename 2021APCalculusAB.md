@@ -630,6 +630,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_01_14.pdf"> Mini-math for January 24 (5.1-5.12) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_01_14_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_01_28.pdf"> Mini-math for January 28 (6.1-6.4) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_01_28_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_02_04.pdf"> Mini-math for February 4 (6.5-6.9) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_02_04_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_02_11.pdf"> Mini-math for February 11 (6.9-6.10,6.14) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_02_11_sol.pdf">Solutions</a>)
 
 * Derivatives
   * <a href="https://vchan2.github.io/2021Calculus/Derivatives_from_table.pdf"> Derivatives from tables</a> (<a href="https://vchan2.github.io/2021Calculus/Derivatives_from_table_sol.pdf">Solution</a>)
