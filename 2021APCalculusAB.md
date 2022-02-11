@@ -12,7 +12,10 @@ Quick links
 
 ### Updates
 
-Worksheets on substitution, long division, and completing the square have been added. They can be found in our shared drive, or under online resources below.
+Feb 11: Another practice set on integration has been added.
+
+Feb 10: Worksheets on substitution, long division, and completing the square have been added. They can be found in our shared drive, or under online resources below.
+
 
 
 Watch list
