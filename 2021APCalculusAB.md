@@ -633,7 +633,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_02_11.pdf"> Mini-math for February 11 (6.9-6.10,6.14) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_02_11_sol.pdf">Solutions</a>)
 
 * Derivatives
-  * <a href="https://vchan2.github.io/2021Calculus/Derivatives_from_table.pdf"> Derivatives from tables</a> (<a href="https://vchan2.github.io/2021Calculus/Derivatives_from_table_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/Derivatives_from_table.pdf"> Derivatives from tables</a> (<a href="https://vchan2.github.io/2021Calculus/Derivatives_from_table_sol.pdf">Solutions</a>)
   * <a href="https://www.symbolab.com/practice/derivatives-practice"> Generator for practice problems</a>
   * <a href="https://homepages.bluffton.edu/~nesterd/apps/derivs.html"> Generator for practice problems</a> (Most of the time, these functions are annoying to differentiate simply because of the algebra and will not require differentiation techniques, but sometimes you get good questions randomly. 
   * <a href="https://webspace.ship.edu/msrenault/geogebracalculus/derivative_try_to_graph.html"> Sketching derivatives from a graph</a>
@@ -643,18 +643,19 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
     * Q16, Q18: Requires a calculator - ignore for the purposes of the test, but try it out to test your understanding.
     * Q31: Notation: D_x means d/dx, and D_x^2 means d^2/dx^2.
     * Q33: This is (algebraically) challenging, and has several answers (one which uses the original formula to simplify, and one which does not - both versions are valid in my mind).
-  * <a href="https://vchan2.github.io/2021Calculus/Chain_rule_from_graph.pdf">Chain rule from a table and graph</a> (<a href="https://vchan2.github.io/2021Calculus/Chain_rule_from_graph_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/Inverse_from_values.pdf">Inverse function differentiation from given values</a> (<a href="https://vchan2.github.io/2021Calculus/Inverse_from_values_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice.pdf"> Inverse function differentiation </a> (<a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/Unit03_implicit_with_higher_order.pdf">Implicit differentiation with higher order derivatives</a> (Solution included)
-  * <a href="https://vchan2.github.io/2021Calculus/4.3_handout.pdf">4.3 Handout on rates of change in other applied contexts</a> (<a href="https://vchan2.github.io/2021Calculus/4.3_handout_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/4.5_Related_Rates.pdf">4.5 Three related rates problems</a> (<a href="https://vchan2.github.io/2021Calculus/4.5_Related_Rates_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/5.11_Optimization.pdf">5.11 Three optimization problems</a> (<a href="https://vchan2.github.io/2021Calculus/5.11_Optimization_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/Chain_rule_from_graph.pdf">Chain rule from a table and graph</a> (<a href="https://vchan2.github.io/2021Calculus/Chain_rule_from_graph_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/Inverse_from_values.pdf">Inverse function differentiation from given values</a> (<a href="https://vchan2.github.io/2021Calculus/Inverse_from_values_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice.pdf"> Inverse function differentiation </a> (<a href="https://vchan2.github.io/2020Calculus/Ch8_Derivative_of_inverse_functions_practice_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/Unit03_implicit_with_higher_order.pdf">Implicit differentiation with higher order derivatives</a> (Solutions included)
+  * <a href="https://vchan2.github.io/2021Calculus/4.3_handout.pdf">4.3 Handout on rates of change in other applied contexts</a> (<a href="https://vchan2.github.io/2021Calculus/4.3_handout_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/4.5_Related_Rates.pdf">4.5 Three related rates problems</a> (<a href="https://vchan2.github.io/2021Calculus/4.5_Related_Rates_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/5.11_Optimization.pdf">5.11 Three optimization problems</a> (<a href="https://vchan2.github.io/2021Calculus/5.11_Optimization_sol.pdf">Solutions</a>)
 
 * Integration
   * <a href="https://vchan2.github.io/2021Calculus/6.9_WS%201%20on%20substitution.pdf">Worksheet 1 on substitution</a>
   * <a href="https://vchan2.github.io/2021Calculus/6.9_WS%202%20on%20substitution.pdf">Worksheet 2 on substitution</a>
   * <a href="https://vchan2.github.io/2021Calculus/6.10_WS%20on%20Long%20Division%20and%20Completing%20the%20Square.pdf">Worksheet on long division and completing the square</a>
+  * <a href="https://vchan2.github.io/2021Calculus/6.14_practice.pdf">Practice with various integration techniques</a>(<a href="https://vchan2.github.io/2021Calculus/6.14_practice.pdf">Solutions</a>)
 
 <!--
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf">Solution</a>)
