@@ -189,9 +189,9 @@ Tentative schedule for upcoming classes:
     * Wednesday, Feb. 9: Unit 6 Review (Integration Bee)
     * Friday, Feb. 11: Unit 6 Review
   * Week of Feb. 14
-    * Monday, Feb. 14: <b>Unit 6 test - Math 31</b>
-    * Wednesday, Feb. 16: <b>Unit 6 test - AP Calculus</b>, 8.1
-    * Friday, Feb. 18: 
+    * Monday, Feb. 14: Work period
+    * Wednesday, Feb. 16: <b>Unit 6 test - Math 31</b>
+    * Friday, Feb. 18: <b>Unit 6 test - AP Calculus</b>
   * Week of Feb. 21
     * Monday, Feb. 21: FEBRUARY BREAK
     * Wednesday, Feb. 23: FEBRUARY BREAK
@@ -392,6 +392,7 @@ Unit 4 test is tentatively scheduled for <b>Monday, December 6</b> in-class. Uni
   * (AP) Handle more challenging problems of the types above.
 -->
 
+<!--
 Unit 5 test is tentatively scheduled for <b>Monday, January 17</b> in-class. Unit 5 AP material is tentatively scheduled for <b>Wednesday, January 19</b> in-class. You should be proficient in all material contained in Unit 5. More precisely, you should be able to:
   * Apply the Extreme Value Theorem
   * Find and classify critical points
@@ -406,8 +407,9 @@ Unit 5 test is tentatively scheduled for <b>Monday, January 17</b> in-class. Uni
   * (AP) Apply the Mean Value Theorem
   * (AP) Determine where a function satisfies the Mean Value Theorem
   * (AP) Handle more challenging problems of the types above.
+-->
 
-Unit 6 test is tentatively scheduled for <b>Monday, February 14</b> in-class. Unit 6 AP material is tentatively scheduled for <b>Wednesday, February 16</b> in-class. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
+Unit 6 test is tentatively scheduled for <b>Wednesday, February 16</b> in-class. Unit 6 AP material is tentatively scheduled for <b>Friday, February 18</b> in-class. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
   * Approximate the area under a curve using Right Riemann sums, both with equal and unequal intervals, from a function, graph, or table of values
     * (AP) also Left Riemann sums, Midpoint Rule, and Trapezoidal Rule
   * Utilize the Fundamental Theorem of Calculus I to differentiate an accumulation function
