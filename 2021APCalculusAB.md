@@ -380,7 +380,7 @@ Note that you will need to be familiar with the techniques covered un Unit 2 as 
 -->
 
 <!--
-Unit 4 test is tentatively scheduled for <b>Monday, December 6</b> in-class. Unit 4 AP material is tentatively scheduled for <b>Wednesday, December 8</b> in-class. You should be proficient in all material covered in Chapter 3 (sections 1, 2, 5). More precisely, you should be able to:
+Unit 4 test is scheduled for <b>Monday, December 6</b> in-class. Unit 4 AP material is tentatively scheduled for <b>Wednesday, December 8</b> in-class. You should be proficient in all material covered in Chapter 3 (sections 1, 2, 5). More precisely, you should be able to:
   * Determine the velocity and acceleration of a particle moving in a straight-line given its position/displacement function as well as compute the value of the velocity or acceleration at particular times.
   * Determine when a particle is at rest as well as when it is moving in the positive or negative direction.
   * Find the total distance travelled by a particle within a specified amount of time.
@@ -393,7 +393,7 @@ Unit 4 test is tentatively scheduled for <b>Monday, December 6</b> in-class. Uni
 -->
 
 <!--
-Unit 5 test is tentatively scheduled for <b>Monday, January 17</b> in-class. Unit 5 AP material is tentatively scheduled for <b>Wednesday, January 19</b> in-class. You should be proficient in all material contained in Unit 5. More precisely, you should be able to:
+Unit 5 test is scheduled for <b>Monday, January 17</b> in-class. Unit 5 AP material is tentatively scheduled for <b>Wednesday, January 19</b> in-class. You should be proficient in all material contained in Unit 5. More precisely, you should be able to:
   * Apply the Extreme Value Theorem
   * Find and classify critical points
   * Find local and global extrema
@@ -409,7 +409,7 @@ Unit 5 test is tentatively scheduled for <b>Monday, January 17</b> in-class. Uni
   * (AP) Handle more challenging problems of the types above.
 -->
 
-Unit 6 test is tentatively scheduled for <b>Wednesday, February 16</b> in-class. Unit 6 AP material is tentatively scheduled for <b>Friday, February 18</b> in-class. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
+Unit 6 test is scheduled for <b>Wednesday, February 16</b> in-class. Unit 6 AP material is tentatively scheduled for <b>Friday, February 18</b> in-class. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
   * Approximate the area under a curve using Right Riemann sums, both with equal and unequal intervals, from a function, graph, or table of values
     * (AP) also Left Riemann sums, Midpoint Rule, and Trapezoidal Rule
   * Utilize the Fundamental Theorem of Calculus I to differentiate an accumulation function
