@@ -423,7 +423,7 @@ Calculus-based:
 * <a href="https://vchan2.github.io/2021Calculus/challenge/Unit10_05Rearrangement.pdf"> Unit 10: Rearrangement of conditionally convergent series </a>
 * <a href="https://vchan2.github.io/2021Calculus/challenge/Unit06_01Integration_by_parts.pdf"> Unit 6: Integration by parts </a>
 * <a href="https://vchan2.github.io/2021Calculus/challenge/Unit06_02An_Improper_Integral.pdf"> Unit 6: An Improper Integral </a>
-* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit10_06Basel_problem.pdf"> Unit 6: An Improper Integral </a>
+* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit10_06Basel_problem.pdf"> Unit 6: The Basel Problem </a>
 
 
 <!--
