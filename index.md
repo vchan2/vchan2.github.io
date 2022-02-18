@@ -12,7 +12,7 @@
 ---
 ### Electives 
 
-* [Counting](2021Counting.md)
+* [Logic Puzzles](2021logicpuzzles.md)
 
 
 ---
