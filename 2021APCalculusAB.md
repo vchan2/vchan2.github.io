@@ -19,32 +19,27 @@ Feb 10: Worksheets on substitution, long division, and completing the square hav
 
 
 Watch list
-  * Wednesday, Jan. 26: 6.6 Video 1 (8:39), 6.6 Video 2 (9:21)
-  * Thursday, Jan. 27: 6.7 Video 1 (9:13), 6.7 Video 2 (8:00)
-  * Friday, Jan. 28: 6.7 Video 3 (11:10)
-  * Saturday, Jan. 29: 6.8 Video 1 (8:31), 6.8 Video 2 (7:41)
-  * Sunday, Jan. 30: 6.9 Video 1 (7:25), 6.9 Video 2 (5:38)
-  * Monday, Jan. 31: 6.9 Video 3 (9:15), 6.10 Video 1 (8:00)
-  * Tuesday, Feb. 1: 6.10 Video 2 (9:17) , 6.14 Video 1 (8:46)
-  * Wednesday, Feb. 2: 6.14 Video 2 (8:43), 6.14 Video 3 (12:28)
-  * Thursday, Feb. 3: NONE - focus on Unit 6 review
-  * Friday, Feb. 4: NONE - focus on Unit 6 review
-  * Saturday, Feb. 5: NONE - focus on Unit 6 review
-  * Sunday, Feb. 6: NONE - focus on Unit 6 review
-  * Monday, Feb. 7: NONE - focus on Unit 6 review
-  * Tuesday, Feb. 8: NONE - focus on Unit 6 review
-  * Wednesday, Feb. 9: NONE - focus on Unit 6 review
-  * Thursday, Feb. 10: NONE - focus on Unit 6 review
-  * Friday, Feb. 11: NONE - focus on Unit 6 review
-  * Saturday, Feb. 12: NONE - focus on Unit 6 review
-  * Sunday, Feb. 13: NONE - focus on Unit 6 review
-  * Monday, Feb. 14: NONE - focus on Unit 6 review
   * Tuesday, Feb. 15: 8.1 Video 1 (4:05), 8.1 Video 2 (4:48)
   * Wednesday, Feb. 16: 8.2 Video 1 (6:13), 8.2 Video 2 (5:40)
   * Thursday, Feb. 17: 8.3 Video 1 (8:08), 8.3 Video 2 (8:24)
   * Friday, Feb. 18: 8.3 Video 3 (10:45)
   * Saturday, Feb. 19: FEBRUARY BREAK (highly recommend watching videos in advance)
-  
+  * Monday, Feb. 28: 8.4 Video 1 (4:02), 8.4 Video 2 (7:12)
+  * Tuesday, Mar. 1: 8.5 Video 1 (7:18), 8.6 Video 1 (6:37)
+  * Wednesday, Mar. 2: 8.7 Video 1 (8:53), 8.7 Video 2 (9:02)
+  * Thursday, Mar. 3: 8.7 Video 3 (11:16)
+  * Friday, Mar. 4: 8.8 Video 1 (10:00), 8.8 Video 2 (9:58)
+  * Saturday, Mar. 5: 8.9 Video 1 (5:50), 8.9 Video 2 (8:14)
+  * Sunday, Mar. 6: 8.10 Video 1 (8:32), 8.11 Video 1 (9:47)
+  * Monday, Mar. 7: 8.11 Video 2 (9:42), 8.12 Video 1 (10:12)
+  * Tuesday, Mar. 8: NONE - focus on Unit 8 review
+  * Wednesday, Mar. 9: NONE - focus on Unit 8 review
+  * Thursday, Mar. 10: NONE - focus on Unit 8 review
+  * Friday, Mar. 11: NONE - focus on Unit 8 review
+  * Saturday, Mar. 12: NONE - focus on Unit 8 review
+  * Sunday, Mar. 13: NONE - focus on Unit 8 review
+  * Monday, Mar. 14: NONE - focus on Unit 8 review
+  * Tuesday, Mar. 15: NONE - focus on Unit 8 review
 
 
 <!--
@@ -84,6 +79,26 @@ Watch list
   * Sunday, Jan. 23: 6.4 Video 1 (11:43)
   * Monday, Jan. 24: 6.5 Video 2 (9:53)
   * Tuesday, Jan. 25: 6.6 Video 1 (8:39), 6.6 Video 2 (9:21)
+  * Wednesday, Jan. 26: 6.6 Video 1 (8:39), 6.6 Video 2 (9:21)
+  * Thursday, Jan. 27: 6.7 Video 1 (9:13), 6.7 Video 2 (8:00)
+  * Friday, Jan. 28: 6.7 Video 3 (11:10)
+  * Saturday, Jan. 29: 6.8 Video 1 (8:31), 6.8 Video 2 (7:41)
+  * Sunday, Jan. 30: 6.9 Video 1 (7:25), 6.9 Video 2 (5:38)
+  * Monday, Jan. 31: 6.9 Video 3 (9:15), 6.10 Video 1 (8:00)
+  * Tuesday, Feb. 1: 6.10 Video 2 (9:17) , 6.14 Video 1 (8:46)
+  * Wednesday, Feb. 2: 6.14 Video 2 (8:43), 6.14 Video 3 (12:28)
+  * Thursday, Feb. 3: NONE - focus on Unit 6 review
+  * Friday, Feb. 4: NONE - focus on Unit 6 review
+  * Saturday, Feb. 5: NONE - focus on Unit 6 review
+  * Sunday, Feb. 6: NONE - focus on Unit 6 review
+  * Monday, Feb. 7: NONE - focus on Unit 6 review
+  * Tuesday, Feb. 8: NONE - focus on Unit 6 review
+  * Wednesday, Feb. 9: NONE - focus on Unit 6 review
+  * Thursday, Feb. 10: NONE - focus on Unit 6 review
+  * Friday, Feb. 11: NONE - focus on Unit 6 review
+  * Saturday, Feb. 12: NONE - focus on Unit 6 review
+  * Sunday, Feb. 13: NONE - focus on Unit 6 review
+  * Monday, Feb. 14: NONE - focus on Unit 6 review
 -->
 
 
@@ -174,8 +189,6 @@ Tentative schedule for upcoming classes:
     * Monday, Jan. 17: Unit 5 Review
     * Wednesday, Jan. 19: <b>Unit 5 test - Math 31</b>
     * Friday, Jan. 21: <b>Unit 5 test - AP Calculus</b>
--->
-
   * Week of Jan. 24
     * Monday, Jan. 24: 6.1-6.2
     * Wednesday, Jan. 26: 6.3-6.4
@@ -196,8 +209,10 @@ Tentative schedule for upcoming classes:
     * Monday, Feb. 21: FEBRUARY BREAK
     * Wednesday, Feb. 23: FEBRUARY BREAK
     * Friday, Feb. 25: FEBRUARY BREAK
+-->
+
   * Week of Feb. 28
-    * Monday, Feb. 28: 8.2-8.3
+    * Monday, Feb. 28: 8.1-8.3
     * Wednesday, Mar. 2: 8.4-8.5
     * Friday, Mar. 4: 8.6
   * Week of Mar. 7
