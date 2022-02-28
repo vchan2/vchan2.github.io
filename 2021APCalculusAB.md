@@ -12,10 +12,7 @@ Quick links
 
 ### Updates
 
-Feb 11: Another practice set on integration has been added.
-
-Feb 10: Worksheets on substitution, long division, and completing the square have been added. They can be found in our shared drive, or under online resources below.
-
+Feb 28: All students writing the Pascal, Cayley, or Fermat contests will go to one of the big rooms on the 5th floor to write instead of going to class for the first hour.
 
 
 Watch list
