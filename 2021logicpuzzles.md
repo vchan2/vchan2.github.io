@@ -69,15 +69,14 @@ March 1:
 
 
 <table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	<tr>	
-<tr>	<th>Pipes</th>	<th>Landry</th>	<th>10.41</th>	<th>6.54</th>	<tr>	
-<tr>	<th>LITS</th>	<th>Marshall</th>	<th>13.20</th>	<th>11.10</th>	<tr>	
-<tr>	<th>Battleships</th>	<th>Simon</th>	<th>9.58</th>	<th>6.95</th>	<tr>	
-<tr>	<th>Star Battle</th>	<th>Jaiven</th>	<th>2.47</th>	<th>1.93</th>	<tr>	
-<tr>	<th>Binairo</th>	<th>Olivia*</th>	<th>20.87</th>	<th>21.78</th>	<tr>	
-<tr>	<th>Nonogram</th>	<th>Anna</th>	<th>8.34</th>	<th>7.22</th>	<tr>	
-<tr>	<th>Masyu</th>	<th>Olivia</th>	<th>28.54</th>	<th>27.25</th>	<tr>	
-<tr>	<th>Galaxies</th>	<th>Nathan</th>	<th>7.33</th>	<th>6.17</th>	<tr>	</table>
-
+<tr>	<td>Pipes</td>	<td>Landry</td>	<td>10.41</td>	<td>6.54</td>	<tr>	
+<tr>	<td>LITS</td>	<td>Marshall</td>	<td>13.20</td>	<td>11.10</td>	<tr>	
+<tr>	<td>Battleships</td>	<td>Simon</td>	<td>9.58</td>	<td>6.95</td>	<tr>	
+<tr>	<td>Star Battle</td>	<td>Jaiven</td>	<td>2.47</td>	<td>1.93</td>	<tr>	
+<tr>	<td>Binairo</td>	<td>Olivia*</td>	<td>20.87</td>	<td>21.78</td>	<tr>	
+<tr>	<td>Nonogram</td>	<td>Anna</td>	<td>8.34</td>	<td>7.22</td>	<tr>	
+<tr>	<td>Masyu</td>	<td>Olivia</td>	<td>28.54</td>	<td>27.25</td>	<tr>	
+<tr>	<td>Galaxies</td>	<td>Nathan</td>	<td>7.33</td>	<td>6.17</td>	<tr>	</table>
 
 ---
 
