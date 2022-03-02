@@ -18,55 +18,6 @@
 All records are for the smallest and/or easiest version of the stated puzzle.
 
 March 1: 
-
-<table>
-  <tr>
-    <th>Puzzle</th>
-    <th>Student time</th>
-    <th>Dr. Vince time</th>
-  </tr>
-  <tr>
-    <td>4x4 Pipes</td>
-    <td>10.41</td>
-    <td>6.54</td>
-  </tr>
-  <tr>
-    <td>6x6 Normal LITS</td>
-    <td>13.20</td>
-    <td>11.10</td>
-  </tr>
-  <tr>
-    <td>6x6 Normal LITS</td>
-    <td>13.20</td>
-    <td>11.10</td>
-  </tr>
-  <tr>
-    <td>6x6 Normal LITS</td>
-    <td>13.20</td>
-    <td>11.10</td>
-  </tr>
-  <tr>
-    <td>6x6 Normal LITS</td>
-    <td>13.20</td>
-    <td>11.10</td>
-  </tr>
-  <tr>
-    <td>6x6 Normal LITS</td>
-    <td>13.20</td>
-    <td>11.10</td>
-  </tr>
-  <tr>
-    <td>6x6 Normal LITS</td>
-    <td>13.20</td>
-    <td>11.10</td>
-  </tr>
-  <tr>
-    <td>6x6 Normal LITS</td>
-    <td>13.20</td>
-    <td>11.10</td>
-  </tr>
-</table>
-
 <table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
 <tr>	<td>Pipes</td>	<td>Landry</td>	<td>10.41</td>	<td>6.54</td>	</tr>	
 <tr>	<td>LITS</td>	<td>Marshall</td>	<td>13.20</td>	<td>11.10</td>	</tr>	
@@ -76,6 +27,8 @@ March 1:
 <tr>	<td>Nonogram</td>	<td>Anna</td>	<td>8.34</td>	<td>7.22</td>	</tr>	
 <tr>	<td>Masyu</td>	<td>Olivia</td>	<td>28.54</td>	<td>27.25</td>	</tr>	
 <tr>	<td>Galaxies</td>	<td>Nathan</td>	<td>7.33</td>	<td>6.17</td>	</tr>	</table>
+Olivia beat Dr. Vince this week!
+
 
 ---
 
