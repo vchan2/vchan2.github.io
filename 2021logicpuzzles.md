@@ -18,9 +18,9 @@
 
 ---
 
-### Weekly records
+### Daily records
 
-All records are for the smallest and/or easiest version of the stated puzzle.
+All records are for the smallest and/or easiest version of the stated puzzle, and show the fastest time for that day only.
 
 #### March 1: 
 <table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
