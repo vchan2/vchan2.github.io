@@ -22,7 +22,7 @@
 
 All records are for the smallest and/or easiest version of the stated puzzle.
 
-# March 1: 
+#### March 1: 
 <table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
 <tr>	<td>Battleships</td>	<td>Simon</td>	<td>9.58</td>	<td>6.95</td>	</tr>	
 <tr>	<td>Binairo</td>	<td>Olivia*</td>	<td>20.87</td>	<td>21.78</td>	</tr>	
@@ -34,7 +34,7 @@ All records are for the smallest and/or easiest version of the stated puzzle.
 <tr>	<td>Star Battle</td>	<td>Jaiven</td>	<td>2.47</td>	<td>1.93</td>	</tr>	</table>
 Olivia beat Dr. Vince this week!
 
-# March 8:
+#### March 8:
 
 ---
 
