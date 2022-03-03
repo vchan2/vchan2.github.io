@@ -36,9 +36,10 @@ Watch list
   * Friday, Feb. 11 - Thursday, Feb. 17: 10.14, 10.15
   * Friday, Feb. 18 - Thursday, Feb. 24: FEBRUARY BREAK (Review if needed)
   * Friday, Feb. 25 - Thursday, Mar. 3: 8.13, 9.3
-  * Friday, Mar. 4 - Thursday, Mar. 10: 9.5, 9.6
-  * Friday, Mar. 11 - Thursday, Mar. 17: 9.8, 9.9
-  * Friday, Mar. 18 - Thursday, Mar. 24: 7.5, 7.9
+  * Friday, Mar. 4 - Thursday, Mar. 10: 8.13, 9.3
+  * Friday, Mar. 11 - Thursday, Mar. 17: 9.5, 9.6
+  * Friday, Mar. 18 - Thursday, Mar. 24: 9.8, 9.9
+  * Friday, Mar. 25 - Thursday, Mar. 31: 7.5, 7.9
 
 Tentative schedule for upcoming classes:
 
@@ -67,10 +68,10 @@ Tentative schedule for upcoming classes:
  * Friday, Feb. 18: 10.14, 10.15
  * Friday, Feb. 25: FEBRUARY BREAK
  * Friday, Mar. 4: 8.13, 9.3
- * Friday, Mar. 11: 9.5, 9.6
- * Friday, Mar. 18: 9.8, 9.9
- * Friday, Mar. 25: 7.5, 7.9
- * Friday, Apr. 1: Review
+ * Friday, Mar. 11: 8.13, 9.3
+ * Friday, Mar. 18: 9.5, 9.6
+ * Friday, Mar. 25: 9.8, 9.9
+ * Friday, Apr. 1: 7.5, 7.9
  * Friday, Apr. 8: Review
  * Friday, Apr. 15: Review
  * Friday, Apr. 22: SPRING BREAK
