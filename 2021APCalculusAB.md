@@ -433,6 +433,19 @@ Unit 6 test is scheduled for <b>Wednesday, February 16</b> in-class. Unit 6 AP m
   * (AP) Interpret or produce an integral given a contextual application
   * (AP) Handle more challenging problems of the types above.
 
+Unit 8 test is tentatively scheduled for <b>Wednesday, March 16</b> in-class. Unit 8 AP material is tentatively scheduled for <b>Friday, March 18</b> in-class. You should be proficient in all material contained in Unit 8. More precisely, you should be able to:
+  * Connect position, velocity, and acceleration of a function using integrals (includes distance and speed)
+  * Use accumulation functions and integrals in applied contexts
+  * Find the area between curves:
+    * in terms of x
+    * in terms of y
+    * with more than two points of intersection
+  * (AP) Use the formula for the average value of a function to solve problems
+  * (AP) Find the volume of a solid using cross-sections
+  * (AP) Find the volume of a solid of revolution using the disc/washer method
+  * (AP) Handle more challenging problems of the types above.
+
+
 
 Final exam information:
 <img src="https://vchan2.github.io/2021Calculus/Exam_info.png">
