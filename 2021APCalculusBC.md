@@ -16,6 +16,7 @@ Additional practice for series and Taylor polynomials is available in the shared
 
 
 Watch list
+
 <!--
   * Friday, Sept. 10 - Thursday, Sept. 16: Sections 10.1 to 10.3
   * Friday, Sept. 17 - Thursday, Sept. 24: Sections 10.5 to 10.6
@@ -31,6 +32,7 @@ Watch list
   * Friday, Jan. 28 - Thursday, Feb. 3: 10.4, 10.11
   * Friday, Feb. 4 - Thursday, Feb. 10: 10.12, 10.13
 -->
+
   * Friday, Feb. 11 - Thursday, Feb. 17: 10.14, 10.15
   * Friday, Feb. 18 - Thursday, Feb. 24: FEBRUARY BREAK (Review if needed)
   * Friday, Feb. 25 - Thursday, Mar. 3: 8.13, 9.3
@@ -39,6 +41,7 @@ Watch list
   * Friday, Mar. 18 - Thursday, Mar. 24: 7.5, 7.9
 
 Tentative schedule for upcoming classes:
+
 <!--
  * Friday, Sept. 17: 10.1-10.3
  * Friday, Sept. 24: 10.5-10.6
@@ -60,6 +63,7 @@ Tentative schedule for upcoming classes:
  * Friday, Feb. 4: 10.2, 10.11
  * Friday, Feb. 11: 10.12, 10.13
 -->
+
  * Friday, Feb. 18: 10.14, 10.15
  * Friday, Feb. 25: FEBRUARY BREAK
  * Friday, Mar. 4: 8.13, 9.3
