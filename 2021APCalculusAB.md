@@ -445,9 +445,15 @@ Unit 8 test is tentatively scheduled for <b>Wednesday, March 16</b> in-class. Un
   * (AP) Find the volume of a solid of revolution using the disc/washer method
   * (AP) Handle more challenging problems of the types above.
 
+Unit 7 test is tentatively scheduled for <b>Wednesday, April 6</b> in-class. Unit 8 AP material is tentatively scheduled for <b>Friday, April 8</b> in-class. You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
+  * Model and verify solutions to a differential equation
+  * Find solutions to seprable DEs, both in general and for intial value problems
+  * Solve exponential models with DEs
+  * (AP) Sketch slope fields
+  * (AP) Reason with slope fields
+  * (AP) Handle more challenging problems of the types above.
 
-
-Final exam information:
+Final exam information: Monday, May 9
 <img src="https://vchan2.github.io/2021Calculus/Exam_info.png">
 Part I tests are MCQ and Part II tests are FRQ
 
@@ -662,6 +668,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_02_04.pdf"> Mini-math for February 4 (6.5-6.9) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_02_04_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_02_11.pdf"> Mini-math for February 11 (6.9-6.10,6.14) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_02_11_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_03_04.pdf"> Mini-math for March 4 (8.1-8.6) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_03_04_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_03_11.pdf"> Mini-math for March 11 (8.7-8.12) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_03_11_sol.pdf">Solutions</a>)
 
 * Derivatives
   * <a href="https://vchan2.github.io/2021Calculus/Derivatives_from_table.pdf"> Derivatives from tables</a> (<a href="https://vchan2.github.io/2021Calculus/Derivatives_from_table_sol.pdf">Solutions</a>)
