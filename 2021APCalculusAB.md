@@ -12,7 +12,7 @@ Quick links
 
 ### Updates
 
-Practice questions on volumes available.
+Practice questions on volumes available. Update: a second problem set based on what we did in class today is available.
 
 
 Watch list
@@ -694,7 +694,8 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
   * <a href="https://vchan2.github.io/2021Calculus/6.9_WS%202%20on%20substitution.pdf">Worksheet 2 on substitution</a>
   * <a href="https://vchan2.github.io/2021Calculus/6.10_WS%20on%20Long%20Division%20and%20Completing%20the%20Square.pdf">Worksheet on long division and completing the square</a>
   * <a href="https://vchan2.github.io/2021Calculus/6.14_practice.pdf">Practice with various integration techniques</a> (<a href="https://vchan2.github.io/2021Calculus/6.14_practice_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/8_Volumes.pdf">Practice with volumes</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/8_Volumes.pdf">Practice with volumes 1 (specific examples)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/8_Volumes2.pdf">Practice with volumes 2 (more general examples)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes2_sol.pdf">Solutions</a>)
 
 <!--
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf">Solution</a>)
