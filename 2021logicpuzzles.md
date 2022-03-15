@@ -3,6 +3,7 @@
 ---
 
 ### Nikoli-style Puzzles
+* <a href="https://www.puzzle-battleships.com/">Aquarium</a>
 * <a href="https://www.puzzle-battleships.com/">Battleships</a>
 * <a href="https://www.puzzle-binairo.com/">Binairo</a>
 * <a href="https://www.puzzle-galaxies.com/">Galaxies</a>
@@ -79,7 +80,7 @@ Anna, Simon, Nathan, and Eli beat Dr. Vince this week!
 <tr>	<td>Masyu</td>	<td>Olivia</td>	<td>33.91</td>	<td>16.77</td>	</tr>	
 <tr>	<td>Nonograms</td>	<td>Anna</td>	<td>6.88</td>	<td>6.21</td>	</tr>	
 <tr>	<td>Nurikabe</td>	<td></td>	<td></td>	<td></td>	</tr>	
-<tr>	<td>Pipes</td>	<td>Anika</td>	<td>8.34</td>	<td>7.69</td>	</tr>	
+<tr>	<td>Pipes</td>	<td>Annika</td>	<td>8.34</td>	<td>7.69</td>	</tr>	
 <tr>	<td>**Shakashaka**</td>	<td>**Eashaan**</td>	<td>**4.23**</td>	<td>**4.39**</td>	</tr>	
 <tr>	<td>Shikaku</td>	<td>Olivia</td>	<td>7.68</td>	<td>6.98</td>	</tr>	
 <tr>	<td>Shingoki</td>	<td></td>	<td></td>	<td>30.01</td>	</tr>	
