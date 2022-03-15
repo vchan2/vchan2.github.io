@@ -59,6 +59,39 @@ Olivia beat Dr. Vince this week!
 <tr>	<td>**Tents**</td>	<td>**Eli**</td>	<td>**5.22**</td>	<td>**5.88**</td>	</tr>	</table>
 Anna, Simon, Nathan, and Eli beat Dr. Vince this week!
 
+#### March 15:
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Aquarium</td>	<td>Simon</td>	<td>12</td>	<td>6.16</td>	</tr>	
+<tr>	<td>Battleships</td>	<td>Simon</td>	<td>11</td>	<td>7.92</td>	</tr>	
+<tr>	<td>Binairo</td>	<td>Anna</td>	<td>20.24</td>	<td>19.29</td>	</tr>	
+<tr>	<td>Dominosa</td>	<td>Simon</td>	<td>7</td>	<td>6.39</td>	</tr>	
+<tr>	<td>Futoshiki</td>	<td>Simon</td>	<td>25</td>	<td>16.11</td>	</tr>	
+<tr>	<td>**Galaxies**</td>	<td>**Nathan**</td>	<td>**3.23**</td>	<td>**4.93**</td>	</tr>	
+<tr>	<td>Hashi</td>	<td>Eli</td>	<td>7</td>	<td>6.88</td>	</tr>	
+<tr>	<td>**Heyawake**</td>	<td>****</td>	<td>****</td>	<td>**54.17**</td>	</tr>	
+<tr>	<td>**Hitori**</td>	<td>****</td>	<td>****</td>	<td>**27.3**</td>	</tr>	
+<tr>	<td>Jigsaw Sudoku</td>	<td>Simon</td>	<td>43</td>	<td>24.49</td>	</tr>	
+<tr>	<td>Kakurasu</td>	<td>Simon</td>	<td>70</td>	<td>4.47</td>	</tr>	
+<tr>	<td>Kakuro</td>	<td></td>	<td>999</td>	<td>150.76</td>	</tr>	
+<tr>	<td>Killer Sudoku</td>	<td>Marshall</td>	<td>20.76</td>	<td>20.58</td>	</tr>	
+<tr>	<td>Light Up</td>	<td>Simon</td>	<td>10.18</td>	<td>4.86</td>	</tr>	
+<tr>	<td>LITS</td>	<td>Simon</td>	<td>10</td>	<td>9.37</td>	</tr>	
+<tr>	<td>Masyu</td>	<td>Olivia</td>	<td>33.91</td>	<td>16.77</td>	</tr>	
+<tr>	<td>Nonograms</td>	<td>Anna</td>	<td>6.88</td>	<td>6.21</td>	</tr>	
+<tr>	<td>Nurikabe</td>	<td></td>	<td></td>	<td></td>	</tr>	
+<tr>	<td>Pipes</td>	<td>Anika</td>	<td>8.34</td>	<td>7.69</td>	</tr>	
+<tr>	<td>**Shakashaka**</td>	<td>**Eashaan**</td>	<td>**4.23**</td>	<td>**4.39**</td>	</tr>	
+<tr>	<td>Shikaku</td>	<td>Olivia</td>	<td>7.68</td>	<td>6.98</td>	</tr>	
+<tr>	<td>**Shingoki**</td>	<td>****</td>	<td>****</td>	<td>**30.01**</td>	</tr>	
+<tr>	<td>Skyscrapers</td>	<td>Simon</td>	<td>30</td>	<td>16.59</td>	</tr>	
+<tr>	<td>Slither Link</td>	<td>Olivia</td>	<td>40.5</td>	<td>29.03</td>	</tr>	
+<tr>	<td>Star Battle</td>	<td>Jaiven</td>	<td>1.99</td>	<td>1.28</td>	</tr>	
+<tr>	<td>Stitches</td>	<td></td>	<td>999</td>	<td>13.31</td>	</tr>	
+<tr>	<td>Sudoku</td>	<td>Simon</td>	<td>120</td>	<td>87.52</td>	</tr>	
+<tr>	<td>Tapa</td>	<td>Olivia</td>	<td>27.45</td>	<td>17.74</td>	</tr>	
+<tr>	<td>**Tents**</td>	<td>**Eli**</td>	<td>**4.97**</td>	<td>**5.78**</td>	</tr>	</table>
+Nathan, Eashaan, and Eli beat Dr. Vince this week!
+
 
 ---
 
