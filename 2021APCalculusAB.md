@@ -39,7 +39,15 @@ Watch list
   * Sunday, Mar. 13: NONE - focus on Unit 8 review
   * Monday, Mar. 14: NONE - focus on Unit 8 review
   * Tuesday, Mar. 15: NONE - focus on Unit 8 review
-
+  * Wednesday, Mar. 16: NONE - focus on Unit 8 review
+  * Thursday, Mar. 17: NONE - focus on Unit 8 review
+  * Friday, Mar. 18: 7.1 Video 1 (7:21), 7.2 Video 1 (5:30)
+  * Saturday, Mar. 19: 7.3 Video 1 (13:28)
+  * Sunday, Mar. 20: 7.3 Video 2 (15:29)
+  * Monday, Mar. 21: 7.4 Video 1 (7:08)
+  * Tuesday, Mar. 22: 7.6 Video 1 (7:55), 7.6 Video 2 (6:25)
+  * Wednesday, Mar. 23: 7.7 Video 1 (5:28), 7.7 Video 2 (5:05)
+  * Thursday, Mar. 24: 7.7 Video 3 (5:13), 7.8 Video 1 (4:58)
 
 <!--
   * Friday, Sept. 3 - Tuesday, Sept. 7: Sections 1.1 to 1.5
@@ -219,23 +227,23 @@ Tentative schedule for upcoming classes:
     * Wednesday, Mar. 9: 8.9-8.12
     * Friday, Mar. 11: Unit 8 Review
   * Week of Mar. 14
-    * Monday, Mar. 14: Unit 8 Review
-    * Wednesday, Mar. 16: <b>Unit 8 test - Math 31</b>
+    * Monday, Mar. 14: pi Day
+    * Wednesday, Mar. 16: Unit 8 Review
     * Friday, Mar. 18: <b>Unit 8 test - AP Calculus</b>
   * Week of Mar. 21
-    * Monday, Mar. 21: 7.1-7.2
-    * Wednesday, Mar. 23: 7.3-7.4
-    * Friday, Mar. 25: 7.4
+    * Monday, Mar. 21: <b>Unit 8 test - Math 31</b>
+    * Wednesday, Mar. 23: 7.1
+    * Friday, Mar. 25: 7.2
   * Week of Mar. 28
-    * Monday, Mar. 28: 7.5-7.6
-    * Wednesday, Mar. 30: 7.7-7.8
-    * Friday, Apr. 1: Unit 7 Review
+    * Monday, Mar. 28: 7.3-7.4
+    * Wednesday, Mar. 30: 7.6-7.7
+    * Friday, Apr. 1: 7.8
   * Week of Apr. 4
     * Monday, Apr. 4: Unit 7 Review
-    * Wednesday, Apr. 6: <b>Unit 7 test - Math 31</b>
+    * Wednesday, Apr. 6: Unit 7 Review
     * Friday, Apr. 8: <b>Unit 7 test - AP Calculus</b>
   * Week of Apr. 11
-    * Monday, Apr. 11: Review
+    * Monday, Apr. 11: <b>Unit 7 test - Math 31</b>
     * Wednesday, Apr. 13: Review
     * Friday, Apr. 15: SPRING BREAK
   * Week of Apr. 18
