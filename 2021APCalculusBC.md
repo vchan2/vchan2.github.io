@@ -12,6 +12,8 @@ Quick links
 
 ### Updates
 
+<a href="https://vchan2.github.io/Challenges/2022-03-14_pi_day_digit_puzzle.pdf">&pi; day digit challenge</a>
+
 Additional practice for series and Taylor polynomials is available in the shared google drive.
 
 
@@ -445,6 +447,7 @@ Calculus-based:
 Assorted:
 * <a href="https://renertmath.github.io/RenertMath-CelebrateMath/"> CoSMOS 2020 Challenge</a> 
 * <a href="https://vchan2.github.io/Challenges/2021-22Winter_Break.pdf"> Winter Break math challenges (2021) </a>
+* <a href="https://vchan2.github.io/Challenges/2022-03-14_pi_day_digit_puzzle.pdf">&pi; day digit challenge</a>
 
 <!--
 * <a href="https://vincentchan02.wixsite.com/cosmospuzzle"> CoSMOS 2020 Challenge</a> 
