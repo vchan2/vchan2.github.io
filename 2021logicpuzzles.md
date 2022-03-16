@@ -3,9 +3,11 @@
 ---
 
 ### Nikoli-style Puzzles
-* <a href="https://www.puzzle-battleships.com/">Aquarium</a>
+* <a href="https://www.puzzle-aquarium.com">Aquarium</a>
 * <a href="https://www.puzzle-battleships.com/">Battleships</a>
 * <a href="https://www.puzzle-binairo.com/">Binairo</a>
+* <a href="https://www.puzzle-dominosa.com/">Dominosa</a>
+* <a href="https://www.puzzle-futoshiki.com/">Futoshiki</a>
 * <a href="https://www.puzzle-galaxies.com/">Galaxies</a>
 * <a href="https://www.puzzle-lits.com/">LITS</a>
 * <a href="https://www.puzzle-masyu.com/">Masyu</a>
