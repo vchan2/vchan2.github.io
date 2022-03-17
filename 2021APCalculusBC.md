@@ -12,6 +12,17 @@ Quick links
 
 ### Updates
 
+<a href="https://vchan2.github.io/Challenges/2022-03-14_pi_day_digit_puzzle.pdf">2022 &pi; Day digit puzzle</a> prizes:
+  * Prize for fewest copies of 2 in the class
+  * If there is a particularly nice or interesting solution (doesn't matter how many copies), there will be a special prize
+  * Tiered prizes if you can use:
+     * 13 copies or fewer (matches a university class) - Some skittles or equivalent
+     * 11 copies (matches Ms. Doina's Grade 6 class) - More skittles or equivalent
+     * 10 copies (matches Master Aaron) - Lots of skittles or equivalent
+     * 9 copies (matches Dr. Vince) - Kinder eggs or equivalent
+     * fewer than 9 - pizza party for the class
+This is due Tuesday, March 22.
+
 <a href="https://vchan2.github.io/Challenges/2022-03-14_pi_day_digit_puzzle.pdf">&pi; day digit challenge</a>
 
 Additional practice for series and Taylor polynomials is available in the shared google drive.
