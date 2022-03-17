@@ -14,32 +14,8 @@ Quick links
 
 <a href="https://vchan2.github.io/Challenges/2022-03-14_pi_day_digit_puzzle.pdf">&pi; day digit challenge</a>
 
-Practice questions on volumes available. Update: a second problem set based on what we did in class today is available.
-
 
 Watch list
-  * Tuesday, Feb. 15: 8.1 Video 1 (4:05), 8.1 Video 2 (4:48)
-  * Wednesday, Feb. 16: 8.2 Video 1 (6:13), 8.2 Video 2 (5:40)
-  * Thursday, Feb. 17: 8.3 Video 1 (8:08), 8.3 Video 2 (8:24)
-  * Friday, Feb. 18: 8.3 Video 3 (10:45)
-  * Saturday, Feb. 19: FEBRUARY BREAK (highly recommend watching videos in advance)
-  * Monday, Feb. 28: 8.4 Video 1 (4:02), 8.4 Video 2 (7:12)
-  * Tuesday, Mar. 1: 8.5 Video 1 (7:18), 8.6 Video 1 (6:37)
-  * Wednesday, Mar. 2: 8.7 Video 1 (8:53), 8.7 Video 2 (9:02)
-  * Thursday, Mar. 3: 8.7 Video 3 (11:16)
-  * Friday, Mar. 4: 8.8 Video 1 (10:00), 8.8 Video 2 (9:58)
-  * Saturday, Mar. 5: 8.9 Video 1 (5:50), 8.9 Video 2 (8:14)
-  * Sunday, Mar. 6: 8.10 Video 1 (8:32), 8.11 Video 1 (9:47)
-  * Monday, Mar. 7: 8.11 Video 2 (9:42), 8.12 Video 1 (10:12)
-  * Tuesday, Mar. 8: NONE - focus on Unit 8 review
-  * Wednesday, Mar. 9: NONE - focus on Unit 8 review
-  * Thursday, Mar. 10: NONE - focus on Unit 8 review
-  * Friday, Mar. 11: NONE - focus on Unit 8 review
-  * Saturday, Mar. 12: NONE - focus on Unit 8 review
-  * Sunday, Mar. 13: NONE - focus on Unit 8 review
-  * Monday, Mar. 14: NONE - focus on Unit 8 review
-  * Tuesday, Mar. 15: NONE - focus on Unit 8 review
-  * Wednesday, Mar. 16: NONE - focus on Unit 8 review
   * Thursday, Mar. 17: NONE - focus on Unit 8 review
   * Friday, Mar. 18: 7.1 Video 1 (7:21), 7.2 Video 1 (5:30)
   * Saturday, Mar. 19: 7.3 Video 1 (13:28)
@@ -106,6 +82,28 @@ Watch list
   * Saturday, Feb. 12: NONE - focus on Unit 6 review
   * Sunday, Feb. 13: NONE - focus on Unit 6 review
   * Monday, Feb. 14: NONE - focus on Unit 6 review
+  * Tuesday, Feb. 15: 8.1 Video 1 (4:05), 8.1 Video 2 (4:48)
+  * Wednesday, Feb. 16: 8.2 Video 1 (6:13), 8.2 Video 2 (5:40)
+  * Thursday, Feb. 17: 8.3 Video 1 (8:08), 8.3 Video 2 (8:24)
+  * Friday, Feb. 18: 8.3 Video 3 (10:45)
+  * Saturday, Feb. 19: FEBRUARY BREAK (highly recommend watching videos in advance)
+  * Monday, Feb. 28: 8.4 Video 1 (4:02), 8.4 Video 2 (7:12)
+  * Tuesday, Mar. 1: 8.5 Video 1 (7:18), 8.6 Video 1 (6:37)
+  * Wednesday, Mar. 2: 8.7 Video 1 (8:53), 8.7 Video 2 (9:02)
+  * Thursday, Mar. 3: 8.7 Video 3 (11:16)
+  * Friday, Mar. 4: 8.8 Video 1 (10:00), 8.8 Video 2 (9:58)
+  * Saturday, Mar. 5: 8.9 Video 1 (5:50), 8.9 Video 2 (8:14)
+  * Sunday, Mar. 6: 8.10 Video 1 (8:32), 8.11 Video 1 (9:47)
+  * Monday, Mar. 7: 8.11 Video 2 (9:42), 8.12 Video 1 (10:12)
+  * Tuesday, Mar. 8: NONE - focus on Unit 8 review
+  * Wednesday, Mar. 9: NONE - focus on Unit 8 review
+  * Thursday, Mar. 10: NONE - focus on Unit 8 review
+  * Friday, Mar. 11: NONE - focus on Unit 8 review
+  * Saturday, Mar. 12: NONE - focus on Unit 8 review
+  * Sunday, Mar. 13: NONE - focus on Unit 8 review
+  * Monday, Mar. 14: NONE - focus on Unit 8 review
+  * Tuesday, Mar. 15: NONE - focus on Unit 8 review
+  * Wednesday, Mar. 16: NONE - focus on Unit 8 review
 -->
 
 
@@ -216,8 +214,6 @@ Tentative schedule for upcoming classes:
     * Monday, Feb. 21: FEBRUARY BREAK
     * Wednesday, Feb. 23: FEBRUARY BREAK
     * Friday, Feb. 25: FEBRUARY BREAK
--->
-
   * Week of Feb. 28
     * Monday, Feb. 28: 8.1-8.3
     * Wednesday, Mar. 2: 8.4-8.5
@@ -226,6 +222,8 @@ Tentative schedule for upcoming classes:
     * Monday, Mar. 7: 8.7-8.8
     * Wednesday, Mar. 9: 8.9-8.12
     * Friday, Mar. 11: Unit 8 Review
+-->
+
   * Week of Mar. 14
     * Monday, Mar. 14: pi Day
     * Wednesday, Mar. 16: Unit 8 Review
