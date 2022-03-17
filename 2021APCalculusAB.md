@@ -441,7 +441,7 @@ Unit 6 test is scheduled for <b>Wednesday, February 16</b> in-class. Unit 6 AP m
   * (AP) Interpret or produce an integral given a contextual application
   * (AP) Handle more challenging problems of the types above.
 
-Unit 8 test is tentatively scheduled for <b>Wednesday, March 16</b> in-class. Unit 8 AP material is tentatively scheduled for <b>Friday, March 18</b> in-class. You should be proficient in all material contained in Unit 8. More precisely, you should be able to:
+Unit 8 test is tentatively scheduled for <b>Friday, March 18</b> in-class. Unit 8 AP material is tentatively scheduled for <b>Monday, March 21</b> in-class. You should be proficient in all material contained in Unit 8. Note that this unit will be weighted much less than other units, since it is very short. More precisely, you should be able to:
   * Connect position, velocity, and acceleration of a function using integrals (includes distance and speed)
   * Use accumulation functions and integrals in applied contexts
   * Find the area between curves:
