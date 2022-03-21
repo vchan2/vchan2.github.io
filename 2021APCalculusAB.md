@@ -227,9 +227,9 @@ Tentative schedule for upcoming classes:
   * Week of Mar. 14
     * Monday, Mar. 14: pi Day
     * Wednesday, Mar. 16: Unit 8 Review
-    * Friday, Mar. 18: <b>Unit 8 test - AP Calculus</b>
+    * Friday, Mar. 18: <b>Unit 8 test - Math 31</b>
   * Week of Mar. 21
-    * Monday, Mar. 21: <b>Unit 8 test - Math 31</b>
+    * Monday, Mar. 21: <b>Unit 8 test - AP Calculus</b>
     * Wednesday, Mar. 23: 7.1
     * Friday, Mar. 25: 7.2
   * Week of Mar. 28
