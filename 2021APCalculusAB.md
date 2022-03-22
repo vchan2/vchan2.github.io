@@ -230,8 +230,8 @@ Tentative schedule for upcoming classes:
     * Friday, Mar. 18: <b>Unit 8 test - Math 31</b>
   * Week of Mar. 21
     * Monday, Mar. 21: <b>Unit 8 test - AP Calculus</b>
-    * Wednesday, Mar. 23: 7.1
-    * Friday, Mar. 25: 7.2
+    * Wednesday, Mar. 23: 7.1-7.2
+    * Friday, Mar. 25: 7.3
   * Week of Mar. 28
     * Monday, Mar. 28: 7.3-7.4
     * Wednesday, Mar. 30: 7.6-7.7
@@ -453,7 +453,7 @@ Unit 8 test is scheduled for <b>Friday, March 18</b> in-class. Unit 8 AP materia
   * (AP) Find the volume of a solid of revolution using the disc/washer method
   * (AP) Handle more challenging problems of the types above.
 
-Unit 7 test is tentatively scheduled for <b>Wednesday, April 6</b> in-class. Unit 8 AP material is tentatively scheduled for <b>Friday, April 8</b> in-class. You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
+Unit 7 test is tentatively scheduled for <b>Monday, April 11</b> in-class. Unit 8 AP material is tentatively scheduled for <b>Friday, April 8</b> in-class. You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
   * Model and verify solutions to a differential equation
   * Find solutions to seprable DEs, both in general and for intial value problems
   * Solve exponential models with DEs
