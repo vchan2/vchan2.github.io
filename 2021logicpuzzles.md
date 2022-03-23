@@ -105,6 +105,14 @@ Anna, Simon, Nathan, and Eli beat Dr. Vince this week!
 <tr>	<td>**Tents**</td>	<td>**Eli**</td>	<td>**4.97**</td>	<td>**5.78**</td>	</tr>	</table>
 Nathan, Eashaan, and Eli beat Dr. Vince this week!
 
+#### March 23
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>**Shakashaka**</td>	<td>**Lucas**</td>	<td>**2.19**</td>	<td>**3.26**</td>	</tr>	
+<tr>	<td>Shikaku</td>	<td>Olivia</td>	<td>6.52</td>	<td>6.37</td>	</tr>	
+<tr>	<td>**Battleships**</td>	<td>**Simon**</td>	<td>**5.34**</td>	<td>**5.36**</td>	</tr>	
+<tr>	<td>Tapa</td>	<td>Olivia</td>	<td>14.26</td>	<td>11.96</td>	</tr>	
+<tr>	<td>Nonograms</td>	<td>Anna</td>	<td>7.32</td>	<td>6.7</td>	</tr>	</table>
+Lucas and Simon beat Dr. Vince this week!
 
 ---
 
