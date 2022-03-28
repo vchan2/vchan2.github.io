@@ -238,10 +238,10 @@ Tentative schedule for upcoming classes:
     * Friday, Apr. 1: 7.8
   * Week of Apr. 4
     * Monday, Apr. 4: Unit 7 Review
-    * Wednesday, Apr. 6: Unit 7 Review
+    * Wednesday, Apr. 6: <b>Unit 7 test - Math 31</b>
     * Friday, Apr. 8: <b>Unit 7 test - AP Calculus</b>
   * Week of Apr. 11
-    * Monday, Apr. 11: <b>Unit 7 test - Math 31</b>
+    * Monday, Apr. 11: Review
     * Wednesday, Apr. 13: Review
     * Friday, Apr. 15: SPRING BREAK
   * Week of Apr. 18
