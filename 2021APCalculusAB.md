@@ -638,8 +638,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 * <a href="https://www.wolframalpha.com/"> Online calculator (WolframAlpha) </a>
 * <a href="https://www.desmos.com/"> Online graphing program (Desmos) </a>
 * <a href="https://vchan2.github.io/2021Calculus/Trig_derivatives_proofs.pdf"> Proofs of Trigonometric Derivatives </a>
-* <a href="https://vchan2.github.io/2021Calculus/2021-11-26_AP_Calculus_AB.pdf">Notes for November 26</a> 
-
+* <a href="https://www.geogebra.org/m/W7dAdgqc">Slope field plotter</a>
 
 <!--
 * <a href="http://webspace.ship.edu/msrenault/GeoGebraCalculus/derivative_intuitive_chain_rule.html"> Interactive visualization of the Chain Rule </a>
