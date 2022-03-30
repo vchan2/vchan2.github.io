@@ -761,6 +761,7 @@ Calculus-based:
 * <a href="https://vchan2.github.io/2021Calculus/challenge/Unit02_01Continuous_but_not_differentiable.pdf"> Unit 2: Continuous but not differentiable </a> - Does there exist a function which is continuous everywhere but not differentiable infinitely often?
 * <a href="https://vchan2.github.io/2021Calculus/challenge/Unit02_02Differentiability_for_piecewise.pdf"> Unit 2: Differentiability for piecewise </a> - Prove you can use derivatives from the left and right to determine differentiability for piecewise functions.
 * <a href="https://vchan2.github.io/2021Calculus/challenge/Unit02_01Continuous_but_not_differentiable.pdf"> Unit 3: Continuous but nowhere differentiable </a> - Does there exist a function which is continuous everywhere but differentiable nowhere?
+* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit07_01separation_of_variables_division_by_0.pdf"> Unit 7: division by 0 in separation of variables </a> - Find an example where you have to be more careful about separation of variables
 
 
 Assorted:
