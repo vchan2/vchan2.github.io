@@ -380,6 +380,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2022_02_18.pdf"> Mini-math for February 18 (10.13-10.15)</a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2022_02_18_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2022_03_11.pdf"> Mini-math for March 11 (8.13, 9.3)</a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2022_03_11_sol.pdf">Solution</a>)
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2022_03_25.pdf"> Mini-math for March 25 (8.13, 9.3)</a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2022_03_25_sol.pdf">Solution</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2022_04_01.pdf"> Mini-math for April 1 (7.5, 7.9)</a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_APCalcBC_2022_04_01_sol.pdf">Solution</a>)
 
 <!--
 * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf">Solution</a>)
