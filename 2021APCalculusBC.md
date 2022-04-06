@@ -44,8 +44,6 @@ Watch list
   * Friday, Jan. 21 - Thursday, Jan. 27: 6.13
   * Friday, Jan. 28 - Thursday, Feb. 3: 10.4, 10.11
   * Friday, Feb. 4 - Thursday, Feb. 10: 10.12, 10.13
--->
-
   * Friday, Feb. 11 - Thursday, Feb. 17: 10.14, 10.15
   * Friday, Feb. 18 - Thursday, Feb. 24: FEBRUARY BREAK (Review if needed)
   * Friday, Feb. 25 - Thursday, Mar. 3: 8.13, 9.3
@@ -53,6 +51,13 @@ Watch list
   * Friday, Mar. 11 - Thursday, Mar. 17: 9.5, 9.6
   * Friday, Mar. 18 - Thursday, Mar. 24: 9.8, 9.9
   * Friday, Mar. 25 - Thursday, Mar. 31: 7.5, 7.9
+-->
+  * Friday, Apr. 8 - Thursday, Apr. 14: Videos 1 through 8 of <a href="https://www.youtube.com/playlist?list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV">AP Calculus AB Review playlist</a>
+  * Friday, Apr. 15 - Thursday, Apr. 21: Videos 1 through 3 of <a href="https://www.youtube.com/playlist?list=PLoGgviqq4844oVJMjJ8YkD4mQIoMp4Cbu">AP Calculus BC Review playlist</a>
+  * Friday, Apr. 22 - Thursday, Apr. 28: Videos 4 through 7 of <a href="https://www.youtube.com/playlist?list=PLoGgviqq4844oVJMjJ8YkD4mQIoMp4Cbu">AP Calculus BC Review playlist</a>
+  * Friday, Apr. 29 - Thursday, May. 5: Videos 8 through 10 of <a href="https://www.youtube.com/playlist?list=PLoGgviqq4844oVJMjJ8YkD4mQIoMp4Cbu">AP Calculus BC Review playlist</a>
+
+
 
 Tentative schedule for upcoming classes:
 
@@ -76,8 +81,6 @@ Tentative schedule for upcoming classes:
  * Friday, Jan. 28: 6.12-6.13
  * Friday, Feb. 4: 10.2, 10.11
  * Friday, Feb. 11: 10.12, 10.13
--->
-
  * Friday, Feb. 18: 10.14, 10.15
  * Friday, Feb. 25: FEBRUARY BREAK
  * Friday, Mar. 4: 8.13, 9.3
@@ -85,6 +88,8 @@ Tentative schedule for upcoming classes:
  * Friday, Mar. 18: 9.5, 9.6
  * Friday, Mar. 25: 9.8, 9.9
  * Friday, Apr. 1: 7.5, 7.9
+-->
+
  * Friday, Apr. 8: Review
  * Friday, Apr. 15: Review
  * Friday, Apr. 22: SPRING BREAK
