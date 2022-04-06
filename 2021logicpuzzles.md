@@ -33,7 +33,8 @@
 
 ### Daily records
 
-All records are for the smallest and/or easiest version of the stated puzzle, and show the fastest time for that day only.
+For March 1 - March 29: 
+All records are for the smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
 
 #### March 1: 
 <table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
@@ -105,7 +106,7 @@ Anna, Simon, Nathan, and Eli beat Dr. Vince this week!
 <tr>	<td>**Tents**</td>	<td>**Eli**</td>	<td>**4.97**</td>	<td>**5.78**</td>	</tr>	</table>
 Nathan, Eashaan, and Eli beat Dr. Vince this week!
 
-#### March 23
+#### March 22
 <table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
 <tr>	<td>**Shakashaka**</td>	<td>**Lucas**</td>	<td>**2.19**</td>	<td>**3.26**</td>	</tr>	
 <tr>	<td>Shikaku</td>	<td>Olivia</td>	<td>6.52</td>	<td>6.37</td>	</tr>	
@@ -113,6 +114,30 @@ Nathan, Eashaan, and Eli beat Dr. Vince this week!
 <tr>	<td>Tapa</td>	<td>Olivia</td>	<td>14.26</td>	<td>11.96</td>	</tr>	
 <tr>	<td>Nonograms</td>	<td>Anna</td>	<td>7.32</td>	<td>6.7</td>	</tr>	</table>
 Lucas and Simon beat Dr. Vince this week!
+
+#### March 29
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Masyu</td>	<td>Eashaan</td>	<td>12.84</td>	<td>12.48</td>	</tr>	
+<tr>	<td>**Binairo**</td>	<td>**Anna**</td>	<td>**18.54**</td>	<td>**19.4**</td>	</tr>	
+<tr>	<td>Nurikabe</td>	<td>Olivia</td>	<td>5.07</td>	<td>4.16</td>	</tr>	
+<tr>	<td>Stitches</td>	<td>Olivia</td>	<td>28.62</td>	<td>20.02</td>	</tr>	
+<tr>	<td>Kakurasu</td>	<td>Simon</td>	<td>3.14</td>	<td>3.12</td>	</tr>	</table>
+Anna beat Dr. Vince this week!
+
+For April 5 - TBD: 
+All records are for the 2nd smallest (then easiest) version of the stated puzzle, and show the fastest time for that day only.
+
+#### April 5
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>**Tents**</td>	<td>**Eli**</td>	<td>**9.88**</td>	<td>**13.24**</td>	</tr>	
+<tr>	<td>**Star Battle**</td>	<td>**Jaiven**</td>	<td>**3.89**</td>	<td>**3.99**</td>	</tr>	
+<tr>	<td>Slither Link</td>	<td>Olivia</td>	<td>112.57</td>	<td>66.04</td>	</tr>	
+<tr>	<td>Heyawake</td>	<td>Simon</td>	<td>72.2</td>	<td>42.89</td>	</tr>	
+<tr>	<td>Jigsaw Sudoku</td>	<td>Simon</td>	<td>47.13</td>	<td>28.76</td>	</tr>	</table>
+Eli and Jaiven beat Dr. Vince this week!
+
+
+
 
 ---
 
