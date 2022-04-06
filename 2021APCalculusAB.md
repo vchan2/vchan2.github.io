@@ -12,9 +12,6 @@ Quick links
 
 ### Updates
 
-<a href="https://vchan2.github.io/Challenges/2022-03-14_pi_day_digit_puzzle.pdf">&pi; day digit challenge</a>
-
-
 Watch list
   * Friday, Apr. 8: <a href="https://www.youtube.com/watch?v=hoeIqhpl5ts&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=1">Understanding Derivatives & Chain Rule</a>
   * Saturday, Apr. 9: 
@@ -241,8 +238,6 @@ Tentative schedule for upcoming classes:
     * Monday, Mar. 7: 8.7-8.8
     * Wednesday, Mar. 9: 8.9-8.12
     * Friday, Mar. 11: Unit 8 Review
--->
-
   * Week of Mar. 14
     * Monday, Mar. 14: pi Day
     * Wednesday, Mar. 16: Unit 8 Review
@@ -255,6 +250,8 @@ Tentative schedule for upcoming classes:
     * Monday, Mar. 28: 7.3-7.4
     * Wednesday, Mar. 30: 7.6-7.7
     * Friday, Apr. 1: 7.8
+-->
+
   * Week of Apr. 4
     * Monday, Apr. 4: Unit 7 Review
     * Wednesday, Apr. 6: <b>Unit 7 test - Math 31</b>
