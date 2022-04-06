@@ -16,14 +16,25 @@ Quick links
 
 
 Watch list
-  * Thursday, Mar. 17: NONE - focus on Unit 8 review
-  * Friday, Mar. 18: 7.1 Video 1 (7:21), 7.2 Video 1 (5:30)
-  * Saturday, Mar. 19: 7.3 Video 1 (13:28)
-  * Sunday, Mar. 20: 7.3 Video 2 (15:29)
-  * Monday, Mar. 21: 7.4 Video 1 (7:08)
-  * Tuesday, Mar. 22: 7.6 Video 1 (7:55), 7.6 Video 2 (6:25)
-  * Wednesday, Mar. 23: 7.7 Video 1 (5:28), 7.7 Video 2 (5:05)
-  * Thursday, Mar. 24: 7.7 Video 3 (5:13), 7.8 Video 1 (4:58)
+  * Friday, Apr. 8: <a href="https://www.youtube.com/watch?v=hoeIqhpl5ts&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=1">Understanding Derivatives & Chain Rule</a>
+  * Saturday, Apr. 9: 
+  * Sunday, Apr. 10: <a href="https://www.youtube.com/watch?v=b9GDlDhb40o&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=2">Contextual & Analytical Applications of the Derivative</a>
+  * Monday, Apr. 11: 
+  * Tuesday, Apr. 12: <a href="https://www.youtube.com/watch?v=JkEje-L7Ow0&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=3">How to Find Limits & Continuity</a>
+  * Wednesday, Apr. 13: 
+  * Thursday, Apr. 14: <a href="https://www.youtube.com/watch?v=JDnNz_54YGc&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=4">Integrals & the Fundamental Theorem of Calculus</a>
+  * Friday, Apr. 15: 
+  * Saturday, Apr. 16: 
+  * Sunday, Apr. 17: <a href="https://www.youtube.com/watch?v=Mls3sKBORqY&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=5">Understanding the Big Theorems Including IVT, EVT, & MVT</a>
+  * Monday, Apr. 18: 
+  * Tuesday, Apr. 19: 
+  * Wednesday, Apr. 20: <a href="https://www.youtube.com/watch?v=Z62SY_ESNnA&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=6">Application of Integrals (Part 1)</a>
+  * Thursday, Apr. 21: 
+  * Friday, Apr. 22: 
+  * Saturday, Apr. 23: <a href="https://www.youtube.com/watch?v=8EZb7rDMd8E&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=7">Application of Integrals (Part 2)</a>
+  * Sunday, Apr. 24: 
+  * Monday, Apr. 25: 
+  * Tuesday, Apr. 26: <a href="https://www.youtube.com/watch?v=tijdJ4PPidc&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=8">Reviewing Multiple-Choice & Free-Response Questions</a>
 
 <!--
   * Friday, Sept. 3 - Tuesday, Sept. 7: Sections 1.1 to 1.5
@@ -104,6 +115,14 @@ Watch list
   * Monday, Mar. 14: NONE - focus on Unit 8 review
   * Tuesday, Mar. 15: NONE - focus on Unit 8 review
   * Wednesday, Mar. 16: NONE - focus on Unit 8 review
+  * Thursday, Mar. 17: NONE - focus on Unit 8 review
+  * Friday, Mar. 18: 7.1 Video 1 (7:21), 7.2 Video 1 (5:30)
+  * Saturday, Mar. 19: 7.3 Video 1 (13:28)
+  * Sunday, Mar. 20: 7.3 Video 2 (15:29)
+  * Monday, Mar. 21: 7.4 Video 1 (7:08)
+  * Tuesday, Mar. 22: 7.6 Video 1 (7:55), 7.6 Video 2 (6:25)
+  * Wednesday, Mar. 23: 7.7 Video 1 (5:28), 7.7 Video 2 (5:05)
+  * Thursday, Mar. 24: 7.7 Video 3 (5:13), 7.8 Video 1 (4:58)
 -->
 
 
