@@ -255,22 +255,22 @@ Tentative schedule for upcoming classes:
   * Week of Apr. 4
     * Monday, Apr. 4: Unit 7 Review
     * Wednesday, Apr. 6: <b>Unit 7 test - Math 31</b>
-    * Friday, Apr. 8: <b>Unit 7 test - AP Calculus</b>
+    * Friday, Apr. 8: <b>Unit 7 test - AP Calculus</b>, Units 1, 2 Review
   * Week of Apr. 11
-    * Monday, Apr. 11: Review
-    * Wednesday, Apr. 13: Review
+    * Monday, Apr. 11: Unit 3, 4 Review
+    * Wednesday, Apr. 13: SPRING BREAK: remaining unit reviews will be open if you wish to work on them in advance. Finish at least up to Unit 5.
     * Friday, Apr. 15: SPRING BREAK
   * Week of Apr. 18
     * Monday, Apr. 18: SPRING BREAK
     * Wednesday, Apr. 20: SPRING BREAK
     * Friday, Apr. 22: SPRING BREAK
   * Week of Apr. 25
-    * Monday, Apr. 25: Review
-    * Wednesday, Apr. 27: Review
-    * Friday, Apr. 29: Review
+    * Monday, Apr. 25: Unit 5 Review
+    * Wednesday, Apr. 27: Unit 6 Review
+    * Friday, Apr. 29: Unit 6 Review
   * Week of May. 2
-    * Monday, May. 2: Review
-    * Wednesday, May. 4: Review
+    * Monday, May. 2: Unit 8 Review
+    * Wednesday, May. 4: Units 8, 7 Review
     * Friday, May. 6: Final test prep
   * Week of May. 9
     * Monday, May. 9: AP Calculus AB test
