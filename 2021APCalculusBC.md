@@ -87,12 +87,13 @@ Tentative schedule for upcoming classes:
  * Friday, Apr. 1: 7.5, 7.9
 -->
 
- * Friday, Apr. 8: Review
- * Friday, Apr. 15: Review
+ * Friday, Apr. 8: Units 1, 2, 3 Review
+ * Friday, Apr. 15: SPRING BREAK: remaining unit reviews will be open if you wish to work on them in advance. Finish at least up to Unit 9.
  * Friday, Apr. 22: SPRING BREAK
- * Friday, Apr. 29: Review
- * Friday, May. 6: Review
+ * Friday, Apr. 29: Unit 9 Review
+ * Friday, May. 6: Unit 10 Review
  * Monday, May. 9: AP Calculus BC test
+
 
 <!--
   * Week of May 24
