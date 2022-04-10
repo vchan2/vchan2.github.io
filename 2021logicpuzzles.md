@@ -124,6 +124,8 @@ Lucas and Simon beat Dr. Vince this week!
 <tr>	<td>Kakurasu</td>	<td>Simon</td>	<td>3.14</td>	<td>3.12</td>	</tr>	</table>
 Anna beat Dr. Vince this week!
 
+---
+
 For April 5 - TBD: 
 All records are for the 2nd smallest (then easiest) version of the stated puzzle, and show the fastest time for that day only.
 
