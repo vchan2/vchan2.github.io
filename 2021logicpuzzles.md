@@ -138,7 +138,14 @@ All records are for the 2nd smallest (then easiest) version of the stated puzzle
 <tr>	<td>Jigsaw Sudoku</td>	<td>Simon</td>	<td>47.13</td>	<td>28.76</td>	</tr>	</table>
 Eli and Jaiven beat Dr. Vince this week!
 
-
+#### April 12
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Hitori</td>	<td></td>	<td></td>	<td>101.64</td>	</tr>	
+<tr>	<td>Dominosa</td>	<td>Eashaan</td>	<td>41.58</td>	<td>20.91</td>	</tr>	
+<tr>	<td>Light Up</td>	<td>Lucas</td>	<td>20.62</td>	<td>12.55</td>	</tr>	
+<tr>	<td>**Hashi**</td>	<td>**Eli**</td>	<td>**12.37**</td>	<td>**15.33**</td>	</tr>	
+<tr>	<td>Futoshiki</td>	<td></td>	<td></td>	<td>51.09</td>	</tr>	</table>
+Eli beat Dr. Vince this week!
 
 
 ---
