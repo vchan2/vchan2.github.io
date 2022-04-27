@@ -22,6 +22,7 @@
 * <a href="https://www.puzzle-shikaku.com/">Shikaku</a>
 * <a href="https://www.puzzle-shingoki.com/">Shingoki</a>
 * <a href="https://www.puzzle-skyscrapers.com/">Skyscraper</a>
+* <a href="https://www.puzzle-slant.com/">Slant</a>
 * <a href="https://www.puzzle-star-battle.com/">Star Battle</a>
 * <a href="https://www.puzzle-tents.com/">Tents</a>
 
@@ -146,6 +147,15 @@ Eli and Jaiven beat Dr. Vince this week!
 <tr>	<td>**Hashi**</td>	<td>**Eli**</td>	<td>**12.37**</td>	<td>**15.33**</td>	</tr>	
 <tr>	<td>Futoshiki</td>	<td></td>	<td></td>	<td>51.09</td>	</tr>	</table>
 Eli beat Dr. Vince this week!
+
+#### April 26
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Nurikabe</td>	<td>Olivia</td>	<td>50.37</td>	<td>22.02</td>	</tr>	
+<tr>	<td>Futoshiki</td>	<td>Lucas</td>	<td>129.06</td>	<td>32.92</td>	</tr>	
+<tr>	<td>Battleships</td>	<td>Simon</td>	<td>15.02</td>	<td>14.84</td>	</tr>	
+<tr>	<td>Binairo</td>	<td>Anna</td>	<td>46.17</td>	<td>38.5</td>	</tr>	
+<tr>	<td>**LITS**</td>	<td>**Simon**</td>	<td>**22**</td>	<td>**26.41**</td>	</tr>	</table>
+Simon beat Dr. Vince this week!
 
 
 ---
