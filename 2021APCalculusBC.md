@@ -348,7 +348,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 * <a href="https://www.wolframalpha.com/"> Online calculator (WolframAlpha) </a>
 * <a href="https://www.desmos.com/"> Online graphing program (Desmos) </a>
 * <a href="https://vchan2.github.io/2021Calculus/2021-11-26_AP_Calculus_BC.pdf">Notes for November 26</a> 
-* <a href="vchan2.github.io/2021Calculus/9_series_cheat_sheet.pdf">Cheat sheet for series (Unit 10)</a>
+* <a href="https://vchan2.github.io/2021Calculus/10_series_cheat_sheet.pdf">Cheat sheet for series (Unit 10)</a>
 
 <!--
 * <a href="http://webspace.ship.edu/msrenault/GeoGebraCalculus/derivative_intuitive_chain_rule.html"> Interactive visualization of the Chain Rule </a>
