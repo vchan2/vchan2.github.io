@@ -12,6 +12,8 @@ Quick links
 
 ### Updates
 
+I have uploaded notes from a night session I ran with a student that goes over AB Practice Test 5 MCQ, questions 18, 25, 26, 43, and 45. It can be found in the shared google drive.
+
 Watch list
   * Friday, Apr. 8: <a href="https://www.youtube.com/watch?v=hoeIqhpl5ts&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=1">Understanding Derivatives & Chain Rule</a>
   * Saturday, Apr. 9: 
