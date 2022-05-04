@@ -157,6 +157,16 @@ Eli beat Dr. Vince this week!
 <tr>	<td>**LITS**</td>	<td>**Simon**</td>	<td>**22**</td>	<td>**26.41**</td>	</tr>	</table>
 Simon beat Dr. Vince this week!
 
+#### May 3
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>**Hitori**</td>	<td>**Olivia**</td>	<td>**72**</td>	<td>**78.76**</td>	</tr>	
+<tr>	<td>**Binairo**</td>	<td>**Anna**</td>	<td>**40.96**</td>	<td>**41.33**</td>	</tr>	
+<tr>	<td>Aquarium</td>	<td>Simon</td>	<td>50</td>	<td>29.93</td>	</tr>	
+<tr>	<td>Slither Link</td>	<td>Olivia</td>	<td>140</td>	<td>64</td>	</tr>	
+<tr>	<td>Hashi</td>	<td>Eli</td>	<td>14.53</td>	<td>14.1</td>	</tr>	</table>
+Olivia and Anna beat Dr. Vince this week!
+
+#### May 10
 
 ---
 
