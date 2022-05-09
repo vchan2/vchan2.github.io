@@ -92,7 +92,7 @@ Tentative schedule for upcoming classes:
  * Friday, Apr. 22: SPRING BREAK
  * Friday, Apr. 29: Unit 9 Review
  * Friday, May. 6: Unit 10 Review
- * Monday, May. 9: AP Calculus BC test
+ * Monday, May. 9: AP Calculus BC test (5th floor)
 
 
 <!--
@@ -322,6 +322,11 @@ Hours are:
   * Saturday, October 3, 11AM-2PM
 I will not be answering questions regarding Chapter 1 starting Monday, September 28 at 4PM, treating it as if the exam has started for everyone. This also means that you are not to discuss any aspects of the test with anyone until after Saturday at 2PM, in order to maintain integrity of the exam. Please let me know ASAP if you cannot write at one of these times, and we will have to make alternate arrangements (such as during class).
 -->
+
+Final exam information: Monday, May 9, 5th floor
+<img src="https://vchan2.github.io/2021Calculus/Exam_info.png">
+Part I tests are MCQ and Part II tests are FRQ
+
 
 ---
 
