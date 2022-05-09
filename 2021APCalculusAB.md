@@ -447,6 +447,7 @@ Unit 5 test is scheduled for <b>Monday, January 17</b> in-class. Unit 5 AP mater
   * (AP) Handle more challenging problems of the types above.
 -->
 
+<!--
 Unit 6 test is scheduled for <b>Wednesday, February 16</b> in-class. Unit 6 AP material is scheduled for <b>Friday, February 18</b> in-class. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
   * Approximate the area under a curve using Right Riemann sums, both with equal and unequal intervals, from a function, graph, or table of values
     * (AP) also Left Riemann sums, Midpoint Rule, and Trapezoidal Rule
@@ -458,6 +459,8 @@ Unit 6 test is scheduled for <b>Wednesday, February 16</b> in-class. Unit 6 AP m
   * (AP) Identify if an area estimate is an overestimate or underestimate
   * (AP) Interpret or produce an integral given a contextual application
   * (AP) Handle more challenging problems of the types above.
+-->
+
 
 Unit 8 test is scheduled for <b>Friday, March 18</b> in-class. Unit 8 AP material is scheduled for <b>Monday, March 21</b> in-class. You should be proficient in all material contained in Unit 8. Note that this unit will be weighted much less than other units, since it is very short. More precisely, you should be able to:
   * Connect position, velocity, and acceleration of a function using integrals (includes distance and speed)
@@ -471,6 +474,7 @@ Unit 8 test is scheduled for <b>Friday, March 18</b> in-class. Unit 8 AP materia
   * (AP) Find the volume of a solid of revolution using the disc/washer method
   * (AP) Handle more challenging problems of the types above.
 
+<!--
 Unit 7 test is tentatively scheduled for <b>Wednesday, April 6</b> in-class. Unit 8 AP material is tentatively scheduled for <b>Friday, April 8</b> in-class. You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
   * Model and verify solutions to a differential equation
   * Find solutions to seprable DEs, both in general and for intial value problems
@@ -478,8 +482,9 @@ Unit 7 test is tentatively scheduled for <b>Wednesday, April 6</b> in-class. Uni
   * (AP) Sketch slope fields
   * (AP) Reason with slope fields
   * (AP) Handle more challenging problems of the types above.
+-->
 
-Final exam information: Monday, May 9
+Final exam information: Monday, May 9, 5th floor
 <img src="https://vchan2.github.io/2021Calculus/Exam_info.png">
 Part I tests are MCQ and Part II tests are FRQ
 
