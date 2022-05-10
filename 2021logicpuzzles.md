@@ -167,6 +167,15 @@ Simon beat Dr. Vince this week!
 Olivia and Anna beat Dr. Vince this week!
 
 #### May 10
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Aquarium</td>	<td></td>	<td></td>	<td>27.4</td>	</tr>	
+<tr>	<td>Binairo</td>	<td>Anna</td>	<td>53.39</td>	<td>38.57</td>	</tr>	
+<tr>	<td>Masyu</td>	<td>Eashaan</td>	<td>39.48</td>	<td>36.15</td>	</tr>	
+<tr>	<td>Futoshiki</td>	<td></td>	<td></td>	<td>20.97</td>	</tr>	
+<tr>	<td>Nonograms</td>	<td></td>	<td></td>	<td>33.33</td>	</tr>	</table>
+No one beat Dr. Vince this week!
+
+#### May 17
 
 ---
 
