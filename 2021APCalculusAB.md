@@ -12,30 +12,10 @@ Quick links
 
 ### Updates
 
-I have uploaded notes from a night session I ran with a student that goes over AB Practice Test 5 MCQ, questions 18, 25, 26, 43, and 45. It can be found in the shared google drive.
 
-Watch list
-  * Friday, Apr. 8: <a href="https://www.youtube.com/watch?v=hoeIqhpl5ts&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=1">Understanding Derivatives & Chain Rule</a>
-  * Saturday, Apr. 9: 
-  * Sunday, Apr. 10: <a href="https://www.youtube.com/watch?v=b9GDlDhb40o&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=2">Contextual & Analytical Applications of the Derivative</a>
-  * Monday, Apr. 11: 
-  * Tuesday, Apr. 12: <a href="https://www.youtube.com/watch?v=JkEje-L7Ow0&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=3">How to Find Limits & Continuity</a>
-  * Wednesday, Apr. 13: 
-  * Thursday, Apr. 14: <a href="https://www.youtube.com/watch?v=JDnNz_54YGc&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=4">Integrals & the Fundamental Theorem of Calculus</a>
-  * Friday, Apr. 15: 
-  * Saturday, Apr. 16: 
-  * Sunday, Apr. 17: <a href="https://www.youtube.com/watch?v=Mls3sKBORqY&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=5">Understanding the Big Theorems Including IVT, EVT, & MVT</a>
-  * Monday, Apr. 18: 
-  * Tuesday, Apr. 19: 
-  * Wednesday, Apr. 20: <a href="https://www.youtube.com/watch?v=Z62SY_ESNnA&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=6">Application of Integrals (Part 1)</a>
-  * Thursday, Apr. 21: 
-  * Friday, Apr. 22: 
-  * Saturday, Apr. 23: <a href="https://www.youtube.com/watch?v=8EZb7rDMd8E&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=7">Application of Integrals (Part 2)</a>
-  * Sunday, Apr. 24: 
-  * Monday, Apr. 25: 
-  * Tuesday, Apr. 26: <a href="https://www.youtube.com/watch?v=tijdJ4PPidc&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=8">Reviewing Multiple-Choice & Free-Response Questions</a>
 
 <!--
+Watch list
   * Friday, Sept. 3 - Tuesday, Sept. 7: Sections 1.1 to 1.5
   * Wednesday, Sept. 8 - Tuesday, Sept. 14: Sections 1.6 to 1.11
   * Wednesday, Sept. 15 - Tuesday, Sept. 21: Sections 1.12 to 1.16
@@ -122,7 +102,25 @@ Watch list
   * Tuesday, Mar. 22: 7.6 Video 1 (7:55), 7.6 Video 2 (6:25)
   * Wednesday, Mar. 23: 7.7 Video 1 (5:28), 7.7 Video 2 (5:05)
   * Thursday, Mar. 24: 7.7 Video 3 (5:13), 7.8 Video 1 (4:58)
--->
+  * Friday, Apr. 8: <a href="https://www.youtube.com/watch?v=hoeIqhpl5ts&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=1">Understanding Derivatives & Chain Rule</a>
+  * Saturday, Apr. 9: 
+  * Sunday, Apr. 10: <a href="https://www.youtube.com/watch?v=b9GDlDhb40o&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=2">Contextual & Analytical Applications of the Derivative</a>
+  * Monday, Apr. 11: 
+  * Tuesday, Apr. 12: <a href="https://www.youtube.com/watch?v=JkEje-L7Ow0&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=3">How to Find Limits & Continuity</a>
+  * Wednesday, Apr. 13: 
+  * Thursday, Apr. 14: <a href="https://www.youtube.com/watch?v=JDnNz_54YGc&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=4">Integrals & the Fundamental Theorem of Calculus</a>
+  * Friday, Apr. 15: 
+  * Saturday, Apr. 16: 
+  * Sunday, Apr. 17: <a href="https://www.youtube.com/watch?v=Mls3sKBORqY&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=5">Understanding the Big Theorems Including IVT, EVT, & MVT</a>
+  * Monday, Apr. 18: 
+  * Tuesday, Apr. 19: 
+  * Wednesday, Apr. 20: <a href="https://www.youtube.com/watch?v=Z62SY_ESNnA&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=6">Application of Integrals (Part 1)</a>
+  * Thursday, Apr. 21: 
+  * Friday, Apr. 22: 
+  * Saturday, Apr. 23: <a href="https://www.youtube.com/watch?v=8EZb7rDMd8E&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=7">Application of Integrals (Part 2)</a>
+  * Sunday, Apr. 24: 
+  * Monday, Apr. 25: 
+  * Tuesday, Apr. 26: <a href="https://www.youtube.com/watch?v=tijdJ4PPidc&list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV&index=8">Reviewing Multiple-Choice & Free-Response Questions</a>-->
 
 
 <!--
@@ -145,6 +143,17 @@ Watch list for Wednesday, Sept. 8 - Tuesday, Sept. 14:
 
 
 Tentative schedule for upcoming classes:
+
+Any class listed as "class" means I would like you to come to class for whole-class activities (which may not take the entire class). Any class listed as "spare" means there is nothing planned for that class, and everyone has a spare. Finally, any other class will have a specific activity, but may be used as a spare if you want.
+
+  * Week of May. 9
+    * Monday, May. 9: AP Calculus AB test
+    * Wednesday, May. 11: spare
+    * Friday, May. 13: class
+  * Week of May. 16
+    * Monday, May. 16: class
+    * Wednesday, May. 18: Approximations of integration
+    * Friday, May. 20: long weekend - no class
 
 <!--
   * Week of Sept. 6
@@ -252,8 +261,6 @@ Tentative schedule for upcoming classes:
     * Monday, Mar. 28: 7.3-7.4
     * Wednesday, Mar. 30: 7.6-7.7
     * Friday, Apr. 1: 7.8
--->
-
   * Week of Apr. 4
     * Monday, Apr. 4: Unit 7 Review
     * Wednesday, Apr. 6: <b>Unit 7 test - Math 31</b>
@@ -276,6 +283,9 @@ Tentative schedule for upcoming classes:
     * Friday, May. 6: Final test prep
   * Week of May. 9
     * Monday, May. 9: AP Calculus AB test
+-->
+
+
 
 <!--
   * Week of Sept. 6
