@@ -27,9 +27,9 @@ There will no longer be AP Calculus BC running in periods 5 and 6 on Thursdays o
 This is due Tuesday, March 22.
 -->
 
-Watch list
 
 <!--
+Watch list
   * Friday, Sept. 10 - Thursday, Sept. 16: Sections 10.1 to 10.3
   * Friday, Sept. 17 - Thursday, Sept. 24: Sections 10.5 to 10.6
   * Friday, Sept. 24 - Thursday, Sept. 30: Sections 10.7 to 10.8
