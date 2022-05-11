@@ -12,6 +12,8 @@ Quick links
 
 ### Updates
 
+There will no longer be AP Calculus BC running in periods 5 and 6 on Thursdays or in periods 2 and 3 on Fridays. If there is interest, I can go over further (university) calculus during a regular math block. 
+
 <!--
 <a href="https://vchan2.github.io/Challenges/2022-03-14_pi_day_digit_puzzle.pdf">2022 &pi; Day digit puzzle</a> prizes:
   * Prize for fewest copies of 2 in the class
@@ -48,17 +50,15 @@ Watch list
   * Friday, Mar. 11 - Thursday, Mar. 17: 9.5, 9.6
   * Friday, Mar. 18 - Thursday, Mar. 24: 9.8, 9.9
   * Friday, Mar. 25 - Thursday, Mar. 31: 7.5, 7.9
--->
   * Friday, Apr. 8 - Thursday, Apr. 14: Videos 1 through 8 of <a href="https://www.youtube.com/playlist?list=PLoGgviqq4844keKrijbR_EPKRNIW6hahV">AP Calculus AB Review playlist</a>
   * Friday, Apr. 15 - Thursday, Apr. 21: Videos 1 through 3 of <a href="https://www.youtube.com/playlist?list=PLoGgviqq4844oVJMjJ8YkD4mQIoMp4Cbu">AP Calculus BC Review playlist</a>
   * Friday, Apr. 22 - Thursday, Apr. 28: Videos 4 through 7 of <a href="https://www.youtube.com/playlist?list=PLoGgviqq4844oVJMjJ8YkD4mQIoMp4Cbu">AP Calculus BC Review playlist</a>
   * Friday, Apr. 29 - Thursday, May. 5: Videos 8 through 10 of <a href="https://www.youtube.com/playlist?list=PLoGgviqq4844oVJMjJ8YkD4mQIoMp4Cbu">AP Calculus BC Review playlist</a>
+-->
 
-
-
-Tentative schedule for upcoming classes:
 
 <!--
+Tentative schedule for upcoming classes:
  * Friday, Sept. 17: 10.1-10.3
  * Friday, Sept. 24: 10.5-10.6
  * Friday, Oct. 1: 10.7-10.8; Unit 1 assignment will be handed out for those not currently in AP Calculus AB.
@@ -85,14 +85,15 @@ Tentative schedule for upcoming classes:
  * Friday, Mar. 18: 9.5, 9.6
  * Friday, Mar. 25: 9.8, 9.9
  * Friday, Apr. 1: 7.5, 7.9
--->
-
  * Friday, Apr. 8: Units 1, 2, 3 Review
  * Friday, Apr. 15: SPRING BREAK: remaining unit reviews will be open if you wish to work on them in advance. Finish at least up to Unit 9.
  * Friday, Apr. 22: SPRING BREAK
  * Friday, Apr. 29: Unit 9 Review
  * Friday, May. 6: Unit 10 Review
  * Monday, May. 9: AP Calculus BC test (5th floor)
+-->
+
+
 
 
 <!--
@@ -332,7 +333,9 @@ Part I tests are MCQ and Part II tests are FRQ
 
 ### Homework
 
+<!--
 Homework expectations: 40-60 minutes/day on average
+-->
 
 <!--
 Specific homework for Monday, June 21:
