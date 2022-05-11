@@ -650,7 +650,12 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 ### Homework
 
+Specific homework for Monday, May 16:
+  * Fill out the <a href="https://forms.gle/tTdUvnsKvuTmS2wG9">End of Year feedback form </a>
+
+<!--
 Homework expectations: about 40 minutes/day on average
+-->
 
 <!--
 Specific homework for Monday, June 21:
