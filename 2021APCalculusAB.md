@@ -144,7 +144,7 @@ Watch list for Wednesday, Sept. 8 - Tuesday, Sept. 14:
 
 Tentative schedule for upcoming classes:
 
-Any class listed as "class" means I would like you to come to class for whole-class activities (which may not take the entire class). Any class listed as "spare" means there is nothing planned for that class, and everyone has a spare. Finally, any other class will have a specific activity, but may be used as a spare if you want.
+Any class listed as "class" means I would like you to come to class for whole-class activities (which may not take the entire class). Any class listed as "spare" means there is nothing planned for that class, and everyone has a spare. Finally, any other class will have a specific activity, but may be used as a spare if you want. Specific activities are one of: "Further calculus", "Project", or "games".
 
   * Week of May. 9
     * Monday, May. 9: AP Calculus AB test
@@ -152,26 +152,26 @@ Any class listed as "class" means I would like you to come to class for whole-cl
     * Friday, May. 13: class
   * Week of May. 16
     * Monday, May. 16: class
-    * Wednesday, May. 18: Approximations of integration
+    * Wednesday, May. 18: Further calculus: Approximations of integration
     * Friday, May. 20: long weekend - no class
   * Week of May. 23
     * Monday, May. 23: long weekend - no class
-    * Wednesday, May. 25: MasterChef calculus
+    * Wednesday, May. 25: Further calculus: Volumes of revolution (shell method)
     * Friday, May. 27: Forensic calculus
   * Week of May. 30
     * Monday, May. 30: spare
     * Wednesday, Jun. 1: spare
     * Friday, Jun. 3: spare
   * Week of Jun. 6
-    * Monday, Jun. 6: Volumes of revolution (shell method)
-    * Wednesday, Jun. 8: Calculus project
-    * Friday, Jun. 10: games
+    * Monday, Jun. 6: TO BE DETERMINED
+    * Wednesday, Jun. 8: Project: MasterChef calculus (w/ Mr. Merrick's class)
+    * Friday, Jun. 10: games (w/ Mr. Merrick's class)
   * Week of Jun. 13
-    * Monday, Jun. 13: Calculus project
-    * Wednesday, Jun. 15: Complex numbers
-    * Friday, Jun. 17: games
+    * Monday, Jun. 13: TO BE DETERMINED
+    * Wednesday, Jun. 15: Further calculus: Complex numbers
+    * Friday, Jun. 17: games (w/ Mr. Merrick's class)
   * Week of Jun. 20
-    * Monday, Jun. 20: Calculus project
+    * Monday, Jun. 20: TO BE DETERMINED
     * Wednesday, Jun. 22: class
 
 <!--
