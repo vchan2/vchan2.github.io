@@ -154,6 +154,25 @@ Any class listed as "class" means I would like you to come to class for whole-cl
     * Monday, May. 16: class
     * Wednesday, May. 18: Approximations of integration
     * Friday, May. 20: long weekend - no class
+  * Week of May. 23
+    * Monday, May. 23: long weekend - no class
+    * Wednesday, May. 25: MasterChef calculus
+    * Friday, May. 27: Forensic calculus
+  * Week of May. 30
+    * Monday, May. 30: spare
+    * Wednesday, Jun. 1: spare
+    * Friday, Jun. 3: spare
+  * Week of Jun. 6
+    * Monday, Jun. 6: Volumes of revolution (shell method)
+    * Wednesday, Jun. 8: Calculus project
+    * Friday, Jun. 10: games
+  * Week of Jun. 13
+    * Monday, Jun. 13: Calculus project
+    * Wednesday, Jun. 15: Complex numbers
+    * Friday, Jun. 17: games
+  * Week of Jun. 20
+    * Monday, Jun. 20: Calculus project
+    * Wednesday, Jun. 22: class
 
 <!--
   * Week of Sept. 6
