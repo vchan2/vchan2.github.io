@@ -144,7 +144,7 @@ Watch list for Wednesday, Sept. 8 - Tuesday, Sept. 14:
 
 Tentative schedule for upcoming classes:
 
-Any class listed as "class" means I would like you to come to class for whole-class activities (which may not take the entire class). Any class listed as "spare" means there is nothing planned for that class, and everyone has a spare. Finally, any other class will have a specific activity, but may be used as a spare if you want.
+Any class listed as "<p style="color:red">class</p>" means I would like you to come to class for whole-class activities (which may not take the entire class). Any class listed as "spare" means there is nothing planned for that class, and everyone has a spare. Finally, any other class will have a specific activity, but may be used as a spare if you want.
 
   * Week of May. 9
     * Monday, May. 9: AP Calculus AB test
