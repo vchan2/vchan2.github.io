@@ -146,6 +146,7 @@ Tentative schedule for upcoming classes:
 
 Any class listed as "class" means I would like you to come to class for whole-class activities (which may not take the entire class). Any class listed as "spare" means there is nothing planned for that class, and everyone has a spare. Finally, any other class will have a specific activity, but may be used as a spare if you want. Specific activities are one of: "Further calculus", "Project", or "games".
 
+<!--
   * Week of May. 9
     * Monday, May. 9: AP Calculus AB test
     * Wednesday, May. 11: spare
@@ -154,6 +155,7 @@ Any class listed as "class" means I would like you to come to class for whole-cl
     * Monday, May. 16: class
     * Wednesday, May. 18: Further calculus: Approximations of integration
     * Friday, May. 20: long weekend - no class
+-->
   * Week of May. 23
     * Monday, May. 23: long weekend - no class
     * Wednesday, May. 25: Further calculus: Volumes of revolution (shell method)
