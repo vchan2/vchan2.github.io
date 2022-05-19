@@ -158,7 +158,7 @@ Any class listed as "class" means I would like you to come to class for whole-cl
 -->
   * Week of May. 23
     * Monday, May. 23: long weekend - no class
-    * Wednesday, May. 25: Geometry challenge (w/ Mr. Merrick's class)
+    * Wednesday, May. 25: Games: geometry challenge (w/ Mr. Merrick's class)
     * Friday, May. 27: games (w/ Mr. Merrick's class)
   * Week of May. 30
     * Monday, May. 30: spare
