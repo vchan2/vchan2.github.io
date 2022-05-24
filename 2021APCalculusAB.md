@@ -158,14 +158,14 @@ Any class listed as "class" means I would like you to come to class for whole-cl
 -->
   * Week of May. 23
     * Monday, May. 23: long weekend - no class
-    * Wednesday, May. 25: Games: geometry challenge (w/ Mr. Merrick's class)
+    * Wednesday, May. 25: Further calculus: Volumes of revolution (shell method)
     * Friday, May. 27: games (w/ Mr. Merrick's class)
   * Week of May. 30
     * Monday, May. 30: spare
     * Wednesday, Jun. 1: spare
     * Friday, Jun. 3: spare
   * Week of Jun. 6
-    * Monday, Jun. 6: Further calculus: Volumes of revolution (shell method)
+    * Monday, Jun. 6: Games: geometry challenge (w/ Mr. Merrick's class)
     * Wednesday, Jun. 8: Project: Improv Kitchen (w/ Mr. Merrick's class)
     * Friday, Jun. 10: games (w/ Mr. Merrick's class)
   * Week of Jun. 13
