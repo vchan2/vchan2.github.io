@@ -175,7 +175,18 @@ Olivia and Anna beat Dr. Vince this week!
 <tr>	<td>Nonograms</td>	<td></td>	<td></td>	<td>33.33</td>	</tr>	</table>
 No one beat Dr. Vince this week!
 
-#### May 17
+#### May 24
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Skyscrapers</td>	<td></td>	<td></td>	<td>61.89</td>	</tr>	
+<tr>	<td>Hitori</td>	<td></td>	<td></td>	<td>79.88</td>	</tr>	
+<tr>	<td>Aquarium</td>	<td></td>	<td></td>	<td>30.58</td>	</tr>	
+<tr>	<td>Galaxies</td>	<td>Eashaan</td>	<td>15.54</td>	<td>14.27</td>	</tr>	
+<tr>	<td>Nonograms</td>	<td></td>	<td></td>	<td>46.73</td>	</tr>	</table>
+No one beat Dr. Vince this week!
+
+#### May 31
+
+
 
 ---
 
