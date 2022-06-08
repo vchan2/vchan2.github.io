@@ -185,7 +185,24 @@ No one beat Dr. Vince this week!
 No one beat Dr. Vince this week!
 
 #### May 31
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>**Kakurasu**</td>	<td>**Simon**</td>	<td>**4.64**</td>	<td>**5.75**</td>	</tr>	
+<tr>	<td>Sudoku</td>	<td></td>	<td></td>	<td>175.4</td>	</tr>	
+<tr>	<td>**Binairo**</td>	<td>**Anna**</td>	<td>**38.51**</td>	<td>**39.72**</td>	</tr>	
+<tr>	<td>Kakuro</td>	<td>Olivia and Anna</td>	<td>548</td>	<td>146.58</td>	</tr>	
+<tr>	<td>Jigsaw Sudoku</td>	<td>Simon</td>	<td>32</td>	<td>24.1</td>	</tr>	</table>
+Simon and Anna beat Dr. Vince this week!
 
+#### June 7
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Tapa</td>	<td>Olivia</td>	<td>107</td>	<td>80.92</td>	</tr>	
+<tr>	<td>Kakuro</td>	<td>Olivia</td>	<td>604800</td>	<td>190.4</td>	</tr>	
+<tr>	<td>Nurikabe</td>	<td>Olivia</td>	<td>22.01</td>	<td>11.32</td>	</tr>	
+<tr>	<td>Jigsaw Sudoku</td>	<td>Simon</td>	<td>35.29</td>	<td>26.02</td>	</tr>	
+<tr>	<td>Slant</td>	<td>Jaiven</td>	<td>34.55</td>	<td>33.3</td>	</tr>	</table>
+No one beat Dr. Vince this week!
+
+#### June 14
 
 
 ---
