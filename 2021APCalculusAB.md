@@ -168,7 +168,7 @@ Any class listed as "class" means I would like you to come to class for whole-cl
   * Week of Jun. 6
     * Monday, Jun. 6: Games: geometry challenge (w/ Mr. Merrick's class)
     * Wednesday, Jun. 8: Further calculus: Complex numbers
-    * Friday, Jun. 10: games (w/ Mr. Merrick's class)
+    * Friday, Jun. 10: games
   * Week of Jun. 13
     * Monday, Jun. 13: TO BE DETERMINED
     * Wednesday, Jun. 15: Project: Improv Kitchen (w/ Mr. Merrick's class)
