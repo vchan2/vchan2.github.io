@@ -16,8 +16,11 @@
 * <a href="https://www.puzzle-light-up.com/">Light Up</a>
 * <a href="https://www.puzzle-lits.com/">LITS</a>
 * <a href="https://www.puzzle-masyu.com/">Masyu</a>
+* <a href="https://www.puzzle-minesweeper.com/mosaic-5x5-easy/">Mosaic</a>
+* <a href="https://puzzle-minesweeper.com/">Minesweeper</a>
 * <a href="https://www.puzzle-nonograms.com/">Nonograms</a>
 * <a href="https://www.puzzle-pipes.com/">Pipes</a>
+* <a href="https://www.puzzle-futoshiki.com/renzoku-4x4-easy/">Renzoku</a>
 * <a href="https://www.puzzle-shakashaka.com/">Shakashaka</a>
 * <a href="https://www.puzzle-shikaku.com/">Shikaku</a>
 * <a href="https://www.puzzle-shingoki.com/">Shingoki</a>
@@ -203,6 +206,15 @@ Simon and Anna beat Dr. Vince this week!
 No one beat Dr. Vince this week!
 
 #### June 14
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Minesweeper</td>	<td>Jaiven</td>	<td>18.9</td>	<td>13.9</td>	</tr>	
+<tr>	<td>Killer Sudoku</td>	<td>Marshall</td>	<td>153.12</td>	<td>84.95</td>	</tr>	
+<tr>	<td>Skyscrapers</td>	<td>Simon</td>	<td>51.7</td>	<td>47.53</td>	</tr>	
+<tr>	<td>Nonograms</td>	<td>Olivia</td>	<td>54.22</td>	<td>51.53</td>	</tr>	
+<tr>	<td>**Pipes**</td>	<td>**Landry**</td>	<td>**9.59**</td>	<td>**11.25**</td>	</tr>	</table>
+Landry beat Dr. Vince this week!
+
+#### June 21
 
 
 ---
