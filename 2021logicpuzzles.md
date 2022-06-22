@@ -215,7 +215,41 @@ No one beat Dr. Vince this week!
 Landry beat Dr. Vince this week!
 
 #### June 21
-
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Aquarium</td>	<td></td>	<td></td>	<td>27.7</td>	</tr>	
+<tr>	<td>Battleships</td>	<td></td>	<td></td>	<td>13.04</td>	</tr>	
+<tr>	<td>Binairo</td>	<td>Anna</td>	<td>47</td>	<td>40.14</td>	</tr>	
+<tr>	<td>Dominosa</td>	<td></td>	<td></td>	<td>26.59</td>	</tr>	
+<tr>	<td>Futoshiki</td>	<td></td>	<td></td>	<td>22.27</td>	</tr>	
+<tr>	<td>**Galaxies**</td>	<td>**Eli**</td>	<td>**14**</td>	<td>**18.37**</td>	</tr>	
+<tr>	<td>**Hashi**</td>	<td>**Eli**</td>	<td>**14.67**</td>	<td>**19.28**</td>	</tr>	
+<tr>	<td>Heyawake</td>	<td></td>	<td></td>	<td>50.29</td>	</tr>	
+<tr>	<td>Hitori</td>	<td></td>	<td></td>	<td>95.54</td>	</tr>	
+<tr>	<td>Jigsaw Sudoku</td>	<td></td>	<td></td>	<td>25.44</td>	</tr>	
+<tr>	<td>Kakurasu</td>	<td></td>	<td></td>	<td>5.73</td>	</tr>	
+<tr>	<td>Kakuro</td>	<td></td>	<td></td>	<td>158.44</td>	</tr>	
+<tr>	<td>Killer Sudoku</td>	<td></td>	<td></td>	<td>72.88</td>	</tr>	
+<tr>	<td>Light Up</td>	<td></td>	<td></td>	<td>13.24</td>	</tr>	
+<tr>	<td>**LITS**</td>	<td>**Simon**</td>	<td>**34**</td>	<td>**41.15**</td>	</tr>	
+<tr>	<td>Masyu</td>	<td></td>	<td></td>	<td>39.75</td>	</tr>	
+<tr>	<td>Nonograms</td>	<td></td>	<td></td>	<td>39.75</td>	</tr>	
+<tr>	<td>Nurikabe</td>	<td></td>	<td></td>	<td>9.94</td>	</tr>	
+<tr>	<td>**Pipes**</td>	<td>**Jaiven**</td>	<td>**11.78**</td>	<td>**12.93**</td>	</tr>	
+<tr>	<td>**Shakashaka**</td>	<td>**Eli**</td>	<td>**26**</td>	<td>**64.95**</td>	</tr>	
+<tr>	<td>Shikaku</td>	<td>Marshall</td>	<td>15</td>	<td>13.19</td>	</tr>	
+<tr>	<td>Shingoki</td>	<td></td>	<td></td>	<td>79.85</td>	</tr>	
+<tr>	<td>Skyscrapers</td>	<td></td>	<td></td>	<td>49.06</td>	</tr>	
+<tr>	<td>Slither Link</td>	<td></td>	<td></td>	<td>68.79</td>	</tr>	
+<tr>	<td>**Star Battle**</td>	<td>**Arjun**</td>	<td>**2.64**</td>	<td>**3.79**</td>	</tr>	
+<tr>	<td>Stitches</td>	<td></td>	<td></td>	<td>49.07</td>	</tr>	
+<tr>	<td>Sudoku</td>	<td></td>	<td></td>	<td>175</td>	</tr>	
+<tr>	<td>Tapa</td>	<td>Olivia</td>	<td>110</td>	<td>63.39</td>	</tr>	
+<tr>	<td>**Tents**</td>	<td>**Eli**</td>	<td>**8.72**</td>	<td>**16.05**</td>	</tr>	
+<tr>	<td>**Slant**</td>	<td>**Eli**</td>	<td>**32.53**</td>	<td>**34.42**</td>	</tr>	
+<tr>	<td>Minesweeper</td>	<td>Jaiven</td>	<td>22.2</td>	<td>14.75</td>	</tr>	
+<tr>	<td>Mosaic</td>	<td></td>	<td></td>	<td>26.12</td>	</tr>	
+<tr>	<td>Renzoku</td>	<td></td>	<td></td>	<td>22.64</td>	</tr>	</table>
+Eli beat Dr. Vince in 5 puzzles this week and Arjun, Jaiven, and Simon beat Dr. Vince in 1 puzzle this week!
 
 ---
 
