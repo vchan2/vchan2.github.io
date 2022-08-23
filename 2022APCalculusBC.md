@@ -1,6 +1,7 @@
 Quick links
 
   * [Updates](#updates)
+  * [Schedule](#schedule)
   * [Exams](#exams)
   * [Homework](#homework)
   * [Online resources](#online-resources)
@@ -12,6 +13,10 @@ Quick links
 
 ### Updates
 
+---
+
+
+### Schedule
 
 
 <!--
