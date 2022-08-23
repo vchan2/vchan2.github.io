@@ -671,11 +671,16 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 
 * <a href="https://calculus.flippedmath.com/list-of-lessons.html"> Flipped Math - AP Calculus </a>
 * <a href="https://www.youtube.com/watch?v=WUvTyaaNkzM"> The Essence of Calculus YouTube series </a> (brought to you by <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"> 3 Blue 1 Brown</a>)
-* <a href="https://www.khanacademy.org/math/ap-calculus-ab"> AP Calculus AB course (Khan Academy) </a>
+* <a href="https://www.khanacademy.org/math/ap-calculus-bc"> AP Calculus BC course (Khan Academy) </a>
 * <a href="https://www.wolframalpha.com/"> Online calculator (WolframAlpha) </a>
 * <a href="https://www.desmos.com/"> Online graphing program (Desmos) </a>
+
+<!--
 * <a href="https://vchan2.github.io/2021Calculus/Trig_derivatives_proofs.pdf"> Proofs of Trigonometric Derivatives </a>
 * <a href="https://www.geogebra.org/m/W7dAdgqc">Slope field plotter</a>
+* <a href="https://vchan2.github.io/2021Calculus/10_series_cheat_sheet.pdf">Cheat sheet for series tests (Unit 10)</a>
+* <a href="https://vchan2.github.io/2021Calculus/10_Taylor_cheat_sheet.pdf">Cheat sheet for Taylor series (Unit 10)</a>
+-->
 
 <!--
 * <a href="http://webspace.ship.edu/msrenault/GeoGebraCalculus/derivative_intuitive_chain_rule.html"> Interactive visualization of the Chain Rule </a>
@@ -699,8 +704,8 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 
 ### Practice problems
 
+<!--
 <a href="2021Calculus/calc_readiness_sol.pdf">Answers for calculus readiness test</a>
-
 * Mini-maths
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_17.pdf"> Mini-math for September 17 (1.1-1.11) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_17_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_24.pdf"> Mini-math for September 24 (1.12-1.16) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_24_sol.pdf">Solutions</a>)
@@ -715,7 +720,9 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_03_11.pdf"> Mini-math for March 14 (8.7-8.12) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_03_14_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_03_25.pdf"> Mini-math for March 25 (7.1-7.4) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_03_25_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_04_01.pdf"> Mini-math for April 1 (7.6-7.8) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_04_01_sol.pdf">Solutions</a>)
+-->
 
+<!--
 * Derivatives
   * <a href="https://vchan2.github.io/2021Calculus/Derivatives_from_table.pdf"> Derivatives from tables</a> (<a href="https://vchan2.github.io/2021Calculus/Derivatives_from_table_sol.pdf">Solutions</a>)
   * <a href="https://www.symbolab.com/practice/derivatives-practice"> Generator for practice problems</a>
@@ -734,7 +741,9 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
   * <a href="https://vchan2.github.io/2021Calculus/4.3_handout.pdf">4.3 Handout on rates of change in other applied contexts</a> (<a href="https://vchan2.github.io/2021Calculus/4.3_handout_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/4.5_Related_Rates.pdf">4.5 Three related rates problems</a> (<a href="https://vchan2.github.io/2021Calculus/4.5_Related_Rates_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/5.11_Optimization.pdf">5.11 Three optimization problems</a> (<a href="https://vchan2.github.io/2021Calculus/5.11_Optimization_sol.pdf">Solutions</a>)
+-->
 
+<!--
 * Integration
   * <a href="https://vchan2.github.io/2021Calculus/6.9_WS%201%20on%20substitution.pdf">Worksheet 1 on substitution</a>
   * <a href="https://vchan2.github.io/2021Calculus/6.9_WS%202%20on%20substitution.pdf">Worksheet 2 on substitution</a>
@@ -742,6 +751,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
   * <a href="https://vchan2.github.io/2021Calculus/6.14_practice.pdf">Practice with various integration techniques</a> (<a href="https://vchan2.github.io/2021Calculus/6.14_practice_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/8_Volumes.pdf">Practice with volumes 1 (specific examples)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/8_Volumes2.pdf">Practice with volumes 2 (more general examples)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes2_sol.pdf">Solutions</a>)
+-->
 
 <!--
   * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf">Solution</a>)
@@ -791,6 +801,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 
 ### Challenges 
 
+<!--
 Calculus-based:
 * <a href="https://vchan2.github.io/2021Calculus/challenge/Unit01_01A_weird_limit.pdf"> Unit 1: A weird limit </a> - Find an example of a function whose limit at 0 from the right DNE.
 * <a href="https://vchan2.github.io/2021Calculus/Unit01_02Continuous_nowhere.pdf"> Unit 1: Continuous nowhere </a> - Does there exist a function which is continuous nowhere?
@@ -800,13 +811,15 @@ Calculus-based:
 * <a href="https://vchan2.github.io/2021Calculus/challenge/Unit02_02Differentiability_for_piecewise.pdf"> Unit 2: Differentiability for piecewise </a> - Prove you can use derivatives from the left and right to determine differentiability for piecewise functions.
 * <a href="https://vchan2.github.io/2021Calculus/challenge/Unit02_01Continuous_but_not_differentiable.pdf"> Unit 3: Continuous but nowhere differentiable </a> - Does there exist a function which is continuous everywhere but differentiable nowhere?
 * <a href="https://vchan2.github.io/2021Calculus/challenge/Unit07_01separation_of_variables_division_by_0.pdf"> Unit 7: division by 0 in separation of variables </a> - Find an example where you have to be more careful about separation of variables
-
+-->
 
 Assorted:
 * <a href="https://vincentchan02.wixsite.com/cosmospuzzle"> CoSMOS 2020 Challenge</a> 
+
+<!--
 * <a href="https://vchan2.github.io/Challenges/2021-22Winter_Break.pdf"> Winter Break math challenges (2021) </a>
 * <a href="https://vchan2.github.io/Challenges/2022-03-14_pi_day_digit_puzzle.pdf">&pi; day digit challenge</a>
-
+-->
 
 <!--
 Calculus-based:
