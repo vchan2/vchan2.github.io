@@ -3,11 +3,10 @@
 ## Classes 
 
 ### Mathematics 
-* [Grade 2/3](2021gr23.md)
-* [Grade 4/5](2021gr45.md)
-* [Grade 6](2021gr6.md)
-* [Division 3/4 (AP Calculus AB)](2021APCalculusAB.md)
-* [Division 3/4 (AP Calculus BC)](2021APCalculusBC.md)
+* [Grade 4/5](2022gr45.md)
+* [Grade 6](2022gr6.md)
+* [Division 3/4 (AP Calculus BC)](2022APCalculusBC.md)
+* [Division 4 (Linear Algebra)](2022LinAlg.md)
 
 ---
 ### Electives 
@@ -21,8 +20,6 @@
 ## Challenges
 
 * <a href="https://renertmath.github.io/RenertMath-CelebrateMath/"> CoSMOS 2020 Challenge</a> 
-* <a href="https://vchan2.github.io/Challenges/2021-22Winter_Break.pdf"> Winter Break math challenges (2021) </a>
-* <a href="https://vchan2.github.io/Challenges/2022-03-14_pi_day_digit_puzzle.pdf">&pi; day 2022 digit challenge</a>
 
 
 <!--
@@ -34,6 +31,8 @@
 * <a href="https://vchan2.github.io/Challenges/pi_digit_puzzle2021basic.pdf"> &pi; day 2021 challenge (basic version) </a>
 * <a href="https://vchan2.github.io/Challenges/pi_digit_puzzle2021.pdf"> &pi; day 2021 challenge (advanced version) </a>
 * <a href="https://vchan2.github.io/Challenges/2021-04-01_digit_puzzle.pdf"> 2021-04-01 challenge </a>
+* <a href="https://vchan2.github.io/Challenges/2021-22Winter_Break.pdf"> Winter Break math challenges (2021) </a>
+* <a href="https://vchan2.github.io/Challenges/2022-03-14_pi_day_digit_puzzle.pdf">&pi; day 2022 digit challenge</a>
 -->
 
 ---
