@@ -71,6 +71,7 @@ Assorted:
 
 ### Logistics
 
-* <a href="https://vchan2.github.io/2020Calculus/ap-calculus-course-at-a-glance.pdf"> AP Calculus course at a glance </a>
+* <a href="vchan2.github.io/LinearAlgebra/Linear_Algebra_2022-23.pdf"> Linear Algebra course outline and expecations </a>
+* <a href="vchan2.github.io/LinearAlgebra/Linear_Algebra_Course_outline.pdf"> Linear Algebra course at a glance </a>
 
 
