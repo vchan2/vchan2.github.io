@@ -149,8 +149,6 @@ Watch list for Wednesday, Sept. 8 - Tuesday, Sept. 14:
 
 Tentative schedule for upcoming classes:
 
-Any class listed as "class" means I would like you to come to class for whole-class activities (which may not take the entire class). Any class listed as "spare" means there is nothing planned for that class, and everyone has a spare. Finally, any other class will have a specific activity, but may be used as a spare if you want. Specific activities are one of: "Further calculus", "Project", or "games".
-
 
 <!--
   * Week of Sept. 6
@@ -651,6 +649,13 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 ---
 
 ### Homework
+
+Homework for Wednesday, September 7:
+  * Join the Schoology and AP Classroom courses
+  * Fill out the introduction questionnaire
+  * Complete the calculus readiness test
+  * Complete the AP Classroom Assignment on 1.1. From now on, you will routinely have assignments on this website and each have their own due date, so they will not be listed here.
+
 
 <!--
 Specific homework for Monday, May 16:
