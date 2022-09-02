@@ -364,6 +364,37 @@ Section 3.5 corrections:
 
 ---
 
+### Homework
+
+If you are consistently spending more than 1 hour per day on homework, please see me.
+
+Homework for Wednesday, September 7:
+  * Join the Schoology and AP Classroom courses
+  * Fill out the introduction questionnaire
+  * Complete the calculus readiness test
+  * Complete the AP Classroom Assignment on 1.1. From now on, you will routinely have assignments on this website and each have their own due date, so they will not be listed here.
+
+
+<!--
+Specific homework for Monday, May 16:
+  * Fill out the <a href="https://forms.gle/tTdUvnsKvuTmS2wG9">End of Year feedback form </a>
+-->
+
+<!--
+Homework expectations: about 40 minutes/day on average
+-->
+
+<!--
+Specific homework for Monday, June 21:
+  * Fill out the End of Year feedback form (link available on Schoology)
+
+Homework for Monday, June 14: Have your <a href="https://vchan2.github.io/2020Calculus/SASMS2021.pdf">SASMS</a> presentations and synopses ready.
+
+Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/MasterChefCalc2021.html">MasterChef Calculus</a> presentations ready.
+-->
+
+---
+
 ### Exams
 
 <!--
@@ -644,35 +675,6 @@ Hours are:
   * Thursday, October 1, 4PM-7PM
   * Saturday, October 3, 11AM-2PM
 I will not be answering questions regarding Chapter 1 starting Monday, September 28 at 4PM, treating it as if the exam has started for everyone. This also means that you are not to discuss any aspects of the test with anyone until after Saturday at 2PM, in order to maintain integrity of the exam. Please let me know ASAP if you cannot write at one of these times, and we will have to make alternate arrangements (such as during class).
--->
-
----
-
-### Homework
-
-Homework for Wednesday, September 7:
-  * Join the Schoology and AP Classroom courses
-  * Fill out the introduction questionnaire
-  * Complete the calculus readiness test
-  * Complete the AP Classroom Assignment on 1.1. From now on, you will routinely have assignments on this website and each have their own due date, so they will not be listed here.
-
-
-<!--
-Specific homework for Monday, May 16:
-  * Fill out the <a href="https://forms.gle/tTdUvnsKvuTmS2wG9">End of Year feedback form </a>
--->
-
-<!--
-Homework expectations: about 40 minutes/day on average
--->
-
-<!--
-Specific homework for Monday, June 21:
-  * Fill out the End of Year feedback form (link available on Schoology)
-
-Homework for Monday, June 14: Have your <a href="https://vchan2.github.io/2020Calculus/SASMS2021.pdf">SASMS</a> presentations and synopses ready.
-
-Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/MasterChefCalc2021.html">MasterChef Calculus</a> presentations ready.
 -->
 
 ---
