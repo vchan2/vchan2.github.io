@@ -31,6 +31,8 @@ Tentative schedule for upcoming classes:
 
 ### Homework
 
+Exercises from 1.1
+
 <!--
 Specific homework for Monday, May 16:
   * Fill out the <a href="https://forms.gle/tTdUvnsKvuTmS2wG9">End of Year feedback form </a>
