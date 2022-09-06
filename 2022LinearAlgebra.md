@@ -46,7 +46,11 @@ Homework expectations: about 40 minutes/day on average
 
 ### Online resources
 
+<!--
 * <a href="https://lyryx.com/wp-content/uploads/2018/01/Nicholson-OpenLAWA-2018A.pdf"> Open-source textbook used for this class </a>
+-->
+
+* <a href="https://lyryx.com/wp-content/uploads/2017/06/Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf"> Open-source textbook used for this class </a>
 * <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab"> The Essence of Linear Algebra YouTube series </a> (brought to you by <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"> 3 Blue 1 Brown</a>)
 * <a href="https://www.khanacademy.org/math/linear-algebra"> Linear Algebra course (Khan Academy) </a>
 * <a href="https://www.wolframalpha.com/"> Online calculator (WolframAlpha) </a>
