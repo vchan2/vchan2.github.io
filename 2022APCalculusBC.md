@@ -18,6 +18,15 @@ Quick links
 
 ### Schedule
 
+Tentative schedule for upcoming classes:
+
+  * Week of Aug. 29 
+    * Friday, Sep. 2: 1.1
+  * Week of Sep. 5
+    * Monday, Sep. 5: No class
+    * Wednesday, Sep. 7: 1.2-1.4
+    * Friday, Sep. 9: 1.5-1.6
+
 
 <!--
 Watch list
@@ -146,8 +155,6 @@ Watch list for Wednesday, Sept. 8 - Tuesday, Sept. 14:
   * <a href="https://calculus.flippedmath.com/111-defining-continuity-at-a-point.html">1.11 Defining Continuity at a Point</a>
 -->
 
-
-Tentative schedule for upcoming classes:
 
 
 <!--
