@@ -20,12 +20,10 @@ Quick links
 
 Tentative schedule for upcoming classes:
 
-  * Week of Aug. 29 
-    * Friday, Sep. 2: 1.1
   * Week of Sep. 5
-    * Monday, Sep. 5: No class
-    * Wednesday, Sep. 7: 1.2-1.4
-    * Friday, Sep. 9: 1.5-1.6
+    * Tuesday, Sep. 6: 1.1
+    * Thursday, Sep. 8: 1.2
+
 
 ---
 
