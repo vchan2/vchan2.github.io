@@ -50,6 +50,11 @@ Homework expectations: about 40 minutes/day on average
 * <a href="https://www.wolframalpha.com/"> Online calculator (WolframAlpha) </a>
 * <a href="https://www.desmos.com/"> Online graphing program (Desmos) </a>
 
+* <a href="https://solveme.edc.org/mobiles/"> Mobile balance puzzles </a>
+   * <a href="https://solveme.edc.org/mobiles/?mobiles=200662"> Dr. Vince's puzzle #1 </a> (Moderate)
+   * <a href="https://solveme.edc.org/mobiles/?mobiles=201443"> Dr. Vince's puzzle #2 </a> (Hard)
+   * <a href="https://solveme.edc.org/mobiles/?mobiles=201442"> Dr. Vince's puzzle #3 </a> (Ultra hard)
+
 
 ---
 
