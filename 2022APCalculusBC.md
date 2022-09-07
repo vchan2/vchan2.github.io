@@ -869,6 +869,7 @@ Assorted:
 
 * <a href="https://vchan2.github.io/2020Calculus/ap-calculus-course-at-a-glance.pdf"> AP Calculus course at a glance </a>
 * <a href="https://vchan2.github.io/2022APCalculusBC/Div_3-4_AP_Calculus_BC_Course_Outline_2022-23_online.pdf"> Course outline </a>
+
 <!--
 * <a href="https://vchan2.github.io/2020Calculus/ap-calculus-course-at-a-glance.pdf"> AP Calculus course at a glance </a>
 * <a href="https://vchan2.github.io/2020Calculus/ap-calculus-course-at-a-glance(Math31overlap).pdf"> AP Calculus course at a glance (Math 31 overlap shown) </a>
