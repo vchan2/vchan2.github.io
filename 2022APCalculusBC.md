@@ -723,6 +723,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 ### Practice problems
 
+<a href="2022APCalculusBC/calc_readiness.pdf">Calculus readiness test</a> (<a href="2022APCalculusBC/calc_readiness_sol.pdf">Answers</a>)
+
+
 <!--
 <a href="2021Calculus/calc_readiness_sol.pdf">Answers for calculus readiness test</a>
 * Mini-maths
