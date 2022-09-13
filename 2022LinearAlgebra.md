@@ -39,9 +39,11 @@ Tentative schedule for upcoming classes:
 
 ### Homework
 
-Thursday, Sept. 8: All three exercises from 1.1
+Tuesday, Sept. 20: Assignment 1
 
-Tuesday, Sept. 13: 1.2) 3, 5, 6, 12, 15, 19, 20, 27, 32, 46, 57, 58
+<!--
+1.2) 3, 5, 6, 12, 15, 19, 20, 27, 32, 46, 57, 58
+-->
 
 <!--
 Specific homework for Monday, May 16:
