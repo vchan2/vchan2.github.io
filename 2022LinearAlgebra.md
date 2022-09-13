@@ -20,9 +20,13 @@ Quick links
 
 Tentative schedule for upcoming classes:
 
+
   * Week of Sep. 5
     * Tuesday, Sep. 6: 1.1
-    * Thursday, Sep. 8: 1.2
+    * Thursday, Sep. 8: 1.2.1-1.2.4
+  * Week of Sep. 12
+    * Tuesday, Sep. 13: Time to work on Assignment 1
+    * Thursday, Sep. 15: Time to work on Assignment 1
 
 
 ---
