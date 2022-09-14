@@ -34,9 +34,9 @@
 
 ---
 
-### Daily records
+### Daily records (Div 2)
 
-Tuesday, September 14 (Div 2)
+Tuesday, September 14 
 <table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
 <tr>	<td>Killer Sudoku</td>	<td>Jonathan</td>	<td>108.91</td>	<td>12.13</td>	</tr>	
 <tr>	<td>Skyscrapers</td>	<td>Eli</td>	<td>19.93</td>	<td>16.87</td>	</tr>	
@@ -46,4 +46,8 @@ Tuesday, September 14 (Div 2)
 Eli beat Dr. Vince this week!
 
 ---
+
+### Daily records (Div 3)
+
+Wednesday, September 15
 
