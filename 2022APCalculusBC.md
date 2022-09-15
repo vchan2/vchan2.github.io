@@ -123,7 +123,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 Unless otherwise specified, all material is contained in the AP exam. Those items with an (AP) tag could appear on an AP exam, but not a Math 31 exam. 
 -->
 
-Unit 1 test is scheduled for <b>Monday, September 19</b> in-class. You should be proficient in all material contained in Unit 1. More precisely, you should be able to:
+Unit 1 test is scheduled for <b>Monday, September 26</b> in-class. You should be proficient in all material contained in Unit 1. More precisely, you should be able to:
   * Compute limits of a function graphically.
   * Compute limits of a composite function graphically.
   * Interpret tabular information for finding limits.
