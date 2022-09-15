@@ -31,8 +31,16 @@ Tentative schedule for upcoming classes:
     * Friday, Sep. 9: 1.5-1.6
   * Week of Sep. 12
     * Monday, Sep. 12: 1.7-1.9
-    * Wednesday, Sep. 14: 1.10-1.12
-    * Friday, Sep. 16: 1.13
+    * Wednesday, Sep. 14: 1.10-1.13
+    * Friday, Sep. 16: Mini-math
+  * Week of Sep. 19
+    * Monday, Sep. 19: 1.14-1.15
+    * Wednesday, Sep. 21: 1.16, Unit 1 Review
+    * Friday, Sep. 23: Unit 1 Review
+  * Week of Sep. 26
+    * Monday, Sep. 26: Unit 1 test
+    * Wednesday, Sep. 28: 2.1-2.2
+    * Friday, Sep. 30: 2.3
 
 
 
@@ -60,17 +68,6 @@ I wanted to clarify something we did in class that I spoke about, but didn't wri
 
 <!--
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in my zoom room. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. Please note that if we do fall behind again, I will be using the "Captivating Calculus" as a mandatory class instead, but I'm hoping it won't come to that - in fact, I'm hoping we'll be finished with the material early, to give plenty of time for practice.
--->
-
-<!--
-<b>NOTICE:</b> I will be offering "AP Calculus" in period 5 on Choice Fridays (Room 2409/2410) as a mandatory period for those who are pursuing AP Calculus this year or next year. This gives us an additional period of instruction every week, since we are behind schedule. Should we get back on track with my desired schedule, I will turn this into an optional period.
--->
-<!--
-<b>NOTICE:</b> I will be offering "AP Calculus" in period 5 on Choice Fridays (Room 2409/2410) as a mandatory period for those who are pursuing AP Calculus this year or next year. This gives us an additional period of instruction every week, since we are behind schedule. Should we get back on track with my desired schedule, I will turn this into an optional period. This runs until Friday, March 26. Since we have the option of writing a delayed AP test, I'm optimistically going to not offer an "AP Calculus" class on Fridays in round 4 of Choice Friday. Please note that if we do fall behind again, I will be using the "Captivating Calculus" as a mandatory class instead, but I'm hoping it won't come to that - in fact, I'm hoping we'll be finished with the material early, to give plenty of time for practice.
--->
-
-<!--
-<b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in my zoom room. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 -->
 
 <!--
@@ -126,12 +123,9 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 Unless otherwise specified, all material is contained in the AP exam. Those items with an (AP) tag could appear on an AP exam, but not a Math 31 exam. 
 -->
 
-
-<!--
-Unit 1 Math 31 test is scheduled for <b>Wednesday, September 29</b> in-class. Unit 1 AP material is scheduled for <b>Friday, October 1</b> in-class. 
-You should be proficient in all material contained in Unit 1. More precisely, you should be able to:
+Unit 1 test is scheduled for <b>Monday, September 19</b> in-class. You should be proficient in all material contained in Unit 1. More precisely, you should be able to:
   * Compute limits of a function graphically.
-  * (AP) Compute limits of a composite function graphically.
+  * Compute limits of a composite function graphically.
   * Interpret tabular information for finding limits.
   * Use limit properties and arithmetic to find limits .
   * Compute a limit of a function algebraically via 4 techniques:
@@ -140,16 +134,14 @@ You should be proficient in all material contained in Unit 1. More precisely, yo
     * Technique 2: rationalize
     * Technique 3: Fundamental Trigonometric Limit
     * Technique 4: (for x approaching +/- infinity) divide by dominant terms in the denominator
-      * (AP) Apply this technique for expressions involving radicals
+      * Apply this technique for expressions involving radicals
   * Compute a one-sided limit, including checking for signs in absolute values and values close to 0.
   * Find a limit via one-sided limits.
   * Determine where a function is continuous, or find values for constants which give continuity.
   * Identify the type of a discontinuity.
   * Find vertical and horizontal asymptotes of a function.
-  * (AP) Use Squeeze Theorem.
-  * (AP) Use Intermediate Value Theorem.
-  * (AP) Handle more challenging expressions involving trigonometric functions, exponentials, and logarithms.
--->
+  * Use Squeeze Theorem.
+  * Use Intermediate Value Theorem.
 
 <!--
 Unit 2 test is scheduled for <b>Wednesday, October 11</b> in-class. Unit 2 AP material is scheduled for <b>Friday, October 13</b> in-class. 
