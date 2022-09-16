@@ -412,6 +412,7 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 * <a href="https://www.khanacademy.org/math/ap-calculus-bc"> AP Calculus BC course (Khan Academy) </a>
 * <a href="https://www.wolframalpha.com/"> Online calculator (WolframAlpha) </a>
 * <a href="https://www.desmos.com/"> Online graphing program (Desmos) </a>
+* <a href="https://docs.google.com/document/d/1Ag_JfeakR__Lp3QTsUHtt_DT6hfYD8P-aB9Xw4bkMW0/edit?usp=sharing">RTC information</a>
 
 <!--
 * <a href="https://vchan2.github.io/2021Calculus/Trig_derivatives_proofs.pdf"> Proofs of Trigonometric Derivatives </a>
