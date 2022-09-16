@@ -13,8 +13,9 @@ Quick links
 
 ### Updates
 
-<b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
+<b>NOTICE:</b> I have spoken with Dr. Renert and we have worked out a different plan for calculus this year. We will immediately switch over to beginning integration (Unit 6) and continuing from there, grouping Units 1 through 5 into "review" toward the end of the course. 
 
+<b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
 ---
 
@@ -22,151 +23,6 @@ Quick links
 ### Schedule
 
 Tentative schedule for upcoming classes:
-
-  * Week of Aug. 29 
-    * Friday, Sep. 2: 1.1
-  * Week of Sep. 5
-    * Monday, Sep. 5: Holiday
-    * Wednesday, Sep. 7: 1.2-1.4
-    * Friday, Sep. 9: 1.5-1.6
-  * Week of Sep. 12
-    * Monday, Sep. 12: 1.7-1.9
-    * Wednesday, Sep. 14: 1.10-1.13
-    * Friday, Sep. 16: Mini-math (1.1-1.13), 1.14-1.15
-  * Week of Sep. 19
-    * Monday, Sep. 19: 1.15-1.16, Unit 1 Review
-    * Wednesday, Sep. 21: Unit 1 Test
-    * Friday, Sep. 23: 2.1-2.3
-  * Week of Sep. 26
-    * Monday, Sep. 26: 2.4-2.6
-    * Wednesday, Sep. 28: 2.7-2.8
-    * Friday, Sep. 30: 2.9-2.10
-  * Week of Oct. 3
-    * Monday, Oct. 3: Mini-math (2.1-2.10), Unit 2 Review
-    * Wednesday, Oct. 5: 3.1-3.2
-    * Friday, Oct. 7: 3.3-3.4
-  * Week of Oct. 10
-    * Monday, Oct. 10: Unit 2 Test
-    * Wednesday, Oct. 12: 3.5-3.6
-    * Friday, Oct. 14: Mini-math (3.1-3.6), Unit 3 Review
-  * Week of Oct. 17
-    * Monday, Oct. 17: Unit 3 Test
-    * Wednesday, Oct. 19: 
-    * Friday, Oct. 21: 4.1-4.2
-  * Week of Oct. 24
-    * Monday, Oct. 24: 4.3-4.4
-    * Wednesday, Oct. 26: 4.5
-    * Friday, Oct. 28: 4.6
-  * Week of Oct. 31
-    * Monday, Oct. 31: Halloween
-    * Wednesday, Nov. 2: 4.7, Mini-math (4.1-4.7)
-    * Friday, Nov. 4: PTC
-  * Week of Nov. 7
-    * Monday, Nov. 7: November Break
-    * Wednesday, Nov. 9: November Break
-    * Friday, Nov. 11: November Break
-  * Week of Nov. 14
-    * Monday, Nov. 14: Unit 4 Test
-    * Wednesday, Nov. 16: 5.1-5.2
-    * Friday, Nov. 18: 5.3
-  * Week of Nov. 21
-    * Monday, Nov. 21: 5.4-5.5
-    * Wednesday, Nov. 23: 5.6-5.7
-    * Friday, Nov. 25: 5.8-5.9
-  * Week of Nov. 28
-    * Monday, Nov. 28: 5.10-5.11
-    * Wednesday, Nov. 30: Mini-math (5.1-5.11), 5.12
-    * Friday, Dec. 2: 6.1-6.2
-  * Week of Dec. 5
-    * Monday, Dec. 5: Unit 5 Test
-    * Wednesday, Dec. 7: 6.3-6.4
-    * Friday, Dec. 9: 6.5-6.6
-  * Week of Dec. 12
-    * Monday, Dec. 12: 6.7-6.8
-    * Wednesday, Dec. 14: 6.9
-    * Friday, Dec. 16: 6.10
-  * Week of Dec. 19
-    * Monday, Dec. 19: Mini-math (6.1-6.10), 6.11
-    * Wednesday, Dec. 21: ?
-    * Friday, Dec. 23: Winter Break
-  * Week of Dec. 26
-    * Monday, Dec. 26: Winter Break
-    * Wednesday, Dec. 28: Winter Break
-    * Friday, Dec. 30: Winter Break
-  * Week of Jan. 2
-    * Monday, Jan. 2: Winter Break
-    * Wednesday, Jan. 4: Winter Break
-    * Friday, Jan. 6: Winter Break
-  * Week of Jan. 9
-    * Monday, Jan. 9: 6.12
-    * Wednesday, Jan. 11: 6.13
-    * Friday, Jan. 13: 6.14, Integration Bee
-  * Week of Jan. 16
-    * Monday, Jan. 16: Unit 6 Test
-    * Wednesday, Jan. 18: 8.1-8.2
-    * Friday, Jan. 20: 8.3
-  * Week of Jan. 23
-    * Monday, Jan. 23: 8.1-8.2
-    * Wednesday, Jan. 25: 8.5
-    * Friday, Jan. 27: 8.6
-  * Week of Jan. 30
-    * Monday, Jan. 30: 8.7-8.8
-    * Wednesday, Feb. 1: 8.9-8.12
-    * Friday, Feb. 3: Mini-math (8.1-8.8)
-  * Week of Feb. 6
-    * Monday, Feb. 6: 8.9-8.12
-    * Wednesday, Feb. 8: 8.13, Unit 8 Review
-    * Friday, Feb. 10: 7.1
-  * Week of Feb. 13
-    * Monday, Feb. 13: Unit 8 Test
-    * Wednesday, Feb. 15: 7.2-7.3
-    * Friday, Feb. 17: 7.4
-  * Week of Feb. 20
-    * Monday, Feb. 20: February Break
-    * Wednesday, Feb. 22: February Break
-    * Friday, Feb. 24: February Break
-  * Week of Feb. 27
-    * Monday, Feb. 27: 7.5
-    * Wednesday, Mar. 1: 7.5
-    * Friday, Mar. 3: Mini-math
-  * Week of Mar. 6
-    * Monday, Mar. 6: 7.6-7.7
-    * Wednesday, Mar. 8: Unit 7 Review
-    * Friday, Mar. 10: 9.1
-  * Week of Mar. 13
-    * Monday, Mar. 13: Unit 7 Review
-    * Wednesday, Mar. 15: 9.2-9.3
-    * Friday, Mar. 17: 9.4-9.5
-  * Week of Mar. 20
-    * Monday, Mar. 20: 9.6-9.7
-    * Wednesday, Mar. 22: 9.8-9.9
-    * Friday, Mar. 24: Mini-math (9.1-9.9), Unit 9 Review
-  * Week of Mar. 27
-    * Monday, Mar. 27: Unit 9 Test
-    * Wednesday, Mar. 29: 10.1-10.2
-    * Friday, Mar. 31: 10.3
-  * Week of Apr. 3
-    * Monday, Apr. 3: 10.4-10.5
-    * Wednesday, Apr. 5: 10.6-10.7
-    * Friday, Apr. 7: 10.7-10.8
-  * Week of Apr. 10
-    * Monday, Apr. 10: 10.8-10.9
-    * Wednesday, Apr. 12: 10.9-10.10
-    * Friday, Apr. 14: Mini-math (10.1-10.10)
-  * Week of Apr. 17
-    * Monday, Apr. 17: April Break
-    * Wednesday, Apr. 19: April Break
-    * Friday, Apr. 21: April Break
-  * Week of Apr. 24
-    * Monday, Apr. 24: 10.11-10.12
-    * Wednesday, Apr. 26: 10.12-10.13
-    * Friday, Apr. 28: 10.14
-  * Week of May. 1
-    * Monday, May. 1: 10.15, Unit 10 Review
-    * Wednesday, May. 3: Unit 10 Test
-    * Friday, May. 5: Review
-  * Week of May. 8
-    * Monday, May. 8: AP Exam
 
 
 
@@ -559,7 +415,7 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 ### Practice problems
 
-<a href="2022APCalculusBC/calc_readiness.pdf">Calculus readiness test</a> (<a href="2022APCalculusBC/calc_readiness_sol.pdf">Answers</a>)
+<a href="2022APCalculusBC/calculus_readiness.pdf">Calculus readiness test</a> (<a href="2022APCalculusBC/calculus_readiness_sol.pdf">Answers</a>)
 * Mini-maths
   * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_16.pdf"> Mini-math for September 17 (1.1-1.11) </a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_16_sol.pdf">Solutions</a>)
 
