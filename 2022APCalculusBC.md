@@ -24,6 +24,30 @@ Quick links
 
 Tentative schedule for upcoming classes:
 
+  * Week of Sep. 5
+    * Monday, Sep. 5: Holiday
+    * Wednesday, Sep. 7: 1.2-1.4
+    * Friday, Sep. 9: 1.5-1.6
+  * Week of Sep. 12
+    * Monday, Sep. 12: 1.7-1.9
+    * Wednesday, Sep. 14: 1.10-1.13
+    * Friday, Sep. 16: Mini-math (1.1-1.13), 1.14-1.15
+  * Week of Sep. 19
+    * Monday, Sep. 19: 6.1-6.3
+    * Wednesday, Sep. 21: 6.4-6.5
+    * Friday, Sep. 23: 6.6
+  * Week of Sep. 26
+    * Monday, Sep. 26: 6.7-6.8
+    * Wednesday, Sep. 28: 6.9
+    * Friday, Sep. 30: Mini-math (6.1-6.9)
+  * Week of Oct. 3
+    * Monday, Oct. 3: 6.10-6.11
+    * Wednesday, Oct. 5: 6.11-6.12
+    * Friday, Oct. 7: 6.12
+  * Week of Oct. 10
+    * Monday, Oct. 10: 6.13-6.14
+    * Wednesday, Oct. 12: 6.14, Integration Bee
+    * Friday, Oct. 14: 
 
 
 
@@ -105,6 +129,7 @@ Homework for Wednesday, June 2: Have your <a href="https://vchan2.github.io/Mast
 Unless otherwise specified, all material is contained in the AP exam. Those items with an (AP) tag could appear on an AP exam, but not a Math 31 exam. 
 -->
 
+<!--
 Unit 1 test is scheduled for <b>Monday, September 26</b> in-class. You should be proficient in all material contained in Unit 1. More precisely, you should be able to:
   * Compute limits of a function graphically.
   * Compute limits of a composite function graphically.
@@ -124,6 +149,8 @@ Unit 1 test is scheduled for <b>Monday, September 26</b> in-class. You should be
   * Find vertical and horizontal asymptotes of a function.
   * Use Squeeze Theorem.
   * Use Intermediate Value Theorem.
+-->
+
 
 <!--
 Unit 2 test is scheduled for <b>Wednesday, October 11</b> in-class. Unit 2 AP material is scheduled for <b>Friday, October 13</b> in-class. 
