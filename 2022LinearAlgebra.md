@@ -13,6 +13,8 @@ Quick links
 
 ### Updates
 
+The course page has moved to <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/">here</a>
+
 ---
 
 
