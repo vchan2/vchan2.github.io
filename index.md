@@ -6,12 +6,15 @@
 * [Grade 4/5](2022gr45.md)
 * [Grade 6](2022gr6.md)
 * [Division 3/4 (AP Calculus BC)](2022APCalculusBC.md)
+
+<!--
 * [Division 4 (Linear Algebra)](2022LinearAlgebra.md)
+-->
 
 ---
 ### Electives 
 
-* [Logic Puzzles](2021logicpuzzles.md)
+* [Logic Puzzles](2022logicpuzzles.md)
 
 
 ---
@@ -20,7 +23,7 @@
 ## Challenges
 
 * <a href="https://renertmath.github.io/RenertMath-CelebrateMath/"> CoSMOS 2020 Challenge</a> 
-
+* <a href="https://vchan2.github.io/Challenges/Fruit_puzzle.pdf"> Fruit algebra puzzle - over 95% of people cannot solve this! </a>
 
 <!--
 * <a href="https://vchan2.github.io/Challenges/Rainbow_Stones.pdf"> Rainbow stones </a>
