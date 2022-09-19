@@ -13,7 +13,7 @@ Quick links
 
 ### Updates
 
-<b>NOTICE:</b> I have spoken with Dr. Renert and we have worked out a different plan for calculus this year. We will immediately switch over to beginning integration (Unit 6) and continuing from there, grouping Units 1 through 5 into "review" toward the end of the course. 
+<b>NOTICE:</b> I will be on the 4th floor in period 4 tomorrow if you would like to meet about calculus.
 
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
@@ -33,11 +33,11 @@ Tentative schedule for upcoming classes:
     * Wednesday, Sep. 14: 1.10-1.13
     * Friday, Sep. 16: Mini-math (1.1-1.13), 1.14-1.15
   * Week of Sep. 19
-    * Monday, Sep. 19: 6.1-6.3
-    * Wednesday, Sep. 21: 6.4-6.5
-    * Friday, Sep. 23: 6.6
+    * Monday, Sep. 19: 6.1-6.2
+    * Wednesday, Sep. 21: 6.3-6.4
+    * Friday, Sep. 23: 6.5
   * Week of Sep. 26
-    * Monday, Sep. 26: 6.7-6.8
+    * Monday, Sep. 26: 6.6-6.8
     * Wednesday, Sep. 28: 6.9
     * Friday, Sep. 30: Mini-math (6.1-6.9)
   * Week of Oct. 3
@@ -97,6 +97,7 @@ Section 3.5 corrections:
 If you are consistently spending more than 1 hour per day on homework, please see me.
 
 Homework for Wednesday, September 21:
+  * 6.1-6.2 in the Flipped Math packet
   * <a href="https://vchan2.github.io/2022APCalculusBC/Numerical_Integration.pdf">Numerical Integration worksheet</a>
 
 
