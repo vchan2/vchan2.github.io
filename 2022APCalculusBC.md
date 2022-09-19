@@ -96,11 +96,8 @@ Section 3.5 corrections:
 
 If you are consistently spending more than 1 hour per day on homework, please see me.
 
-Homework for Wednesday, September 7:
-  * Join the Schoology and AP Classroom courses
-  * Fill out the introduction questionnaire
-  * Complete the calculus readiness test
-  * Complete the AP Classroom Assignment on 1.1. From now on, you will routinely have assignments on this website and each have their own due date, so they will not be listed here.
+Homework for Wednesday, September 21:
+  * <a href="https://vchan2.github.io/2022APCalculusBC/Numerical_Integration.pdf">Numerical Integration worksheet</a>
 
 
 <!--
