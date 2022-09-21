@@ -442,7 +442,11 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 ### Practice problems
 
 * <a href="2022APCalculusBC/calculus_readiness.pdf">Calculus readiness test</a> (<a href="2022APCalculusBC/calculus_readiness_sol.pdf">Answers</a>)
-* <a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout.pdf">6.1-6.3 handout</a>
+* <a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout.pdf">6.1-6.3 handout</a> 
+
+<!--
+(<a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout_sol.pdf">Solution</a>)
+-->
 
 * Mini-maths
   * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_16.pdf"> Mini-math for September 17 (1.1-1.11) </a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_16_sol.pdf">Solutions</a>)
