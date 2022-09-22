@@ -49,12 +49,12 @@ All records are for the smallest and easiest version of the stated puzzle, and s
 Eli beat Dr. Vince this week!
 
 ### Tuesday, September 21
-<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Ms. Mia's Time</th>	<th>Dr. Vince's Time</th>	</tr>	
-<tr>	<td>**Shakashaka**</td>	<td>**Lucas**</td>	<td>**1.49**</td>	<td>****</td>	<td>**3.92**</td>	</tr>	
-<tr>	<td>**Kakurasu**</td>	<td>**Lucas**</td>	<td>**2.74**</td>	<td>****</td>	<td>**2.86**</td>	</tr>	
-<tr>	<td>Tapa</td>	<td></td>	<td></td>	<td></td>	<td>8.25</td>	</tr>	
-<tr>	<td>Renzoku</td>	<td></td>	<td></td>	<td></td>	<td>7.52</td>	</tr>	
-<tr>	<td>Minesweeper</td>	<td>James</td>	<td>7.7</td>	<td></td>	<td>3.84</td>	</tr>	</table>
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>**Shakashaka**</td>	<td>**Lucas**</td>	<td>**1.49**</td>	<td>**3.92**</td>	</tr>	
+<tr>	<td>**Kakurasu**</td>	<td>**Lucas**</td>	<td>**2.74**</td>	<td>**2.86**</td>	</tr>	
+<tr>	<td>Tapa</td>	<td></td>	<td></td>	<td>8.25</td>	</tr>	
+<tr>	<td>Renzoku</td>	<td></td>	<td></td>	<td>7.52</td>	</tr>	
+<tr>	<td>Minesweeper</td>	<td>James</td>	<td>7.7</td>	<td>3.84</td>	</tr>	</table>
 Lucas beat Dr. Vince this week!
 
 
