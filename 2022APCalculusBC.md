@@ -96,6 +96,10 @@ Section 3.5 corrections:
 
 If you are consistently spending more than 1 hour per day on homework, please see me.
 
+Homework for Monday, September 26:
+  * 6.3-6.4 in the Flipped Math packet
+  * <a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout.pdf">6.1-6.3 handout</a>
+
 Homework for Wednesday, September 21:
   * 6.1-6.2 in the Flipped Math packet
   * <a href="https://vchan2.github.io/2022APCalculusBC/Numerical_Integration.pdf">Numerical Integration worksheet</a>
