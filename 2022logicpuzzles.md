@@ -45,9 +45,28 @@ Tuesday, September 14
 <tr>	<td>Nonograms</td>	<td>Jayden</td>	<td>7.7</td>	<td>6.27</td>	</tr>	</table>
 Eli beat Dr. Vince this week!
 
+Tuesday, September 21
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Ms. Mia's Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>**Shakashaka**</td>	<td>**Lucas**</td>	<td>**1.49**</td>	<td>****</td>	<td>**3.92**</td>	</tr>	
+<tr>	<td>**Kakurasu**</td>	<td>**Lucas**</td>	<td>**2.74**</td>	<td>****</td>	<td>**2.86**</td>	</tr>	
+<tr>	<td>Tapa</td>	<td></td>	<td></td>	<td></td>	<td>8.25</td>	</tr>	
+<tr>	<td>Renzoku</td>	<td></td>	<td></td>	<td></td>	<td>7.52</td>	</tr>	
+<tr>	<td>Minesweeper</td>	<td>James</td>	<td>7.7</td>	<td></td>	<td>3.84</td>	</tr>	</table>
+Lucas beat Dr. Vince this week!
+
+
 ---
 
 ### Daily records (Div 3)
 
 Wednesday, September 15
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Slither Link</td>	<td>Anna</td>	<td>22.19</td>	<td>17.51</td>	</tr>	
+<tr>	<td>Dominosa</td>	<td>Marshall</td>	<td>7.19</td>	<td>7.19</td>	</tr>	
+<tr>	<td>Heyawake</td>	<td>Ali</td>	<td>30.75</td>	<td>21.52</td>	</tr>	
+<tr>	<td>**Pipes**</td>	<td>**Landry**</td>	<td>**3.43**</td>	<td>**6.31**</td>	</tr>	
+<tr>	<td>Sudoku</td>	<td>Olivia</td>	<td>368.55</td>	<td>79.7</td>	</tr>	</table>
+Landry beat Dr. Vince this week!
+
+Wednesday, September 22
 
