@@ -36,7 +36,10 @@
 
 ### Daily records (Div 2)
 
-Tuesday, September 14 
+For September 14 - : 
+All records are for the smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
+
+## Tuesday, September 14 
 <table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
 <tr>	<td>Killer Sudoku</td>	<td>Jonathan</td>	<td>108.91</td>	<td>12.13</td>	</tr>	
 <tr>	<td>Skyscrapers</td>	<td>Eli</td>	<td>19.93</td>	<td>16.87</td>	</tr>	
@@ -45,7 +48,7 @@ Tuesday, September 14
 <tr>	<td>Nonograms</td>	<td>Jayden</td>	<td>7.7</td>	<td>6.27</td>	</tr>	</table>
 Eli beat Dr. Vince this week!
 
-Tuesday, September 21
+## Tuesday, September 21
 <table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Ms. Mia's Time</th>	<th>Dr. Vince's Time</th>	</tr>	
 <tr>	<td>**Shakashaka**</td>	<td>**Lucas**</td>	<td>**1.49**</td>	<td>****</td>	<td>**3.92**</td>	</tr>	
 <tr>	<td>**Kakurasu**</td>	<td>**Lucas**</td>	<td>**2.74**</td>	<td>****</td>	<td>**2.86**</td>	</tr>	
@@ -59,7 +62,10 @@ Lucas beat Dr. Vince this week!
 
 ### Daily records (Div 3)
 
-Wednesday, September 15
+For September 15 - : 
+All records are for the smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
+
+## Wednesday, September 15
 <table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
 <tr>	<td>Slither Link</td>	<td>Anna</td>	<td>22.19</td>	<td>17.51</td>	</tr>	
 <tr>	<td>Dominosa</td>	<td>Marshall</td>	<td>7.19</td>	<td>7.19</td>	</tr>	
@@ -68,5 +74,5 @@ Wednesday, September 15
 <tr>	<td>Sudoku</td>	<td>Olivia</td>	<td>368.55</td>	<td>79.7</td>	</tr>	</table>
 Landry beat Dr. Vince this week!
 
-Wednesday, September 22
+## Wednesday, September 22
 
