@@ -457,6 +457,7 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 * <a href="2022APCalculusBC/calculus_readiness.pdf">Calculus readiness test</a> (<a href="2022APCalculusBC/calculus_readiness_sol.pdf">Answers</a>)
 * <a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout.pdf">6.1-6.3 handout</a> (<a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout_sol.pdf">Solution</a>)
+* <a href="https://vchan2.github.io/2022APCalculusBC/Numerical_Integration.pdf">Numerical Integration worksheet</a> (<a href="https://vchan2.github.io/2022APCalculusBC/Numerical_Integration_sol.pdf">Solution</a>)
 
 
 * Mini-maths
