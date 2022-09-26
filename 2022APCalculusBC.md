@@ -43,11 +43,11 @@ Tentative schedule for upcoming classes:
     * Wednesday, Sep. 21: 6.3-6.4
     * Friday, Sep. 23: Mini-math (6.1-6.4), Unit 5 review
   * Week of Sep. 26
-    * Monday, Sep. 26: 6.5-6.8
-    * Wednesday, Sep. 28: 6.9
-    * Friday, Sep. 30: Mini-math (6.1-6.9)
+    * Monday, Sep. 26: 6.5-6.6
+    * Wednesday, Sep. 28: 6.7-6.8
+    * Thursday, Sep. 29: Mini-math (6.5-6.8)
   * Week of Oct. 3
-    * Monday, Oct. 3: 6.10-6.11
+    * Monday, Oct. 3: 6.9-6.10
     * Wednesday, Oct. 5: 6.11-6.12
     * Friday, Oct. 7: 6.12
   * Week of Oct. 10
