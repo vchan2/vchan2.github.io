@@ -13,13 +13,7 @@ Quick links
 
 ### Updates
 
-Hi all, I noticed a few students still have to finish homework on AP Classroom from 6.1-6.4. I've extended to deadline to Monday for you to finish them.
-
-I've also put together a mini-quiz on Unit 5 material relevant to 6.5 in preparation for Monday's class. There are 7 questions, so it should be quick. If you want more review, please consult flippedmath.
-
-Please spend some time this weekend reviewing 6.1-6.4 as well - you really want to have a solid understanding before we get too deep into the hard material. 
-
-<b>NOTICE:</b> I will be on the 4th floor in period 4 tomorrow if you would like to meet about calculus.
+There was a typo on the Numerical Integration worksheet that has now been fixed: the first question asks for the integral from 0 to 8, not 6.
 
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
