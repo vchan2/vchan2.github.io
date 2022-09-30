@@ -65,7 +65,7 @@ Lucas beat Dr. Vince this week!
 For September 15 - : 
 All records are for the smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
 
-### Wednesday, September 15
+### Thursday, September 15
 <table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
 <tr>	<td>Slither Link</td>	<td>Anna</td>	<td>22.19</td>	<td>17.51</td>	</tr>	
 <tr>	<td>Dominosa</td>	<td>Marshall</td>	<td>7.19</td>	<td>7.19</td>	</tr>	
@@ -74,5 +74,20 @@ All records are for the smallest and easiest version of the stated puzzle, and s
 <tr>	<td>Sudoku</td>	<td>Olivia</td>	<td>368.55</td>	<td>79.7</td>	</tr>	</table>
 Landry beat Dr. Vince this week!
 
-### Wednesday, September 22
+### Thursday, September 22
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Aquarium</td>	<td>Aidan</td>	<td>5.66</td>	<td>3.68</td>	</tr>	
+<tr>	<td>Stitches</td>	<td></td>	<td></td>	<td>8.6</td>	</tr>	
+<tr>	<td>Tapa</td>	<td></td>	<td></td>	<td>9.7</td>	</tr>	
+<tr>	<td>Slant</td>	<td>Avery</td>	<td>26.16</td>	<td>15.47</td>	</tr>	
+<tr>	<td>Nonograms</td>	<td>Michelle</td>	<td>15</td>	<td>6.01</td>	</tr>	</table>
+
+### Friday, September 30
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>**Light Up**</td>	<td>**Emori**</td>	<td>**3**</td>	<td>**3.1**</td>	</tr>	
+<tr>	<td>**Binairo**</td>	<td>**Anna**</td>	<td>**16.45**</td>	<td>**17.64**</td>	</tr>	
+<tr>	<td>**Galaxies**</td>	<td>**Anna**</td>	<td>**4.28**</td>	<td>**4.5**</td>	</tr>	
+<tr>	<td>Mosaic</td>	<td>Indy</td>	<td>12.66</td>	<td>9.34</td>	</tr>	
+<tr>	<td>Nurikabe</td>	<td>Olivia</td>	<td>5.62</td>	<td>5.15</td>	</tr>	</table>
+Emori and Anna beat Dr. Vince this week!
 
