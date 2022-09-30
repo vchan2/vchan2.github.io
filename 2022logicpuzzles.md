@@ -39,7 +39,7 @@
 For September 14 - : 
 All records are for the smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
 
-### Tuesday, September 14 
+### Wednesday, September 14 
 <table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
 <tr>	<td>Killer Sudoku</td>	<td>Jonathan</td>	<td>108.91</td>	<td>12.13</td>	</tr>	
 <tr>	<td>Skyscrapers</td>	<td>Eli</td>	<td>19.93</td>	<td>16.87</td>	</tr>	
@@ -48,7 +48,7 @@ All records are for the smallest and easiest version of the stated puzzle, and s
 <tr>	<td>Nonograms</td>	<td>Jayden</td>	<td>7.7</td>	<td>6.27</td>	</tr>	</table>
 Eli beat Dr. Vince this week!
 
-### Tuesday, September 21
+### Wednesday, September 21
 <table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
 <tr>	<td>**Shakashaka**</td>	<td>**Lucas**</td>	<td>**1.49**</td>	<td>**3.92**</td>	</tr>	
 <tr>	<td>**Kakurasu**</td>	<td>**Lucas**</td>	<td>**2.74**</td>	<td>**2.86**</td>	</tr>	
