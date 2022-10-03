@@ -13,8 +13,6 @@ Quick links
 
 ### Updates
 
-There was a typo on the Numerical Integration worksheet that has now been fixed: the first question asks for the integral from 0 to 8, not 6.
-
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
 ---
@@ -24,6 +22,7 @@ There was a typo on the Numerical Integration worksheet that has now been fixed:
 
 Tentative schedule for upcoming classes:
 
+<!--
   * Week of Sep. 5
     * Monday, Sep. 5: Holiday
     * Wednesday, Sep. 7: 1.2-1.4
@@ -40,6 +39,8 @@ Tentative schedule for upcoming classes:
     * Monday, Sep. 26: 6.5-6.6
     * Wednesday, Sep. 28: 6.7-6.8
     * Thursday, Sep. 29: Mini-math (6.5-6.8)
+-->
+
   * Week of Oct. 3
     * Monday, Oct. 3: 6.9-6.10
     * Wednesday, Oct. 5: 6.11-6.12
@@ -47,7 +48,7 @@ Tentative schedule for upcoming classes:
   * Week of Oct. 10
     * Monday, Oct. 10: 6.13-6.14
     * Wednesday, Oct. 12: 6.14, Integration Bee
-    * Friday, Oct. 14: 
+    * Friday, Oct. 14: Unit 6 Review
 
 
 
