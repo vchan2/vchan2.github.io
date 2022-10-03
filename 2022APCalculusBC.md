@@ -456,7 +456,8 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 * Unit 6
   * <a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout.pdf">6.1-6.3 handout</a> (<a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2022APCalculusBC/Numerical_Integration.pdf">Numerical Integration worksheet</a> (<a href="https://vchan2.github.io/2022APCalculusBC/Numerical_Integration_sol.pdf">Solutions</a>)
-
+  * <a href="https://vchan2.github.io/2022APCalculusBC/6.10prep_Dividing_Polynomials.pdf">6.10 preparation - polynomial division</a> (answers included)
+  * <a href="https://vchan2.github.io/2022APCalculusBC/6.10prep_Completing_the_Square.pdf">6.10 preparation - completing the square</a> (answers included)
 
 * Mini-maths
   * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_16.pdf"> Mini-math for September 16 (1.1-1.11)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_16_sol.pdf">Solutions</a>)
