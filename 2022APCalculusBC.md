@@ -97,6 +97,13 @@ Section 3.5 corrections:
 
 If you are consistently spending more than 1 hour per day on homework, please see me.
 
+Homework for Wednesday, October 5:
+  * 6.9-6.10 in the Flipped Math packet
+  * 6.9-6.10 on AP Classroom
+  * Exercises 1 and 2 from class on integrating via long division and completing the square (4 total)
+  * (optional) <a href="https://vchan2.github.io/2022APCalculusBC/6.10prep_Dividing_Polynomials.pdf">6.10 preparation - polynomial division</a> (answers included)
+  * (optional) <a href="https://vchan2.github.io/2022APCalculusBC/6.10prep_Completing_the_Square.pdf">6.10 preparation - completing the square</a> (answers included)
+
 Homework for Monday, September 26:
   * Catch up on all past homework and review 6.1-6.4
   * Unit 5 review (AP Classroom)
