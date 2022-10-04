@@ -421,11 +421,12 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 ### Online resources
 
-* <a href="https://calculus.flippedmath.com/list-of-lessons.html"> Flipped Math - AP Calculus </a>
-* <a href="https://www.youtube.com/watch?v=WUvTyaaNkzM"> The Essence of Calculus YouTube series </a> (brought to you by <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"> 3 Blue 1 Brown</a>)
-* <a href="https://www.khanacademy.org/math/ap-calculus-bc"> AP Calculus BC course (Khan Academy) </a>
-* <a href="https://www.wolframalpha.com/"> Online calculator (WolframAlpha) </a>
-* <a href="https://www.desmos.com/"> Online graphing program (Desmos) </a>
+* <a href="https://calculus.flippedmath.com/list-of-lessons.html">Flipped Math - AP Calculus</a>
+  * <a href="https://vchan2.github.io/Calculus/calc_6.pdf">Unit 6 Corrective Assignments</a>
+* <a href="https://www.youtube.com/watch?v=WUvTyaaNkzM">The Essence of Calculus YouTube series</a> (brought to you by <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">3 Blue 1 Brown</a>)
+* <a href="https://www.khanacademy.org/math/ap-calculus-bc">AP Calculus BC course (Khan Academy)</a>
+* <a href="https://www.wolframalpha.com/">Online calculator (WolframAlpha)</a>
+* <a href="https://www.desmos.com/">Online graphing program (Desmos)</a>
 * <a href="https://docs.google.com/document/d/1Ag_JfeakR__Lp3QTsUHtt_DT6hfYD8P-aB9Xw4bkMW0/edit?usp=sharing">RTC information</a>
 
 <!--
