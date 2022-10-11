@@ -57,6 +57,13 @@ Eli beat Dr. Vince this week!
 <tr>	<td>Minesweeper</td>	<td>James</td>	<td>7.7</td>	<td>3.84</td>	</tr>	</table>
 Lucas beat Dr. Vince this week!
 
+### Wednesday, October 5
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Shikaku</td>	<td>Kush</td>	<td>8.17</td>	<td>5.25</td>	</tr>	
+<tr>	<td>LITS</td>	<td>Lucas</td>	<td>7.94</td>	<td>7.59</td>	</tr>	
+<tr>	<td>Tents</td>	<td>Eli</td>	<td>4</td>	<td>3.86</td>	</tr>	
+<tr>	<td>Binairo</td>	<td>Kush</td>	<td>22.13</td>	<td>20.65</td>	</tr>	
+<tr>	<td>Jigsaw Sudoku</td>	<td>Kush</td>	<td>16.43</td>	<td>3.44</td>	</tr>	</table>
 
 ---
 
@@ -91,3 +98,11 @@ Landry beat Dr. Vince this week!
 <tr>	<td>Nurikabe</td>	<td>Olivia</td>	<td>5.62</td>	<td>5.15</td>	</tr>	</table>
 Emori and Anna beat Dr. Vince this week!
 
+### Thursday, October 6
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Hitori</td>	<td>Ali</td>	<td>10.42</td>	<td>8.54</td>	</tr>	
+<tr>	<td>Kakuro</td>	<td>Olivia</td>	<td>42.4</td>	<td>36.5</td>	</tr>	
+<tr>	<td>LITS</td>	<td>Marshall</td>	<td>10.14</td>	<td>7.12</td>	</tr>	
+<tr>	<td>Battleships</td>	<td>Olivia</td>	<td>8.77</td>	<td>6</td>	</tr>	
+<tr>	<td>**Shikaku**</td>	<td>**Emori**</td>	<td>**3.31**</td>	<td>**4.43**</td>	</tr>	</table>
+Emori beat Dr. Vince this week!
