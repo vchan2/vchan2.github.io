@@ -97,6 +97,7 @@ Section 3.5 corrections:
 
 If you are consistently spending more than 1 hour per day on homework, please see me.
 
+<!--
 Homework for Wednesday, October 5:
   * 6.9-6.10 in the Flipped Math packet
   * 6.9-6.10 on AP Classroom
@@ -115,7 +116,7 @@ Homework for Friday, September 23:
 Homework for Wednesday, September 21:
   * 6.1-6.2 in the Flipped Math packet
   * <a href="https://vchan2.github.io/2022APCalculusBC/Numerical_Integration.pdf">Numerical Integration worksheet</a>
-
+-->
 
 <!--
 Specific homework for Monday, May 16:
@@ -227,19 +228,21 @@ Unit 5 test is scheduled for <b>Monday, January 17</b> in-class. Unit 5 AP mater
   * (AP) Handle more challenging problems of the types above.
 -->
 
-<!--
-Unit 6 test is scheduled for <b>Wednesday, February 16</b> in-class. Unit 6 AP material is scheduled for <b>Friday, February 18</b> in-class. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
-  * Approximate the area under a curve using Right Riemann sums, both with equal and unequal intervals, from a function, graph, or table of values
-    * (AP) also Left Riemann sums, Midpoint Rule, and Trapezoidal Rule
+Unit 6 test is scheduled for <b>Wednesday, October 19</b> (non-calculator) and <b>Friday, October 21</b> (calculator) in-class. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
+  * Approximate the area under a curve using right and left Riemann sums, midpoint and trapezoidal rules, both with equal and unequal intervals, from a function, graph, or table of values
+  * Identify if an area estimate is an overestimate or underestimate
+  * Interpret or produce an integral given a contextual application
   * Utilize the Fundamental Theorem of Calculus I to differentiate an accumulation function
-    * (AP) includes accumulation functions where the bounds are functions
+    * includes accumulation functions where the bounds are functions
+  * Analyze accumulation functions for: where they are increasing or decreasing, locate and classify critical points, determine concavity and points of inflection
   * Use integral properties
-  * Solve indefinite integrals or utilize the Fundamental Theorem of Calculus II to solve definite integrals
-    * this includes using algebraic techniques to simplify the integrand as well as the Substitution Rule 
-  * (AP) Identify if an area estimate is an overestimate or underestimate
-  * (AP) Interpret or produce an integral given a contextual application
-  * (AP) Handle more challenging problems of the types above.
--->
+  * Solve indefinite integrals or utilize the Fundamental Theorem of Calculus II to solve definite integrals, including:
+    * algebraic techniques to simplify the integrand (splitting, expanding, long division, completing the square)
+    * Substitution Rule
+    * Integration by Parts (IBP)
+    * Partial Fraction Decomposition (PFD)
+  * Handle improper integrals
+
 
 <!--
 Unit 8 test is scheduled for <b>Friday, March 18</b> in-class. Unit 8 AP material is scheduled for <b>Monday, March 21</b> in-class. You should be proficient in all material contained in Unit 8. Note that this unit will be weighted much less than other units, since it is very short. More precisely, you should be able to:
