@@ -242,7 +242,7 @@ Unit 6 test is scheduled for <b>Wednesday, October 19</b> (non-calculator) and <
     * Integration by Parts (IBP)
     * Partial Fraction Decomposition (PFD)
   * Handle improper integrals
-
+NOTE: any material from Unit 1 to 5 is also fair game and may be useful/necessary.
 
 <!--
 Unit 8 test is scheduled for <b>Friday, March 18</b> in-class. Unit 8 AP material is scheduled for <b>Monday, March 21</b> in-class. You should be proficient in all material contained in Unit 8. Note that this unit will be weighted much less than other units, since it is very short. More precisely, you should be able to:
