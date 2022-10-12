@@ -65,6 +65,14 @@ Lucas beat Dr. Vince this week!
 <tr>	<td>Binairo</td>	<td>Kush</td>	<td>22.13</td>	<td>20.65</td>	</tr>	
 <tr>	<td>Jigsaw Sudoku</td>	<td>Kush</td>	<td>16.43</td>	<td>3.44</td>	</tr>	</table>
 
+### Wednesday, October 12
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Aquarium</td>	<td>Eli</td>	<td>30.93</td>	<td>3.97</td>	</tr>	
+<tr>	<td>Mosaic</td>	<td>Eli</td>	<td>31</td>	<td>6.68</td>	</tr>	
+<tr>	<td>Futoshiki</td>	<td>Eli</td>	<td>23.29</td>	<td>8.87</td>	</tr>	
+<tr>	<td>Slither Link</td>	<td>Isabella</td>	<td>34.74</td>	<td>12.93</td>	</tr>	
+<tr>	<td>Nurikabe</td>	<td>Eric</td>	<td>4.01</td>	<td>3.66</td>	</tr>	</table>
+
 ---
 
 ## Daily records (Div 3)
