@@ -13,6 +13,8 @@ Quick links
 
 ### Updates
 
+Integration Bee will take place Friday, October 14. Please come to class on time so that we don't start late. You should bring your notbook as usual so that you can work through the integrals for practice, though when it is your turn to compete, you will be working at the whiteboard. Meet me in the large study hall rooms on the 5th floor (whichever one is easiest for set-up on the day).
+
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
 ---
