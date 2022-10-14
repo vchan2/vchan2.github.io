@@ -13,6 +13,8 @@ Quick links
 
 ### Updates
 
+Integration Bee questions and solutions are available under practice problems, including 5 problems we didn't have time for during class.
+
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
 ---
