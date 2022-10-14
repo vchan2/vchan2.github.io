@@ -13,8 +13,6 @@ Quick links
 
 ### Updates
 
-Integration Bee will take place Friday, October 14. Please come to class on time so that we don't start late. You should bring your notbook as usual so that you can work through the integrals for practice, though when it is your turn to compete, you will be working at the whiteboard. Meet me in the large study hall rooms on the 5th floor (whichever one is easiest for set-up on the day).
-
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
 ---
@@ -102,6 +100,8 @@ Section 3.5 corrections:
 ### Homework
 
 If you are consistently spending more than 1 hour per day on homework, please see me.
+
+
 
 <!--
 Homework for Wednesday, October 5:
@@ -475,6 +475,7 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://vchan2.github.io/2022APCalculusBC/Numerical_Integration.pdf">Numerical Integration worksheet</a> (<a href="https://vchan2.github.io/2022APCalculusBC/Numerical_Integration_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2022APCalculusBC/6.10prep_Dividing_Polynomials.pdf">6.10 preparation - polynomial division</a> (answers included)
   * <a href="https://vchan2.github.io/2022APCalculusBC/6.10prep_Completing_the_Square.pdf">6.10 preparation - completing the square</a> (answers included)
+  * <a href="https://vchan2.github.io/2022APCalculusBC/IntegrationBee2022partial.pdf">Integration Bee questions (plus additional problems we didn't get to)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/IntegrationBee2022partial_sol.pdf">Solutions</a>)
 
 * Mini-maths
   * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_16.pdf"> Mini-math for September 16 (1.1-1.11)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_16_sol.pdf">Solutions</a>)
