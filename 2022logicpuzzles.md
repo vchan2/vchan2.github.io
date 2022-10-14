@@ -114,3 +114,11 @@ Emori and Anna beat Dr. Vince this week!
 <tr>	<td>Battleships</td>	<td>Olivia</td>	<td>8.77</td>	<td>6</td>	</tr>	
 <tr>	<td>**Shikaku**</td>	<td>**Emori**</td>	<td>**3.31**</td>	<td>**4.43**</td>	</tr>	</table>
 Emori beat Dr. Vince this week!
+
+### Thursday, October 13
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Masyu</td>	<td>Anna</td>	<td>10.73</td>	<td>8.94</td>	</tr>	
+<tr>	<td>Shingoki</td>	<td>Anna</td>	<td>20.1</td>	<td>16.96</td>	</tr>	
+<tr>	<td>Tents</td>	<td>Emori</td>	<td>5.32</td>	<td>3.6</td>	</tr>	
+<tr>	<td>Renzoku</td>	<td>Anna</td>	<td>11.12</td>	<td>7.34</td>	</tr>	
+<tr>	<td>Futoshiki</td>	<td>Emori</td>	<td>16.92</td>	<td>7.35</td>	</tr>	</table>
