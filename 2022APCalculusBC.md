@@ -254,6 +254,7 @@ Unit 6 test is scheduled for <b>Wednesday, October 19</b> (non-calculator) and <
     * Integration by Parts (IBP)
     * Partial Fraction Decomposition (PFD)
   * Handle improper integrals
+
 NOTE: any material from Unit 1 to 5 is also fair game and may be useful/necessary.
 
 <!--
