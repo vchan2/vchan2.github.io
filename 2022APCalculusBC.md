@@ -52,9 +52,13 @@ Tentative schedule for upcoming classes:
     * Wednesday, Oct. 12: 6.13-6.14
     * Friday, Oct. 14: Integration Bee
   * Week of Oct. 17
-    * Monday, Oct. 17: 8.1-8.3
+    * Monday, Oct. 17: Unit 6 Review
     * Wednesday, Oct. 19: Unit 6 Test (no calculator)
     * Friday, Oct. 21: Unit 6 Test (calculator)
+  * Week of Oct. 24
+    * Monday, Oct. 24: 8.1-8.3
+    * Wednesday, Oct. 26: 8.4-8.5
+    * Friday, Oct. 28: 
 
 
 
