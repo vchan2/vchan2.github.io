@@ -13,8 +13,6 @@ Quick links
 
 ### Updates
 
-Integration Bee questions and solutions are available under practice problems, including 5 problems we didn't have time for during class.
-
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
 ---
@@ -41,8 +39,6 @@ Tentative schedule for upcoming classes:
     * Monday, Sep. 26: 6.5-6.6
     * Wednesday, Sep. 28: 6.7-6.8
     * Thursday, Sep. 29: Mini-math (6.5-6.8)
--->
-
   * Week of Oct. 3
     * Monday, Oct. 3: 6.9-6.10
     * Wednesday, Oct. 5: 6.11-6.12
@@ -55,9 +51,12 @@ Tentative schedule for upcoming classes:
     * Monday, Oct. 17: Unit 6 Review
     * Wednesday, Oct. 19: Unit 6 Test (no calculator)
     * Friday, Oct. 21: Unit 6 Test (calculator)
+-->
+
+
   * Week of Oct. 24
-    * Monday, Oct. 24: 8.1-8.3
-    * Wednesday, Oct. 26: 8.4-8.5
+    * Monday, Oct. 24: 8.1-8.2 (via flippedmath)
+    * Wednesday, Oct. 26: 
     * Friday, Oct. 28: 
 
 
