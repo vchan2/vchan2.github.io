@@ -13,6 +13,8 @@ Quick links
 
 ### Updates
 
+Monday, Oct. 24: I'm still sick and will not be in class. A substitute will come in to provide handouts, and 8.1 and 8.2 will be explored by you via flippedmath. I will come back to these units briefly in-person.
+
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
 ---
@@ -239,6 +241,7 @@ Unit 5 test is scheduled for <b>Monday, January 17</b> in-class. Unit 5 AP mater
   * (AP) Handle more challenging problems of the types above.
 -->
 
+<!--
 Unit 6 test is scheduled for <b>Wednesday, October 19</b> (non-calculator) and <b>Friday, October 21</b> (calculator) in-class. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
   * Approximate the area under a curve using right and left Riemann sums, midpoint and trapezoidal rules, both with equal and unequal intervals, from a function, graph, or table of values
   * Identify if an area estimate is an overestimate or underestimate
@@ -255,19 +258,22 @@ Unit 6 test is scheduled for <b>Wednesday, October 19</b> (non-calculator) and <
   * Handle improper integrals
 
 NOTE: any material from Unit 1 to 5 is also fair game and may be useful/necessary.
+-->
+
+
 
 <!--
 Unit 8 test is scheduled for <b>Friday, March 18</b> in-class. Unit 8 AP material is scheduled for <b>Monday, March 21</b> in-class. You should be proficient in all material contained in Unit 8. Note that this unit will be weighted much less than other units, since it is very short. More precisely, you should be able to:
+  * Use the formula for the average value of a function to solve problems
   * Connect position, velocity, and acceleration of a function using integrals (includes distance and speed)
   * Use accumulation functions and integrals in applied contexts
   * Find the area between curves:
     * in terms of x
     * in terms of y
     * with more than two points of intersection
-  * (AP) Use the formula for the average value of a function to solve problems
-  * (AP) Find the volume of a solid using cross-sections
-  * (AP) Find the volume of a solid of revolution using the disc/washer method
-  * (AP) Handle more challenging problems of the types above.
+  * Find the volume of a solid using cross-sections
+  * Find the volume of a solid of revolution using the disc/washer method
+  * Find the arc length of a curve.
 -->
 
 <!--
@@ -438,6 +444,7 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 * <a href="https://calculus.flippedmath.com/list-of-lessons.html">Flipped Math - AP Calculus</a>
   * <a href="https://vchan2.github.io/Calculus/calc_6.pdf">Unit 6 Corrective Assignments</a>
+  * <a href="https://vchan2.github.io/Calculus/calc_8.pdf">Unit 8 Corrective Assignments</a>
 * <a href="https://www.youtube.com/watch?v=WUvTyaaNkzM">The Essence of Calculus YouTube series</a> (brought to you by <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">3 Blue 1 Brown</a>)
 * <a href="https://www.khanacademy.org/math/ap-calculus-bc">AP Calculus BC course (Khan Academy)</a>
 * <a href="https://www.wolframalpha.com/">Online calculator (WolframAlpha)</a>
