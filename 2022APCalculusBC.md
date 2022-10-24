@@ -13,7 +13,9 @@ Quick links
 
 ### Updates
 
-Monday, Oct. 24: I'm still sick and will not be in class. A substitute will come in to provide handouts, and 8.1 and 8.2 will be explored by you via flippedmath. I will come back to these units briefly in-person.
+Monday, Oct. 24: I'm still sick and will not be in class. A substitute will come in to provide handouts, and 8.1 and 8.2 will be explored by you via flippedmath. I will come back to these units briefly in-person at a later time. 
+
+You will spend about 35 minutes on 8.1 for the video plus practice problems (odd Q up to 11) and 45 minutes on 8.2, for the video plus practice problems (Q1-8). Your teacher should have the solutions, though you can easily find them on flippedmath as well.
 
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
