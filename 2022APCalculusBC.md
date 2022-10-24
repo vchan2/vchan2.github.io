@@ -13,9 +13,10 @@ Quick links
 
 ### Updates
 
-Monday, Oct. 24: I'm still sick and will not be in class. A substitute will come in to provide handouts, and 8.1 and 8.2 will be explored by you via flippedmath. I will come back to these units briefly in-person at a later time. 
-
-You will spend about 35 minutes on 8.1 for the video plus practice problems (odd Q up to 11) and 45 minutes on 8.2, for the video plus practice problems (Q1-8). Your teacher should have the solutions, though you can easily find them on flippedmath as well.
+I have completed marking Unit 6. Just to let you know, most questions were worth 2 or 3 points, and the total was 84 points on both tests combined. I'll speak more about this on Wednesday: I'd like everyone to reflect on the test and
+  * make a prediction of your score
+  * consider the extent to which you followed along with the material in class and the homework
+  * consider whether you sought help early enough (remember, I have "office hours" every week)
 
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
