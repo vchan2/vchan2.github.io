@@ -454,6 +454,8 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 * <a href="https://www.desmos.com/">Online graphing program (Desmos)</a>
 * <a href="https://docs.google.com/document/d/1Ag_JfeakR__Lp3QTsUHtt_DT6hfYD8P-aB9Xw4bkMW0/edit?usp=sharing">RTC information</a>
 
+* <a href="https://www.desmos.com/calculator/tyqezuilba">8.2 example</a>
+
 <!--
 * <a href="https://vchan2.github.io/2021Calculus/Trig_derivatives_proofs.pdf"> Proofs of Trigonometric Derivatives </a>
 * <a href="https://www.geogebra.org/m/W7dAdgqc">Slope field plotter</a>
