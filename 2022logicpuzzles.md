@@ -73,6 +73,16 @@ Lucas beat Dr. Vince this week!
 <tr>	<td>Slither Link</td>	<td>Isabella</td>	<td>34.74</td>	<td>12.93</td>	</tr>	
 <tr>	<td>Nurikabe</td>	<td>Eric</td>	<td>4.01</td>	<td>3.66</td>	</tr>	</table>
 
+### Wednesday, October 26
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Pipes</td>	<td>Raphi</td>	<td>7.22</td>	<td>5.34</td>	</tr>	
+<tr>	<td>Galaxies</td>	<td>Kush</td>	<td>4.27</td>	<td>2.83</td>	</tr>	
+<tr>	<td>Heyawake</td>	<td>Eli</td>	<td>32</td>	<td>19.92</td>	</tr>	
+<tr>	<td>Hashi</td>	<td>Eli</td>	<td>6.54</td>	<td>5.5</td>	</tr>	
+<tr>	<td>**Star Battle**</td>	<td>**Jayden**</td>	<td>**1.7**</td>	<td>**1.77**</td>	</tr>	</table>
+Jayden beat Dr. Vince this week!
+
+
 ---
 
 ## Daily records (Div 3)
@@ -122,3 +132,20 @@ Emori beat Dr. Vince this week!
 <tr>	<td>Tents</td>	<td>Emori</td>	<td>5.32</td>	<td>3.6</td>	</tr>	
 <tr>	<td>Renzoku</td>	<td>Anna</td>	<td>11.12</td>	<td>7.34</td>	</tr>	
 <tr>	<td>Futoshiki</td>	<td>Emori</td>	<td>16.92</td>	<td>7.35</td>	</tr>	</table>
+
+### Thursday, October 27
+<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<td>Skyscrapers</td>	<td>Emori</td>	<td>11.46</td>	<td>7.3</td>	</tr>	
+<td>**Minesweeper**</td>	<td>**Indy**</td>	<td>**3.86**</td>	<td>**4.12**</td>	</tr>	
+<td>Hashi</td>	<td>Marshall</td>	<td>8.99</td>	<td>6.34</td>	</tr>	
+<td>Killer Sudoku</td>	<td>Marshall</td>	<td>18.25</td>	<td>11.51</td>	</tr>	
+<td>Jigsaw Sudoku</td>	<td>Ali</td>	<td>36.24</td>	<td>9.19</td>	</tr>	</table>
+Indy beat Dr. Vince this week!
+
+
+
+
+
+
+
+
