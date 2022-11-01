@@ -134,7 +134,7 @@ Emori beat Dr. Vince this week!
 <tr>	<td>Futoshiki</td>	<td>Emori</td>	<td>16.92</td>	<td>7.35</td>	</tr>	</table>
 
 ### Thursday, October 27
-<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
 <td>Skyscrapers</td>	<td>Emori</td>	<td>11.46</td>	<td>7.3</td>	</tr>	
 <td>**Minesweeper**</td>	<td>**Indy**</td>	<td>**3.86**</td>	<td>**4.12**</td>	</tr>	
 <td>Hashi</td>	<td>Marshall</td>	<td>8.99</td>	<td>6.34</td>	</tr>	
