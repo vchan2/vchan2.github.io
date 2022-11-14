@@ -473,6 +473,14 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 * <a href="https://www.desmos.com/">Online graphing program (Desmos)</a>
 * <a href="https://docs.google.com/document/d/1Ag_JfeakR__Lp3QTsUHtt_DT6hfYD8P-aB9Xw4bkMW0/edit?usp=sharing">RTC information</a>
 
+* <a href="http://webspace.ship.edu/msrenault/GeoGebraCalculus/derivative_intuitive_chain_rule.html"> Interactive visualization of the Chain Rule </a>
+* Optimization problems
+  * <a href="https://www.desmos.com/calculator/l3bpllxpmb"> Visualization of: Cable to two points</a>
+  * <a href="https://www.desmos.com/calculator/stfesdxk3f"> Visualization of: Distance from point to square root graph</a>
+* Concavity
+  * <a href="https://www.desmos.com/calculator/rn3t3zbamk"> Visualization of relationship between a curve's concavity, its tangent line, and the second derivative </a>
+* Trigonometry
+  * <a href="https://mathisonian.github.io/trig/etymology/"> The etymology of the 6 standard trig fuctions, complete with animations </a>
 * Integration
   * <a href="https://www.desmos.com/calculator/tyqezuilba">8.2 example</a>
   * <a href="https://www.desmos.com/calculator/q3avtnrgoq">Volume with cross sections</a>
