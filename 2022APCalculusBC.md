@@ -56,13 +56,32 @@ Tentative schedule for upcoming classes:
     * Monday, Oct. 17: Unit 6 Review
     * Wednesday, Oct. 19: Unit 6 Test (no calculator)
     * Friday, Oct. 21: Unit 6 Test (calculator)
--->
-
-
   * Week of Oct. 24
     * Monday, Oct. 24: 8.1-8.2 (via flippedmath)
-    * Wednesday, Oct. 26: 
-    * Friday, Oct. 28: 
+    * Wednesday, Oct. 26: 8.1-8.2
+    * Friday, Oct. 28: 8.3
+  * Week of Oct. 31
+    * Monday, Oct. 31: Halloween
+    * Wednesday, Nov. 2: 8.4-8.6
+    * Friday, Nov. 4: PTC
+  * Week of Nov. 7
+    * Monday, Nov. 7: November Break
+    * Wednesday, Nov. 9: November Break
+    * Friday, Nov. 11: November Break
+-->
+
+  * Week of Nov. 14
+    * Monday, Nov. 14: Mini-math (8.1-8.6), 8.7-8.8
+    * Wednesday, Nov. 16: 8.7-8.8
+    * Friday, Nov. 18: 8.9-8.12
+  * Week of Nov. 21
+    * Monday, Nov. 21: 8.9-8.12
+    * Wednesday, Nov. 23: Unit 8 Review
+    * Friday, Nov. 25: Unit 8 Review
+  * Week of Nov. 28
+    * Monday, Nov. 28: Unit 8 Test
+    * Wednesday, Nov. 30: Unit 8 Test
+    * Friday, Dec. 2: 7.1-7.2
 
 
 
