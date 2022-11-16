@@ -525,6 +525,10 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://vchan2.github.io/2022APCalculusBC/6.10prep_Dividing_Polynomials.pdf">6.10 preparation - polynomial division</a> (answers included)
   * <a href="https://vchan2.github.io/2022APCalculusBC/6.10prep_Completing_the_Square.pdf">6.10 preparation - completing the square</a> (answers included)
   * <a href="https://vchan2.github.io/2022APCalculusBC/IntegrationBee2022partial.pdf">Integration Bee questions (plus additional problems we didn't get to)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/IntegrationBee2022partial_sol.pdf">Solutions</a>)
+* Unit 8
+  * <a href="https://vchan2.github.io/2022APCalculusBC/8_Volumes.pdf">Volumes practice 1</a> (<a href="https://vchan2.github.io/2022APCalculusBC/8_Volumes_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2022APCalculusBC/8_Volumes2.pdf">Volumes practice 2</a> (<a href="https://vchan2.github.io/2022APCalculusBC/8_Volumes2_sol.pdf">Solutions</a>)
+
 
 * Mini-maths
   * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_16.pdf"> Mini-math for September 16 (1.1-1.11)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_16_sol.pdf">Solutions</a>)
