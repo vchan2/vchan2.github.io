@@ -92,6 +92,12 @@ Starting from November 2, any of my times which are personal bests will be marke
 <tr>	<td>Stitches</td>	<td>Eli</td>	<td>5.63</td>	<td>5.12(PB)</td>	</tr>	
 <tr>	<td>Light Up</td>	<td>Arjun</td>	<td>3.58</td>	<td>3.17</td>	</tr>	</table>
 
+### Wednesday, November 16
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Masyu</td>	<td>Jayden</td>	<td>19.65</td>	<td>12.15</td>	</tr>	
+<tr>	<td>Hitori</td>	<td>Eric</td>	<td>9.26</td>	<td>7.79(PB)</td>	</tr>	
+<tr>	<td>Kakuro</td>	<td>Eli</td>	<td>75</td>	<td>24.37(PB)</td>	</tr>	</table>
+
 ---
 
 ## Daily records (Div 3)
