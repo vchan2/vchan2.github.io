@@ -36,7 +36,7 @@
 
 ## Daily records (Div 2)
 
-For September 14 - : 
+For September 14 - November 17: 
 All records are for the smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
 
 ### Wednesday, September 14 
@@ -98,11 +98,15 @@ Starting from November 2, any of my times which are personal bests will be marke
 <tr>	<td>Hitori</td>	<td>Eric</td>	<td>9.26</td>	<td>7.79(PB)</td>	</tr>	
 <tr>	<td>Kakuro</td>	<td>Eli</td>	<td>75</td>	<td>24.37(PB)</td>	</tr>	</table>
 
+For November 24 - : 
+All records are for the second smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
+
+
 ---
 
 ## Daily records (Div 3)
 
-For September 15 - : 
+For September 15 - November 17: 
 All records are for the smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
 
 ### Thursday, September 15
@@ -157,7 +161,15 @@ Emori beat Dr. Vince this week!
 <td>Jigsaw Sudoku</td>	<td>Ali</td>	<td>36.24</td>	<td>9.19</td>	</tr>	</table>
 Indy beat Dr. Vince this week!
 
+### Thursday, November 17
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Kakurasu</td>	<td>Kaylin</td>	<td>3.56</td>	<td>3.24</td>	</tr>	
+<tr>	<td>**Shakashaka**</td>	<td>**Akhil**</td>	<td>**2.15**</td>	<td>**2.48(PB)**</td>	</tr>	
+<tr>	<td>Star Battle</td>	<td>James</td>	<td>3.12</td>	<td>1.19</td>	</tr>	</table>
+Akhil beat Dr. Vince this week!
 
+For November 24 - : 
+All records are for the second smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
 
 
 
