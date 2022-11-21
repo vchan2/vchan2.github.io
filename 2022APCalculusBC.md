@@ -68,14 +68,14 @@ Tentative schedule for upcoming classes:
     * Monday, Nov. 7: November Break
     * Wednesday, Nov. 9: November Break
     * Friday, Nov. 11: November Break
--->
-
   * Week of Nov. 14
     * Monday, Nov. 14: Mini-math (8.1-8.6), 8.7-8.8
     * Wednesday, Nov. 16: 8.7-8.8
     * Friday, Nov. 18: 8.9-8.12
+-->
+
   * Week of Nov. 21
-    * Monday, Nov. 21: 8.9-8.12
+    * Monday, Nov. 21: Mini-math (8.7-8.12), 8.13
     * Wednesday, Nov. 23: Unit 8 Review
     * Friday, Nov. 25: Unit 8 Review
   * Week of Nov. 28
