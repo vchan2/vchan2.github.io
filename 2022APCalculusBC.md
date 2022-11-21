@@ -13,10 +13,13 @@ Quick links
 
 ### Updates
 
+<!--
 I have completed marking Unit 6. Just to let you know, most questions were worth 2 or 3 points, and the total was 84 points on both tests combined. I'll speak more about this on Wednesday: I'd like everyone to reflect on the test and
   * make a prediction of your score
   * consider the extent to which you followed along with the material in class and the homework
   * consider whether you sought help early enough (remember, I have "office hours" every week)
+-->
+
 
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
@@ -283,9 +286,7 @@ NOTE: any material from Unit 1 to 5 is also fair game and may be useful/necessar
 -->
 
 
-
-<!--
-Unit 8 test is scheduled for <b>Friday, March 18</b> in-class. Unit 8 AP material is scheduled for <b>Monday, March 21</b> in-class. You should be proficient in all material contained in Unit 8. Note that this unit will be weighted much less than other units, since it is very short. More precisely, you should be able to:
+Unit 8 test is scheduled for <b>Monday, November 28</b> in-class (non-calculator) and <b>Wednesday, November 30</b> in-class (calculator). You should be proficient in all material contained in Unit 8. Note that this unit will be weighted much less than other units, since it is very short. More precisely, you should be able to:
   * Use the formula for the average value of a function to solve problems
   * Connect position, velocity, and acceleration of a function using integrals (includes distance and speed)
   * Use accumulation functions and integrals in applied contexts
@@ -296,7 +297,7 @@ Unit 8 test is scheduled for <b>Friday, March 18</b> in-class. Unit 8 AP materia
   * Find the volume of a solid using cross-sections
   * Find the volume of a solid of revolution using the disc/washer method
   * Find the arc length of a curve.
--->
+
 
 <!--
 Unit 7 test is tentatively scheduled for <b>Wednesday, April 6</b> in-class. Unit 8 AP material is tentatively scheduled for <b>Friday, April 8</b> in-class. You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
