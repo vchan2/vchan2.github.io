@@ -286,7 +286,7 @@ NOTE: any material from Unit 1 to 5 is also fair game and may be useful/necessar
 -->
 
 
-Unit 8 test is scheduled for <b>Monday, November 28</b> in-class (non-calculator) and <b>Wednesday, November 30</b> in-class (calculator). You should be proficient in all material contained in Unit 8. Note that this unit will be weighted much less than other units, since it is very short. More precisely, you should be able to:
+Unit 8 test is scheduled for <b>Monday, November 28</b> in-class (calculator) and <b>Wednesday, November 30</b> in-class (non-calculator). You should be proficient in all material contained in Unit 8. Note that this unit will be weighted much less than other units, since it is very short. More precisely, you should be able to:
   * Use the formula for the average value of a function to solve problems
   * Connect position, velocity, and acceleration of a function using integrals (includes distance and speed)
   * Use accumulation functions and integrals in applied contexts
