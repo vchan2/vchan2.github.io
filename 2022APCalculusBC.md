@@ -82,8 +82,8 @@ Tentative schedule for upcoming classes:
     * Wednesday, Nov. 23: Unit 8 Review
     * Friday, Nov. 25: Unit 8 Review
   * Week of Nov. 28
-    * Monday, Nov. 28: Unit 8 Test
-    * Wednesday, Nov. 30: Unit 8 Test
+    * Monday, Nov. 28: Unit 8 Test (calculator)
+    * Wednesday, Nov. 30: Unit 8 Test (non-calculator)
     * Friday, Dec. 2: 7.1-7.2
 
 
