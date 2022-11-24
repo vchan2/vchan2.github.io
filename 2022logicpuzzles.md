@@ -101,6 +101,13 @@ Starting from November 2, any of my times which are personal bests will be marke
 For November 24 - : 
 All records are for the second smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
 
+### Wednesday, November 23
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Heyawake</td>	<td>Jayden</td>	<td>51.06</td>	<td>34.97(PB)</td>	</tr>	
+<tr>	<td>Tents</td>	<td>Eli</td>	<td>14.44</td>	<td>10.85(PB)</td>	</tr>	
+<tr>	<td>Hitori</td>	<td>Jayden</td>	<td>182.55</td>	<td>71.71(PB)</td>	</tr>	
+<tr>	<td>Killer Sudoku</td>	<td></td>	<td></td>	<td>47.94(PB)</td>	</tr>	
+<tr>	<td>Aquarium</td>	<td></td>	<td></td>	<td>22.19(PB)</td>	</tr>	</table>
 
 ---
 
@@ -152,6 +159,8 @@ Emori beat Dr. Vince this week!
 <tr>	<td>Renzoku</td>	<td>Anna</td>	<td>11.12</td>	<td>7.34</td>	</tr>	
 <tr>	<td>Futoshiki</td>	<td>Emori</td>	<td>16.92</td>	<td>7.35</td>	</tr>	</table>
 
+Starting from October 27, any of my times which are personal bests will be marked with a "(PB)", to emphasize how fast the students are solving these puzzles.
+
 ### Thursday, October 27
 <table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
 <td>Skyscrapers</td>	<td>Emori</td>	<td>11.46</td>	<td>7.3</td>	</tr>	
@@ -171,6 +180,7 @@ Akhil beat Dr. Vince this week!
 For November 24 - : 
 All records are for the second smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
 
+### Thursday, November 24
 
 
 
