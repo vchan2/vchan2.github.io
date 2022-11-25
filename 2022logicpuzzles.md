@@ -181,6 +181,14 @@ For November 24 - :
 All records are for the second smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
 
 ### Thursday, November 24
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>**Tents**</td>	<td>**Emori**</td>	<td>**6.77**</td>	<td>**7.19(PB)**</td>	</tr>	
+<tr>	<td>Kakurasu</td>	<td>Indy</td>	<td>5.03</td>	<td>4.58(PB)</td>	</tr>	
+<tr>	<td>**Light Up**</td>	<td>**Emori**</td>	<td>**6.77**</td>	<td>**8.6(PB)**</td>	</tr>	
+<tr>	<td>Heyawake</td>	<td>Marshall</td>	<td>94.66</td>	<td>33.04(PB)</td>	</tr>	
+<tr>	<td>Nonograms</td>	<td>Olivia</td>	<td>84.29</td>	<td>34.32</td>	</tr>	</table>
+Emori beat Dr. Vince this week!
+
 
 
 
