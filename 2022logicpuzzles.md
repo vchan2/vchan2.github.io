@@ -159,15 +159,16 @@ Emori beat Dr. Vince this week!
 <tr>	<td>Renzoku</td>	<td>Anna</td>	<td>11.12</td>	<td>7.34</td>	</tr>	
 <tr>	<td>Futoshiki</td>	<td>Emori</td>	<td>16.92</td>	<td>7.35</td>	</tr>	</table>
 
+
 Starting from October 27, any of my times which are personal bests will be marked with a "(PB)", to emphasize how fast the students are solving these puzzles.
 
 ### Thursday, October 27
 <table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
-<td>Skyscrapers</td>	<td>Emori</td>	<td>11.46</td>	<td>7.3</td>	</tr>	
-<td>**Minesweeper**</td>	<td>**Indy**</td>	<td>**3.86**</td>	<td>**4.12**</td>	</tr>	
-<td>Hashi</td>	<td>Marshall</td>	<td>8.99</td>	<td>6.34</td>	</tr>	
-<td>Killer Sudoku</td>	<td>Marshall</td>	<td>18.25</td>	<td>11.51</td>	</tr>	
-<td>Jigsaw Sudoku</td>	<td>Ali</td>	<td>36.24</td>	<td>9.19</td>	</tr>	</table>
+<tr>	<td>Skyscrapers</td>	<td>Emori</td>	<td>11.46</td>	<td>7.3</td>	</tr>	
+<tr>	<td>**Minesweeper**</td>	<td>**Indy**</td>	<td>**3.86**</td>	<td>**4.12**</td>	</tr>	
+<tr>	<td>Hashi</td>	<td>Marshall</td>	<td>8.99</td>	<td>6.34</td>	</tr>	
+<tr>	<td>Killer Sudoku</td>	<td>Marshall</td>	<td>18.25</td>	<td>11.51</td>	</tr>	
+<tr>	<td>Jigsaw Sudoku</td>	<td>Ali</td>	<td>36.24</td>	<td>9.19</td>	</tr>	</table>
 Indy beat Dr. Vince this week!
 
 ### Thursday, November 17
