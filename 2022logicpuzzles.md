@@ -190,6 +190,13 @@ All records are for the second smallest and easiest version of the stated puzzle
 <tr>	<td>Nonograms</td>	<td>Olivia</td>	<td>84.29</td>	<td>34.32</td>	</tr>	</table>
 Emori beat Dr. Vince this week!
 
+### Thursday, December 1
+<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<td>Pipes</td>	<td>Marshall</td>	<td>13.06</td>	<td>9.75(PB)</td>	</tr>	
+<td>Slant</td>	<td>Anna</td>	<td>43.23</td>	<td>27.42(PB)</td>	</tr>	
+<td>LITS</td>	<td>Marshall</td>	<td>22.99</td>	<td>14.65(PB)</td>	</tr>	
+<td>Shakashaka</td>	<td>Indy</td>	<td>67.13</td>	<td>36.15(PB)</td>	</tr>	
+<td>Battleships</td>	<td>Olivia</td>	<td>23.82</td>	<td>12.62(PB)</td>	</tr>	</table>
 
 
 
