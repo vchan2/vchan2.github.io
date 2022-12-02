@@ -75,8 +75,6 @@ Tentative schedule for upcoming classes:
     * Monday, Nov. 14: Mini-math (8.1-8.6), 8.7-8.8
     * Wednesday, Nov. 16: 8.7-8.8
     * Friday, Nov. 18: 8.9-8.12
--->
-
   * Week of Nov. 21
     * Monday, Nov. 21: Mini-math (8.7-8.12), 8.13
     * Wednesday, Nov. 23: Unit 8 Review
@@ -85,7 +83,20 @@ Tentative schedule for upcoming classes:
     * Monday, Nov. 28: Unit 8 Test (calculator)
     * Wednesday, Nov. 30: Unit 8 Test (non-calculator)
     * Friday, Dec. 2: 7.1-7.2
+-->
 
+  * Week of Dec. 5
+    * Monday, Dec. 5: 7.3-7.4
+    * Wednesday, Dec. 7: 7.6-7.7
+    * Friday, Dec. 9: 7.5
+  * Week of Dec. 12
+    * Monday, Dec. 12: 7.8-7.9
+    * Wednesday, Dec. 14: Unit 7 Review
+    * Friday, Dec. 16: Unit 7 Test
+  * Week of Dec. 19
+    * Monday, Dec. 19: Unit 7 Test
+    * Wednesday, Dec. 21: ?
+    * Friday, Dec. 23: Winter Break
 
 
 <!--
