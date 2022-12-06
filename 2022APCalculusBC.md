@@ -296,7 +296,7 @@ Unit 6 test is scheduled for <b>Wednesday, October 19</b> (non-calculator) and <
 NOTE: any material from Unit 1 to 5 is also fair game and may be useful/necessary.
 -->
 
-
+<!--
 Unit 8 test is scheduled for <b>Monday, November 28</b> in-class (calculator) and <b>Wednesday, November 30</b> in-class (non-calculator). You should be proficient in all material contained in Unit 8. Note that this unit will be weighted much less than other units, since it is very short. More precisely, you should be able to:
   * Use the formula for the average value of a function to solve problems
   * Connect position, velocity, and acceleration of a function using integrals (includes distance and speed)
@@ -308,16 +308,17 @@ Unit 8 test is scheduled for <b>Monday, November 28</b> in-class (calculator) an
   * Find the volume of a solid using cross-sections
   * Find the volume of a solid of revolution using the disc/washer method
   * Find the arc length of a curve.
-
+-->
 
 <!--
 Unit 7 test is tentatively scheduled for <b>Wednesday, April 6</b> in-class. Unit 8 AP material is tentatively scheduled for <b>Friday, April 8</b> in-class. You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
   * Model and verify solutions to a differential equation
   * Find solutions to seprable DEs, both in general and for intial value problems
   * Solve exponential models with DEs
-  * (AP) Sketch slope fields
-  * (AP) Reason with slope fields
-  * (AP) Handle more challenging problems of the types above.
+  * Sketch slope fields
+  * Reason with slope fields
+  * Solve logistic models with DEs
+  * Approximate solutions to DEs using Euler's Method
 -->
 
 Final exam information: 8:00AM, Monday, May 8, 5th floor
@@ -542,7 +543,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 * Unit 8
   * <a href="https://vchan2.github.io/2022APCalculusBC/8_Volumes.pdf">Volumes practice 1</a> (<a href="https://vchan2.github.io/2022APCalculusBC/8_Volumes_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2022APCalculusBC/8_Volumes2.pdf">Volumes practice 2</a> (<a href="https://vchan2.github.io/2022APCalculusBC/8_Volumes2_sol.pdf">Solutions</a>)
-
+* Unit 7
+  * <a href="https://vchan2.github.io/2022APCalculusBC/7_Slope_Fields.pdf">Slope Fields practice 1</a> (<a href="https://vchan2.github.io/2022APCalculusBC/7_Slope_Fields_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2022APCalculusBC/7_Visualizing_Differential_Equations_Slope_Fields_practice.pdf">Slope Fields practice 2</a> (<a href="https://vchan2.github.io/2022APCalculusBC/7_Visualizing_Differential_Equations_Slope_Fields_practice_sol.pdf">Solutions</a>)
 
 * Mini-maths
   * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_16.pdf"> Mini-math for September 16 (1.1-1.11)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_16_sol.pdf">Solutions</a>)
