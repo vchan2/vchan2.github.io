@@ -109,6 +109,14 @@ All records are for the second smallest and easiest version of the stated puzzle
 <tr>	<td>Killer Sudoku</td>	<td></td>	<td></td>	<td>47.94(PB)</td>	</tr>	
 <tr>	<td>Aquarium</td>	<td></td>	<td></td>	<td>22.19(PB)</td>	</tr>	</table>
 
+### Wednesday, December 7
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>LITS</td>	<td>Lucas</td>	<td>15.69</td>	<td>15.64</td>	</tr>	
+<tr>	<td>Sudoku</td>	<td></td>	<td></td>	<td>167.93(PB)</td>	</tr>	
+<tr>	<td>Nonograms</td>	<td>Jayden</td>	<td>126</td>	<td>36.48</td>	</tr>	
+<tr>	<td>Stitches</td>	<td>Eli</td>	<td>21.79</td>	<td>16.85(PB)</td>	</tr>	
+<tr>	<td>Binairo</td>	<td>Kush</td>	<td>52.23</td>	<td>37</td>	</tr>	</table>
+
 ---
 
 ## Daily records (Div 3)
