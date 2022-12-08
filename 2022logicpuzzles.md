@@ -206,7 +206,14 @@ Emori beat Dr. Vince this week!
 <td>Shakashaka</td>	<td>Indy</td>	<td>67.13</td>	<td>36.15(PB)</td>	</tr>	
 <td>Battleships</td>	<td>Olivia</td>	<td>23.82</td>	<td>12.62(PB)</td>	</tr>	</table>
 
-
+### Thursday, December 8
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Masyu</td>	<td>Anna</td>	<td>44</td>	<td>26.49(PB)</td>	</tr>	
+<tr>	<td>**Galaxies**</td>	<td>**Anna**</td>	<td>**12.4**</td>	<td>**13.55(PB)**</td>	</tr>	
+<tr>	<td>Jigsaw Sudoku</td>	<td>Emori</td>	<td>80</td>	<td>24.73</td>	</tr>	
+<tr>	<td>**Shikaku**</td>	<td>**Emori**</td>	<td>**8.26**</td>	<td>**9.31(PB)**</td>	</tr>	
+<tr>	<td>Aquarium</td>	<td>Aidan</td>	<td>21.64</td>	<td>16.4(PB)</td>	</tr>	</table>
+Anna and Emori beat Dr. Vince this week!
 
 
 
