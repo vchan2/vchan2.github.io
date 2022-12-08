@@ -212,7 +212,7 @@ Emori beat Dr. Vince this week!
 <tr>	<td>**Galaxies**</td>	<td>**Anna**</td>	<td>**12.4**</td>	<td>**13.55(PB)**</td>	</tr>	
 <tr>	<td>Jigsaw Sudoku</td>	<td>Emori</td>	<td>80</td>	<td>24.73</td>	</tr>	
 <tr>	<td>**Shikaku**</td>	<td>**Emori**</td>	<td>**8.26**</td>	<td>**9.31(PB)**</td>	</tr>	
-<tr>	<td>Aquarium</td>	<td>Aidan</td>	<td>21.64</td>	<td>16.4(PB)</td>	</tr>	</table>
+<tr>	<td>Aquarium</td>	<td>Aidan</td>	<td>19.01</td>	<td>16.4(PB)</td>	</tr>	</table>
 Anna and Emori beat Dr. Vince this week!
 
 
