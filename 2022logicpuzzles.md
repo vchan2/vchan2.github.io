@@ -199,7 +199,7 @@ All records are for the second smallest and easiest version of the stated puzzle
 Emori beat Dr. Vince this week!
 
 ### Thursday, December 1
-<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<table><tr> <th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
 <td>Pipes</td>	<td>Marshall</td>	<td>13.06</td>	<td>9.75(PB)</td>	</tr>	
 <td>Slant</td>	<td>Anna</td>	<td>43.23</td>	<td>27.42(PB)</td>	</tr>	
 <td>LITS</td>	<td>Marshall</td>	<td>22.99</td>	<td>14.65(PB)</td>	</tr>	
