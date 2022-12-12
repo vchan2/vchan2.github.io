@@ -83,18 +83,18 @@ Tentative schedule for upcoming classes:
     * Monday, Nov. 28: Unit 8 Test (calculator)
     * Wednesday, Nov. 30: Unit 8 Test (non-calculator)
     * Friday, Dec. 2: 7.1-7.2
--->
-
   * Week of Dec. 5
     * Monday, Dec. 5: 7.3-7.4
     * Wednesday, Dec. 7: 7.6-7.7
     * Friday, Dec. 9: 7.5
+-->
+
   * Week of Dec. 12
-    * Monday, Dec. 12: 7.8-7.9
+    * Monday, Dec. 12: 7.8-7.9 (Mr. Andy will teach these sections)
     * Wednesday, Dec. 14: Unit 7 Review
-    * Friday, Dec. 16: Unit 7 Test
+    * Friday, Dec. 16: Unit 7 Review
   * Week of Dec. 19
-    * Monday, Dec. 19: Unit 7 Test
+    * Monday, Dec. 19: Unit 7 Review (Grade 12 Social pull-out)
     * Wednesday, Dec. 21: ?
     * Friday, Dec. 23: Winter Break
 
@@ -310,16 +310,15 @@ Unit 8 test is scheduled for <b>Monday, November 28</b> in-class (calculator) an
   * Find the arc length of a curve.
 -->
 
-<!--
-Unit 7 test is tentatively scheduled for <b>Wednesday, April 6</b> in-class. Unit 8 AP material is tentatively scheduled for <b>Friday, April 8</b> in-class. You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
+Unit 7 test is scheduled for the exam centre, starting December 16. You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
   * Model and verify solutions to a differential equation
-  * Find solutions to seprable DEs, both in general and for intial value problems
-  * Solve exponential models with DEs
   * Sketch slope fields
   * Reason with slope fields
-  * Solve logistic models with DEs
+  * Find solutions to seprable DEs, both in general and for intial value problems
+  * Solve and reason about exponential models with DEs
+  * Solve and reason about logistic models with DEs
   * Approximate solutions to DEs using Euler's Method
--->
+
 
 Final exam information: 8:00AM, Monday, May 8, 5th floor
 <img src="https://vchan2.github.io/2021Calculus/Exam_info.png">
