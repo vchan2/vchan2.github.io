@@ -117,6 +117,16 @@ All records are for the second smallest and easiest version of the stated puzzle
 <tr>	<td>Stitches</td>	<td>Eli</td>	<td>21.79</td>	<td>16.85(PB)</td>	</tr>	
 <tr>	<td>Binairo</td>	<td>Kush</td>	<td>52.23</td>	<td>37</td>	</tr>	</table>
 
+### Wednesday, December 14
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Slant</td>	<td>Eli</td>	<td>29</td>	<td>28.41</td>	</tr>	
+<tr>	<td>**Dominosa**</td>	<td>**Eli**</td>	<td>**8.45**</td>	<td>**11.29(PB)**</td>	</tr>	
+<tr>	<td>Futoshiki</td>	<td></td>	<td></td>	<td>19.65(PB)</td>	</tr>	
+<tr>	<td>Nurikabe</td>	<td>Kush</td>	<td>9.35</td>	<td>7.73(PB)</td>	</tr>	
+<tr>	<td>Mosaic</td>	<td>Jayden</td>	<td>38.15</td>	<td>16.95(PB)</td>	</tr>	</table>
+Eli beat Dr. Vince this week!
+
+
 ---
 
 ## Daily records (Div 3)
@@ -214,6 +224,8 @@ Emori beat Dr. Vince this week!
 <tr>	<td>**Shikaku**</td>	<td>**Emori**</td>	<td>**8.26**</td>	<td>**9.31(PB)**</td>	</tr>	
 <tr>	<td>Aquarium</td>	<td>Aidan</td>	<td>19.01</td>	<td>16.4(PB)</td>	</tr>	</table>
 Anna and Emori beat Dr. Vince this week!
+
+### Thursday, December 15
 
 
 
