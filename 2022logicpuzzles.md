@@ -126,6 +126,15 @@ All records are for the second smallest and easiest version of the stated puzzle
 <tr>	<td>Mosaic</td>	<td>Jayden</td>	<td>38.15</td>	<td>16.95(PB)</td>	</tr>	</table>
 Eli beat Dr. Vince this week!
 
+### Wednesday, December 21
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>**Shakashaka**</td>	<td>**Eli**</td>	<td>**22.17**</td>	<td>**42.69**</td>	</tr>	
+<tr>	<td>Minesweeper</td>	<td>Jayden</td>	<td>22.17</td>	<td>7.31(PB)</td>	</tr>	
+<tr>	<td>Kakuro</td>	<td></td>	<td></td>	<td>225.98</td>	</tr>	
+<tr>	<td>Kakurasu</td>	<td>Arjun</td>	<td>6.1</td>	<td>4.17(PB)</td>	</tr>	
+<tr>	<td>Skyscrapers</td>	<td>Eli</td>	<td>120</td>	<td>46.04(PB)</td>	</tr>	</table>
+Eli beat Dr. Vince this week!
+
 
 ---
 
@@ -226,6 +235,11 @@ Emori beat Dr. Vince this week!
 Anna and Emori beat Dr. Vince this week!
 
 ### Thursday, December 15
-
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Mosaic</td>	<td>Olivia</td>	<td>40.42</td>	<td>18.99</td>	</tr>	
+<tr>	<td>Hashi</td>	<td>Anna</td>	<td>10.66</td>	<td>8.66(PB)</td>	</tr>	
+<tr>	<td>Hitori</td>	<td>Olivia</td>	<td>95.63</td>	<td>73.74</td>	</tr>	
+<tr>	<td>Galaxies</td>	<td>Marshall</td>	<td>10.73</td>	<td>9.94(PB)</td>	</tr>	
+<tr>	<td>Nurikabe</td>	<td>Olivia</td>	<td>14.01</td>	<td>7.99</td>	</tr>	</table>
 
 
