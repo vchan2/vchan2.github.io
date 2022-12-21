@@ -310,7 +310,7 @@ Unit 8 test is scheduled for <b>Monday, November 28</b> in-class (calculator) an
   * Find the arc length of a curve.
 -->
 
-Unit 7 test is scheduled for the exam centre, starting December 16. You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
+Unit 7 test is scheduled for after the break. You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
   * Model and verify solutions to a differential equation
   * Sketch slope fields
   * Reason with slope fields
