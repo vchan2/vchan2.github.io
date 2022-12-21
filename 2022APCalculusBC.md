@@ -87,8 +87,6 @@ Tentative schedule for upcoming classes:
     * Monday, Dec. 5: 7.3-7.4
     * Wednesday, Dec. 7: 7.6-7.7
     * Friday, Dec. 9: 7.5
--->
-
   * Week of Dec. 12
     * Monday, Dec. 12: 7.8-7.9 (Mr. Andy will teach these sections)
     * Wednesday, Dec. 14: Unit 7 Review
@@ -97,6 +95,8 @@ Tentative schedule for upcoming classes:
     * Monday, Dec. 19: Unit 7 Review (Grade 12 Social pull-out)
     * Wednesday, Dec. 21: ?
     * Friday, Dec. 23: Winter Break
+-->
+
 
 
 <!--
@@ -665,8 +665,9 @@ Calculus-based:
 -->
 
 Assorted:
-* <a href="https://vincentchan02.wixsite.com/cosmospuzzle"> CoSMOS 2020 Challenge</a> 
+* <a href="https://vincentchan02.wixsite.com/cosmospuzzle">CoSMOS 2020 Challenge</a> 
 * <a href="https://vchan2.github.io/Challenges/10_2022_2023_digit_puzzle.pdf">Renert 10-year anniversary digit puzzle</a>
+* <a href="https://renertmath.github.io/Challenges/12Days2022.html">12 Days of ChrisMATH</a>
 
 <!--
 * <a href="https://vchan2.github.io/Challenges/2021-22Winter_Break.pdf"> Winter Break math challenges (2021) </a>
