@@ -668,7 +668,7 @@ Assorted:
 * <a href="https://vincentchan02.wixsite.com/cosmospuzzle">CoSMOS 2020 Challenge</a> 
 * <a href="https://vchan2.github.io/Challenges/10_2022_2023_digit_puzzle.pdf">Renert 10-year anniversary digit puzzle</a>
 * <a href="https://renertmath.github.io/Challenges/12Days2022.html">12 Days of ChrisMATH</a>
-* <a href="vchan2.github.io/Challenges/digit_puzzle_2023.pdf">2023 digit puzzle</a>: There will be up to 3 types of prizes:
+* <a href="https://vchan2.github.io/Challenges/digit_puzzle_2023.pdf">2023 digit puzzle</a>: There will be up to 3 types of prizes:
    * Best score(s) in class
    * Exceptionally creative solution (rarely given out)
    * If your score beats my score for any digit
