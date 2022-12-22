@@ -242,4 +242,10 @@ Anna and Emori beat Dr. Vince this week!
 <tr>	<td>Galaxies</td>	<td>Marshall</td>	<td>10.73</td>	<td>9.94(PB)</td>	</tr>	
 <tr>	<td>Nurikabe</td>	<td>Olivia</td>	<td>14.01</td>	<td>7.99</td>	</tr>	</table>
 
-
+### Thursday, December 22
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Skyscrapers</td>	<td>Olivia</td>	<td>108.67</td>	<td>30.95(PB)</td>	</tr>	
+<tr>	<td>Stitches</td>	<td>Marshall</td>	<td>56.98</td>	<td>18.12</td>	</tr>	
+<tr>	<td>Minesweeper</td>	<td>Landry</td>	<td>17.87</td>	<td>9.13</td>	</tr>	
+<tr>	<td>Slither Link</td>	<td>Anna</td>	<td>62.51</td>	<td>54.61(PB)</td>	</tr>	
+<tr>	<td>Kakuro</td>	<td>Olivia</td>	<td>211.94</td>	<td>208.85</td>	</tr>	</table>
