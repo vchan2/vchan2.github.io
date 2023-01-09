@@ -20,6 +20,9 @@ I have completed marking Unit 6. Just to let you know, most questions were worth
   * consider whether you sought help early enough (remember, I have "office hours" every week)
 -->
 
+<a href="https://vchan2.github.io/Challenges/digit_puzzle_2023.pdf">2023 digit puzzle</a> due by January 23, 2023.
+
+
 
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
@@ -96,7 +99,10 @@ Tentative schedule for upcoming classes:
     * Wednesday, Dec. 21: ?
     * Friday, Dec. 23: Winter Break
 -->
-
+  * Week of Jan. 9
+    * Monday, Jan. 9: Mini-math (7.1-7.5)
+    * Wednesday, Jan. 11: Mini-math (7.6-7.9)
+    * Friday, Jan. 13: Work period
 
 
 <!--
