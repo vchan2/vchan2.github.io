@@ -103,7 +103,10 @@ Tentative schedule for upcoming classes:
     * Monday, Jan. 9: Mini-math (7.1-7.5)
     * Wednesday, Jan. 11: Mini-math (7.6-7.9)
     * Friday, Jan. 13: Work period
-
+  * Week of Jan. 16
+    * Monday, Jan. 16: Unit 7 test
+    * Wednesday, Jan. 18: Unit 7 test
+    * Friday, Jan. 20: 9.1
 
 <!--
 AP Calculus Final Exam on Monday, May 24, in-school.
