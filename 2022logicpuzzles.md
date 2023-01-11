@@ -10,22 +10,32 @@
 * <a href="https://www.puzzle-futoshiki.com/">Futoshiki</a>
 * <a href="https://www.puzzle-galaxies.com/">Galaxies</a>
 * <a href="https://www.puzzle-bridges.com/">Hashi</a>
+* <a href="https://www.puzzle-heyawake.com/">Heyawake</a>
 * <a href="https://www.puzzle-hitori.com/">Hitori</a>
 * <a href="https://www.puzzle-jigsaw-sudoku.com/">Jigsaw Sudoku</a>
+* <a href="https://www.puzzle-kakurasu.com/">Kakurasu</a>
+* <a href="https://www.puzzle-kakuro.com/">Kakuro</a>
 * <a href="https://www.puzzle-killer-sudoku.com/">Killer Sudoku</a>
 * <a href="https://www.puzzle-light-up.com/">Light Up</a>
 * <a href="https://www.puzzle-lits.com/">LITS</a>
 * <a href="https://www.puzzle-masyu.com/">Masyu</a>
+* <a href="https://www.puzzle-minesweeeper.com/">Minesweeeper</a>
 * <a href="https://www.puzzle-minesweeper.com/mosaic-5x5-easy/">Mosaic</a>
 * <a href="https://www.puzzle-nonograms.com/">Nonograms</a>
+* <a href="https://www.puzzle-norinori.com/">Norinori</a>
+* <a href="https://www.puzzle-nurikabe.com/">Nurikabe</a>
 * <a href="https://www.puzzle-pipes.com/">Pipes</a>
 * <a href="https://www.puzzle-futoshiki.com/renzoku-4x4-easy/">Renzoku</a>
 * <a href="https://www.puzzle-shakashaka.com/">Shakashaka</a>
 * <a href="https://www.puzzle-shikaku.com/">Shikaku</a>
 * <a href="https://www.puzzle-shingoki.com/">Shingoki</a>
-* <a href="https://www.puzzle-skyscrapers.com/">Skyscraper</a>
+* <a href="https://www.puzzle-skyscrapers.com/">Skyscrapers</a>
 * <a href="https://www.puzzle-slant.com/">Slant</a>
+* <a href="https://www.puzzle-loop.com/">Slither Link</a>
 * <a href="https://www.puzzle-star-battle.com/">Star Battle</a>
+* <a href="https://www.puzzle-stitches.com/">Stitches</a>
+* <a href="https://www.puzzle-sudoku.com/">Sudoku</a>
+* <a href="https://www.puzzle-tapa.com/">Tapa</a>
 * <a href="https://www.puzzle-tents.com/">Tents</a>
 
 <!--
@@ -135,6 +145,14 @@ Eli beat Dr. Vince this week!
 <tr>	<td>Skyscrapers</td>	<td>Eli</td>	<td>120</td>	<td>46.04(PB)</td>	</tr>	</table>
 Eli beat Dr. Vince this week!
 
+### Wednesday, January 11
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Battleships</td>	<td>Jayden</td>	<td>32.13</td>	<td>24.07(PB)</td>	</tr>	
+<tr>	<td>**Galaxies**</td>	<td>**Lucas**</td>	<td>**7.79**</td>	<td>**8.36(PB)**</td>	</tr>	
+<tr>	<td>Jigsaw Sudoku</td>	<td>Eli</td>	<td>348.26</td>	<td>21.33(PB)</td>	</tr>	
+<tr>	<td>**Star Battle**</td>	<td>**Arjun**</td>	<td>**2.35**</td>	<td>**3.05**</td>	</tr>	
+<tr>	<td>Hashi</td>	<td>Eli</td>	<td>18.23</td>	<td>10.3</td>	</tr>	</table>
+Lucas and Arjun beat Dr. Vince this week!
 
 ---
 
@@ -249,3 +267,6 @@ Anna and Emori beat Dr. Vince this week!
 <tr>	<td>Minesweeper</td>	<td>Landry</td>	<td>17.87</td>	<td>9.13</td>	</tr>	
 <tr>	<td>Slither Link</td>	<td>Anna</td>	<td>62.51</td>	<td>54.61(PB)</td>	</tr>	
 <tr>	<td>Kakuro</td>	<td>Olivia</td>	<td>211.94</td>	<td>208.85</td>	</tr>	</table>
+
+### Thursday, January 12
+
