@@ -105,8 +105,8 @@ Tentative schedule for upcoming classes:
     * Friday, Jan. 13: Work period
   * Week of Jan. 16
     * Monday, Jan. 16: Unit 7 test
-    * Wednesday, Jan. 18: Unit 7 test
-    * Friday, Jan. 20: 9.1
+    * Wednesday, Jan. 18: Work period
+    * Friday, Jan. 20: Unit 7 test
 
 <!--
 AP Calculus Final Exam on Monday, May 24, in-school.
