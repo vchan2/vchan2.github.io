@@ -154,6 +154,15 @@ Eli beat Dr. Vince this week!
 <tr>	<td>Hashi</td>	<td>Eli</td>	<td>18.23</td>	<td>10.3</td>	</tr>	</table>
 Lucas and Arjun beat Dr. Vince this week!
 
+### Wednesday, January 18
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Slither Link</td>	<td>Jayden</td>	<td>79.44</td>	<td>29.27(PB)</td>	</tr>	
+<tr>	<td>Shingoki</td>	<td>Jayden</td>	<td>179.53</td>	<td>37.96(PB)</td>	</tr>	
+<tr>	<td>Renzoku</td>	<td>Eric</td>	<td>19.26</td>	<td>14.04(PB)</td>	</tr>	
+<tr>	<td>Light Up</td>	<td>Arjun</td>	<td>10.67</td>	<td>6.71(PB)</td>	</tr>	
+<tr>	<td>Tapa</td>	<td>Jayden</td>	<td>118.06</td>	<td>37.46(PB)</td>	</tr>	</table>
+
+
 ---
 
 ## Daily records (Div 3)
@@ -269,4 +278,19 @@ Anna and Emori beat Dr. Vince this week!
 <tr>	<td>Kakuro</td>	<td>Olivia</td>	<td>211.94</td>	<td>208.85</td>	</tr>	</table>
 
 ### Thursday, January 12
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th></th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Renzoku</td>	<td>Akhil</td>	<td>26.95</td>	<td>17.84(PB)</td>	</tr>	
+<tr>	<td>**Binairo**</td>	<td>**Anna**</td>	<td>**21.09**</td>	<td>**31.76**</td>	</tr>	
+<tr>	<td>Shingoki</td>	<td>Anna</td>	<td>47.63</td>	<td>41.39</td>	</tr>	
+<tr>	<td>Killer Sudoku</td>	<td>Marshall</td>	<td>84</td>	<td>42.86(PB)</td>	</tr>	
+<tr>	<td>Dominosa</td>	<td>Marshall</td>	<td>18.45</td>	<td>14.44</td>	</tr>	</table>
+Anna beat Dr. Vince this week!
 
+### Thursday, January 19
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Norinori</td>	<td>Marshall</td>	<td>11.48</td>	<td>7.74(PB)</td>	</tr>	
+<tr>	<td>Tapa</td>	<td>Marshall</td>	<td>60.69</td>	<td>46.1</td>	</tr>	
+<tr>	<td>Futoshiki</td>	<td>Marshall</td>	<td>52.08</td>	<td>13.63(PB)</td>	</tr>	
+<tr>	<td>**Star Battle**</td>	<td>**Anna**</td>	<td>**3.66**</td>	<td>**4.2**</td>	</tr>	
+<tr>	<td>Sudoku</td>	<td>Olivia</td>	<td>576.76</td>	<td>164.57(PB)</td>	</tr>	</table>
+Anna beat Dr. Vince this week!
