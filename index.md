@@ -26,6 +26,7 @@
 * <a href="https://vchan2.github.io/Challenges/Fruit_puzzle.pdf"> Fruit algebra puzzle - over 95% of people cannot solve this! </a>
 * <a href="https://renertmath.github.io/Challenges/12Days2022.html">12 Days of ChrisMATH</a>
 * <a href="https://vchan2.github.io/Challenges/digit_puzzle_2023.pdf">2023 digit puzzle</a>
+* <a href="https://vchan2.github.io/Challenges/digit_puzzle_2023_4dice.pdf">2023 4-dice puzzle</a>
 
 
 <!--
