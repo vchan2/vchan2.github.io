@@ -98,7 +98,6 @@ Tentative schedule for upcoming classes:
     * Monday, Dec. 19: Unit 7 Review (Grade 12 Social pull-out)
     * Wednesday, Dec. 21: ?
     * Friday, Dec. 23: Winter Break
--->
   * Week of Jan. 9
     * Monday, Jan. 9: Mini-math (7.1-7.5)
     * Wednesday, Jan. 11: Mini-math (7.6-7.9)
@@ -107,6 +106,16 @@ Tentative schedule for upcoming classes:
     * Monday, Jan. 16: Unit 7 test
     * Wednesday, Jan. 18: Work period
     * Friday, Jan. 20: Unit 7 test
+-->
+  * Week of Jan. 23
+    * Monday, Jan. 23: 9.1-9.3
+    * Wednesday, Jan. 25: 9.4-9.5
+    * Friday, Jan. 27: Mini-math
+  * Week of Jan. 30
+    * Monday, Jan. 30: 9.6-9.7
+    * Wednesday, Feb. 1: 9.8-9.9
+    * Friday, Feb. 3: Mini-math
+
 
 <!--
 AP Calculus Final Exam on Monday, May 24, in-school.
@@ -682,6 +691,7 @@ Assorted:
    * Best score(s) in class
    * Exceptionally creative solution (rarely given out)
    * If your score beats my score for any digit
+* <a href="https://vchan2.github.io/Challenges/digit_puzzle_2023_4dice.pdf">2023 4-dice puzzle</a>
 
 
 
