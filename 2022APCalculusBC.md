@@ -108,8 +108,8 @@ Tentative schedule for upcoming classes:
     * Friday, Jan. 20: Unit 7 test
 -->
   * Week of Jan. 23
-    * Monday, Jan. 23: 9.1-9.3
-    * Wednesday, Jan. 25: 9.4-9.5
+    * Monday, Jan. 23: 9.1-9.2
+    * Wednesday, Jan. 25: 9.3-9.5
     * Friday, Jan. 27: Mini-math
   * Week of Jan. 30
     * Monday, Jan. 30: 9.6-9.7
