@@ -1,5 +1,8 @@
 ## Updates
 
+
+<a href="https://docs.google.com/spreadsheets/d/180rt3hRlmj0UojU24CZ0DFQ9U49IDkrhj02YfviupmE/edit?usp=sharing">Jan 25 records</a>
+
 ---
 
 ## Nikoli-style Puzzles
