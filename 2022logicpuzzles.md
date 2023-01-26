@@ -1,8 +1,6 @@
 ## Updates
 
 
-<a href="https://docs.google.com/spreadsheets/d/180rt3hRlmj0UojU24CZ0DFQ9U49IDkrhj02YfviupmE/edit?usp=sharing">Jan 26 records</a>
-
 ---
 
 ## Nikoli-style Puzzles
@@ -337,3 +335,43 @@ Anna beat Dr. Vince this week!
 <tr>	<td>**Star Battle**</td>	<td>**Anna**</td>	<td>**3.66**</td>	<td>**4.2**</td>	</tr>	
 <tr>	<td>Sudoku</td>	<td>Olivia</td>	<td>576.76</td>	<td>164.57(PB)</td>	</tr>	</table>
 Anna beat Dr. Vince this week!
+
+For the last day of the term 1 elective, every record is for the smallest size of puzzle.
+
+### Wednesday, January 26
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Aquarium</td>	<td>Aidan</td>	<td>5.26</td>	<td>2.92(PB)</td>	</tr>	
+<tr>	<td>Battleships</td>	<td>Marshall</td>	<td>8.91</td>	<td>4.83</td>	</tr>	
+<tr>	<td>**Binairo**</td>	<td>**Anna**</td>	<td>**10.51**</td>	<td>**14.35(PB)**</td>	</tr>	
+<tr>	<td>Dominosa</td>	<td>Marshall</td>	<td>7.58</td>	<td>2.66(PB)</td>	</tr>	
+<tr>	<td>Futoshiki</td>	<td>Marshall</td>	<td>10.9</td>	<td>8.45</td>	</tr>	
+<tr>	<td>Galaxies</td>	<td>Anna</td>	<td>4.22</td>	<td>4.02</td>	</tr>	
+<tr>	<td>**Hashi**</td>	<td>**Anna**</td>	<td>**3.62**</td>	<td>**5.13**</td>	</tr>	
+<tr>	<td>Heyawake</td>	<td>Marshall</td>	<td>28.31</td>	<td>16.51</td>	</tr>	
+<tr>	<td>Hitori</td>	<td>Ali</td>	<td>17.85</td>	<td>9.07</td>	</tr>	
+<tr>	<td>Jigsaw Sudoku</td>	<td>Ali</td>	<td>19.48</td>	<td>11.14</td>	</tr>	
+<tr>	<td>Kakurasu</td>	<td>Indy</td>	<td>6.91</td>	<td>3.48</td>	</tr>	
+<tr>	<td>Kakuro</td>	<td>Olivia</td>	<td>42.08</td>	<td>24.67</td>	</tr>	
+<tr>	<td>Killer Sudoku</td>	<td>Marshall</td>	<td>9.96</td>	<td>7.74(PB)</td>	</tr>	
+<tr>	<td>Light Up</td>	<td>Emori</td>	<td>5.95</td>	<td>3.49</td>	</tr>	
+<tr>	<td>LITS</td>	<td>Marshall</td>	<td>6.59</td>	<td>6.15</td>	</tr>	
+<tr>	<td>Masyu</td>	<td>Anna</td>	<td>13.77</td>	<td>12.97</td>	</tr>	
+<tr>	<td>Minesweeper</td>	<td>Indy</td>	<td>4.1</td>	<td>2.92(PB)</td>	</tr>	
+<tr>	<td>Mosaic</td>	<td>Indy</td>	<td>16.81</td>	<td>6.98</td>	</tr>	
+<tr>	<td>Nonograms</td>	<td>Anna</td>	<td>5.96</td>	<td>5.65(PB)</td>	</tr>	
+<tr>	<td>Norinori</td>	<td>Marshall</td>	<td>4.3</td>	<td>4.25</td>	</tr>	
+<tr>	<td>Nurikabe</td>	<td>Olivia</td>	<td>9.04</td>	<td>3.35</td>	</tr>	
+<tr>	<td>**Pipes**</td>	<td>**Landry**</td>	<td>**3.45**</td>	<td>**4.49(PB)**</td>	</tr>	
+<tr>	<td>Renzoku</td>	<td>Anna</td>	<td>9.73</td>	<td>7</td>	</tr>	
+<tr>	<td>**Shakashaka**</td>	<td>**Akhil**</td>	<td>**2.55**</td>	<td>**4.78**</td>	</tr>	
+<tr>	<td>**Shikaku**</td>	<td>**Emori**</td>	<td>**3.16**</td>	<td>**5.12**</td>	</tr>	
+<tr>	<td>Shingoki</td>	<td>Anna</td>	<td>13.6</td>	<td>13.46(PB)</td>	</tr>	
+<tr>	<td>Skyscrapers</td>	<td>Ali</td>	<td>17.34</td>	<td>8.88</td>	</tr>	
+<tr>	<td>**Slant**</td>	<td>**Anna**</td>	<td>**12.12**</td>	<td>**12.26**</td>	</tr>	
+<tr>	<td>Slither Link</td>	<td>Anna</td>	<td>16.67</td>	<td>13.78</td>	</tr>	
+<tr>	<td>Star Battle</td>	<td>Marshall</td>	<td>1.65</td>	<td>1.05</td>	</tr>	
+<tr>	<td>Stitches</td>	<td>Marshall</td>	<td>11.21</td>	<td>7.19</td>	</tr>	
+<tr>	<td>Sudoku</td>	<td>AI</td>	<td>70.82</td>	<td>61.04</td>	</tr>	
+<tr>	<td>Tapa</td>	<td>Kaylin</td>	<td>9.54</td>	<td>8.9</td>	</tr>	
+<tr>	<td>Tents</td>	<td>Anna</td>	<td>4.48</td>	<td>3.33(PB)</td>	</tr>	</table>
+Anna had the most student records, at 10. Anna beat Dr. Vince 3 times, and Landry, Akhil, and Emori each beat Dr. Vince once.
