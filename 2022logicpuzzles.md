@@ -1,7 +1,7 @@
 ## Updates
 
 
-<a href="https://docs.google.com/spreadsheets/d/180rt3hRlmj0UojU24CZ0DFQ9U49IDkrhj02YfviupmE/edit?usp=sharing">Jan 25 records</a>
+<a href="https://docs.google.com/spreadsheets/d/180rt3hRlmj0UojU24CZ0DFQ9U49IDkrhj02YfviupmE/edit?usp=sharing">Jan 26 records</a>
 
 ---
 
@@ -111,7 +111,7 @@ Starting from November 2, any of my times which are personal bests will be marke
 <tr>	<td>Hitori</td>	<td>Eric</td>	<td>9.26</td>	<td>7.79(PB)</td>	</tr>	
 <tr>	<td>Kakuro</td>	<td>Eli</td>	<td>75</td>	<td>24.37(PB)</td>	</tr>	</table>
 
-For November 24 - : 
+For November 24 - January 18: 
 All records are for the second smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
 
 ### Wednesday, November 23
@@ -164,6 +164,46 @@ Lucas and Arjun beat Dr. Vince this week!
 <tr>	<td>Renzoku</td>	<td>Eric</td>	<td>19.26</td>	<td>14.04(PB)</td>	</tr>	
 <tr>	<td>Light Up</td>	<td>Arjun</td>	<td>10.67</td>	<td>6.71(PB)</td>	</tr>	
 <tr>	<td>Tapa</td>	<td>Jayden</td>	<td>118.06</td>	<td>37.46(PB)</td>	</tr>	</table>
+
+For the last day of the term 1 elective, every record is for the smallest size of puzzle.
+
+### Wednesday, January 25
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Aquarium</td>	<td>Jayden</td>	<td>22</td>	<td>3.5(PB)</td>	</tr>	
+<tr>	<td>Battleships</td>	<td>Jayden</td>	<td>12.27</td>	<td>4.73(PB)</td>	</tr>	
+<tr>	<td>Binairo</td>	<td>Kush</td>	<td>23.72</td>	<td>16.67(PB)</td>	</tr>	
+<tr>	<td>Dominosa</td>	<td>Eli</td>	<td>4.38</td>	<td>2.73(PB)</td>	</tr>	
+<tr>	<td>Futoshiki</td>	<td>Arjun</td>	<td>9.92</td>	<td>7.26</td>	</tr>	
+<tr>	<td>**Galaxies**</td>	<td>**Lucas**</td>	<td>**1.91**</td>	<td>**4.11**</td>	</tr>	
+<tr>	<td>Hashi</td>	<td>Eli</td>	<td>8.93</td>	<td>4.82(PB)</td>	</tr>	
+<tr>	<td>Heyawake</td>	<td>Jayden</td>	<td>30.69</td>	<td>14.48(PB)</td>	</tr>	
+<tr>	<td>Hitori</td>	<td>Jayden</td>	<td>10.08</td>	<td>7.98</td>	</tr>	
+<tr>	<td>Jigsaw Sudoku</td>	<td>Kush</td>	<td>15.79</td>	<td>10.9</td>	</tr>	
+<tr>	<td>**Kakurasu**</td>	<td>**Lucas**</td>	<td>**2.75**</td>	<td>**3.04**</td>	</tr>	
+<tr>	<td>Kakuro</td>	<td>Eli</td>	<td>92</td>	<td>58.24</td>	</tr>	
+<tr>	<td>Killer Sudoku</td>	<td>Eli</td>	<td>81</td>	<td>8.24</td>	</tr>	
+<tr>	<td>Light Up</td>	<td>Arjun</td>	<td>3.96</td>	<td>3.32</td>	</tr>	
+<tr>	<td>LITS</td>	<td>Lucas</td>	<td>6.28</td>	<td>6.13</td>	</tr>	
+<tr>	<td>Masyu</td>	<td>Jayden</td>	<td>26.04</td>	<td>10.62</td>	</tr>	
+<tr>	<td>Nonograms</td>	<td>Jayden</td>	<td>11.59</td>	<td>5.7(PB)</td>	</tr>	
+<tr>	<td>Nurikabe</td>	<td>Kush</td>	<td>4.32</td>	<td>3.72</td>	</tr>	
+<tr>	<td>**Pipes**</td>	<td>**Eli**</td>	<td>**5.43**</td>	<td>**6.22**</td>	</tr>	
+<tr>	<td>**Shakashaka**</td>	<td>**Lucas**</td>	<td>**1.48**</td>	<td>**4.6**</td>	</tr>	
+<tr>	<td>Shikaku</td>	<td>Arjun</td>	<td>4.2</td>	<td>4.18(PB)</td>	</tr>	
+<tr>	<td>Shingoki</td>	<td>Jayden</td>	<td>19.32</td>	<td>16.47</td>	</tr>	
+<tr>	<td>Skyscrapers</td>	<td>Eli</td>	<td>15.11</td>	<td>8.7</td>	</tr>	
+<tr>	<td>Slither Link</td>	<td>Jayden</td>	<td>23.34</td>	<td>9.54(PB)</td>	</tr>	
+<tr>	<td>Star Battle</td>	<td>Arjun</td>	<td>1.71</td>	<td>1.29</td>	</tr>	
+<tr>	<td>Stitches</td>	<td>Jayden</td>	<td>5.31</td>	<td>5.05(PB)</td>	</tr>	
+<tr>	<td>Sudoku</td>	<td>Kush</td>	<td>89.81</td>	<td>56.87</td>	</tr>	
+<tr>	<td>Tapa</td>	<td>Jayden</td>	<td>9.49</td>	<td>7.86</td>	</tr>	
+<tr>	<td>Tents</td>	<td>Eli</td>	<td>6.29</td>	<td>3.42(PB)</td>	</tr>	
+<tr>	<td>Slant</td>	<td>Eli</td>	<td>15.99</td>	<td>14.48</td>	</tr>	
+<tr>	<td>Minesweeper</td>	<td>Jayden</td>	<td>10.1</td>	<td>3.37(PB)</td>	</tr>	
+<tr>	<td>Mosaic</td>	<td>Jayden</td>	<td>15.53</td>	<td>5.71(PB)</td>	</tr>	
+<tr>	<td>Renzoku</td>	<td>Arjun</td>	<td>7.34</td>	<td>6.46(PB)</td>	</tr>	
+<tr>	<td>Norinori</td>	<td>Lucas</td>	<td>5.52</td>	<td>4.05(PB)</td>	</tr>	</table>
+Jayden had the most student records, at 12. Lucas beat Dr. Vince 3 times and Eli beat Dr. Vince once.
 
 
 ---
@@ -235,7 +275,7 @@ Indy beat Dr. Vince this week!
 <tr>	<td>Star Battle</td>	<td>James</td>	<td>3.12</td>	<td>1.19</td>	</tr>	</table>
 Akhil beat Dr. Vince this week!
 
-For November 24 - : 
+For November 24 - January 19: 
 All records are for the second smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
 
 ### Thursday, November 24
