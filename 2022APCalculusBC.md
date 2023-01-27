@@ -571,6 +571,8 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_11_14.pdf"> Mini-math for November 14 (8.1-8.6)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_11_14_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_11_21.pdf"> Mini-math for November 21 (8.7-8.12)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_11_21_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2023_01_09.pdf"> Mini-math for January 9 (7.1-7.5)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2023_01_09_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2023_01_11.pdf"> Mini-math for January 11 (7.6-7.9)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2023_01_11_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2023_01_27.pdf"> Mini-math for January 27 (9.1-9.5)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2023_01_27_sol.pdf">Solutions</a>)
 
 
 
