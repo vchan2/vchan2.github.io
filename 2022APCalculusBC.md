@@ -576,23 +576,6 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 
 
-<!--
-<a href="2021Calculus/calc_readiness_sol.pdf">Answers for calculus readiness test</a>
-* Mini-maths
-  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_17.pdf"> Mini-math for September 17 (1.1-1.11) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_17_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_24.pdf"> Mini-math for September 24 (1.12-1.16) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_09_24_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_10_08.pdf"> Mini-math for October 8 (2.1-2.10) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_10_08_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_10_25.pdf"> Mini-math for October 25 (3.1-3.6) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_10_25_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_11_24.pdf"> Mini-math for November 24 (4.1-4.7) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2021_11_24_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_01_14.pdf"> Mini-math for January 24 (5.1-5.12) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_01_14_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_01_28.pdf"> Mini-math for January 28 (6.1-6.4) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_01_28_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_02_04.pdf"> Mini-math for February 4 (6.5-6.9) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_02_04_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_02_11.pdf"> Mini-math for February 11 (6.9-6.10,6.14) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_02_11_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_03_04.pdf"> Mini-math for March 4 (8.1-8.6) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_03_04_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_03_11.pdf"> Mini-math for March 14 (8.7-8.12) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_03_14_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_03_25.pdf"> Mini-math for March 25 (7.1-7.4) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_03_25_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_04_01.pdf"> Mini-math for April 1 (7.6-7.8) </a> (<a href="https://vchan2.github.io/2021Calculus/mm/Mini-math_Div3:4_2022_04_01_sol.pdf">Solutions</a>)
--->
 
 <!--
 * Derivatives
@@ -626,26 +609,6 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 -->
 
 <!--
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28.pdf"> Mini-math for September 28 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_09_28_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_05.pdf"> Mini-math for October 5 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_05_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_14.pdf"> Mini-math for October 14 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_14_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_19.pdf"> Mini-math for October 19 (derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_19_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_26.pdf"> Mini-math for October 26 (applications of derivatives) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_10_26_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_02.pdf"> Mini-math for November 2 (applications of derivatives (related rates)) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_02_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3꞉4_2020_11_16.pdf"> Mini-math for November 16 (extreme values) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_16_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_23.pdf"> Mini-math for November 23 (extreme values) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_23_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30.pdf"> Mini-math for November 30 (optimization) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_11_30_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_07.pdf"> Mini-math for December 7 (asymptotes and concavity) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_07_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_14.pdf"> Mini-math for December 14 (concavity and curve sketching) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2020_12_14_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_04.pdf"> Mini-math for January 4 (trigonometry review) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_04_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_11.pdf"> Mini-math for January 11 (derivatives of trigonometry) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_11_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_18.pdf"> Mini-math for January 18 (derivatives of trigonometry) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_18_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_25.pdf"> Mini-math for January 25 (derivatives of inverse trig) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_01_25_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_02_01.pdf"> Mini-math for February 1 (derivatives of inverses including logarithms and general exponentials) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_02_01_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_02_10.pdf"> Mini-math for February 10 (Riemann sums) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_02_10_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_03_01.pdf"> Mini-math for March 1 (definite integrals) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_03_01_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_03_08.pdf"> Mini-math for March 8 (indefinite integrals and Substitution Rule) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_03_08_sol.pdf">Solution</a>)
-  * <a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_04_12.pdf"> Mini-math for April 12 (differential equations) </a> (<a href="https://vchan2.github.io/2020Calculus/mm/Mini-math_Div3:4_2021_04_12_sol.pdf">Solution</a>)
 * <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
 * Unit 1 - Limits and continuity
   * <a href="https://vchan2.github.io/2020Calculus/Squeeze.pdf"> Squeeze Theorem </a>
@@ -673,17 +636,18 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 ### Challenges 
 
-<!--
 Calculus-based:
-* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit01_01A_weird_limit.pdf"> Unit 1: A weird limit </a> - Find an example of a function whose limit at 0 from the right DNE.
-* <a href="https://vchan2.github.io/2021Calculus/Unit01_02Continuous_nowhere.pdf"> Unit 1: Continuous nowhere </a> - Does there exist a function which is continuous nowhere?
-* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit01_03Continuous_on_irrationals.pdf"> Unit 1: Continuous on the irrationals </a> - Does there exist a function which is continuous only on the irrationals?
-* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit01_04Continuous_on_rationals.pdf"> Unit 1: Continuous on the rationals </a> - Does there exist a function which is continuous only on the rationals?
-* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit02_01Continuous_but_not_differentiable.pdf"> Unit 2: Continuous but not differentiable </a> - Does there exist a function which is continuous everywhere but not differentiable infinitely often?
-* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit02_02Differentiability_for_piecewise.pdf"> Unit 2: Differentiability for piecewise </a> - Prove you can use derivatives from the left and right to determine differentiability for piecewise functions.
-* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit02_01Continuous_but_not_differentiable.pdf"> Unit 3: Continuous but nowhere differentiable </a> - Does there exist a function which is continuous everywhere but differentiable nowhere?
-* <a href="https://vchan2.github.io/2021Calculus/challenge/Unit07_01separation_of_variables_division_by_0.pdf"> Unit 7: division by 0 in separation of variables </a> - Find an example where you have to be more careful about separation of variables
+<!--
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit01_01A_weird_limit.pdf"> Unit 1: A weird limit </a> - Find an example of a function whose limit at 0 from the right DNE.
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit01_02Continuous_nowhere.pdf"> Unit 1: Continuous nowhere </a> - Does there exist a function which is continuous nowhere?
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit01_03Continuous_on_irrationals.pdf"> Unit 1: Continuous on the irrationals </a> - Does there exist a function which is continuous only on the irrationals?
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit01_04Continuous_on_rationals.pdf"> Unit 1: Continuous on the rationals </a> - Does there exist a function which is continuous only on the rationals?
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit02_01Continuous_but_not_differentiable.pdf"> Unit 2: Continuous but not differentiable </a> - Does there exist a function which is continuous everywhere but not differentiable infinitely often?
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit02_02Differentiability_for_piecewise.pdf"> Unit 2: Differentiability for piecewise </a> - Prove you can use derivatives from the left and right to determine differentiability for piecewise functions.
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit02_01Continuous_but_not_differentiable.pdf"> Unit 3: Continuous but nowhere differentiable </a> - Does there exist a function which is continuous everywhere but differentiable nowhere?
 -->
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit07_01separation_of_variables_division_by_0.pdf"> Unit 7: division by 0 in separation of variables </a> - Find an example where you have to be more careful about separation of variables
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit09_bat_curve.pdf"> Unit 9: bat curve </a> - Find a function whose graph matches mine
 
 Assorted:
 * <a href="https://vincentchan02.wixsite.com/cosmospuzzle">CoSMOS 2020 Challenge</a> 
