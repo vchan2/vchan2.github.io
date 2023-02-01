@@ -6,6 +6,7 @@
 * [Grade 4/5](2022gr45.md)
 * [Grade 6](2022gr6.md)
 * [Division 3/4 (AP Calculus BC)](2022APCalculusBC.md)
+* [Division 3/4 (Discrete Math)](2022DiscreteMath.md)
 
 <!--
 * [Division 4 (Linear Algebra)](2022LinearAlgebra.md)
