@@ -34,6 +34,7 @@ Tentative schedule for upcoming classes:
 
 ### Exams
 
+Chapter 1 test scheduled for Tuesday, Jan. 31.
 
 
 ---
@@ -41,6 +42,8 @@ Tentative schedule for upcoming classes:
 ### Homework
 
 Thursday, Feb. 2: 1.1 and half of 1.2 (light-coloured questions)
+
+Monday, Feb. 6: Rest of 1.2 and all of 1.3 (light-coloured questions)
 
 <!--
 1.2) 3, 5, 6, 12, 15, 19, 20, 27, 32, 46, 57, 58
