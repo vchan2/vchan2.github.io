@@ -1,6 +1,8 @@
 ## Updates
 
 
+<a href="https://docs.google.com/spreadsheets/d/1Qf3lRUJuGc7Vow7OtxE9POu-dIQWr7e2Z0L8OLlQFYk/edit?usp=sharing">Feb 6 records</a>
+
 ---
 
 ## Nikoli-style Puzzles
