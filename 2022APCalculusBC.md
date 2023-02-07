@@ -339,6 +339,7 @@ Unit 8 test is scheduled for <b>Monday, November 28</b> in-class (calculator) an
   * Find the arc length of a curve.
 -->
 
+<!--
 Unit 7 test is scheduled for <b>Monday, January 16</b> in-class (non-calculator) and <b>Friday, January 20</b> in-class (calculator). You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
   * Model and verify solutions to a differential equation
   * Sketch slope fields
@@ -347,7 +348,18 @@ Unit 7 test is scheduled for <b>Monday, January 16</b> in-class (non-calculator)
   * Solve and reason about exponential models with DEs
   * Solve and reason about logistic models with DEs
   * Approximate solutions to DEs using Euler's Method
+-->
 
+Unit 9 test is scheduled for <b>Monday, February 13</b> in-class (calculator) and <b>Wednesday, February 15</b> in-class (non-calculator). You should be proficient in all material contained in Unit 9. More precisely, you should be able to:
+  * Convert between parametric form and Cartesian form
+  * Calculate the first and second derivatives in parametric form
+  * Determine where a graph has a horizontal or vertical tangent
+  * Find derivatives and integrals of vector-valued functions
+  * Find the arc length of a parametric curve
+  * Convert between polar form and Cartesian form
+  * Find the first and second derivatives in polar form (special case of parametric)
+  * Find the area of polar curves
+  * Find the area between polar curves
 
 Final exam information: 8:00AM, Monday, May 8, 5th floor
 <img src="https://vchan2.github.io/2021Calculus/Exam_info.png">
