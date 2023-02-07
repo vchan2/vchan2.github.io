@@ -13,6 +13,8 @@ Quick links
 
 ### Updates
 
+Please bring your calculator to class tomorrow for the mini-math.
+
 <!--
 I have completed marking Unit 6. Just to let you know, most questions were worth 2 or 3 points, and the total was 84 points on both tests combined. I'll speak more about this on Wednesday: I'd like everyone to reflect on the test and
   * make a prediction of your score
@@ -106,15 +108,24 @@ Tentative schedule for upcoming classes:
     * Monday, Jan. 16: Unit 7 test
     * Wednesday, Jan. 18: Work period
     * Friday, Jan. 20: Unit 7 test
--->
   * Week of Jan. 23
     * Monday, Jan. 23: 9.1-9.2
     * Wednesday, Jan. 25: 9.3-9.5
     * Friday, Jan. 27: Mini-math
   * Week of Jan. 30
     * Monday, Jan. 30: 9.6-9.7
-    * Wednesday, Feb. 1: 9.8-9.9
-    * Friday, Feb. 3: Mini-math
+    * Wednesday, Feb. 1: 9.7-9.8
+    * Friday, Feb. 3: 9.8
+-->
+
+  * Week of Feb. 6
+    * Monday, Feb. 6: 9.9
+    * Wednesday, Feb. 8: Mini-math
+    * Friday, Feb. 10: Unit 9 review
+  * Week of Feb. 13
+    * Monday, Feb. 13: Unit 9 test
+    * Wednesday, Feb. 15: Unit 9 test
+    * Friday, Feb. 17: 
 
 
 <!--
