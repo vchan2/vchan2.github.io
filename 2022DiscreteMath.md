@@ -26,7 +26,7 @@ Tentative schedule for upcoming classes:
     * Thursday, Feb. 2: 1.2-1.3
   * Week of Feb. 6
     * Tuesday, Feb. 7: Chapter 1 test
-    * Thursday, Feb. 9: 2.1-2.2
+    * Thursday, Feb. 9: 2.1
 
 
 
