@@ -51,7 +51,7 @@
 
 ---
 
-## Daily records (Div 2)
+## Daily records Term 1 (Div 2)
 
 For September 14 - November 17: 
 All records are for the smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
@@ -212,7 +212,7 @@ Jayden had the most student records, at 12. Lucas beat Dr. Vince 3 times and Eli
 
 ---
 
-## Daily records (Div 3)
+## Daily records Term 1 (Div 3)
 
 For September 15 - November 17: 
 All records are for the smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
@@ -381,3 +381,26 @@ For the last day of the term 1 elective, every record is for the smallest size o
 <tr>	<td>Tapa</td>	<td>Kaylin</td>	<td>9.54</td>	<td>8.9</td>	</tr>	
 <tr>	<td>Tents</td>	<td>Anna</td>	<td>4.48</td>	<td>3.33(PB)</td>	</tr>	</table>
 Anna had the most student records, at 10. Anna beat Dr. Vince 3 times, and Landry, Akhil, and Emori each beat Dr. Vince once.
+
+---
+
+## Daily records Term 2 (Div 2)
+
+### Thursday, February 9
+
+
+---
+
+## Daily records Term 2 (Div 3)
+
+For February 6 - : 
+All records are for the smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
+
+### Monday, February 6
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>LITS</td>	<td>Marshall</td>	<td>9.03</td>	<td>8.07</td>	</tr>	
+<tr>	<td>**Shikaku**</td>	<td>**Emori**</td>	<td>**3.59**</td>	<td>**6.09**</td>	</tr>	
+<tr>	<td>Nurikabe</td>	<td>Emori</td>	<td>3.85</td>	<td>3.76</td>	</tr>	
+<tr>	<td>Aquarium</td>	<td>Aidan</td>	<td>4.18</td>	<td>3.54</td>	</tr>	
+<tr>	<td>**Pipes**</td>	<td>**Emori**</td>	<td>**5.33**</td>	<td>**7.37**</td>	</tr>	</table>
+Emori beat Dr. Vince this week.
