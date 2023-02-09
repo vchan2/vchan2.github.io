@@ -27,6 +27,18 @@ Tentative schedule for upcoming classes:
   * Week of Feb. 6
     * Tuesday, Feb. 7: Chapter 1 test
     * Thursday, Feb. 9: 2.1
+  * Week of Feb. 13
+    * Tuesday, Feb. 14: 2.1-2.2
+    * Thursday, Feb. 16: Model UN
+  * Week of Feb. 20
+    * Tuesday, Feb. 21: February Break
+    * Thursday, Feb. 23: February Break
+  * Week of Feb. 27
+    * Tuesday, Feb. 28: 2.2-2.3
+    * Thursday, Mar. 2: Chapter 2 review
+  * Week of Mar. 6
+    * Tuesday, Mar. 7: Chapter 2 test
+    * Thursday, Mar. 9: 
 
 
 
@@ -41,9 +53,14 @@ Chapter 1 test scheduled for Tuesday, Jan. 31.
 
 ### Homework
 
+<!--
 Thursday, Feb. 2: 1.1 and half of 1.2 (light-coloured questions)
-
 Monday, Feb. 6: Rest of 1.2 and all of 1.3 (light-coloured questions)
+-->
+
+Monday, Feb. 13: 2.1 (light-coloured questions up to 47)
+
+
 
 <!--
 1.2) 3, 5, 6, 12, 15, 19, 20, 27, 32, 46, 57, 58
