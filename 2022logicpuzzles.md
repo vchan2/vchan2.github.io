@@ -386,8 +386,16 @@ Anna had the most student records, at 10. Anna beat Dr. Vince 3 times, and Landr
 
 ## Daily records Term 2 (Div 2)
 
-### Thursday, February 9
+For February 6 - : 
+All records are for the smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
 
+### Thursday, February 9
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Skyscrapers</td>	<td>Michael</td>	<td>24.18</td>	<td>10.12</td>	</tr>	
+<tr>	<td>Pipes</td>	<td>Lucas</td>	<td>6.54</td>	<td>4.54</td>	</tr>	
+<tr>	<td>Light Up</td>	<td>Lucas</td>	<td>6</td>	<td>3.64</td>	</tr>	
+<tr>	<td>Hashi</td>	<td>Michael</td>	<td>8.26</td>	<td>5.88</td>	</tr>	
+<tr>	<td>Nonograms</td>	<td>Leland</td>	<td>6.57</td>	<td>4.3(PB)</td>	</tr>	</table>
 
 ---
 
