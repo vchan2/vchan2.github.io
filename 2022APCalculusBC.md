@@ -116,12 +116,12 @@ Tentative schedule for upcoming classes:
     * Monday, Jan. 30: 9.6-9.7
     * Wednesday, Feb. 1: 9.7-9.8
     * Friday, Feb. 3: 9.8
--->
-
   * Week of Feb. 6
     * Monday, Feb. 6: 9.9
     * Wednesday, Feb. 8: Mini-math
     * Friday, Feb. 10: Unit 9 review
+-->
+
   * Week of Feb. 13
     * Monday, Feb. 13: Unit 9 test
     * Wednesday, Feb. 15: Unit 9 test
@@ -173,6 +173,8 @@ Section 3.5 corrections:
 
 If you are consistently spending more than 1 hour per day on homework, please see me.
 
+Homework for Friday, February 17:
+  * Review packets: Unit 1 MCQ Parts A, B, and C
 
 
 <!--
