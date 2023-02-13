@@ -1,8 +1,7 @@
 ## Updates
 
-<!--
-<a href="https://docs.google.com/spreadsheets/d/1Qf3lRUJuGc7Vow7OtxE9POu-dIQWr7e2Z0L8OLlQFYk/edit?usp=sharing">Feb 6 records</a>
--->
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTS32QtDUCBDmQHVUATCurFywpqah9v51Et9SLKovHxBDqyWHW4jPhlVjIZ19ljsQtSDu7iXfLf2Jwh/pubhtml?gid=2060604787&single=true">Feb 13 records</a>
+
 <!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSvH5tChqt3staZ2FrMPNkeobWpKl0FXSRwQB_e2Sq2lW5YN_GqT8zJhY-GVViVLvkxVwxSaP5SBHrQ/pubhtml?gid=32103356&single=true">Feb 9 records</a>
 -->
