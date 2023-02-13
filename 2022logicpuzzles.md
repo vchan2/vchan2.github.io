@@ -1,6 +1,8 @@
 ## Updates
 
+<!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTS32QtDUCBDmQHVUATCurFywpqah9v51Et9SLKovHxBDqyWHW4jPhlVjIZ19ljsQtSDu7iXfLf2Jwh/pubhtml?gid=2060604787&single=true">Feb 13 records</a>
+-->
 
 <!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSvH5tChqt3staZ2FrMPNkeobWpKl0FXSRwQB_e2Sq2lW5YN_GqT8zJhY-GVViVLvkxVwxSaP5SBHrQ/pubhtml?gid=32103356&single=true">Feb 9 records</a>
@@ -411,3 +413,12 @@ All records are for the smallest and easiest version of the stated puzzle, and s
 <tr>	<td>Aquarium</td>	<td>Aidan</td>	<td>4.18</td>	<td>3.54</td>	</tr>	
 <tr>	<td>**Pipes**</td>	<td>**Emori**</td>	<td>**5.33**</td>	<td>**7.37**</td>	</tr>	</table>
 Emori beat Dr. Vince this week.
+
+### Monday, February 13
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>**Star Battle**</td>	<td>**Marshall**</td>	<td>**0.91**</td>	<td>**1.28**</td>	</tr>	
+<tr>	<td>**Slant**</td>	<td>**Anna**</td>	<td>**11.7**</td>	<td>**12.75**</td>	</tr>	
+<tr>	<td>Kakuro</td>	<td>Marshall</td>	<td>39.32</td>	<td>27.18</td>	</tr>	
+<tr>	<td>**Galaxies**</td>	<td>**Anna**</td>	<td>**3.27**</td>	<td>**3.55**</td>	</tr>	
+<tr>	<td>Jigsaw Sudoku</td>	<td>Marshall</td>	<td>22.55</td>	<td>12.61</td>	</tr>	</table>
+Marshall and Anna beat Dr. Vince this week.
