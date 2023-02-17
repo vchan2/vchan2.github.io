@@ -396,6 +396,14 @@ All records are for the smallest and easiest version of the stated puzzle, and s
 <tr>	<td>Hashi</td>	<td>Michael</td>	<td>8.26</td>	<td>5.88</td>	</tr>	
 <tr>	<td>Nonograms</td>	<td>Leland</td>	<td>6.57</td>	<td>4.3(PB)</td>	</tr>	</table>
 
+### Thursday, February 16
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Slither Link</td>	<td>Jayden</td>	<td>20.06</td>	<td>11.32</td>	</tr>	
+<tr>	<td>Killer Sudoku</td>	<td>Jayden</td>	<td>13.2</td>	<td>8.98</td>	</tr>	
+<tr>	<td>**Shikaku**</td>	<td>**Jaiven**</td>	<td>**3.79**</td>	<td>**5.09**</td>	</tr>	
+<tr>	<td>Jigsaw Sudoku</td>	<td>Arjun</td>	<td>10.09</td>	<td>8.7(PB)</td>	</tr>	
+<tr>	<td>Shingoki</td>	<td>Jayden</td>	<td>21.25</td>	<td>11.45(PB)</td>	</tr>	</table>
+
 ---
 
 ## Daily records Term 2 (Div 3)
