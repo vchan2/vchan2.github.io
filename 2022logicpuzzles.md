@@ -1,8 +1,8 @@
 ## Updates
 
-
+<!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTS32QtDUCBDmQHVUATCurFywpqah9v51Et9SLKovHxBDqyWHW4jPhlVjIZ19ljsQtSDu7iXfLf2Jwh/pubhtml?gid=1199950092&single=true">Feb 27 records</a>
-
+-->
 
 
 <!--
@@ -431,3 +431,12 @@ Emori beat Dr. Vince this week.
 <tr>	<td>**Galaxies**</td>	<td>**Anna**</td>	<td>**3.27**</td>	<td>**3.55**</td>	</tr>	
 <tr>	<td>Jigsaw Sudoku</td>	<td>Marshall</td>	<td>22.55</td>	<td>12.61</td>	</tr>	</table>
 Marshall and Anna beat Dr. Vince this week.
+
+### Monday, February 27
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Renzoku</td>	<td>Anna</td>	<td>10.03</td>	<td>8.47</td>	</tr>	
+<tr>	<td>Dominosa</td>	<td>Marshall</td>	<td>8.07</td>	<td>5.75</td>	</tr>	
+<tr>	<td>Minesweeper</td>	<td>Indy</td>	<td>3.22</td>	<td>3.13</td>	</tr>	
+<tr>	<td>Battleships</td>	<td>Marshall</td>	<td>4.78</td>	<td>4.28(PB)</td>	</tr>	
+<tr>	<td>**Binairo**</td>	<td>**Anna**</td>	<td>**9.27**</td>	<td>**17.13**</td>	</tr>	</table>
+Anna beat Dr. Vince this week.
