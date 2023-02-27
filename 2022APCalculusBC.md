@@ -120,12 +120,16 @@ Tentative schedule for upcoming classes:
     * Monday, Feb. 6: 9.9
     * Wednesday, Feb. 8: Mini-math
     * Friday, Feb. 10: Unit 9 review
--->
-
   * Week of Feb. 13
     * Monday, Feb. 13: Unit 9 test
     * Wednesday, Feb. 15: Unit 9 test
     * Friday, Feb. 17: 
+-->
+  * Week of Feb. 27
+    * Monday, Feb. 27: Work period (PCF contests)
+    * Wednesday, Mar. 1: 10.1-10.2
+    * Friday, Mar. 3: 10.3
+
 
 
 <!--
