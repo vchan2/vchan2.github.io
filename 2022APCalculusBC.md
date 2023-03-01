@@ -13,7 +13,6 @@ Quick links
 
 ### Updates
 
-Please bring your calculator to class tomorrow for the mini-math.
 
 <!--
 I have completed marking Unit 6. Just to let you know, most questions were worth 2 or 3 points, and the total was 84 points on both tests combined. I'll speak more about this on Wednesday: I'd like everyone to reflect on the test and
@@ -22,8 +21,9 @@ I have completed marking Unit 6. Just to let you know, most questions were worth
   * consider whether you sought help early enough (remember, I have "office hours" every week)
 -->
 
+<!--
 <a href="https://vchan2.github.io/Challenges/digit_puzzle_2023.pdf">2023 digit puzzle</a> due by January 23, 2023.
-
+-->
 
 
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
@@ -129,7 +129,34 @@ Tentative schedule for upcoming classes:
     * Monday, Feb. 27: Work period (PCF contests)
     * Wednesday, Mar. 1: 10.1-10.2
     * Friday, Mar. 3: 10.3
-
+  * Week of Mar. 6
+    * Monday, Mar. 6: 10.1-10.2
+    * Wednesday, Mar. 8: 10.6-10.7
+    * Friday, Mar. 10: Mini-math (10.1-10.7)
+  * Week of Mar. 13
+    * Monday, Mar. 13: 10.6-10.7
+    * Wednesday, Mar. 15: pi Day?
+    * Friday, Mar. 17: 10.8
+  * Week of Mar. 20
+    * Monday, Mar. 20: 10.9-10.10
+    * Wednesday, Mar. 22: 10.11
+    * Friday, Mar. 24: 10.12
+  * Week of Mar. 27
+    * Monday, Mar. 27: 10.13
+    * Wednesday, Mar. 29: 10.14
+    * Friday, Mar. 31: Mini-math (10.8-10.14)
+  * Week of Apr. 3
+    * Monday, Apr. 3: Unit 10 Review
+    * Wednesday, Apr. 5: Unit 10 Review
+    * Friday, Apr. 7: Unit 10 test
+  * Week of Apr. 10
+    * Monday, Apr. 10: Unit 10 test
+    * Wednesday, Apr. 12: 
+    * Friday, Apr. 14: 
+  * Week of Apr. 17
+    * Monday, Apr. 17: April Break
+    * Wednesday, Apr. 19: April Break
+    * Friday, Apr. 21: April Break
 
 
 <!--
@@ -359,6 +386,7 @@ Unit 7 test is scheduled for <b>Monday, January 16</b> in-class (non-calculator)
   * Approximate solutions to DEs using Euler's Method
 -->
 
+<!--
 Unit 9 test is scheduled for <b>Monday, February 13</b> in-class (calculator) and <b>Wednesday, February 15</b> in-class (non-calculator). You should be proficient in all material contained in Unit 9. More precisely, you should be able to:
   * Convert between parametric form and Cartesian form
   * Calculate the first and second derivatives in parametric form
@@ -369,6 +397,10 @@ Unit 9 test is scheduled for <b>Monday, February 13</b> in-class (calculator) an
   * Find the first and second derivatives in polar form (special case of parametric)
   * Find the area of polar curves
   * Find the area between polar curves
+-->
+
+Unit 10 test is tentatively scheduled for <b>Friday, April 7</b> in-class (calculator?) and <b>Monday, April 10</b> in-class (non-calculator?). You should be proficient in all material contained in Unit 10. 
+
 
 Final exam information: 8:00AM, Monday, May 8, 5th floor
 <img src="https://vchan2.github.io/2021Calculus/Exam_info.png">
