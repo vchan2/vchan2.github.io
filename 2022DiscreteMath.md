@@ -34,11 +34,17 @@ Tentative schedule for upcoming classes:
     * Tuesday, Feb. 21: February Break
     * Thursday, Feb. 23: February Break
   * Week of Feb. 27
-    * Tuesday, Feb. 28: 2.2-2.3
-    * Thursday, Mar. 2: Chapter 2 review
+    * Tuesday, Feb. 28: 2.2
+    * Thursday, Mar. 2: 2.3
   * Week of Mar. 6
-    * Tuesday, Mar. 7: Chapter 2 test
-    * Thursday, Mar. 9: 
+    * Tuesday, Mar. 7: 2.3
+    * Thursday, Mar. 9: Chapter 2 review
+  * Week of Mar. 13
+    * Tuesday, Mar. 14: pi Day
+    * Thursday, Mar. 16: 
+  * Week of Mar. 20
+    * Tuesday, Mar. 21: Chapter 2 test
+    * Thursday, Mar. 23: 
 
 
 
