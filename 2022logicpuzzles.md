@@ -4,8 +4,9 @@
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTS32QtDUCBDmQHVUATCurFywpqah9v51Et9SLKovHxBDqyWHW4jPhlVjIZ19ljsQtSDu7iXfLf2Jwh/pubhtml?gid=1199950092&single=true">Feb 27 records</a>
 -->
 
-
+<!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSvH5tChqt3staZ2FrMPNkeobWpKl0FXSRwQB_e2Sq2lW5YN_GqT8zJhY-GVViVLvkxVwxSaP5SBHrQ/pubhtml?gid=223559353&single=true">Mar 2 records</a>
+-->
 
 ---
 
@@ -404,6 +405,16 @@ All records are for the smallest and easiest version of the stated puzzle, and s
 <tr>	<td>**Shikaku**</td>	<td>**Jaiven**</td>	<td>**3.79**</td>	<td>**5.09**</td>	</tr>	
 <tr>	<td>Jigsaw Sudoku</td>	<td>Arjun</td>	<td>10.09</td>	<td>8.7(PB)</td>	</tr>	
 <tr>	<td>Shingoki</td>	<td>Jayden</td>	<td>21.25</td>	<td>11.45(PB)</td>	</tr>	</table>
+Jaiven beat Dr. Vince this week!
+
+### Thursday, March 2
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Battleships</td>	<td>Jaiven</td>	<td>6.65</td>	<td>4.51</td>	</tr>	
+<tr>	<td>Masyu</td>	<td>Eli</td>	<td>12</td>	<td>6.7(PB)</td>	</tr>	
+<tr>	<td>Minesweeper</td>	<td>Jaiven</td>	<td>4.4</td>	<td>4.12</td>	</tr>	
+<tr>	<td>Dominosa</td>	<td>Eli</td>	<td>4.62</td>	<td>3.12</td>	</tr>	
+<tr>	<td>**Kakurasu**</td>	<td>**Lucas**</td>	<td>**1.77**</td>	<td>**3.26**</td>	</tr>	</table>
+Lucas beat Dr. Vince this week!
 
 ---
 
