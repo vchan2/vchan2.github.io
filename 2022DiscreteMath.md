@@ -39,7 +39,7 @@ Tentative schedule for upcoming classes:
     * Thursday, Mar. 2: 2.3
 -->
   * Week of Mar. 6
-    * Tuesday, Mar. 7: puzzles
+    * Tuesday, Mar. 7: 2.3, puzzles
     * Thursday, Mar. 9: puzzles
   * Week of Mar. 13
     * Tuesday, Mar. 14: pi Day
@@ -69,7 +69,7 @@ Monday, Feb. 20: 2.1 (rest of light-coloured questions)
 -->
 
 Thursday, Mar. 2: 2.2 (light-coloured questions)
-
+Monday, Mar. 6: 2.3 (Q1-22, 36-43 light-coloured questions)
 
 
 
