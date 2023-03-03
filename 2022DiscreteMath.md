@@ -63,13 +63,13 @@ Chapter 1 test scheduled for Tuesday, Jan. 31.
 
 <!--
 Thursday, Feb. 2: 1.1 and half of 1.2 (light-coloured questions)
-Monday, Feb. 6: Rest of 1.2 and all of 1.3 (light-coloured questions)
-Monday, Feb. 13: 2.1 (light-coloured questions up to 47)
-Monday, Feb. 20: 2.1 (rest of light-coloured questions)
+Tuesday, Feb. 7: Rest of 1.2 and all of 1.3 (light-coloured questions)
+Tuesday, Feb. 14: 2.1 (light-coloured questions up to 47)
+Tuesday, Feb. 21: 2.1 (rest of light-coloured questions)
 -->
 
 Thursday, Mar. 2: 2.2 (light-coloured questions)
-Monday, Mar. 6: 2.3 (Q1-22, 36-43 light-coloured questions)
+Tuesday, Mar. 7: 2.3 (Q1-22, 36-43 light-coloured questions)
 
 
 
