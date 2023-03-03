@@ -21,6 +21,7 @@ Quick links
 
 Tentative schedule for upcoming classes:
 
+<!--
   * Week of Jan. 30
     * Tuesday, Jan. 31: 1.1-1.2
     * Thursday, Feb. 2: 1.2-1.3
@@ -36,15 +37,16 @@ Tentative schedule for upcoming classes:
   * Week of Feb. 27
     * Tuesday, Feb. 28: 2.2
     * Thursday, Mar. 2: 2.3
+-->
   * Week of Mar. 6
-    * Tuesday, Mar. 7: 2.3
-    * Thursday, Mar. 9: Chapter 2 review
+    * Tuesday, Mar. 7: puzzles
+    * Thursday, Mar. 9: puzzles
   * Week of Mar. 13
     * Tuesday, Mar. 14: pi Day
-    * Thursday, Mar. 16: 
+    * Thursday, Mar. 16: Chapter 2 review
   * Week of Mar. 20
-    * Tuesday, Mar. 21: Chapter 2 test
-    * Thursday, Mar. 23: 
+    * Tuesday, Mar. 21: 
+    * Thursday, Mar. 23: Chapter 2 test
 
 
 
