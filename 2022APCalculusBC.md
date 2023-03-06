@@ -130,7 +130,7 @@ Tentative schedule for upcoming classes:
     * Wednesday, Mar. 1: 10.1-10.2
     * Friday, Mar. 3: 10.3
   * Week of Mar. 6
-    * Monday, Mar. 6: 10.1-10.2
+    * Monday, Mar. 6: 10.4-10.5
     * Wednesday, Mar. 8: 10.6-10.7
     * Friday, Mar. 10: Mini-math (10.1-10.7)
   * Week of Mar. 13
