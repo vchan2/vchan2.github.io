@@ -1,6 +1,8 @@
 ## Updates
 
+<!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTS32QtDUCBDmQHVUATCurFywpqah9v51Et9SLKovHxBDqyWHW4jPhlVjIZ19ljsQtSDu7iXfLf2Jwh/pubhtml?gid=922548359&single=true">Mar 6 records</a>
+-->
 
 <!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSvH5tChqt3staZ2FrMPNkeobWpKl0FXSRwQB_e2Sq2lW5YN_GqT8zJhY-GVViVLvkxVwxSaP5SBHrQ/pubhtml?gid=223559353&single=true">Mar 2 records</a>
@@ -447,3 +449,11 @@ Marshall and Anna beat Dr. Vince this week.
 <tr>	<td>Battleships</td>	<td>Marshall</td>	<td>4.78</td>	<td>4.28(PB)</td>	</tr>	
 <tr>	<td>**Binairo**</td>	<td>**Anna**</td>	<td>**9.27**</td>	<td>**17.13**</td>	</tr>	</table>
 Anna beat Dr. Vince this week.
+
+### Monday, March 6
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Skyscrapers</td>	<td>Marshall</td>	<td>6.91</td>	<td>6.47(PB)</td>	</tr>	
+<tr>	<td>Shingoki</td>	<td>Anna</td>	<td>17.44</td>	<td>13.97</td>	</tr>	
+<tr>	<td>Nonograms</td>	<td>Anna</td>	<td>4.73</td>	<td>4.67</td>	</tr>	
+<tr>	<td>Light Up</td>	<td>Aiden</td>	<td>3.09</td>	<td>2.63(PB)</td>	</tr>	
+<tr>	<td>Sudoku</td>	<td>Olivia</td>	<td>55.93</td>	<td>39.37(PB)</td>	</tr>	</table>
