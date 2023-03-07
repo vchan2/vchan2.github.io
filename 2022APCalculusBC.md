@@ -132,13 +132,13 @@ Tentative schedule for upcoming classes:
   * Week of Mar. 6
     * Monday, Mar. 6: 10.4-10.5
     * Wednesday, Mar. 8: 10.6-10.7
-    * Friday, Mar. 10: Mini-math (10.1-10.7)
+    * Friday, Mar. 10: 10.8
   * Week of Mar. 13
-    * Monday, Mar. 13: pi Day
-    * Wednesday, Mar. 15: 10.8-10.9
-    * Friday, Mar. 17: 10.10
+    * Monday, Mar. 13: pi Day?
+    * Wednesday, Mar. 15: Mini-math (10.1-10.8), series bee?
+    * Friday, Mar. 17: 10.9
   * Week of Mar. 20
-    * Monday, Mar. 20: 10.11
+    * Monday, Mar. 20: 10.10-10.11
     * Wednesday, Mar. 22: 10.12-10.13
     * Friday, Mar. 24: 10.13
   * Week of Mar. 27
