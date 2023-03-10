@@ -1,8 +1,8 @@
 ## Updates
 
-
+<!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSvH5tChqt3staZ2FrMPNkeobWpKl0FXSRwQB_e2Sq2lW5YN_GqT8zJhY-GVViVLvkxVwxSaP5SBHrQ/pubhtml?gid=367694629&single=true">Mar 9 records</a>
-
+-->
 
 <!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSvH5tChqt3staZ2FrMPNkeobWpKl0FXSRwQB_e2Sq2lW5YN_GqT8zJhY-GVViVLvkxVwxSaP5SBHrQ/pubhtml?gid=223559353&single=true">Mar 2 records</a>
@@ -415,6 +415,15 @@ Jaiven beat Dr. Vince this week!
 <tr>	<td>Dominosa</td>	<td>Eli</td>	<td>4.62</td>	<td>3.12</td>	</tr>	
 <tr>	<td>**Kakurasu**</td>	<td>**Lucas**</td>	<td>**1.77**</td>	<td>**3.26**</td>	</tr>	</table>
 Lucas beat Dr. Vince this week!
+
+### Thursday, March 9
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Star Battle</td>	<td>Jaiven</td>	<td>1.3</td>	<td>1.02</td>	</tr>	
+<tr>	<td>**Slant**</td>	<td>**Eli**</td>	<td>**12.49**</td>	<td>**12.96**</td>	</tr>	
+<tr>	<td>Aquarium</td>	<td>Jayden</td>	<td>5.79</td>	<td>2.99</td>	</tr>	
+<tr>	<td>Nurikabe</td>	<td>Eric</td>	<td>3.94</td>	<td>3.73</td>	</tr>	
+<tr>	<td>Sudoku</td>	<td>Eli</td>	<td>56.28</td>	<td>42.22</td>	</tr>	</table>
+Eli beat Dr. Vince this week1
 
 ---
 
