@@ -13,6 +13,7 @@ Quick links
 
 ### Updates
 
+<a href="https://vchan2.github.io/pi/pi_is_irrational.pdf">Niven's proof that &pi; is irrational</a>
 
 <!--
 I have completed marking Unit 6. Just to let you know, most questions were worth 2 or 3 points, and the total was 84 points on both tests combined. I'll speak more about this on Wednesday: I'd like everyone to reflect on the test and
