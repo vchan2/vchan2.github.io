@@ -1,7 +1,8 @@
 ## Updates
 
+<!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTS32QtDUCBDmQHVUATCurFywpqah9v51Et9SLKovHxBDqyWHW4jPhlVjIZ19ljsQtSDu7iXfLf2Jwh/pubhtml?gid=1336909874&single=true">Mar 13 records</a>
-
+-->
 
 <!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSvH5tChqt3staZ2FrMPNkeobWpKl0FXSRwQB_e2Sq2lW5YN_GqT8zJhY-GVViVLvkxVwxSaP5SBHrQ/pubhtml?gid=223559353&single=true">Mar 2 records</a>
@@ -422,7 +423,7 @@ Lucas beat Dr. Vince this week!
 <tr>	<td>Aquarium</td>	<td>Jayden</td>	<td>5.79</td>	<td>2.99</td>	</tr>	
 <tr>	<td>Nurikabe</td>	<td>Eric</td>	<td>3.94</td>	<td>3.73</td>	</tr>	
 <tr>	<td>Sudoku</td>	<td>Eli</td>	<td>56.28</td>	<td>42.22</td>	</tr>	</table>
-Eli beat Dr. Vince this week1
+Eli beat Dr. Vince this week!
 
 ---
 
@@ -438,7 +439,7 @@ All records are for the smallest and easiest version of the stated puzzle, and s
 <tr>	<td>Nurikabe</td>	<td>Emori</td>	<td>3.85</td>	<td>3.76</td>	</tr>	
 <tr>	<td>Aquarium</td>	<td>Aidan</td>	<td>4.18</td>	<td>3.54</td>	</tr>	
 <tr>	<td>**Pipes**</td>	<td>**Emori**</td>	<td>**5.33**</td>	<td>**7.37**</td>	</tr>	</table>
-Emori beat Dr. Vince this week.
+Emori beat Dr. Vince this week!
 
 ### Monday, February 13
 <table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
@@ -447,7 +448,7 @@ Emori beat Dr. Vince this week.
 <tr>	<td>Kakuro</td>	<td>Marshall</td>	<td>39.32</td>	<td>27.18</td>	</tr>	
 <tr>	<td>**Galaxies**</td>	<td>**Anna**</td>	<td>**3.27**</td>	<td>**3.55**</td>	</tr>	
 <tr>	<td>Jigsaw Sudoku</td>	<td>Marshall</td>	<td>22.55</td>	<td>12.61</td>	</tr>	</table>
-Marshall and Anna beat Dr. Vince this week.
+Marshall and Anna beat Dr. Vince this week!
 
 ### Monday, February 27
 <table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
@@ -456,7 +457,7 @@ Marshall and Anna beat Dr. Vince this week.
 <tr>	<td>Minesweeper</td>	<td>Indy</td>	<td>3.22</td>	<td>3.13</td>	</tr>	
 <tr>	<td>Battleships</td>	<td>Marshall</td>	<td>4.78</td>	<td>4.28(PB)</td>	</tr>	
 <tr>	<td>**Binairo**</td>	<td>**Anna**</td>	<td>**9.27**</td>	<td>**17.13**</td>	</tr>	</table>
-Anna beat Dr. Vince this week.
+Anna beat Dr. Vince this week!
 
 ### Monday, March 6
 <table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
@@ -465,3 +466,12 @@ Anna beat Dr. Vince this week.
 <tr>	<td>Nonograms</td>	<td>Anna</td>	<td>4.73</td>	<td>4.67</td>	</tr>	
 <tr>	<td>Light Up</td>	<td>Aiden</td>	<td>3.09</td>	<td>2.63(PB)</td>	</tr>	
 <tr>	<td>Sudoku</td>	<td>Olivia</td>	<td>55.93</td>	<td>39.37(PB)</td>	</tr>	</table>
+
+### Monday, March 13
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>**Shakashaka**</td>	<td>**Emori**</td>	<td>**1.56**</td>	<td>**3.32**</td>	</tr>	
+<tr>	<td>Norinori</td>	<td>Marshall</td>	<td>3.76</td>	<td>3.16(PB)</td>	</tr>	
+<tr>	<td>Stitches</td>	<td>Marshall</td>	<td>7.42</td>	<td>5.1</td>	</tr>	
+<tr>	<td>Slither Link</td>	<td>Anna</td>	<td>10.72</td>	<td>10.49</td>	</tr>	
+<tr>	<td>Futoshiki</td>	<td>Marshall</td>	<td>10.08</td>	<td>8.24</td>	</tr>	</table>
+Emori beat Dr. Vince this week!
