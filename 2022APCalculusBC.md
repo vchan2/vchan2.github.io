@@ -13,6 +13,9 @@ Quick links
 
 ### Updates
 
+* <a href="https://vchan2.github.io/pi/pi_2023.pdf">2023 &pi; Day puzzle</a>
+
+
 <a href="https://vchan2.github.io/pi/pi_is_irrational.pdf">Niven's proof that &pi; is irrational</a>
 
 <!--
@@ -725,6 +728,7 @@ Assorted:
    * Exceptionally creative solution (rarely given out)
    * If your score beats my score for any digit
 * <a href="https://vchan2.github.io/Challenges/digit_puzzle_2023_4dice.pdf">2023 4-dice puzzle</a>
+* <a href="https://vchan2.github.io/pi/pi_2023.pdf">2023 &pi; Day puzzle</a>
 
 
 
