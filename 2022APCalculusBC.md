@@ -128,7 +128,6 @@ Tentative schedule for upcoming classes:
     * Monday, Feb. 13: Unit 9 test
     * Wednesday, Feb. 15: Unit 9 test
     * Friday, Feb. 17: 
--->
   * Week of Feb. 27
     * Monday, Feb. 27: Work period (PCF contests)
     * Wednesday, Mar. 1: 10.1-10.2
@@ -136,23 +135,24 @@ Tentative schedule for upcoming classes:
   * Week of Mar. 6
     * Monday, Mar. 6: 10.4-10.5
     * Wednesday, Mar. 8: 10.6-10.7
-    * Friday, Mar. 10: 10.8
+    * Friday, Mar. 10: 10.8. 10.9 in period 4
+-->
   * Week of Mar. 13
-    * Monday, Mar. 13: pi Day?
-    * Wednesday, Mar. 15: Mini-math (10.1-10.8), series bee?
-    * Friday, Mar. 17: 10.9
+    * Monday, Mar. 13: pi Day (pi rectitation and proof that pi is irrational)
+    * Wednesday, Mar. 15: series bee, Mini-math (10.1-10.9)
+    * Friday, Mar. 17: 
   * Week of Mar. 20
-    * Monday, Mar. 20: 10.10-10.11
-    * Wednesday, Mar. 22: 10.12-10.13
-    * Friday, Mar. 24: 10.13
+    * Monday, Mar. 20: Unit 10 mid-unit test
+    * Wednesday, Mar. 22: 10.10-10.11
+    * Friday, Mar. 24: 10.12
   * Week of Mar. 27
-    * Monday, Mar. 27: 10.14
-    * Wednesday, Mar. 29: 10.15
-    * Friday, Mar. 31: Mini-math (10.8-10.15)
+    * Monday, Mar. 27: 10.13
+    * Wednesday, Mar. 29: 10.14
+    * Friday, Mar. 31: 10.15
   * Week of Apr. 3
-    * Monday, Apr. 3: Unit 10 Review
-    * Wednesday, Apr. 5: Unit 10 Review
-    * Friday, Apr. 7: Unit 10 test
+    * Monday, Apr. 3: Mini-math (10.10-10.15)
+    * Wednesday, Apr. 5: English 30 pull-out (Unit 10 Review)
+    * Friday, Apr. 7: Unit 10 Review
   * Week of Apr. 10
     * Monday, Apr. 10: Unit 10 test
     * Wednesday, Apr. 12: 
