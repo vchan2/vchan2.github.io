@@ -707,7 +707,6 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 ### Challenges 
 
 Calculus-based:
-<!--
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit01_01A_weird_limit.pdf"> Unit 1: A weird limit </a> - Find an example of a function whose limit at 0 from the right DNE.
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit01_02Continuous_nowhere.pdf"> Unit 1: Continuous nowhere </a> - Does there exist a function which is continuous nowhere?
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit01_03Continuous_on_irrationals.pdf"> Unit 1: Continuous on the irrationals </a> - Does there exist a function which is continuous only on the irrationals?
@@ -715,9 +714,16 @@ Calculus-based:
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit02_01Continuous_but_not_differentiable.pdf"> Unit 2: Continuous but not differentiable </a> - Does there exist a function which is continuous everywhere but not differentiable infinitely often?
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit02_02Differentiability_for_piecewise.pdf"> Unit 2: Differentiability for piecewise </a> - Prove you can use derivatives from the left and right to determine differentiability for piecewise functions.
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit02_01Continuous_but_not_differentiable.pdf"> Unit 3: Continuous but nowhere differentiable </a> - Does there exist a function which is continuous everywhere but differentiable nowhere?
--->
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit07_01separation_of_variables_division_by_0.pdf"> Unit 7: division by 0 in separation of variables </a> - Find an example where you have to be more careful about separation of variables
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit09_bat_curve.pdf"> Unit 9: bat curve </a> - Find a function whose graph matches mine
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_01Challenging_series.pdf"> Unit 10: A Challenging Series </a> - Find the exact value of this non-geometric series
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_02Sparse_harmonic_series.pdf"> Unit 10: Sparse Harmonic Series </a> - Show that if we remove certain terms from the harmonic series, we get convergence
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_03DivergenceTest2.pdf"> Unit 10: Divergence Test II </a> - Prove that even if n times the summands do not converge to 0, then the series divereges
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_04Sum_of_product.pdf"> Unit 10: Sum of Product </a> - Prove that the product of summands from convergent series is convergent
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_05Rearrangment.pdf"> Unit 10: Rearrangement of conditionally convergent series </a> - Prove that the terms of a conditionally convergent series can be rearranged so that the new series will converge to any given real number
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_06Basel_problem.pdf"> Unit 10: Basel problem </a> - Find the exact value of the sum of the reciprocals of the squares of the positive integers
+
+
 
 Assorted:
 * <a href="https://vincentchan02.wixsite.com/cosmospuzzle">CoSMOS 2020 Challenge</a> 
