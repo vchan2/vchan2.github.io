@@ -403,8 +403,11 @@ Unit 9 test is scheduled for <b>Monday, February 13</b> in-class (calculator) an
   * Find the area between polar curves
 -->
 
+<!--
 Unit 10 test is tentatively scheduled for <b>Friday, April 7</b> in-class (calculator?) and <b>Monday, April 10</b> in-class (non-calculator?). You should be proficient in all material contained in Unit 10. 
+-->
 
+Unit 10 mid-unit test scheduled for <b>Monday, March 20</a> in-class. Unit 10 final unit test scheduled for <b>Monday, Arpil 10</a> in-class.
 
 Final exam information: 8:00AM, Monday, May 8, 5th floor
 <img src="https://vchan2.github.io/2021Calculus/Exam_info.png">
