@@ -425,6 +425,14 @@ Lucas beat Dr. Vince this week!
 <tr>	<td>Sudoku</td>	<td>Eli</td>	<td>56.28</td>	<td>42.22</td>	</tr>	</table>
 Eli beat Dr. Vince this week!
 
+### Thursday, March 16
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Tapa</td>	<td>Jayden</td>	<td>13.67</td>	<td>9.81</td>	</tr>	
+<tr>	<td>Heyawake</td>	<td>Eli</td>	<td>21.76</td>	<td>12.14(PB)</td>	</tr>	
+<tr>	<td>Kakuro</td>	<td>Eli</td>	<td>36.47</td>	<td>28.33</td>	</tr>	
+<tr>	<td>Mosaic</td>	<td>Jayden</td>	<td>9.21</td>	<td>5.94</td>	</tr>	
+<tr>	<td>Renzoku</td>	<td>Arjun</td>	<td>6.68</td>	<td>6.42(PB)</td>	</tr>	</table>
+
 ---
 
 ## Daily records Term 2 (Div 3)
