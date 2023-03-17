@@ -37,16 +37,23 @@ Tentative schedule for upcoming classes:
   * Week of Feb. 27
     * Tuesday, Feb. 28: 2.2
     * Thursday, Mar. 2: 2.3
--->
   * Week of Mar. 6
-    * Tuesday, Mar. 7: 2.3, puzzles
-    * Thursday, Mar. 9: puzzles
+    * Tuesday, Mar. 7: 2.3, Lewis Carroll puzzles, 2.4
+    * Thursday, Mar. 9: Knights and knaves, 2.4
   * Week of Mar. 13
-    * Tuesday, Mar. 14: pi Day
-    * Thursday, Mar. 16: Chapter 2 review
+    * Tuesday, Mar. 14: pi Day (pidokus)
+    * Thursday, Mar. 16: Chapter 2 review, 2.5
+-->
+
   * Week of Mar. 20
-    * Tuesday, Mar. 21: 
-    * Thursday, Mar. 23: Chapter 2 test
+    * Tuesday, Mar. 21: Chapter 2 test
+    * Thursday, Mar. 23: 3.1
+  * Week of Mar. 27
+    * Tuesday, Mar. 28: English 30 pull-out
+    * Thursday, Mar. 30: English 30 pull-out
+  * Week of Apr. 3
+    * Tuesday, Apr. 4: 3.2
+    * Thursday, Apr. 6: 3.3
 
 
 
