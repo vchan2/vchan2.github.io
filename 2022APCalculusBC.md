@@ -137,12 +137,13 @@ Tentative schedule for upcoming classes:
     * Wednesday, Mar. 8: 10.6-10.7
     * Friday, Mar. 10: 10.8. 10.9 in period 4
 -->
+
   * Week of Mar. 13
     * Monday, Mar. 13: pi Day (pi rectitation and proof that pi is irrational)
     * Wednesday, Mar. 15: series bee, Mini-math (10.1-10.9)
-    * Friday, Mar. 17: 
+    * Friday, Mar. 17: 10.9
   * Week of Mar. 20
-    * Monday, Mar. 20: Unit 10 mid-unit test
+    * Monday, Mar. 20: Unit 10 mid-unit test, 10.10
     * Wednesday, Mar. 22: 10.10-10.11
     * Friday, Mar. 24: 10.12
   * Week of Mar. 27
