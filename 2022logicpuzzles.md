@@ -1,7 +1,8 @@
 ## Updates
 
+<!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTS32QtDUCBDmQHVUATCurFywpqah9v51Et9SLKovHxBDqyWHW4jPhlVjIZ19ljsQtSDu7iXfLf2Jwh/pubhtml?gid=1269965567&single=true">Mar 20 records</a>
-
+-->
 
 <!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSvH5tChqt3staZ2FrMPNkeobWpKl0FXSRwQB_e2Sq2lW5YN_GqT8zJhY-GVViVLvkxVwxSaP5SBHrQ/pubhtml?gid=223559353&single=true">Mar 2 records</a>
@@ -482,3 +483,12 @@ Anna beat Dr. Vince this week!
 <tr>	<td>Slither Link</td>	<td>Anna</td>	<td>10.72</td>	<td>10.49</td>	</tr>	
 <tr>	<td>Futoshiki</td>	<td>Marshall</td>	<td>10.08</td>	<td>8.24</td>	</tr>	</table>
 Emori beat Dr. Vince this week!
+
+### Monday, March 20
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Hitori</td>	<td>Olivia</td>	<td>11.03</td>	<td>9.27</td>	</tr>	
+<tr>	<td>Mosaic</td>	<td>Anna</td>	<td>7.8</td>	<td>6.85</td>	</tr>	
+<tr>	<td>**Hashi**</td>	<td>**Anna**</td>	<td>**4.15**</td>	<td>**4.18(PB)**</td>	</tr>	
+<tr>	<td>**Tents**</td>	<td>**Emori**</td>	<td>**3.13**</td>	<td>**3.25(PB)**</td>	</tr>	
+<tr>	<td>Tapa</td>	<td>Marshall</td>	<td></td>	<td>7.55(PB)</td>	</tr>	</table>
+Anna and Emori beat Dr. Vince this week!
