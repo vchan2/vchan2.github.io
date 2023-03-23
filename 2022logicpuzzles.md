@@ -1,7 +1,8 @@
 ## Updates
 
+<!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSvH5tChqt3staZ2FrMPNkeobWpKl0FXSRwQB_e2Sq2lW5YN_GqT8zJhY-GVViVLvkxVwxSaP5SBHrQ/pubhtml?gid=1398170874&single=true">Mar 23 records</a>
-
+-->
 
 <!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSvH5tChqt3staZ2FrMPNkeobWpKl0FXSRwQB_e2Sq2lW5YN_GqT8zJhY-GVViVLvkxVwxSaP5SBHrQ/pubhtml?gid=223559353&single=true">Mar 2 records</a>
@@ -431,6 +432,15 @@ Eli beat Dr. Vince this week!
 <tr>	<td>Kakuro</td>	<td>Eli</td>	<td>36.47</td>	<td>28.33</td>	</tr>	
 <tr>	<td>Mosaic</td>	<td>Jayden</td>	<td>9.21</td>	<td>5.94</td>	</tr>	
 <tr>	<td>Renzoku</td>	<td>Arjun</td>	<td>6.68</td>	<td>6.42(PB)</td>	</tr>	</table>
+
+### Thursday, March 23
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>**LITS**</td>	<td>**Lucas**</td>	<td>**5.12**</td>	<td>**7.17**</td>	</tr>	
+<tr>	<td>**Shakashaka**</td>	<td>**Arjun**</td>	<td>**1.59**</td>	<td>**3.99**</td>	</tr>	
+<tr>	<td>Stitches</td>	<td>Jayden</td>	<td>5.53</td>	<td>4.54(PB)</td>	</tr>	
+<tr>	<td>Futoshiki</td>	<td>Arjun</td>	<td>6.83</td>	<td>5.1(PB)</td>	</tr>	
+<tr>	<td>Tents</td>	<td>Eli</td>	<td>3.74</td>	<td>3.27</td>	</tr>	</table>
+Lucas and Arjun beat Dr. Vince this week!
 
 ---
 
