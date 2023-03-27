@@ -1,7 +1,8 @@
 ## Updates
 
+<!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTS32QtDUCBDmQHVUATCurFywpqah9v51Et9SLKovHxBDqyWHW4jPhlVjIZ19ljsQtSDu7iXfLf2Jwh/pubhtml?gid=808496463&single=true">Mar 27 records</a>
-
+-->
 
 <!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSvH5tChqt3staZ2FrMPNkeobWpKl0FXSRwQB_e2Sq2lW5YN_GqT8zJhY-GVViVLvkxVwxSaP5SBHrQ/pubhtml?gid=223559353&single=true">Mar 2 records</a>
@@ -500,3 +501,12 @@ Emori beat Dr. Vince this week!
 <tr>	<td>**Tents**</td>	<td>**Emori**</td>	<td>**3.13**</td>	<td>**3.25(PB)**</td>	</tr>	
 <tr>	<td>Tapa</td>	<td>Marshall</td>	<td></td>	<td>7.55(PB)</td>	</tr>	</table>
 Anna and Emori beat Dr. Vince this week!
+
+### Monday, March 27
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Masyu</td>	<td>Anna</td>	<td>11.75</td>	<td>9.83</td>	</tr>	
+<tr>	<td>**Kakurasu**</td>	<td>**AI**</td>	<td>**2.12**</td>	<td>**2.83(PB)**</td>	</tr>	
+<tr>	<td>**Killer Sudoku**</td>	<td>**Marshall**</td>	<td>**4.95**</td>	<td>**7.23(PB)**</td>	</tr>	
+<tr>	<td>Heyawake</td>	<td>Marshall</td>	<td>12.31</td>	<td>11.45(PB)</td>	</tr>	</table>
+Anna and Marshall beat Dr. Vince this week!
+
