@@ -52,8 +52,8 @@ Tentative schedule for upcoming classes:
     * Tuesday, Mar. 28: English 30 pull-out
     * Thursday, Mar. 30: English 30 pull-out
   * Week of Apr. 3
-    * Tuesday, Apr. 4: 3.2
-    * Thursday, Apr. 6: 3.3
+    * Tuesday, Apr. 4: 3.1
+    * Thursday, Apr. 6: 3.2
 
 
 
