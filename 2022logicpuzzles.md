@@ -1,7 +1,8 @@
 ## Updates
 
+<!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSvH5tChqt3staZ2FrMPNkeobWpKl0FXSRwQB_e2Sq2lW5YN_GqT8zJhY-GVViVLvkxVwxSaP5SBHrQ/pubhtml?gid=689954424&single=true">Mar 30 records</a>
-
+-->
 
 <!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSvH5tChqt3staZ2FrMPNkeobWpKl0FXSRwQB_e2Sq2lW5YN_GqT8zJhY-GVViVLvkxVwxSaP5SBHrQ/pubhtml?gid=223559353&single=true">Mar 2 records</a>
@@ -440,6 +441,13 @@ Eli beat Dr. Vince this week!
 <tr>	<td>Futoshiki</td>	<td>Arjun</td>	<td>6.83</td>	<td>5.1(PB)</td>	</tr>	
 <tr>	<td>Tents</td>	<td>Eli</td>	<td>3.74</td>	<td>3.27</td>	</tr>	</table>
 Lucas and Arjun beat Dr. Vince this week!
+
+### Thursday, March 30
+<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<td>Binairo</td>	<td>Jaiven</td>	<td>23.84</td>	<td>15.86</td>	</tr>	
+<td>Galaxies</td>	<td>Lucas</td>	<td>4.66</td>	<td>3.96</td>	</tr>	
+<td>Hitori</td>	<td>Eric</td>	<td>6.31</td>	<td>5.98(PB)</td>	</tr>	
+<td>Norinori</td>	<td>Jayden</td>	<td>8.82</td>	<td>3.49</td>	</tr>	</table>
 
 ---
 
