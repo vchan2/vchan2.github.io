@@ -136,8 +136,6 @@ Tentative schedule for upcoming classes:
     * Monday, Mar. 6: 10.4-10.5
     * Wednesday, Mar. 8: 10.6-10.7
     * Friday, Mar. 10: 10.8. 10.9 in period 4
--->
-
   * Week of Mar. 13
     * Monday, Mar. 13: pi Day (pi rectitation and proof that pi is irrational)
     * Wednesday, Mar. 15: series bee, Mini-math (10.1-10.9)
@@ -150,6 +148,8 @@ Tentative schedule for upcoming classes:
     * Monday, Mar. 27: 10.13
     * Wednesday, Mar. 29: 10.14
     * Friday, Mar. 31: 10.15
+-->
+
   * Week of Apr. 3
     * Monday, Apr. 3: Mini-math (10.10-10.15)
     * Wednesday, Apr. 5: English 30 pull-out (Unit 10 Review)
@@ -408,7 +408,41 @@ Unit 9 test is scheduled for <b>Monday, February 13</b> in-class (calculator) an
 Unit 10 test is tentatively scheduled for <b>Friday, April 7</b> in-class (calculator?) and <b>Monday, April 10</b> in-class (non-calculator?). You should be proficient in all material contained in Unit 10. 
 -->
 
-Unit 10 mid-unit test scheduled for <b>Monday, March 20</a> in-class. Unit 10 final unit test scheduled for <b>Monday, Arpil 10</a> in-class.
+Unit 10 mid-unit test scheduled for <b>Monday, March 20</a> in-class. You should be proficient in all material contained in 10.1 through 10.9. More precisely, you should be able to:
+  * Determine convergence or divergence of a series using:
+    * its partial sums
+    * geometric series (and know the value of the sum if it converges)
+    * nth term test
+    * p-series
+    * comparison tests
+    * alternating series test
+    * ratio test
+    * absolute convergence
+
+<!--
+* Identify a series as geometric and determine its convergergence as well as its sum if it converges
+  * Know when to apply the divergence test
+  * Apply the integral test and know what conditions are needed
+  * 
+-->
+
+Unit 10 final unit test scheduled for <b>Monday, Arpil 10</a> in-class. You should be proficient in all material contained in Unit 10, though the majority of questions will focus on 10.9-10.15. More precisely, you should be able to:
+  * Determine convergence or divergence of a series using:
+    * its partial sums
+    * geometric series (and know the value of the sum if it converges)
+    * nth term test
+    * p-series
+    * comparison tests
+    * alternating series test
+    * ratio test
+    * absolute convergence
+  * Apply the AST error bound
+  * Find and use the Taylor or Maclaurin polynomial of a function
+  * Apply the Lagrange error bound
+  * Find the radius and interval of convergence of a power series
+  * Find Taylor and Maclaurin series of a function
+    * this includes using known series to generate new series via substitution, addition/subtraction/multiplication/division, differentiation, or integration
+
 
 Final exam information: 8:00AM, Monday, May 8, 5th floor
 <img src="https://vchan2.github.io/2021Calculus/Exam_info.png">
