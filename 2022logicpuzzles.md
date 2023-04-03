@@ -1,7 +1,8 @@
 ## Updates
 
+<!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyZoPNA04cn_frJSggGcJ0gWywBP6EzSg0KdLtK34goNFN4tkOYhPIEtULjI8dpo7YRpdXcLGKj8lj/pubhtml?gid=32103356&single=true">Apr 3 records</a>
-
+-->
 
 <!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSvH5tChqt3staZ2FrMPNkeobWpKl0FXSRwQB_e2Sq2lW5YN_GqT8zJhY-GVViVLvkxVwxSaP5SBHrQ/pubhtml?gid=223559353&single=true">Mar 2 records</a>
@@ -524,4 +525,11 @@ Anna and Marshall beat Dr. Vince this week!
 For April 3 - : 
 All records are for the third smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
 
-
+### Monday, April 3
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Shingoki</td>	<td>Anna</td>	<td>210.81</td>	<td>135.85(PB)</td>	</tr>	
+<tr>	<td>**Norinori**</td>	<td>**Emori**</td>	<td>**12.73**</td>	<td>**13.23(PB)**</td>	</tr>	
+<tr>	<td>Skyscrapers</td>	<td>Marshall</td>	<td>194.73</td>	<td>71.14(PB)</td>	</tr>	
+<tr>	<td>Battleships</td>	<td>Marshall</td>	<td>26.62</td>	<td>22.24(PB)</td>	</tr>	
+<tr>	<td>**Slant**</td>	<td>**Anna**</td>	<td>**59.44**</td>	<td>**62.76(PB)**</td>	</tr>	</table>
+Emori and Anna beat Dr. Vince this week!
