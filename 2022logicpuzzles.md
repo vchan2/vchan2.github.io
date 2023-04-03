@@ -386,7 +386,7 @@ Anna had the most student records, at 10. Anna beat Dr. Vince 3 times, and Landr
 
 ## Daily records Term 2 (Div 2)
 
-For February 6 - : 
+For February 9 - March 30: 
 All records are for the smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
 
 ### Thursday, February 9
@@ -448,11 +448,16 @@ Lucas and Arjun beat Dr. Vince this week!
 <td>Hitori</td>	<td>Eric</td>	<td>6.31</td>	<td>5.98(PB)</td>	</tr>	
 <td>Norinori</td>	<td>Jayden</td>	<td>8.82</td>	<td>3.49</td>	</tr>	</table>
 
+For April 6 - : 
+All records are for the third smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
+
+
+
 ---
 
 ## Daily records Term 2 (Div 3)
 
-For February 6 - : 
+For February 6 - March 27: 
 All records are for the smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
 
 ### Monday, February 6
@@ -515,4 +520,8 @@ Anna and Emori beat Dr. Vince this week!
 <tr>	<td>**Killer Sudoku**</td>	<td>**Marshall**</td>	<td>**4.95**</td>	<td>**7.23(PB)**</td>	</tr>	
 <tr>	<td>Heyawake</td>	<td>Marshall</td>	<td>12.31</td>	<td>11.45(PB)</td>	</tr>	</table>
 Anna and Marshall beat Dr. Vince this week!
+
+For April 3 - : 
+All records are for the third smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
+
 
