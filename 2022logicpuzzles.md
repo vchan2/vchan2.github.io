@@ -535,10 +535,9 @@ All records are for the third smallest and easiest version of the stated puzzle,
 Emori and Anna beat Dr. Vince this week!
 
 ### Monday, April 10
-<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
-<td>Marshall</td>	<td>630.67</td>	<td>88.38(PB)</td>	</tr>	
-<td></td>	<td></td>	<td>260.33</td>	</tr>	
-<td></td>	<td></td>	<td>423.97(PB)</td>	</tr>	
-<td>James</td>	<td>74</td>	<td>54.27(PB)</td>	</tr>	
-<td>Anna</td>	<td>101</td>	<td>55.96(PB)</td>	</tr>	</table>
-
+<th>Puzzle</th>	<th>Size</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<td>Stitches</td>	<td>10x10</td>	<td>Marshall</td>	<td>630.67</td>	<td>88.38(PB)</td>	</tr>	
+<td>Killer Sudoku</td>	<td>3x3</td>	<td></td>	<td></td>	<td>260.33</td>	</tr>	
+<td>Sudoku</td>	<td>4x4</td>	<td></td>	<td></td>	<td>423.97(PB)</td>	</tr>	
+<td>Aquarium</td>	<td>15x15</td>	<td>James</td>	<td>74</td>	<td>54.27(PB)</td>	</tr>	
+<td>Mosaic</td>	<td>10x10</td>	<td>Anna</td>	<td>101</td>	<td>55.96(PB)</td>	</tr>	</table>
