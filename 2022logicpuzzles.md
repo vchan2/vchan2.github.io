@@ -1,8 +1,8 @@
 ## Updates
 
-
+<!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyZoPNA04cn_frJSggGcJ0gWywBP6EzSg0KdLtK34goNFN4tkOYhPIEtULjI8dpo7YRpdXcLGKj8lj/pubhtml?gid=1421987405&single=true">Apr 10 records</a>
-
+-->
 
 <!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSvH5tChqt3staZ2FrMPNkeobWpKl0FXSRwQB_e2Sq2lW5YN_GqT8zJhY-GVViVLvkxVwxSaP5SBHrQ/pubhtml?gid=223559353&single=true">Mar 2 records</a>
@@ -533,3 +533,12 @@ All records are for the third smallest and easiest version of the stated puzzle,
 <tr>	<td>Battleships</td>	<td>Marshall</td>	<td>26.62</td>	<td>22.24(PB)</td>	</tr>	
 <tr>	<td>**Slant**</td>	<td>**Anna**</td>	<td>**59.44**</td>	<td>**62.76(PB)**</td>	</tr>	</table>
 Emori and Anna beat Dr. Vince this week!
+
+### Monday, April 10
+<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<td>Marshall</td>	<td>630.67</td>	<td>88.38(PB)</td>	</tr>	
+<td></td>	<td></td>	<td>260.33</td>	</tr>	
+<td></td>	<td></td>	<td>423.97(PB)</td>	</tr>	
+<td>James</td>	<td>74</td>	<td>54.27(PB)</td>	</tr>	
+<td>Anna</td>	<td>101</td>	<td>55.96(PB)</td>	</tr>	</table>
+
