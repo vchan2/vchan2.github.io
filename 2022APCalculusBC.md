@@ -148,8 +148,6 @@ Tentative schedule for upcoming classes:
     * Monday, Mar. 27: 10.13
     * Wednesday, Mar. 29: 10.14
     * Friday, Mar. 31: 10.15
--->
-
   * Week of Apr. 3
     * Monday, Apr. 3: Mini-math (10.10-10.15)
     * Wednesday, Apr. 5: English 30 pull-out (Unit 10 Review)
@@ -162,6 +160,12 @@ Tentative schedule for upcoming classes:
     * Monday, Apr. 17: April Break
     * Wednesday, Apr. 19: April Break
     * Friday, Apr. 21: April Break
+-->
+
+  * Week of Apr. 24
+    * Monday, Apr. 24: 2021 AP Calculus FRQ
+    * Wednesday, Apr. 26: 2021 AP Calculus FRQ marking/review
+    * Friday, Apr. 28: 2021 AP Calculus FRQ marking/review
 
 
 <!--
