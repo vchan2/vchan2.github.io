@@ -213,12 +213,13 @@ Section 3.5 corrections:
 
 If you are consistently spending more than 1 hour per day on homework, please see me.
 
+<!--
 Homework for Friday, March 3:
   * Review packets: Unit 2 MCQ Parts A and B
 
 Homework for Friday, February 17:
   * Review packets: Unit 1 MCQ Parts A, B, and C
-
+-->
 
 <!--
 Homework for Wednesday, October 5:
