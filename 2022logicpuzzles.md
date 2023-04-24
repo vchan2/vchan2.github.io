@@ -540,3 +540,12 @@ Emori and Anna beat Dr. Vince this week!
 <td>Sudoku</td>	<td>4x4</td>	<td></td>	<td></td>	<td>423.97(PB)</td>	</tr>	
 <td>Aquarium</td>	<td>15x15</td>	<td>James</td>	<td>74</td>	<td>54.27(PB)</td>	</tr>	
 <td>Mosaic</td>	<td>10x10</td>	<td>Anna</td>	<td>101</td>	<td>55.96(PB)</td>	</tr>	</table>
+
+### Monday, April 24
+<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<td>**Tents**</td>	<td>**Emori**</td>	<td>**10.48**</td>	<td>**27.43**</td>	</tr>	
+<td>LITS</td>	<td>Emori</td>	<td>52.8</td>	<td>38.09</td>	</tr>	
+<td>Tapa</td>	<td>Olivia</td>	<td>292.15</td>	<td>228.45</td>	</tr>	
+<td>Masyu</td>	<td>Anna</td>	<td>107.18</td>	<td>72.79</td>	</tr>	
+<td>Jigsaw Sudoku</td>	<td>Olivia</td>	<td>63.58</td>	<td>47.75(PB)</td>	</tr>	</table>
+Emori beat Dr. Vince this week!
