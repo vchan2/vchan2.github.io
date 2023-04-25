@@ -55,11 +55,17 @@ Tentative schedule for upcoming classes:
 -->
 
   * Week of Apr. 24
-    * Tuesday, Apr. 25: 3.4, Tarski world puzzles II
-    * Thursday, Apr. 27: Tarski world-like puzzles
+    * Tuesday, Apr. 25: Work period
+    * Thursday, Apr. 27: Work period
   * Week of May. 1
-    * Tuesday, May. 2: Chapter 3 test
-    * Thursday, May. 4: 4.1
+    * Tuesday, May. 2: Work period
+    * Thursday, May. 4: Work period
+  * Week of May. 8
+    * Tuesday, May. 9: Work period
+    * Thursday, May. 11: 3.4, Tarski world puzzles II
+  * Week of May. 15
+    * Tuesday, May. 16: Tarski world-like puzzles
+    * Thursday, May. 18: Chapter 3 test
 
 
 ---
