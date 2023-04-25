@@ -43,8 +43,6 @@ Tentative schedule for upcoming classes:
   * Week of Mar. 13
     * Tuesday, Mar. 14: pi Day (pidokus)
     * Thursday, Mar. 16: Chapter 2 review, 2.5
--->
-
   * Week of Mar. 20
     * Tuesday, Mar. 21: Chapter 2 test
     * Thursday, Mar. 23: 3.1
@@ -54,7 +52,14 @@ Tentative schedule for upcoming classes:
   * Week of Apr. 3
     * Tuesday, Apr. 4: 3.1
     * Thursday, Apr. 6: 3.2
+-->
 
+  * Week of Apr. 24
+    * Tuesday, Apr. 25: 3.3, Tarski world puzzles II
+    * Thursday, Apr. 27: Tarski world-like puzzles
+  * Week of May. 1
+    * Tuesday, May. 2: Chapter 3 test
+    * Thursday, May. 4: 4.1
 
 
 ---
