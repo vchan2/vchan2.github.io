@@ -72,8 +72,12 @@ Tentative schedule for upcoming classes:
 
 ### Exams
 
-Chapter 1 test scheduled for Tuesday, Jan. 31.
+Chapter 3 test scheduled for Thursday, May 18.
 
+
+<!--
+Chapter 1 test scheduled for Tuesday, Jan. 31.
+-->
 
 ---
 
