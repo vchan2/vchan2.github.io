@@ -451,6 +451,23 @@ Lucas and Arjun beat Dr. Vince this week!
 For April 6 - : 
 All records are for the third smallest and easiest version of the stated puzzle, and show the fastest time for that day only.
 
+### Thursday, April 6
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Hitori</td>	<td>Eli</td>	<td>628</td>	<td>209.13(PB)</td>	</tr>	
+<tr>	<td>Light Up</td>	<td>Lucas</td>	<td>31.4</td>	<td>23.08(PB)</td>	</tr>	
+<tr>	<td>Shingoki</td>	<td></td>	<td></td>	<td>69.5(PB)</td>	</tr>	
+<tr>	<td>LITS</td>	<td>Lucas</td>	<td>46.16</td>	<td>32.47(PB)</td>	</tr>	
+<tr>	<td>Nonograms</td>	<td>Jayden</td>	<td>537.05</td>	<td>169.86</td>	</tr>	</table>
+
+### Thursday, April 27
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Shikaku</td>	<td>Eli</td>	<td>20</td>	<td>18.33(PB)</td>	</tr>	
+<tr>	<td>Kakurasu</td>	<td>Lucas</td>	<td>7.79</td>	<td>7.33(PB)</td>	</tr>	
+<tr>	<td>Binairo</td>	<td>Eli</td>	<td>72</td>	<td>62.75(PB)</td>	</tr>	
+<tr>	<td>Norinori</td>	<td>Jayden</td>	<td>38.91</td>	<td>18.4</td>	</tr>	
+<tr>	<td>Futoshiki</td>	<td></td>	<td></td>	<td>78.1(PB)</td>	</tr>	</table>
+
+### Thursday, May 4
 
 
 ---
@@ -549,3 +566,7 @@ Emori and Anna beat Dr. Vince this week!
 <td>Masyu</td>	<td>Anna</td>	<td>107.18</td>	<td>72.79</td>	</tr>	
 <td>Jigsaw Sudoku</td>	<td>Olivia</td>	<td>63.58</td>	<td>47.75(PB)</td>	</tr>	</table>
 Emori beat Dr. Vince this week!
+
+### Monday, May 1
+
+
