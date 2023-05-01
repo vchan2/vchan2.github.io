@@ -1,7 +1,8 @@
 ## Updates
 
-
+<!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyZoPNA04cn_frJSggGcJ0gWywBP6EzSg0KdLtK34goNFN4tkOYhPIEtULjI8dpo7YRpdXcLGKj8lj/pubhtml?gid=1833032533&single=true">May 1 records</a>
+-->
 
 
 <!--
@@ -569,5 +570,12 @@ Emori and Anna beat Dr. Vince this week!
 Emori beat Dr. Vince this week!
 
 ### Monday, May 1
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Heyawake</td>	<td>Marshall</td>	<td>122.32</td>	<td>64.86(PB)</td>	</tr>	
+<tr>	<td>**Shikaku**</td>	<td>**Emori**</td>	<td>**17.54**</td>	<td>**17.84(PB)**</td>	</tr>	
+<tr>	<td>Slither Link</td>	<td></td>	<td></td>	<td>60.04(PB)</td>	</tr>	
+<tr>	<td>Nurikabe</td>	<td>Emori</td>	<td>38.44</td>	<td>24.27(PB)</td>	</tr>	
+<tr>	<td>Hitori</td>	<td></td>	<td></td>	<td>190.47(PB)</td>	</tr>	</table>
+Emori beat Dr. Vince this week!
 
 
