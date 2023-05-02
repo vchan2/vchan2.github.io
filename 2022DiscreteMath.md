@@ -52,20 +52,23 @@ Tentative schedule for upcoming classes:
   * Week of Apr. 3
     * Tuesday, Apr. 4: 3.1
     * Thursday, Apr. 6: 3.2
--->
-
   * Week of Apr. 24
     * Tuesday, Apr. 25: Work period
     * Thursday, Apr. 27: Work period
+-->
+
   * Week of May. 1
     * Tuesday, May. 2: Work period
     * Thursday, May. 4: Work period
   * Week of May. 8
     * Tuesday, May. 9: Work period
-    * Thursday, May. 11: 3.4, Tarski world puzzles II
+    * Thursday, May. 11: 3.4, Tarski world puzzles II, Tarski world-like puzzles
   * Week of May. 15
-    * Tuesday, May. 16: Tarski world-like puzzles
-    * Thursday, May. 18: Chapter 3 test
+    * Tuesday, May. 16: Chapter 3 test
+    * Thursday, May. 18: No class (Div 4 milestone trip)
+  * Week of May. 22
+    * Tuesday, May. 23: No class (Div 4 milestone trip)
+    * Thursday, May. 25: No class (Grade 8 milestone trip)
 
 
 ---
