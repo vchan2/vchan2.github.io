@@ -1,8 +1,8 @@
 ## Updates
 
-
+<!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8Ejc08cddDIjpJ_QxcXRPcGITQq5xqO_4v6wRY4sGkVQ1WIdbTavanACKGKFwcY5YTETBL86wS5kw/pubhtml?gid=539526649&single=true">May 4 records</a>
-
+-->
 
 
 <!--
@@ -470,7 +470,12 @@ All records are for the third smallest and easiest version of the stated puzzle,
 <tr>	<td>Futoshiki</td>	<td></td>	<td></td>	<td>78.1(PB)</td>	</tr>	</table>
 
 ### Thursday, May 4
-
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Killer Sudoku</td>	<td></td>	<td></td>	<td>225.11</td>	</tr>	
+<tr>	<td>Masyu</td>	<td></td>	<td></td>	<td>79.16</td>	</tr>	
+<tr>	<td>Hashi</td>	<td>Michael</td>	<td>41.73</td>	<td>37.7</td>	</tr>	
+<tr>	<td>Stitches</td>	<td>Lucas</td>	<td>110.72</td>	<td>75.99</td>	</tr>	
+<tr>	<td>Shakashaka</td>	<td></td>	<td></td>	<td>194.58</td>	</tr>	</table>
 
 ---
 
@@ -578,4 +583,4 @@ Emori beat Dr. Vince this week!
 <tr>	<td>Hitori</td>	<td></td>	<td></td>	<td>190.47(PB)</td>	</tr>	</table>
 Emori beat Dr. Vince this week!
 
-
+### Monday, May 8
