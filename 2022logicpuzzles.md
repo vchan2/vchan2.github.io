@@ -583,3 +583,11 @@ Emori beat Dr. Vince this week!
 Emori beat Dr. Vince this week!
 
 ### Monday, May 8
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>**Binairo**</td>	<td>**Anna**</td>	<td>**46.75**</td>	<td>**53.71(PB)**</td>	</tr>	
+<tr>	<td>**Hashi**</td>	<td>**Anna**</td>	<td>**22.43**</td>	<td>**27.56(PB)**</td>	</tr>	
+<tr>	<td>**Pipes**</td>	<td>**Landry**</td>	<td>**15.84**</td>	<td>**23.52(PB)**</td>	</tr>	
+<tr>	<td>Kakuro</td>	<td>Olivia</td>	<td>2255.9</td>	<td>457.08(PB)</td>	</tr>	
+<tr>	<td>**Shakashaka**</td>	<td>**Emori**</td>	<td>**62.46**</td>	<td>**194.74**</td>	</tr>	</table>
+Anna, Landry, and Emori beat Dr. Vince this week!
+
