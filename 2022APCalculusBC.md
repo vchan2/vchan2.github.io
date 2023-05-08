@@ -160,12 +160,19 @@ Tentative schedule for upcoming classes:
     * Monday, Apr. 17: April Break
     * Wednesday, Apr. 19: April Break
     * Friday, Apr. 21: April Break
--->
-
   * Week of Apr. 24
     * Monday, Apr. 24: 2021 AP Calculus FRQ
     * Wednesday, Apr. 26: 2021 AP Calculus FRQ marking/review
     * Friday, Apr. 28: 2021 AP Calculus FRQ marking/review
+  * Week of May. 1
+    * Monday, May. 1: 2022 AP Calculus FRQ
+    * Wednesday, May. 3: 2022 AP Calculus FRQ marking/review
+    * Friday, May. 5: 2022 AP Calculus FRQ marking/review
+-->
+  * Week of May. 8
+    * Monday, May. 8: AP Exam (No class after)
+    * Wednesday, May. 10: No class (CoSMOS)
+    * Friday, May. 12: Tentatively: no class (Unit 9 for those interested)
 
 
 <!--
