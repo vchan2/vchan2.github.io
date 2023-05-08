@@ -45,6 +45,7 @@
 * <a href="https://www.puzzle-sudoku.com/">Sudoku</a>
 * <a href="https://www.puzzle-tapa.com/">Tapa</a>
 * <a href="https://www.puzzle-tents.com/">Tents</a>
+* <a href="https://www.puzzle-thermometers.com/">Thermometers</a>
 
 <!--
 * <a href="https://www.puzzle-tents.com/">Tents</a>
@@ -476,6 +477,12 @@ All records are for the third smallest and easiest version of the stated puzzle,
 <tr>	<td>Stitches</td>	<td>Lucas</td>	<td>110.72</td>	<td>75.99</td>	</tr>	
 <tr>	<td>Shakashaka</td>	<td></td>	<td></td>	<td>194.58</td>	</tr>	</table>
 
+### Thursday, May 10
+
+
+### Thursday, June 1
+
+
 ---
 
 ## Daily records Term 2 (Div 3)
@@ -590,4 +597,9 @@ Emori beat Dr. Vince this week!
 <tr>	<td>Kakuro</td>	<td>Olivia</td>	<td>2255.9</td>	<td>457.08(PB)</td>	</tr>	
 <tr>	<td>**Shakashaka**</td>	<td>**Emori**</td>	<td>**62.46**</td>	<td>**194.74**</td>	</tr>	</table>
 Anna, Landry, and Emori beat Dr. Vince this week!
+
+### Monday, May 15
+
+
+### Monday, May 29
 
