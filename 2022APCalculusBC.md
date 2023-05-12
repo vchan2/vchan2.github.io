@@ -170,9 +170,25 @@ Tentative schedule for upcoming classes:
     * Friday, May. 5: 2022 AP Calculus FRQ marking/review
 -->
   * Week of May. 8
-    * Monday, May. 8: AP Exam (No class after)
+    * Monday, May. 8: AP Exam
     * Wednesday, May. 10: No class (CoSMOS)
-    * Friday, May. 12: Tentatively: no class (Unit 9 for those interested)
+    * Friday, May. 12: No class (Unit 9 for those interested)
+  * Week of May. 15
+    * Monday, May. 15: No class (Unit 9 for those interested)
+    * Wednesday, May. 17: End of AP exam party
+    * Friday, May. 19: No class (Div 4 milestone trip)
+  * Week of May. 22
+    * Monday, May. 22: No class (Div 4 milestone trip)
+    * Wednesday, May. 24: No class (Grade 8 milestone trip)
+    * Friday, May. 26: No class (Grade 8 milestone trip)
+  * Week of May. 29
+    * Monday, May. 29: No class (Unit 9 for those interested)
+    * Wednesday, May. 31: Parametric Paint-off
+    * Friday, Jun. 2: No class (Unit 10 for those interested)
+  * Week of Jun. 5
+    * Monday, Jun. 5: No class (Unit 10 for those interested)
+    * Wednesday, Jun. 7: MasterChef Calculus
+    * Friday, Jun. 9: No class (Unit 10 for those interested)
 
 
 <!--
