@@ -187,8 +187,18 @@ Tentative schedule for upcoming classes:
     * Friday, Jun. 2: No class (Unit 10 for those interested)
   * Week of Jun. 5
     * Monday, Jun. 5: No class (Unit 10 for those interested)
-    * Wednesday, Jun. 7: MasterChef Calculus
+    * Wednesday, Jun. 7: Rehearsal pullouts
     * Friday, Jun. 9: No class (Unit 10 for those interested)
+  * Week of Jun. 12
+    * Monday, Jun. 12: 
+    * Wednesday, Jun. 14: MasterChef Calculus
+    * Friday, Jun. 16: No class (Unit 10 for those interested)
+  * Week of Jun. 19
+    * Monday, Jun. 19: No class (Unit 10 for those interested)
+    * Wednesday, Jun. 21: Forensics
+    * Friday, Jun. 23: No class (Unit 10 for those interested)
+  * Week of Jun. 26
+    * Monday, Jun. 26: Last class
 
 
 <!--
