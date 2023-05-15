@@ -600,7 +600,13 @@ Emori beat Dr. Vince this week!
 Anna, Landry, and Emori beat Dr. Vince this week!
 
 ### Monday, May 15
-
+<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>**Galaxies**</td>	<td>**Marshall**</td>	<td>**32.07**</td>	<td>**35.36**</td>	</tr>	
+<tr>	<td>Renzoku</td>	<td>AK</td>	<td>63.55</td>	<td>53.1</td>	</tr>	
+<tr>	<td>Dominosa</td>	<td>Marshall</td>	<td>105.82</td>	<td>40.18(PB)</td>	</tr>	
+<tr>	<td>Futoshiki</td>	<td></td>	<td></td>	<td>113.05</td>	</tr>	
+<tr>	<td>Minesweeper</td>	<td>Indy</td>	<td>56.68</td>	<td>24.13(PB)</td>	</tr>	</table>
+Marshall beat Dr. Vince this week!
 
 ### Monday, May 29
 
