@@ -573,39 +573,39 @@ Emori and Anna beat Dr. Vince this week!
 <tr>	<td>Mosaic</td>	<td>10x10</td>	<td>Anna</td>	<td>101</td>	<td>55.96(PB)</td>	</tr>	</table>
 
 ### Monday, April 24
-<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
-<tr>	<td>**Tents**</td>	<td>**Emori**</td>	<td>**10.48**</td>	<td>**27.43**</td>	</tr>	
-<tr>	<td>LITS</td>	<td>Emori</td>	<td>52.8</td>	<td>38.09</td>	</tr>	
-<tr>	<td>Tapa</td>	<td>Olivia</td>	<td>292.15</td>	<td>228.45</td>	</tr>	
-<tr>	<td>Masyu</td>	<td>Anna</td>	<td>107.18</td>	<td>72.79</td>	</tr>	
-<tr>	<td>Jigsaw Sudoku</td>	<td>Olivia</td>	<td>63.58</td>	<td>47.75(PB)</td>	</tr>	</table>
+<table><tr>	<th>Puzzle</th>	<th>Size</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>**Tents**</td>	<td>10x10</td>	<td>**Emori**</td>	<td>**10.48**</td>	<td>**27.43**</td>	</tr>	
+<tr>	<td>LITS</td>	<td>3x3</td>	<td>Emori</td>	<td>52.8</td>	<td>38.09</td>	</tr>	
+<tr>	<td>Tapa</td>	<td>4x4</td>	<td>Olivia</td>	<td>292.15</td>	<td>228.45</td>	</tr>	
+<tr>	<td>Masyu</td>	<td>15x15</td>	<td>Anna</td>	<td>107.18</td>	<td>72.79</td>	</tr>	
+<tr>	<td>Jigsaw Sudoku</td>	<td>10x10</td>	<td>Olivia</td>	<td>63.58</td>	<td>47.75(PB)</td>	</tr>	</table>
 Emori beat Dr. Vince this week!
 
 ### Monday, May 1
-<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
-<tr>	<td>Heyawake</td>	<td>Marshall</td>	<td>122.32</td>	<td>64.86(PB)</td>	</tr>	
-<tr>	<td>**Shikaku**</td>	<td>**Emori**</td>	<td>**17.54**</td>	<td>**17.84(PB)**</td>	</tr>	
-<tr>	<td>Slither Link</td>	<td></td>	<td></td>	<td>60.04(PB)</td>	</tr>	
-<tr>	<td>Nurikabe</td>	<td>Emori</td>	<td>38.44</td>	<td>24.27(PB)</td>	</tr>	
-<tr>	<td>Hitori</td>	<td></td>	<td></td>	<td>190.47(PB)</td>	</tr>	</table>
+<table><tr>	<th>Puzzle</th>	<th>Size</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Heyawake</td>	<td>10x10</td>	<td>Marshall</td>	<td>122.32</td>	<td>64.86(PB)</td>	</tr>	
+<tr>	<td>**Shikaku**</td>	<td>3x3</td>	<td>**Emori**</td>	<td>**17.54**</td>	<td>**17.84(PB)**</td>	</tr>	
+<tr>	<td>Slither Link</td>	<td>4x4</td>	<td></td>	<td></td>	<td>60.04(PB)</td>	</tr>	
+<tr>	<td>Nurikabe</td>	<td>15x15</td>	<td>Emori</td>	<td>38.44</td>	<td>24.27(PB)</td>	</tr>	
+<tr>	<td>Hitori</td>	<td>10x10</td>	<td></td>	<td></td>	<td>190.47(PB)</td>	</tr>	</table>
 Emori beat Dr. Vince this week!
 
 ### Monday, May 8
-<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
-<tr>	<td>**Binairo**</td>	<td>**Anna**</td>	<td>**46.75**</td>	<td>**53.71(PB)**</td>	</tr>	
-<tr>	<td>**Hashi**</td>	<td>**Anna**</td>	<td>**22.43**</td>	<td>**27.56(PB)**</td>	</tr>	
-<tr>	<td>**Pipes**</td>	<td>**Landry**</td>	<td>**15.84**</td>	<td>**23.52(PB)**</td>	</tr>	
-<tr>	<td>Kakuro</td>	<td>Olivia</td>	<td>2255.9</td>	<td>457.08(PB)</td>	</tr>	
-<tr>	<td>**Shakashaka**</td>	<td>**Emori**</td>	<td>**62.46**</td>	<td>**194.74**</td>	</tr>	</table>
+<table><tr>	<th>Puzzle</th>	<th>Size</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>**Binairo**</td>	<td>10x10</td>	<td>**Anna**</td>	<td>**46.75**</td>	<td>**53.71(PB)**</td>	</tr>	
+<tr>	<td>**Hashi**</td>	<td>3x3</td>	<td>**Anna**</td>	<td>**22.43**</td>	<td>**27.56(PB)**</td>	</tr>	
+<tr>	<td>**Pipes**</td>	<td>4x4</td>	<td>**Landry**</td>	<td>**15.84**</td>	<td>**23.52(PB)**</td>	</tr>	
+<tr>	<td>Kakuro</td>	<td>15x15</td>	<td>Olivia</td>	<td>2255.9</td>	<td>457.08(PB)</td>	</tr>	
+<tr>	<td>**Shakashaka**</td>	<td>10x10</td>	<td>**Emori**</td>	<td>**62.46**</td>	<td>**194.74**</td>	</tr>	</table>
 Anna, Landry, and Emori beat Dr. Vince this week!
 
 ### Monday, May 15
-<table><tr>	<th>Puzzle</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
-<tr>	<td>**Galaxies**</td>	<td>**Marshall**</td>	<td>**32.07**</td>	<td>**35.36**</td>	</tr>	
-<tr>	<td>Renzoku</td>	<td>AK</td>	<td>63.55</td>	<td>53.1</td>	</tr>	
-<tr>	<td>Dominosa</td>	<td>Marshall</td>	<td>105.82</td>	<td>40.18(PB)</td>	</tr>	
-<tr>	<td>Futoshiki</td>	<td></td>	<td></td>	<td>113.05</td>	</tr>	
-<tr>	<td>Minesweeper</td>	<td>Indy</td>	<td>56.68</td>	<td>24.13(PB)</td>	</tr>	</table>
+<table><tr>	<th>Puzzle</th>	<th>Size</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>**Galaxies**</td>	<td>10x10</td>	<td>**Marshall**</td>	<td>**32.07**</td>	<td>**35.36**</td>	</tr>	
+<tr>	<td>Renzoku</td>	<td>3x3</td>	<td>AK</td>	<td>63.55</td>	<td>53.1</td>	</tr>	
+<tr>	<td>Dominosa</td>	<td>4x4</td>	<td>Marshall</td>	<td>105.82</td>	<td>40.18(PB)</td>	</tr>	
+<tr>	<td>Futoshiki</td>	<td>15x15</td>	<td></td>	<td></td>	<td>113.05</td>	</tr>	
+<tr>	<td>Minesweeper</td>	<td>10x10</td>	<td>Indy</td>	<td>56.68</td>	<td>24.13(PB)</td>	</tr>	</table>
 Marshall beat Dr. Vince this week!
 
 ### Monday, May 29
