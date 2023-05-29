@@ -1,8 +1,8 @@
 ## Updates
 
-
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyZoPNA04cn_frJSggGcJ0gWywBP6EzSg0KdLtK34goNFN4tkOYhPIEtULjI8dpo7YRpdXcLGKj8lj/pubhtml?gid=1415377441&single=true">May 29 records</a>
-
+<!--
+<a href="">May 29 records</a>
+-->
 
 
 <!--
@@ -623,6 +623,10 @@ Anna, Landry, and Emori beat Dr. Vince this week!
 Marshall beat Dr. Vince this week!
 
 ### Monday, May 29
-
+<table><tr>	<th>Puzzle</th>	<th>Size</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Kakurasu</td>	<td>6x6</td>	<td>James</td>	<td>34.25</td>	<td>6.66(PB)</td>	</tr>	
+<tr>	<td>Light Up</td>	<td>14x14</td>	<td>James</td>	<td>39</td>	<td>20.54</td>	</tr>	
+<tr>	<td>Nonograms</td>	<td>15x15</td>	<td>James</td>	<td>345.32</td>	<td>132.48</td>	</tr>	
+<tr>	<td>Star Battle</td>	<td>8x8</td>	<td>James</td>	<td>8.83</td>	<td>7.88</td>	</tr>	</table>
 
 
