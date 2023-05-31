@@ -13,7 +13,6 @@ Quick links
 
 ### Updates
 
-* <a href="https://vchan2.github.io/pi/pi_2023.pdf">2023 &pi; Day puzzle</a>
 
 
 <a href="https://vchan2.github.io/pi/pi_is_irrational.pdf">Niven's proof that &pi; is irrational</a>
@@ -168,7 +167,6 @@ Tentative schedule for upcoming classes:
     * Monday, May. 1: 2022 AP Calculus FRQ
     * Wednesday, May. 3: 2022 AP Calculus FRQ marking/review
     * Friday, May. 5: 2022 AP Calculus FRQ marking/review
--->
   * Week of May. 8
     * Monday, May. 8: AP Exam
     * Wednesday, May. 10: No class (CoSMOS)
@@ -181,22 +179,23 @@ Tentative schedule for upcoming classes:
     * Monday, May. 22: No class (Div 4 milestone trip)
     * Wednesday, May. 24: No class (Grade 8 milestone trip)
     * Friday, May. 26: No class (Grade 8 milestone trip)
+-->
   * Week of May. 29
-    * Monday, May. 29: No class (Unit 9 for those interested)
+    * Monday, May. 29: No class
     * Wednesday, May. 31: Parametric Paint-off
-    * Friday, Jun. 2: No class (Unit 10 for those interested)
+    * Friday, Jun. 2: No class
   * Week of Jun. 5
-    * Monday, Jun. 5: No class (Unit 10 for those interested)
-    * Wednesday, Jun. 7: Rehearsal pullouts
-    * Friday, Jun. 9: No class (Unit 10 for those interested)
+    * Monday, Jun. 5: No class
+    * Wednesday, Jun. 7: No class (Rehearsal pullouts)
+    * Friday, Jun. 9: No class
   * Week of Jun. 12
-    * Monday, Jun. 12: 
+    * Monday, Jun. 12: No class
     * Wednesday, Jun. 14: MasterChef Calculus
-    * Friday, Jun. 16: No class (Unit 10 for those interested)
+    * Friday, Jun. 16: No class
   * Week of Jun. 19
-    * Monday, Jun. 19: No class (Unit 10 for those interested)
+    * Monday, Jun. 19: No class
     * Wednesday, Jun. 21: Forensics
-    * Friday, Jun. 23: No class (Unit 10 for those interested)
+    * Friday, Jun. 23: No class
   * Week of Jun. 26
     * Monday, Jun. 26: Last class
 
