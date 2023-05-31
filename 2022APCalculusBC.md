@@ -13,7 +13,10 @@ Quick links
 
 ### Updates
 
-
+<a href="https://vchan2.github.io/Calculus/Projects/Parametric_paintoff.pdf">Parametric Paintoff</a>
+  * <a href="https://vchan2.github.io/Calculus/Projects/Parametric_paintoff_submission01.pdf">Example 1</a>
+  * <a href="https://vchan2.github.io/Calculus/Projects/Parametric_paintoff_submission01.pdf">Example 2</a>
+  * <a href="https://vchan2.github.io/Calculus/Projects/Parametric_paintoff_submission01.pdf">Example 3</a>
 
 <a href="https://vchan2.github.io/pi/pi_is_irrational.pdf">Niven's proof that &pi; is irrational</a>
 
