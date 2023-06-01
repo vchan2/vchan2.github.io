@@ -1,7 +1,8 @@
 ## Updates
 
+<!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8Ejc08cddDIjpJ_QxcXRPcGITQq5xqO_4v6wRY4sGkVQ1WIdbTavanACKGKFwcY5YTETBL86wS5kw/pubhtml?gid=219019661&single=true">June 1 records</a>
-
+-->
 
 <!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSvH5tChqt3staZ2FrMPNkeobWpKl0FXSRwQB_e2Sq2lW5YN_GqT8zJhY-GVViVLvkxVwxSaP5SBHrQ/pubhtml?gid=223559353&single=true">Mar 2 records</a>
@@ -486,7 +487,12 @@ All records are for the third smallest and easiest version of the stated puzzle,
 Arjun beat Dr. Vince this week!
 
 ### Thursday, June 1
-
+<table><tr>	<th>Puzzle</th>	<th>Size</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Jigsaw Sudoku</td>	<td>9x9</td>	<td>Jayden</td>	<td>58.92</td>	<td>52.09</td>	</tr>	
+<tr>	<td>Heyawake</td>	<td>10x10</td>	<td></td>	<td></td>	<td>55.66(PB)</td>	</tr>	
+<tr>	<td>Renzoku</td>	<td>7x7</td>	<td>Arjun</td>	<td>54.91</td>	<td>48.76</td>	</tr>	
+<tr>	<td>Battleships</td>	<td>10x10</td>	<td>Lucas</td>	<td>28.07</td>	<td>23.84</td>	</tr>	
+<tr>	<td>Slither Link</td>	<td>10x10</td>	<td></td>	<td></td>	<td>112.46</td>	</tr>	</table>
 
 ### Thursday, June 8
 
