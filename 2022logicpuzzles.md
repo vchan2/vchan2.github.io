@@ -631,4 +631,10 @@ Marshall beat Dr. Vince this week!
 <tr>	<td>Nonograms</td>	<td>15x15</td>	<td>James</td>	<td>345.32</td>	<td>132.48</td>	</tr>	
 <tr>	<td>Star Battle</td>	<td>8x8</td>	<td>James</td>	<td>8.83</td>	<td>7.88</td>	</tr>	</table>
 
-
+### Monday, June 5
+<table><tr>	<th>Puzzle</th>	<th>Size</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Kakurasu</td>	<td>6x6</td>	<td>IKA</td>	<td>7.9</td>	<td>6.66(PB)</td>	</tr>	
+<tr>	<td>**Light Up**</td>	<td>**14x14**</td>	<td>**Emori**</td>	<td>**16.75**</td>	<td>**20.54**</td>	</tr>	
+<tr>	<td>Nonograms</td>	<td>15x15</td>	<td>Olivia</td>	<td>319</td>	<td>132.48</td>	</tr>	
+<tr>	<td>**Star Battle**</td>	<td>**8x8**</td>	<td>**Marshall**</td>	<td>**6.68**</td>	<td>**7.88**</td>	</tr>	</table>
+Emori and Marshall beat Dr. Vince this week!
