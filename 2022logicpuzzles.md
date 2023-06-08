@@ -1,6 +1,8 @@
 ## Updates
 
+<!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8Ejc08cddDIjpJ_QxcXRPcGITQq5xqO_4v6wRY4sGkVQ1WIdbTavanACKGKFwcY5YTETBL86wS5kw/pubhtml?gid=1998500678&single=true">June 8 records</a>
+-->
 
 <!--
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSvH5tChqt3staZ2FrMPNkeobWpKl0FXSRwQB_e2Sq2lW5YN_GqT8zJhY-GVViVLvkxVwxSaP5SBHrQ/pubhtml?gid=223559353&single=true">Mar 2 records</a>
@@ -493,7 +495,13 @@ Arjun beat Dr. Vince this week!
 <tr>	<td>Slither Link</td>	<td>10x10</td>	<td></td>	<td></td>	<td>112.46</td>	</tr>	</table>
 
 ### Thursday, June 8
-
+<table><tr>	<th>Puzzle</th>	<th>Size</th>	<th>Student</th>	<th>Student Time</th>	<th>Dr. Vince's Time</th>	</tr>	
+<tr>	<td>Sudoku</td>	<td>4x4</td>	<td></td>	<td></td>	<td>993.2</td>	</tr>	
+<tr>	<td>**Tents**</td>	<td>**10x10**</td>	<td>**Eli**</td>	<td>**22.01**</td>	<td>**30.01**</td>	</tr>	
+<tr>	<td>Minesweeper</td>	<td>10x10</td>	<td>Jayden</td>	<td>32.34</td>	<td>24.13</td>	</tr>	
+<tr>	<td>Nurikabe</td>	<td>10x10</td>	<td>Eli</td>	<td>42.54</td>	<td>32.29</td>	</tr>	
+<tr>	<td>Pipes</td>	<td>7x7</td>	<td>Eli</td>	<td>28.53</td>	<td>26.81</td>	</tr>	</table>
+Eli beat Dr. Vince this week!
 
 ### Thursday, June 15
 
