@@ -13,10 +13,7 @@ Quick links
 
 ### Updates
 
-<a href="https://vchan2.github.io/Calculus/Projects/Parametric_paintoff.pdf">Parametric Paintoff</a>
-  * <a href="https://vchan2.github.io/Calculus/Projects/Parametric_paintoff_submission01.pdf">Example 1</a>
-  * <a href="https://vchan2.github.io/Calculus/Projects/Parametric_paintoff_submission02.pdf">Example 2</a>
-  * <a href="https://vchan2.github.io/Calculus/Projects/Parametric_paintoff_submission03.pdf">Example 3</a>
+MasterChef Calculus will take place Wednesday, June 14, during class, in 2514/2515. 
 
 <a href="https://vchan2.github.io/pi/pi_is_irrational.pdf">Niven's proof that &pi; is irrational</a>
 
@@ -31,8 +28,10 @@ I have completed marking Unit 6. Just to let you know, most questions were worth
 <a href="https://vchan2.github.io/Challenges/digit_puzzle_2023.pdf">2023 digit puzzle</a> due by January 23, 2023.
 -->
 
-
+<!--
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
+-->
+
 
 ---
 
@@ -182,7 +181,6 @@ Tentative schedule for upcoming classes:
     * Monday, May. 22: No class (Div 4 milestone trip)
     * Wednesday, May. 24: No class (Grade 8 milestone trip)
     * Friday, May. 26: No class (Grade 8 milestone trip)
--->
   * Week of May. 29
     * Monday, May. 29: No class
     * Wednesday, May. 31: Parametric Paint-off
@@ -191,6 +189,7 @@ Tentative schedule for upcoming classes:
     * Monday, Jun. 5: No class
     * Wednesday, Jun. 7: No class (Rehearsal pullouts)
     * Friday, Jun. 9: No class
+-->
   * Week of Jun. 12
     * Monday, Jun. 12: No class
     * Wednesday, Jun. 14: MasterChef Calculus
@@ -802,6 +801,11 @@ Calculus-based:
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_04Sum_of_product.pdf"> Unit 10: Sum of Product </a> - Prove that the product of summands from convergent series is convergent
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_05Rearrangment.pdf"> Unit 10: Rearrangement of conditionally convergent series </a> - Prove that the terms of a conditionally convergent series can be rearranged so that the new series will converge to any given real number
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_06Basel_problem.pdf"> Unit 10: Basel problem </a> - Find the exact value of the sum of the reciprocals of the squares of the positive integers
+
+<a href="https://vchan2.github.io/Calculus/Projects/Parametric_paintoff.pdf">Parametric Paintoff</a>
+  * <a href="https://vchan2.github.io/Calculus/Projects/Parametric_paintoff_submission01.pdf">Example 1</a>
+  * <a href="https://vchan2.github.io/Calculus/Projects/Parametric_paintoff_submission02.pdf">Example 2</a>
+  * <a href="https://vchan2.github.io/Calculus/Projects/Parametric_paintoff_submission03.pdf">Example 3</a>
 
 
 
