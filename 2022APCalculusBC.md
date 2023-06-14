@@ -13,7 +13,7 @@ Quick links
 
 ### Updates
 
-MasterChef Calculus will take place Wednesday, June 14, during class, in 2514/2515. 
+MasterChef Calculus will take place Wednesday, June 14, during class, in 2514/2515. <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRpxKwkwXsmkPNG9ilfZQlpxSIGXwXLvZtZqMMtn4r0FH7-8WmsUMqx_k7mnHwpqBbYr2c2KgogVomw/pubhtml?gid=1081984119&single=true">Here are the lots that are up for auction.</a>
 
 <a href="https://vchan2.github.io/pi/pi_is_irrational.pdf">Niven's proof that &pi; is irrational</a>
 
