@@ -55,8 +55,6 @@ Tentative schedule for upcoming classes:
   * Week of Apr. 24
     * Tuesday, Apr. 25: Work period
     * Thursday, Apr. 27: Work period
--->
-
   * Week of May. 1
     * Tuesday, May. 2: Work period
     * Thursday, May. 4: Work period
@@ -69,6 +67,11 @@ Tentative schedule for upcoming classes:
   * Week of May. 22
     * Tuesday, May. 23: No class (Div 4 milestone trip)
     * Thursday, May. 25: No class (Grade 8 milestone trip)
+-->
+  * Week of Jun. 19
+    * Tuesday, Jun. 20: Induction
+    * Thursday, Jun. 22: Last class
+
 
 
 ---
