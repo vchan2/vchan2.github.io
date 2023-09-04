@@ -3,10 +3,10 @@
 ## Classes 
 
 ### Mathematics 
-* [Grade 4/5](2022gr45.md)
-* [Grade 6](2022gr6.md)
-* [Division 3/4 (AP Calculus BC)](2022APCalculusBC.md)
-* [Division 3/4 (Discrete Math)](2022DiscreteMath.md)
+* [Grade 2/3](2023gr23.md)
+* [Grade 4/5](2023gr45.md)
+* [Grade 6](2023gr6.md)
+* [Division 3/4 (AP Calculus BC)](2023APCalculusBC.md)
 
 <!--
 * [Division 4 (Linear Algebra)](2022LinearAlgebra.md)
@@ -15,7 +15,7 @@
 ---
 ### Electives 
 
-* [Logic Puzzles](2022logicpuzzles.md)
+* [Logic Puzzles](2023logicpuzzles.md)
 
 
 ---
@@ -25,13 +25,13 @@
 
 * <a href="https://renertmath.github.io/RenertMath-CelebrateMath/"> CoSMOS 2020 Challenge</a> 
 * <a href="https://vchan2.github.io/Challenges/Fruit_puzzle.pdf"> Fruit algebra puzzle - over 95% of people cannot solve this! </a>
+
+
+<!--
 * <a href="https://renertmath.github.io/Challenges/12Days2022.html">12 Days of ChrisMATH</a>
 * <a href="https://vchan2.github.io/Challenges/digit_puzzle_2023.pdf">2023 digit puzzle</a>
 * <a href="https://vchan2.github.io/Challenges/digit_puzzle_2023_4dice.pdf">2023 4-dice puzzle</a>
 * <a href="https://vchan2.github.io/pi/pi_2023.pdf">2023 &pi; Day puzzle</a>
-
-
-<!--
 * <a href="https://vchan2.github.io/Challenges/Rainbow_Stones.pdf"> Rainbow stones </a>
 * <a href="https://vchan2.github.io/Challenges/Guy_digit_puzzle.pdf"> Digit puzzle for "Mathematical Play (Remembering Richard Guy)" </a>
 * <a href="https://vchan2.github.io/Challenges/Guy_fractions.pdf"> Fraction puzzle for "Mathematical Play (Remembering Richard Guy)" </a>
