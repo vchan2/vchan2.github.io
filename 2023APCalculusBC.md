@@ -1,3 +1,4 @@
+
 Quick links
 
   * [Updates](#updates)
@@ -253,6 +254,60 @@ Unit 5 test is scheduled for <b>Monday, January 17</b> in-class. Unit 5 AP mater
   * (AP) Handle more challenging problems of the types above.
 -->
 
+Unit 1-5 test is scheduled for <b>Monday, September 11</b> in-class. You should be proficient in all material contained in Units 1-5. More precisely, you should be able to:
+  * Compute limits of a function graphically.
+  * Compute limits of a composite function graphically.
+  * Interpret tabular information for finding limits.
+  * Use limit properties and arithmetic to find limits.
+  * Compute a limit of a function algebraically via 4 techniques:
+    * Technique 0: rational-like function evaluation
+    * Technique 1: factor and reduce
+    * Technique 2: rationalize
+    * Technique 3: Fundamental Trigonometric Limit
+    * Technique 4: (for x approaching +/- infinity) divide by dominant terms in the denominator
+      * Apply this technique for expressions involving radicals
+  * Compute a one-sided limit, including checking for signs in absolute values and values close to 0.
+  * Find a limit via one-sided limits.
+  * Determine where a function is continuous, or find values for constants which give continuity.
+  * Identify the type of a discontinuity.
+  * Find vertical and horizontal asymptotes of a function.
+  * Use Squeeze Theorem.
+  * Use Intermediate Value Theorem.
+  * Describe the relationship between continuity and differentiability.
+  * Calculate the average rate of change from a table, graph, or function.
+  * Compute a derivative from first principles.
+  * Identify a limit as a derivative and use derivative rules to find the limit.
+  * Approximate the value of a derivative from either a table or graph.
+  * Sketch the derivative of a function given a graph of the function and vice versa, the graph of a function given the derivative.
+  * Apply the various derivative rules: sum/difference rule, constant multiple rule, power rule, product rule, quotient rule (this is of course the vast majority of the test, either directly or indirectly)
+    * Note: This is true both for given functions (involving powers, trigonometric functions, exponential functions, and logarithmic functions) as well as given a table of values for f(x), g(x), f'(x), g'(x).
+  * Use derivatives to find the equation of tangent/normal lines with a given slope and through a point or parallel/perpendicular to given lines.
+  * Apply chain rule
+  * Compute dy/dx implicitly, and find the slope of the tangent to an implicit curve at a point.
+  * Compute higher-order derivatives.
+  * Be able to compute higher-order implicit derivatives.
+  * Differentiate inverse functions, including the inverse trigonometric functions.
+  * Be able to compute derivatives via logarithmic differentiation.
+  * Determine the velocity and acceleration of a particle moving in a straight-line given its position/displacement function as well as compute the value of the velocity or acceleration at particular times.
+  * Determine when a particle is at rest as well as when it is moving in the positive or negative direction.
+  * Find the total distance travelled by a particle within a specified amount of time.
+  * Find rates of change in contexts other than motion including understanding the correct units
+  * Solve related rates problems (you should know standard formulas for area/volume and perimeter/surface area, and be able to use simple geometry such as similarity of triangles and Pythagorean Theorem)
+  * Approximate a function with local linearization and analyze a linearization
+  * Use l'H&ocirc;pital's rule appropriately
+  * Apply the Extreme Value Theorem
+  * Find and classify critical points
+  * Find local and global extrema
+  * Determine where a function is increasing or decreasing
+  * Use the First Derivative Test
+  * Determine the concavity of a function on an interval
+  * Use the Second Derivative Test
+  * Determine information about f, f', or f'' given information about another one of these functions
+  * Solve optimization problems
+  * Analyze an implicit function using derivatives and second derivatives 
+  * Apply the Mean Value Theorem
+  * Determine where a function satisfies the Mean Value Theorem
+  
 Unit 6 test is scheduled for <b>Monday, October 2</b> in-class. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
   * Approximate the area under a curve using right and left Riemann sums, midpoint and trapezoidal rules, both with equal and unequal intervals, from a function, graph, or table of values
   * Identify if an area estimate is an overestimate or underestimate
