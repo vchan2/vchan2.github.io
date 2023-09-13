@@ -110,7 +110,11 @@ Section 3.5 corrections:
 
 ### Homework
 
-If you are consistently spending more than 1 hour per day on homework, please see me. (Nearly) Every section we cover will have an associated AP Classroom online homework for you to complete by a certain deadline, typically before the next class. You will also receive paper assignments from Flipped Math to work on. Any additional homework outside of these two will be posted here.
+If you are consistently spending more than 1 hour per day on homework, please see me. (Nearly) Every section we cover will have an associated AP Classroom online homework for you to complete by a certain deadline, typically before the next class (or in the case of a test, the class after that). You will also receive paper assignments from Flipped Math to work on. Any additional homework outside of these two will be posted here.
+
+Homework for Monday, September 18:
+  * <a href="https://vchan2.github.io/2023APCalculusBC/6.1-6.3_handout.pdf">6.1-6.3 handout</a>
+  * <a href="https://vchan2.github.io/2023APCalculusBC/6.3_Numerical_Integration.pdf">Numerical integration worksheet</a>
 
 Homework for Friday, September 8:
   * Introduction Questionnaire
