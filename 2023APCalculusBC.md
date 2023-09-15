@@ -572,10 +572,12 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 * <a href="https://docs.google.com/document/d/1Ag_JfeakR__Lp3QTsUHtt_DT6hfYD8P-aB9Xw4bkMW0/edit?usp=sharing">RTC information</a>
 * <a href="https://calculus.flippedmath.com/list-of-lessons.html">Flipped Math - AP Calculus</a>
+
 <!--
   * <a href="https://vchan2.github.io/Calculus/calc_6.pdf">Unit 6 Corrective Assignments</a>
   * <a href="https://vchan2.github.io/Calculus/calc_8.pdf">Unit 8 Corrective Assignments</a>
 -->
+
 * <a href="https://www.youtube.com/watch?v=WUvTyaaNkzM">The Essence of Calculus YouTube series</a> (brought to you by <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">3 Blue 1 Brown</a>)
 * <a href="https://www.khanacademy.org/math/ap-calculus-bc">AP Calculus BC course (Khan Academy)</a>
 * <a href="https://www.wolframalpha.com/">Online calculator (WolframAlpha)</a>
@@ -628,13 +630,15 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 ### Practice problems
 
-<!--
 * <a href="2022APCalculusBC/calculus_readiness.pdf">Calculus readiness test</a> (<a href="2022APCalculusBC/calculus_readiness_sol.pdf">Answers</a>)
 * Unit 1
   * <a href="https://vchan2.github.io/2022APCalculusBC/Limits(graphical).pdf">Limits (graphical)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/Limits(graphical)_sol.pdf">Answers</a>)
 * Unit 6
   * <a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout.pdf">6.1-6.3 handout</a> (<a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2022APCalculusBC/Numerical_Integration.pdf">Numerical Integration worksheet</a> (<a href="https://vchan2.github.io/2022APCalculusBC/Numerical_Integration_sol.pdf">Solutions</a>)
+
+
+<!--
   * <a href="https://vchan2.github.io/2022APCalculusBC/6.10prep_Dividing_Polynomials.pdf">6.10 preparation - polynomial division</a> (answers included)
   * <a href="https://vchan2.github.io/2022APCalculusBC/6.10prep_Completing_the_Square.pdf">6.10 preparation - completing the square</a> (answers included)
   * <a href="https://vchan2.github.io/2022APCalculusBC/IntegrationBee2022partial.pdf">Integration Bee questions (plus additional problems we didn't get to)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/IntegrationBee2022partial_sol.pdf">Solutions</a>)
@@ -647,10 +651,10 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 -->
 
 
-<!--
 * Mini-maths
-  * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_16.pdf"> Mini-math for September 16 (1.1-1.11)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_16_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_23.pdf"> Mini-math for September 23 (6.1-6.4)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_23_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_09_15.pdf"> Mini-math for September 15 (6.1-6.4)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_09_15_sol.pdf">Solutions</a>)
+
+<!--
   * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_29.pdf"> Mini-math for September 29 (6.5-6.8)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_29_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_11_14.pdf"> Mini-math for November 14 (8.1-8.6)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_11_14_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_11_21.pdf"> Mini-math for November 21 (8.7-8.12)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_11_21_sol.pdf">Solutions</a>)
