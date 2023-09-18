@@ -42,6 +42,7 @@ I have completed marking Unit 6. Just to let you know, most questions were worth
 
 Tentative schedule for upcoming classes:
 
+<!--
   * Week of Sep. 4
     * Wednesday, Sep. 6: First day activities, 6.1
     * Friday, Sep. 8: BLOCK WEEK
@@ -49,30 +50,40 @@ Tentative schedule for upcoming classes:
     * Monday, Sep. 11: Unit 1-5 test
     * Wednesday, Sep. 13: 6.2-6.4
     * Friday, Sep. 15: Mini-math (6.1-6.4)
+-->
+    
   * Week of Sep. 18
     * Monday, Sep. 18: 6.5-6.9
-    * Wednesday, Sep. 20: 6.10-6.12
+    * Wednesday, Sep. 20: 6.9-6.10
     * Friday, Sep. 22: Terry Fox Run
   * Week of Sep. 25
-    * Monday, Sep. 25: 6.13-6.14
-    * Wednesday, Sep. 27: Integration Bee
+    * Monday, Sep. 25: 6.11-6.12
+    * Wednesday, Sep. 27: 6.13-6.14
     * Friday, Sep. 29: Mini-math (6.9-6.14)
   * Week of Oct. 2
-    * Monday, Oct. 2: Unit 6 test
-    * Wednesday, Oct. 4: 7.1-7.2
+    * Monday, Oct. 2: Integration Bee
+    * Wednesday, Oct. 4: Unit 6 test
     * Friday, Oct. 6: Org Day
   * Week of Oct. 9
     * Monday, Oct. 9: Thanksgiving
-    * Wednesday, Oct. 11: 7.3-7.4
-    * Friday, Oct. 13: 7.5
+    * Wednesday, Oct. 11: 7.1-7.3
+    * Friday, Oct. 13: 7.3-7.4
   * Week of Oct. 16
-    * Monday, Oct. 16: 7.6-7.7
-    * Wednesday, Oct. 18: 7.8-7.9
-    * Friday, Oct. 20: Mini-math (7.1-7.9)
+    * Monday, Oct. 16: 7.4-7.5
+    * Wednesday, Oct. 18: 7.6-7.8
+    * Friday, Oct. 20: 7.9
   * Week of Oct. 23
-    * Monday, Oct. 23: Unit 7 test
-    * Wednesday, Oct. 25: 
+    * Monday, Oct. 23: Mini-math (7.1-7.9)
+    * Wednesday, Oct. 25: Unit 7 test
     * Friday, Oct. 27: 
+  * Week of Oct. 30
+    * Monday, Oct. 30: 
+    * Wednesday, Nov. 1: Pre-break activities
+    * Friday, Nov. 3: PTC
+  * Week of Nov. 6
+    * Monday, Nov. 6: November break
+    * Wednesday, Nov. 8: November break
+    * Friday, Nov. 10: November break
 
 
 
