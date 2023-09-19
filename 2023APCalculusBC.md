@@ -53,7 +53,7 @@ Tentative schedule for upcoming classes:
 -->
     
   * Week of Sep. 18
-    * Monday, Sep. 18: 6.5-6.9
+    * Monday, Sep. 18: 6.5-6.8
     * Wednesday, Sep. 20: 6.9-6.10
     * Friday, Sep. 22: Terry Fox Run
   * Week of Sep. 25
