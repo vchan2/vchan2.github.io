@@ -33,7 +33,7 @@ I have completed marking Unit 6. Just to let you know, most questions were worth
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 -->
 
-<b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. The first few weeks, this class is <b>mandatory</b> for those who scored below 70% and highly encouraged for anyone feeling unsure about the material. We will be going through every question from the Unit 1-5 test. For future dates, it will continue to be mandatory for anyone scoring below 80% for other unit tests. Otherwise, please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
+<b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. This class is <b>mandatory</b> for those who scored below 80% on a unit test, but highly encouraged for anyone who is struggling or unsure about any of the material. Otherwise, please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
 ---
 
@@ -50,12 +50,12 @@ Tentative schedule for upcoming classes:
     * Monday, Sep. 11: Unit 1-5 test
     * Wednesday, Sep. 13: 6.2-6.4
     * Friday, Sep. 15: Mini-math (6.1-6.4)
--->
-    
   * Week of Sep. 18
     * Monday, Sep. 18: 6.5-6.8
     * Wednesday, Sep. 20: 6.9-6.10
     * Friday, Sep. 22: Terry Fox Run
+-->
+    
   * Week of Sep. 25
     * Monday, Sep. 25: 6.11-6.12
     * Wednesday, Sep. 27: 6.13-6.14
