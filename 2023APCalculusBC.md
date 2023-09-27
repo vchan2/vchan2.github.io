@@ -272,6 +272,7 @@ Unit 5 test is scheduled for <b>Monday, January 17</b> in-class. Unit 5 AP mater
   * (AP) Handle more challenging problems of the types above.
 -->
 
+<!--
 Unit 1-5 test is scheduled for <b>Monday, September 11</b> in-class. You should be proficient in all material contained in Units 1-5. More precisely, you should be able to:
   * Compute limits of a function graphically.
   * Compute limits of a composite function graphically.
@@ -325,8 +326,9 @@ Unit 1-5 test is scheduled for <b>Monday, September 11</b> in-class. You should 
   * Analyze an implicit function using derivatives and second derivatives 
   * Apply the Mean Value Theorem
   * Determine where a function satisfies the Mean Value Theorem
-  
-Unit 6 test is scheduled for <b>Wednesday, October 4</b> in-class. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
+-->
+
+Unit 6 test is scheduled for <b>Wednesday, October 4</b> in-class. There will be a calculator portion and a non-calculator portion. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
   * Approximate the area under a curve using right and left Riemann sums, midpoint and trapezoidal rules, both with equal and unequal intervals, from a function, graph, or table of values
   * Identify if an area estimate is an overestimate or underestimate
   * Interpret or produce an integral given a contextual application
@@ -648,7 +650,8 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://vchan2.github.io/2022APCalculusBC/Limits(graphical).pdf">Limits (graphical)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/Limits(graphical)_sol.pdf">Answers</a>)
 * Unit 6
   * <a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout.pdf">6.1-6.3 handout</a> (<a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2022APCalculusBC/Numerical_Integration.pdf">Numerical Integration worksheet</a> (<a href="https://vchan2.github.io/2022APCalculusBC/Numerical_Integration_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2023APCalculusBC/6.3_Numerical_Integration.pdf">Numerical Integration worksheet</a> (<a href="https://vchan2.github.io/2023APCalculusBC/6.3_Numerical_Integration_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2023APCalculusBC/6.14_practice.pdf">6.14 practice</a> (<a href="https://vchan2.github.io/2023APCalculusBC/6.14_practice_sol.pdf">Solutions</a>)
 
 
 <!--
@@ -666,6 +669,11 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 * Mini-maths
   * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_09_15.pdf"> Mini-math for September 15 (6.1-6.4)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_09_15_sol.pdf">Solutions</a>)
+
+<!--
+  * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_09_29.pdf"> Mini-math for September 29 (6.5-6.14)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_09_29_sol.pdf">Solutions</a>)
+-->
+
 
 <!--
   * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_29.pdf"> Mini-math for September 29 (6.5-6.8)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_29_sol.pdf">Solutions</a>)
