@@ -33,6 +33,8 @@ I have completed marking Unit 6. Just to let you know, most questions were worth
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 -->
 
+<b>NOTICE:</b> We have covered a lot of material since the last mini-math, so on Friday, September 29, we have a much longer mini-math (18 minutes). In the event we don't finish going over all of the questions during class, we can continue during period 5.
+
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. This class is <b>mandatory</b> for those who scored below 80% on a unit test, but highly encouraged for anyone who is struggling or unsure about any of the material. Otherwise, please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
 ---
@@ -59,7 +61,7 @@ Tentative schedule for upcoming classes:
   * Week of Sep. 25
     * Monday, Sep. 25: 6.11-6.12
     * Wednesday, Sep. 27: 6.13-6.14
-    * Friday, Sep. 29: Mini-math (6.9-6.14)
+    * Friday, Sep. 29: Mini-math (6.5-6.14)
   * Week of Oct. 2
     * Monday, Oct. 2: Integration Bee
     * Wednesday, Oct. 4: Unit 6 test
