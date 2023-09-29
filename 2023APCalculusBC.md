@@ -35,6 +35,8 @@ I have completed marking Unit 6. Just to let you know, most questions were worth
 
 <b>NOTICE:</b> By request, I have assigned Unit 6 review questions. These are OPTIONAL, but recommended if you are worried about the material.
 
+<b>NOTICE:</b> The corrective assignment in flipped math for 6.13 has a typo in the answer key. Q1's answer is the negative of what it shows.
+
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. This class is <b>mandatory</b> for those who scored below 80% on a unit test, but highly encouraged for anyone who is struggling or unsure about any of the material. Otherwise, please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
 ---
@@ -56,12 +58,12 @@ Tentative schedule for upcoming classes:
     * Monday, Sep. 18: 6.5-6.8
     * Wednesday, Sep. 20: 6.9-6.10
     * Friday, Sep. 22: Terry Fox Run
--->
-    
   * Week of Sep. 25
     * Monday, Sep. 25: 6.11-6.12
     * Wednesday, Sep. 27: 6.13-6.14
     * Friday, Sep. 29: Mini-math (6.5-6.14)
+-->
+    
   * Week of Oct. 2
     * Monday, Oct. 2: Integration Bee
     * Wednesday, Oct. 4: Unit 6 test
