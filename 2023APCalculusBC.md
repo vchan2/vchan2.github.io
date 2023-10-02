@@ -37,7 +37,7 @@ I have completed marking Unit 6. Just to let you know, most questions were worth
 
 <b>NOTICE:</b> The corrective assignment in flipped math for 6.13 has a typo in the answer key. Q1's answer is the negative of what it shows.
 
-<b>NOTICE:</b> Integration Bee questions have been posted. 
+<b>NOTICE:</b> <a href="https://vchan2.github.io/2023APCalculusBC/IntegrationBee2023partial.pdf">Integration Bee</a> questions have been posted. (<a href="https://vchan2.github.io/2023APCalculusBC/IntegrationBee2023partial_sol.pdf">Solutions</a>)
 
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. This class is <b>mandatory</b> for those who scored below 80% on a unit test, but highly encouraged for anyone who is struggling or unsure about any of the material. Otherwise, please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
