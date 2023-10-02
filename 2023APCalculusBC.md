@@ -37,6 +37,8 @@ I have completed marking Unit 6. Just to let you know, most questions were worth
 
 <b>NOTICE:</b> The corrective assignment in flipped math for 6.13 has a typo in the answer key. Q1's answer is the negative of what it shows.
 
+<b>NOTICE:</b> Integration Bee questions have been posted. 
+
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. This class is <b>mandatory</b> for those who scored below 80% on a unit test, but highly encouraged for anyone who is struggling or unsure about any of the material. Otherwise, please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 
 ---
@@ -654,7 +656,7 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout.pdf">6.1-6.3 handout</a> (<a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/6.3_Numerical_Integration.pdf">Numerical Integration worksheet</a> (<a href="https://vchan2.github.io/2023APCalculusBC/6.3_Numerical_Integration_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/6.14_practice.pdf">6.14 practice</a> (<a href="https://vchan2.github.io/2023APCalculusBC/6.14_practice_sol.pdf">Solutions</a>)
-
+  * <a href="https://vchan2.github.io/2023APCalculusBC/IntegrationBee2023partial.pdf">Integration Bee</a> (<a href="https://vchan2.github.io/2023APCalculusBC/IntegrationBee2023partial_sol.pdf">Solutions</a>)
 
 <!--
   * <a href="https://vchan2.github.io/2022APCalculusBC/6.10prep_Dividing_Polynomials.pdf">6.10 preparation - polynomial division</a> (answers included)
