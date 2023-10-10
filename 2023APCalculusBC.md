@@ -604,19 +604,19 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://www.desmos.com/calculator/rn3t3zbamk"> Visualization of relationship between a curve's concavity, its tangent line, and the second derivative </a>
 * Trigonometry
   * <a href="https://mathisonian.github.io/trig/etymology/"> The etymology of the 6 standard trig fuctions, complete with animations </a>
+  * <a href="https://vchan2.github.io/2021Calculus/Trig_derivatives_proofs.pdf"> Proofs of Trigonometric Derivatives </a>
+* DE
+  * <a href="https://www.geogebra.org/m/W7dAdgqc">Slope field plotter</a>
 
 <!--
 * Integration
   * <a href="https://www.desmos.com/calculator/tyqezuilba">8.2 example</a>
   * <a href="https://www.desmos.com/calculator/q3avtnrgoq">Volume with cross sections</a>
   * <a href="https://www.geogebra.org/classic/XArpgR3A">Volume with cross sections (revolvable)</a>
-* DE
-  * <a href="https://www.geogebra.org/m/W7dAdgqc">Slope field plotter</a>
+
 -->
 
 <!--
-* <a href="https://vchan2.github.io/2021Calculus/Trig_derivatives_proofs.pdf"> Proofs of Trigonometric Derivatives </a>
-* <a href="https://www.geogebra.org/m/W7dAdgqc">Slope field plotter</a>
 * <a href="https://vchan2.github.io/2021Calculus/10_series_cheat_sheet.pdf">Cheat sheet for series tests (Unit 10)</a>
 * <a href="https://vchan2.github.io/2021Calculus/10_Taylor_cheat_sheet.pdf">Cheat sheet for Taylor series (Unit 10)</a>
 -->
