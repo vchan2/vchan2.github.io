@@ -14,15 +14,10 @@ Quick links
 
 ### Updates
 
-<!--
-<a href="https://vchan2.github.io/pi/pi_is_irrational.pdf">Niven's proof that &pi; is irrational</a>
--->
+<b>NOTICE:</b> Please bring your laptop to class on Friday, October 13 for an in-class activity.
 
 <!--
-I have completed marking Unit 6. Just to let you know, most questions were worth 2 or 3 points, and the total was 84 points on both tests combined. I'll speak more about this on Wednesday: I'd like everyone to reflect on the test and
-  * make a prediction of your score
-  * consider the extent to which you followed along with the material in class and the homework
-  * consider whether you sought help early enough (remember, I have "office hours" every week)
+<a href="https://vchan2.github.io/pi/pi_is_irrational.pdf">Niven's proof that &pi; is irrational</a>
 -->
 
 <!--
