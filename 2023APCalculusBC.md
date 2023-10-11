@@ -750,9 +750,14 @@ Calculus-based:
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit02_01Continuous_but_not_differentiable.pdf"> Unit 2: Continuous but not differentiable </a> - Does there exist a function which is continuous everywhere but not differentiable infinitely often?
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit02_02Differentiability_for_piecewise.pdf"> Unit 2: Differentiability for piecewise </a> - Prove you can use derivatives from the left and right to determine differentiability for piecewise functions.
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit02_01Continuous_but_not_differentiable.pdf"> Unit 3: Continuous but nowhere differentiable </a> - Does there exist a function which is continuous everywhere but differentiable nowhere?
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit06_01Integral.pdf"> Unit 6: An integral </a> - Evaluate this integral.
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit06_02Integration_by_parts.pdf"> Unit 6: Integration by parts </a> - Evaluate this integral using integration by parts.
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit06_03Coefficients_in_PFD.pdf"> Unit 6: Coefficients in a partial fraction decomposition </a> - Why are we allowed to use values of x for which the original expression is undefined?
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit06_04An_Improper_Integral.pdf"> Unit 6: An improper integral </a> - Evaluate this improper integral.
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit07_01separation_of_variables_division_by_0.pdf"> Unit 7: division by 0 in separation of variables </a> - Find an example where you have to be more careful about separation of variables
+
 
 <!--
-* <a href="https://vchan2.github.io/Challenges/Calculus/Unit07_01separation_of_variables_division_by_0.pdf"> Unit 7: division by 0 in separation of variables </a> - Find an example where you have to be more careful about separation of variables
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit09_bat_curve.pdf"> Unit 9: bat curve </a> - Find a function whose graph matches mine
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_01Challenging_series.pdf"> Unit 10: A Challenging Series </a> - Find the exact value of this non-geometric series
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_02Sparse_harmonic_series.pdf"> Unit 10: Sparse Harmonic Series </a> - Show that if we remove certain terms from the harmonic series, we get convergence
