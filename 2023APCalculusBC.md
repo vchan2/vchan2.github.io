@@ -69,8 +69,8 @@ Tentative schedule for upcoming classes:
     * Wednesday, Oct. 11: 7.1-7.3
     * Friday, Oct. 13: 7.3-7.4
   * Week of Oct. 16
-    * Monday, Oct. 16: 7.4-7.5
-    * Wednesday, Oct. 18: 7.6-7.8
+    * Monday, Oct. 16: 7.5-7.7
+    * Wednesday, Oct. 18: Mini-math (7.1-7.5), 7.8
     * Friday, Oct. 20: 7.9
   * Week of Oct. 23
     * Monday, Oct. 23: Mini-math (7.1-7.9)
