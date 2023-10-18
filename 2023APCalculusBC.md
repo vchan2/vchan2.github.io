@@ -66,7 +66,7 @@ Tentative schedule for upcoming classes:
     * Wednesday, Oct. 18: Mini-math (7.1-7.5), 7.8-7.9
     * Friday, Oct. 20: 7.9
   * Week of Oct. 23
-    * Monday, Oct. 23: Mini-math (7.1-7.9)
+    * Monday, Oct. 23: Mini-math (7.6-7.9)
     * Wednesday, Oct. 25: Unit 7 test
     * Friday, Oct. 27: 
   * Week of Oct. 30
