@@ -14,8 +14,6 @@ Quick links
 
 ### Updates
 
-<b>NOTICE:</b> Please bring your laptop to class on Friday, October 13 for an in-class activity.
-
 <!--
 <a href="https://vchan2.github.io/pi/pi_is_irrational.pdf">Niven's proof that &pi; is irrational</a>
 -->
