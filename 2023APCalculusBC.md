@@ -55,8 +55,6 @@ Tentative schedule for upcoming classes:
     * Monday, Oct. 2: Integration Bee
     * Wednesday, Oct. 4: Unit 6 test
     * Friday, Oct. 6: Org Day
--->
-    
   * Week of Oct. 9
     * Monday, Oct. 9: Thanksgiving
     * Wednesday, Oct. 11: 7.1-7.3
@@ -65,12 +63,14 @@ Tentative schedule for upcoming classes:
     * Monday, Oct. 16: 7.5-7.7
     * Wednesday, Oct. 18: Mini-math (7.1-7.5), 7.8-7.9
     * Friday, Oct. 20: 7.9
+-->
+    
   * Week of Oct. 23
     * Monday, Oct. 23: Mini-math (7.6-7.9)
-    * Wednesday, Oct. 25: Unit 7 test
-    * Friday, Oct. 27: 
+    * Wednesday, Oct. 25: Unit 7 test (for some students)
+    * Friday, Oct. 27: 8.1
   * Week of Oct. 30
-    * Monday, Oct. 30: 
+    * Monday, Oct. 30: Unit 7 test
     * Wednesday, Nov. 1: Pre-break activities
     * Friday, Nov. 3: PTC
   * Week of Nov. 6
