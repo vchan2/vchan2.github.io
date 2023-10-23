@@ -319,6 +319,7 @@ Unit 1-5 test is scheduled for <b>Monday, September 11</b> in-class. You should 
   * Determine where a function satisfies the Mean Value Theorem
 -->
 
+<!--
 Unit 6 test is scheduled for <b>Wednesday, October 4</b> in-class. There will be a calculator portion and a non-calculator portion. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
   * Approximate the area under a curve using right and left Riemann sums, midpoint and trapezoidal rules, both with equal and unequal intervals, from a function, graph, or table of values
   * Identify if an area estimate is an overestimate or underestimate
@@ -334,7 +335,8 @@ Unit 6 test is scheduled for <b>Wednesday, October 4</b> in-class. There will be
     * Partial Fraction Decomposition (PFD)
   * Handle improper integrals
 
-NOTE: any material from Unit 1 to 5 is also fair game and may be useful/necessary.
+NOTE: any material from Units 1 to 5 is also fair game and may be useful/necessary.
+-->
 
 <!--
 Unit 8 test is scheduled for <b>Monday, November 28</b> in-class (calculator) and <b>Wednesday, November 30</b> in-class (non-calculator). You should be proficient in all material contained in Unit 8. Note that this unit will be weighted much less than other units, since it is very short. More precisely, you should be able to:
@@ -350,16 +352,16 @@ Unit 8 test is scheduled for <b>Monday, November 28</b> in-class (calculator) an
   * Find the arc length of a curve.
 -->
 
-<!--
-Unit 7 test is scheduled for <b>Monday, January 16</b> in-class (non-calculator) and <b>Friday, January 20</b> in-class (calculator). You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
+Unit 7 test is scheduled for <b>Wednesday, October 25</b> in-class (for two students) and <b>Wednesday, November 1</b> in-class (everyone else). You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
   * Model and verify solutions to a differential equation
   * Sketch slope fields
   * Reason with slope fields
-  * Find solutions to seprable DEs, both in general and for intial value problems
+  * Find solutions to separable DEs, both in general and for initial value problems
   * Solve and reason about exponential models with DEs
   * Solve and reason about logistic models with DEs
   * Approximate solutions to DEs using Euler's Method
--->
+
+NOTE: any material from Units 1 to 6 is also fair game and may be useful/necessary.
 
 <!--
 Unit 9 test is scheduled for <b>Monday, February 13</b> in-class (calculator) and <b>Wednesday, February 15</b> in-class (non-calculator). You should be proficient in all material contained in Unit 9. More precisely, you should be able to:
