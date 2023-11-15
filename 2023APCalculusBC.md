@@ -14,6 +14,9 @@ Quick links
 
 ### Updates
 
+AHSMC will take place on Tuesday, November 21, 2023. You will be writing in 2514/2515 from 8:30AM-10:00AM. Bring pencils and erasers (rulers and compasses are also allowed, if you want to use them) - no calculator is allowed.
+
+
 <!--
 <a href="https://vchan2.github.io/pi/pi_is_irrational.pdf">Niven's proof that &pi; is irrational</a>
 -->
