@@ -626,7 +626,7 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 * Integration
   * <a href="https://www.desmos.com/calculator/tyqezuilba">8.2 example</a>
   * <a href="https://www.desmos.com/calculator/q3avtnrgoq">Volume with cross sections</a>
-  * <a href="https://www.geogebra.org/classic/XArpgR3A">Volume with cross sections (revolvable)</a>
+  * <a href="https://www.geogebra.org/classic/XArpgR3A">Volume with cross sections (2nd version)</a>
 
 <!--
 * <a href="https://vchan2.github.io/2021Calculus/10_series_cheat_sheet.pdf">Cheat sheet for series tests (Unit 10)</a>
