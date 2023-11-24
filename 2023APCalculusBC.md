@@ -90,8 +90,8 @@ Tentative schedule for upcoming classes:
     * Friday, Nov. 24: 8.9
   * Week of Nov. 27
     * Monday, Nov. 27: 8.9-8.12
-    * Wednesday, Nov. 29: 8.9-8.12
-    * Friday, Dec. 1: Mini-math (8.7-8.12)
+    * Wednesday, Nov. 29: 8.13
+    * Friday, Dec. 1: Mini-math (8.7-8.13)
   * Week of Dec. 4
     * Monday, Dec. 4: 
     * Wednesday, Dec. 6: Unit 8 test
