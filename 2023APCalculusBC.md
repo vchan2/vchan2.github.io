@@ -14,9 +14,6 @@ Quick links
 
 ### Updates
 
-AHSMC will take place on Tuesday, November 21, 2023. You will be writing in 2514/2515 from 8:30AM-10:00AM. Bring pencils and erasers (rulers and compasses are also allowed, if you want to use them) - no calculator is allowed.
-
-
 <!--
 <a href="https://vchan2.github.io/pi/pi_is_irrational.pdf">Niven's proof that &pi; is irrational</a>
 -->
@@ -78,8 +75,6 @@ Tentative schedule for upcoming classes:
     * Monday, Nov. 6: November break
     * Wednesday, Nov. 8: November break
     * Friday, Nov. 10: November break
--->
-
   * Week of Nov. 13
     * Monday, Nov. 13: 8.1-8.3
     * Wednesday, Nov. 15: 8.4, 8.6
@@ -88,12 +83,14 @@ Tentative schedule for upcoming classes:
     * Monday, Nov. 20: Mini-math (8.1-8.6)
     * Wednesday, Nov. 22: 8.7-8.8
     * Friday, Nov. 24: 8.9
+-->
+
   * Week of Nov. 27
     * Monday, Nov. 27: 8.9-8.12
     * Wednesday, Nov. 29: 8.13
     * Friday, Dec. 1: Mini-math (8.7-8.13)
   * Week of Dec. 4
-    * Monday, Dec. 4: 
+    * Monday, Dec. 4: Unit 8 review
     * Wednesday, Dec. 6: Unit 8 test
     * Friday, Dec. 8: 
     
@@ -127,7 +124,7 @@ For 7.7, Q5 and 7 on CA #1 and CA #2 are related to section 7.4, which we haven'
 <!--
 Section 3.5 corrections:
   * Q8 should be 20 &#215; 3^(1/4) ~ 26.32, not 20/sqrt(3) ~ 11.55.
-  * Q15 is technically incorrect: the question tells you the plane is 20 km from Quinton, so that should mean direct distance (indeed, you are looking for the rate of change of the distance, which they are assuming means direct distance). If you assume the 20 km refers to horizontal distance (but you're trying to find the rate of change of direct distance still). then their answer is correct, 240 &#215; sqrt(5). However, the correct interpretation should yield 300 &#215; sqrt(3). If I were to use a question like this on a test, I would explicitly state "when it is 20 km horizontally from Quinton" vs "when it is directally 20 km away from Quinton" or something to that effect.
+  * Q15 is technically incorrect: the question tells you the plane is 20 km from Quinton, so that should mean direct distance (indeed, you are looking for the rate of change of the distance, which they are assuming means direct distance). If you assume the 20 km refers to horizontal distance (but you're trying to find the rate of change of direct distance still). then their answer is correct, 240 &#215; sqrt(5). However, the correct interpretation should yield 300 &#215; sqrt(3). If I were to use a question like this on a test, I would explicitly state "when it is 20 km horizontally from Quinton" vs "when it is directly 20 km away from Quinton" or something to that effect.
 -->
 
 ---
@@ -135,6 +132,9 @@ Section 3.5 corrections:
 ### Homework
 
 If you are consistently spending more than 1 hour per day on homework, please see me. (Nearly) Every section we cover will have an associated AP Classroom online homework for you to complete by a certain deadline, typically before the next class (or in the case of a test, the class after that). You will also receive paper assignments from Flipped Math to work on. Any additional homework outside of these two will be posted here.
+
+Homework for Monday, November 26:
+  * Desmos activity (Volume of Solid of Revolution)
 
 Homework for Monday, September 18:
   * <a href="https://vchan2.github.io/2023APCalculusBC/6.1-6.3_handout.pdf">6.1-6.3 handout</a>
