@@ -14,6 +14,8 @@ Quick links
 
 ### Updates
 
+No class this Friday, December 1 due to the teacher-student volleyball game. I am happy to meet outside of classtime with anyone who wishes to do so.
+
 <!--
 <a href="https://vchan2.github.io/pi/pi_is_irrational.pdf">Niven's proof that &pi; is irrational</a>
 -->
