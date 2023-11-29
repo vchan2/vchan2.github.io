@@ -92,11 +92,99 @@ Tentative schedule for upcoming classes:
     * Wednesday, Nov. 29: 8.9-8.12
     * Friday, Dec. 1: 8.13
   * Week of Dec. 4
-    * Monday, Dec. 4: Mini-math (8.7-8.13), Unit 8 review
-    * Wednesday, Dec. 6: Unit 8 test
+    * Monday, Dec. 4: Mini-math (8.7-8.13), Unit 8 Review
+    * Wednesday, Dec. 6: Unit 8 test (tentative)
     * Friday, Dec. 8: 
-    
-
+  * Week of Dec. 11
+    * Monday, Dec. 11: Unit 8 test (alternate choice)
+    * Wednesday, Dec. 13: Parametric equations
+    * Friday, Dec. 15: Vector-valued functions
+  * Week of Dec. 18
+    * Monday, Dec. 18: Polar coordinates and equations, intersections of polar
+    * Wednesday, Dec. 20: Parametric/polar paint-off
+    * Friday, Dec. 22: Pre-break activities
+  * Week of Dec. 25
+    * Monday, Dec. 25: Winter break
+    * Wednesday, Dec. 27: Winter break
+    * Friday, Dec. 29: Winter break
+  * Week of Jan. 1
+    * Monday, Jan. 1: Winter break
+    * Wednesday, Jan. 3: Winter break
+    * Friday, Jan. 5: Winter break
+  * Week of Jan. 8
+    * Monday, Jan. 8: 9.1-9.3
+    * Wednesday, Jan. 10: 9.4-9.6
+    * Friday, Jan. 12: Mini-math (9.1-9.5)
+  * Week of Jan. 15
+    * Monday, Jan. 15: 9.7-9.8
+    * Wednesday, Jan. 17: 9.9
+    * Friday, Jan. 19: Mini-math (9.6-9.9)
+  * Week of Jan. 22
+    * Monday, Jan. 22: 
+    * Wednesday, Jan. 24: Unit 9 test
+    * Friday, Jan. 26: 10.1
+  * Week of Jan. 29
+    * Monday, Jan. 29: 10.2-10.3
+    * Wednesday, Jan. 31: 10.4-10.5
+    * Friday, Feb. 2: 10.6
+  * Week of Feb. 5
+    * Monday, Feb. 5: 10.7-10.8
+    * Wednesday, Feb. 7: 10.9
+    * Friday, Feb. 9: Mini-math (10.1-10.9)
+  * Week of Feb. 12
+    * Monday, Feb. 12: Series Bee
+    * Wednesday, Feb. 14: Unit 10 mid-unit test (10.1-10.9)
+    * Friday, Feb. 16: Pre-break activities
+  * Week of Feb. 19
+    * Monday, Feb. 19: February break
+    * Wednesday, Feb. 21: February break
+    * Friday, Feb. 23: February break
+  * Week of Feb. 26
+    * Monday, Feb. 26: 10.10
+    * Wednesday, Feb. 28: No class - PCF contests
+    * Friday, Mar. 1: 10.11
+  * Week of Mar. 4
+    * Monday, Mar. 4: 10.11-10.12
+    * Wednesday, Mar. 6: 10.13
+    * Friday, Mar. 8: 10.14
+  * Week of Mar. 11
+    * Monday, Mar. 11: 10.14-10.15
+    * Wednesday, Mar. 13: pi day
+    * Friday, Mar. 15: 10.15
+  * Week of Mar. 18
+    * Monday, Mar. 18: Mini-math (10.10-10.15)
+    * Wednesday, Mar. 20: 
+    * Friday, Mar. 22: 
+  * Week of Mar. 25
+    * Monday, Mar. 25: Unit 10 test
+    * Wednesday, Mar. 27: ski day (either Monday or Wednesday)
+    * Friday, Mar. 29: Good Friday
+  * Week of Apr. 1
+    * Monday, Apr. 1: AP Calculus FRQ practice/review
+    * Wednesday, Apr. 3: AP Calculus FRQ practice/review
+    * Friday, Apr. 5: AP Calculus FRQ practice/review
+  * Week of Apr. 8
+    * Monday, Apr. 8: AP Calculus FRQ practice/review
+    * Wednesday, Apr. 10: AP Calculus FRQ practice/review
+    * Friday, Apr. 12: AP Calculus FRQ practice/review
+  * Week of Apr. 15
+    * Monday, Apr. 15: AP Calculus FRQ practice/review
+    * Wednesday, Apr. 17: Pre-break activities
+    * Friday, Apr. 19: PTC
+  * Week of Apr. 22
+    * Monday, Apr. 22: Spring break
+    * Wednesday, Apr. 24: Spring break
+    * Friday, Apr. 26: Spring break
+  * Week of Apr. 29
+    * Monday, Apr. 29: AP Calculus FRQ practice/review
+    * Wednesday, May. 1: AP Calculus FRQ practice/review
+    * Friday, May. 3: AP Calculus FRQ practice/review
+  * Week of May. 6
+    * Monday, May. 6: AP Calculus FRQ practice/review
+    * Wednesday, May. 8: AP Calculus FRQ practice/review
+    * Friday, May. 10: AP Calculus FRQ practice/review
+  * Week of May. 13
+    * Monday, May. 13: AP test
 
 
 <!--
