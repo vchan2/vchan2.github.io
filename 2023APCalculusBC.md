@@ -93,15 +93,15 @@ Tentative schedule for upcoming classes:
     * Friday, Dec. 1: 8.13
   * Week of Dec. 4
     * Monday, Dec. 4: Mini-math (8.7-8.13), Unit 8 Review
-    * Wednesday, Dec. 6: Unit 8 test (tentative)
-    * Friday, Dec. 8: 
+    * Wednesday, Dec. 6: Unit 8 test
+    * Friday, Dec. 8: Vector-valued functions
   * Week of Dec. 11
-    * Monday, Dec. 11: Unit 8 test (alternate choice)
-    * Wednesday, Dec. 13: Parametric equations
-    * Friday, Dec. 15: Vector-valued functions
+    * Monday, Dec. 11: Parametric equations
+    * Wednesday, Dec. 13: Polar coordinates and equations
+    * Friday, Dec. 15: Intersections of polar curves
   * Week of Dec. 18
-    * Monday, Dec. 18: Polar coordinates and equations, intersections of polar
-    * Wednesday, Dec. 20: Parametric/polar paint-off
+    * Monday, Dec. 18: Parametric/polar paint-off
+    * Wednesday, Dec. 20: Infinite sequences and series
     * Friday, Dec. 22: Pre-break activities
   * Week of Dec. 25
     * Monday, Dec. 25: Winter break
@@ -444,12 +444,26 @@ Unit 6 test is scheduled for <b>Wednesday, October 4</b> in-class. There will be
     * Integration by Parts (IBP)
     * Partial Fraction Decomposition (PFD)
   * Handle improper integrals
+Exam weighting: 18.5
 
 NOTE: any material from Units 1 to 5 is also fair game and may be useful/necessary.
 -->
 
 <!--
-Unit 8 test is scheduled for <b>Monday, November 28</b> in-class (calculator) and <b>Wednesday, November 30</b> in-class (non-calculator). You should be proficient in all material contained in Unit 8. Note that this unit will be weighted much less than other units, since it is very short. More precisely, you should be able to:
+Unit 7 test is scheduled for <b>Wednesday, October 25</b> in-class (for two students) and <b>Wednesday, November 1</b> in-class (everyone else). You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
+  * Model and verify solutions to a differential equation
+  * Sketch slope fields
+  * Reason with slope fields
+  * Find solutions to separable DEs, both in general and for initial value problems
+  * Solve and reason about exponential models with DEs
+  * Solve and reason about logistic models with DEs
+  * Approximate solutions to DEs using Euler's Method
+Exam weighting: 7.5
+
+NOTE: any material from Units 1 to 6 is also fair game and may be useful/necessary.
+-->
+
+Unit 8 test is scheduled for <b>Wednesday, December 6</b> in-class. You should be proficient in all material contained in Unit 8. More precisely, you should be able to:
   * Use the formula for the average value of a function to solve problems
   * Connect position, velocity, and acceleration of a function using integrals (includes distance and speed)
   * Use accumulation functions and integrals in applied contexts
@@ -460,18 +474,10 @@ Unit 8 test is scheduled for <b>Monday, November 28</b> in-class (calculator) an
   * Find the volume of a solid using cross-sections
   * Find the volume of a solid of revolution using the disc/washer method
   * Find the arc length of a curve.
--->
+Exam weighting: 7.5
 
-Unit 7 test is scheduled for <b>Wednesday, October 25</b> in-class (for two students) and <b>Wednesday, November 1</b> in-class (everyone else). You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
-  * Model and verify solutions to a differential equation
-  * Sketch slope fields
-  * Reason with slope fields
-  * Find solutions to separable DEs, both in general and for initial value problems
-  * Solve and reason about exponential models with DEs
-  * Solve and reason about logistic models with DEs
-  * Approximate solutions to DEs using Euler's Method
+NOTE: any material from Units 1 to 7 is also fair game and may be useful/necessary.
 
-NOTE: any material from Units 1 to 6 is also fair game and may be useful/necessary.
 
 <!--
 Unit 9 test is scheduled for <b>Monday, February 13</b> in-class (calculator) and <b>Wednesday, February 15</b> in-class (non-calculator). You should be proficient in all material contained in Unit 9. More precisely, you should be able to:
@@ -484,6 +490,9 @@ Unit 9 test is scheduled for <b>Monday, February 13</b> in-class (calculator) an
   * Find the first and second derivatives in polar form (special case of parametric)
   * Find the area of polar curves
   * Find the area between polar curves
+Exam weighting: 11.5
+
+NOTE: any material from Units 1 to 8 is also fair game and may be useful/necessary.
 -->
 
 <!--
@@ -501,6 +510,8 @@ Unit 10 mid-unit test scheduled for <b>Monday, March 20</a> in-class. You should
     * alternating series test
     * ratio test
     * absolute convergence
+Exam weighting: 9
+
 -->
 
 <!--
@@ -527,6 +538,8 @@ Unit 10 final unit test scheduled for <b>Monday, Arpil 10</a> in-class. You shou
   * Find the radius and interval of convergence of a power series
   * Find Taylor and Maclaurin series of a function
     * this includes using known series to generate new series via substitution, addition/subtraction/multiplication/division, differentiation, or integration
+Exam weighting: 17.5
+
 -->
 
 Final exam information: 8:00AM, Monday, May 13, 5th floor
