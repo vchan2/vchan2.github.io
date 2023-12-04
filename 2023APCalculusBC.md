@@ -786,19 +786,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_10_18_(7.1-7.5).pdf"> Mini-math for October 18 (7.1-7.5)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_10_18_(7.1-7.5)_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_10_23_(7.6-7.9).pdf"> Mini-math for October 23 (7.6-7.9)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_10_23_(7.6-7.9)_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2023_11_20_(8.1-8.6).pdf"> Mini-math for November 20 (8.1-8.6)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2023_11_20_(8.1-8.6)_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2023_12_04_(8.7-8.13).pdf"> Mini-math for December 4 (8.7-8.13)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2023_12_04_(8.7-8.13)_sol.pdf">Solutions</a>)
 
 
-<!--
-  * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_29.pdf"> Mini-math for September 29 (6.5-6.8)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_09_29_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_11_14.pdf"> Mini-math for November 14 (8.1-8.6)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_11_14_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_11_21.pdf"> Mini-math for November 21 (8.7-8.12)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2022_11_21_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2023_01_09.pdf"> Mini-math for January 9 (7.1-7.5)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2023_01_09_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2023_01_11.pdf"> Mini-math for January 11 (7.6-7.9)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2023_01_11_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2023_01_27.pdf"> Mini-math for January 27 (9.1-9.5)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2023_01_27_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2023_02_08.pdf"> Mini-math for February 8 (9.6-9.9)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2023_02_08_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2023_03_15.pdf"> Mini-math for March 15 (10.1-10.9)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2023_03_15_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2023_04_03.pdf"> Mini-math for March 15 (10.10-10.15)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/mm/Mini-math_Div3:4_2023_04_03_sol.pdf">Solutions</a>)
--->
 
 
 <!--
@@ -822,7 +812,6 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://vchan2.github.io/2021Calculus/5.11_Optimization.pdf">5.11 Three optimization problems</a> (<a href="https://vchan2.github.io/2021Calculus/5.11_Optimization_sol.pdf">Solutions</a>)
 -->
 
-<!--
 * Integration
   * <a href="https://vchan2.github.io/2021Calculus/6.9_WS%201%20on%20substitution.pdf">Worksheet 1 on substitution</a>
   * <a href="https://vchan2.github.io/2021Calculus/6.9_WS%202%20on%20substitution.pdf">Worksheet 2 on substitution</a>
@@ -830,7 +819,6 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://vchan2.github.io/2021Calculus/6.14_practice.pdf">Practice with various integration techniques</a> (<a href="https://vchan2.github.io/2021Calculus/6.14_practice_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/8_Volumes.pdf">Practice with volumes 1 (specific examples)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/8_Volumes2.pdf">Practice with volumes 2 (more general examples)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes2_sol.pdf">Solutions</a>)
--->
 
 <!--
 * <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
