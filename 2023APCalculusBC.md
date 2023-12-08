@@ -94,9 +94,9 @@ Tentative schedule for upcoming classes:
   * Week of Dec. 4
     * Monday, Dec. 4: Mini-math (8.7-8.13), Unit 8 Review
     * Wednesday, Dec. 6: Unit 8 test
-    * Friday, Dec. 8: Vector-valued functions
+    * Friday, Dec. 8: Parametric equations and vector-valued-functions
   * Week of Dec. 11
-    * Monday, Dec. 11: Parametric equations
+    * Monday, Dec. 11: Parametric equations and vector-valued-functions (Social 30 pull-out)
     * Wednesday, Dec. 13: Polar coordinates and equations
     * Friday, Dec. 15: Intersections of polar curves
   * Week of Dec. 18
