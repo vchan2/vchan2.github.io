@@ -223,6 +223,9 @@ Section 3.5 corrections:
 
 If you are consistently spending more than 1 hour per day on homework, please see me. (Nearly) Every section we cover will have an associated AP Classroom online homework for you to complete by a certain deadline, typically before the next class (or in the case of a test, the class after that). You will also receive paper assignments from Flipped Math to work on. Any additional homework outside of these two will be posted here.
 
+Homework for Wednesday, December 13:
+  * Odd questions from 1 to 37 (except 17) from 10.1 of the handout packet
+
 Homework for Monday, November 26:
   * Desmos activity (Volume of Solid of Revolution)
 
