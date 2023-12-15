@@ -87,8 +87,6 @@ Tentative schedule for upcoming classes:
     * Monday, Nov. 27: 8.9-8.12
     * Wednesday, Nov. 29: 8.9-8.12
     * Friday, Dec. 1: 8.13
--->
-
   * Week of Dec. 4
     * Monday, Dec. 4: Mini-math (8.7-8.13), Unit 8 Review
     * Wednesday, Dec. 6: Unit 8 test
@@ -97,6 +95,8 @@ Tentative schedule for upcoming classes:
     * Monday, Dec. 11: Parametric equations and vector-valued-functions (Social 30 pull-out)
     * Wednesday, Dec. 13: Polar coordinates and equations
     * Friday, Dec. 15: Intersections of polar curves
+-->
+
   * Week of Dec. 18
     * Monday, Dec. 18: Parametric/polar paint-off
     * Wednesday, Dec. 20: Infinite sequences and series
@@ -220,6 +220,9 @@ Section 3.5 corrections:
 ### Homework
 
 If you are consistently spending more than 1 hour per day on homework, please see me. (Nearly) Every section we cover will have an associated AP Classroom online homework for you to complete by a certain deadline, typically before the next class (or in the case of a test, the class after that). You will also receive paper assignments from Flipped Math to work on. Any additional homework outside of these two will be posted here.
+
+Homework for Monday, December 18:
+  * Odd questions from 1 to 55(a) (51, 53 are optional) from 10.3 of the handout packet
 
 Homework for Wednesday, December 13:
   * Odd questions from 1 to 37 (except 17) from 10.1 of the handout packet
