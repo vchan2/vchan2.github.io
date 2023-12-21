@@ -14,6 +14,10 @@ Quick links
 
 ### Updates
 
+* <a href="https://vchan2.github.io/Challenges/2023-24Winter_Break.pdf"> 2023-24 Winter Break challenges
+* <a href="https://renertmath.github.io/Challenges/12Days2023.html">12 Days of ChrisMATH</a>
+
+
 <!--
 <a href="https://vchan2.github.io/pi/pi_is_irrational.pdf">Niven's proof that &pi; is irrational</a>
 -->
@@ -95,8 +99,6 @@ Tentative schedule for upcoming classes:
     * Monday, Dec. 11: Parametric equations and vector-valued-functions (Social 30 pull-out)
     * Wednesday, Dec. 13: Polar coordinates and equations
     * Friday, Dec. 15: Intersections of polar curves
--->
-
   * Week of Dec. 18
     * Monday, Dec. 18: Parametric/polar paint-off
     * Wednesday, Dec. 20: Infinite sequences and series
@@ -109,6 +111,8 @@ Tentative schedule for upcoming classes:
     * Monday, Jan. 1: Winter break
     * Wednesday, Jan. 3: Winter break
     * Friday, Jan. 5: Winter break
+-->
+
   * Week of Jan. 8
     * Monday, Jan. 8: 9.1-9.3
     * Wednesday, Jan. 10: 9.4-9.6
@@ -911,11 +915,13 @@ Calculus-based:
 Assorted:
 * <a href="https://vincentchan02.wixsite.com/cosmospuzzle"> CoSMOS 2020 Challenge</a> 
 * <a href="https://vchan2.github.io/Challenges/Rainbow_Stones.pdf"> Rainbow stones </a>
-* <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> Winter Break math challenges </a> (<a href="https://vchan2.github.io/Challenges/2020-21Winter_Break_winners.pdf">Results</a>)
+* <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> 2020-21 Winter Break math challenges </a> (<a href="https://vchan2.github.io/Challenges/2020-21Winter_Break_winners.pdf">Results</a>)
 * <a href="https://vchan2.github.io/Challenges/pi%5Epi%5Epi%5Epi.pdf"> &pi;^&pi;^&pi;^&pi; </a> - Is &pi;^&pi;^&pi;^&pi; an integer?
 * <a href="https://vchan2.github.io/Challenges/pi_digit_puzzle2021basic.pdf"> &pi; day 2021 challenge (basic version) </a>
 * <a href="https://vchan2.github.io/Challenges/pi_digit_puzzle2021.pdf"> &pi; day 2021 challenge (advanced version) </a>
 * <a href="https://vchan2.github.io/Challenges/2021-04-01_digit_puzzle.pdf"> 2021-04-01 challenge </a>
+* <a href="https://vchan2.github.io/Challenges/2023-24Winter_Break.pdf"> 2023-24 Winter Break challenges
+* <a href="https://renertmath.github.io/Challenges/12Days2023.html">12 Days of ChrisMATH 2023</a>
 -->
 
 
