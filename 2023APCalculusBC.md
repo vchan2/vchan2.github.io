@@ -14,9 +14,12 @@ Quick links
 
 ### Updates
 
-* <a href="https://vchan2.github.io/Challenges/2023-24Winter_Break.pdf"> 2023-24 Winter Break challenges
+* <a href="https://vchan2.github.io/Challenges/2023-24Winter_Break.pdf"> 2023-24 Winter Break challenges</a>
 * <a href="https://renertmath.github.io/Challenges/12Days2023.html">12 Days of ChrisMATH</a>
 
+Brachistochrone curve
+* <a href="https://www.youtube.com/shorts/zzf9rZWAa90">Short by ActionLab</a>
+* <a href="https://www.youtube.com/watch?v=Cld0p3a43fU">16 minute in-depth video by 3Blue1Brown</a>
 
 <!--
 <a href="https://vchan2.github.io/pi/pi_is_irrational.pdf">Niven's proof that &pi; is irrational</a>
