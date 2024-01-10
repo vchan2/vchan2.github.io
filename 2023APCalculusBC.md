@@ -116,7 +116,7 @@ Tentative schedule for upcoming classes:
   * Week of Jan. 8
     * Monday, Jan. 8: 9.1-9.3
     * Wednesday, Jan. 10: 9.4-9.6
-    * Friday, Jan. 12: Mini-math (9.1-9.5)
+    * Friday, Jan. 12: Mini-math (9.1-9.6)
   * Week of Jan. 15
     * Monday, Jan. 15: 9.7-9.8
     * Wednesday, Jan. 17: 9.9
