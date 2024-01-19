@@ -474,6 +474,7 @@ Exam weighting: 7.5
 NOTE: any material from Units 1 to 6 is also fair game and may be useful/necessary.
 -->
 
+<!--
 Unit 8 test is scheduled for <b>Wednesday, December 6</b> in-class. You should be proficient in all material contained in Unit 8. More precisely, you should be able to:
   * Use the formula for the average value of a function to solve problems
   * Connect position, velocity, and acceleration of a function using integrals (includes distance and speed)
@@ -488,14 +489,14 @@ Unit 8 test is scheduled for <b>Wednesday, December 6</b> in-class. You should b
 Exam weighting: 7.5
 
 NOTE: any material from Units 1 to 7 is also fair game and may be useful/necessary.
+-->
 
-
-<!--
-Unit 9 test is scheduled for <b>Monday, February 13</b> in-class (calculator) and <b>Wednesday, February 15</b> in-class (non-calculator). You should be proficient in all material contained in Unit 9. More precisely, you should be able to:
+Unit 9 test is scheduled for <b>Wednesday, February 24</b> in-class. You should be proficient in all material contained in Unit 9. More precisely, you should be able to:
   * Convert between parametric form and Cartesian form
   * Calculate the first and second derivatives in parametric form
-  * Determine where a graph has a horizontal or vertical tangent
+  * Determine where a graph (in parametric or polar) has a horizontal or vertical tangent
   * Find derivatives and integrals of vector-valued functions
+  * Be able to find the distance, displacement, speed, velocity, and acceleration of a particle given relevant information
   * Find the arc length of a parametric curve
   * Convert between polar form and Cartesian form
   * Find the first and second derivatives in polar form (special case of parametric)
@@ -504,7 +505,6 @@ Unit 9 test is scheduled for <b>Monday, February 13</b> in-class (calculator) an
 Exam weighting: 11.5
 
 NOTE: any material from Units 1 to 8 is also fair game and may be useful/necessary.
--->
 
 <!--
 Unit 10 test is tentatively scheduled for <b>Friday, April 7</b> in-class (calculator?) and <b>Monday, April 10</b> in-class (non-calculator?). You should be proficient in all material contained in Unit 10. 
@@ -523,17 +523,19 @@ Unit 10 mid-unit test scheduled for <b>Monday, March 20</a> in-class. You should
     * absolute convergence
 Exam weighting: 9
 
+NOTE: any material from Units 1 to 9 is also fair game and may be useful/necessary.
+
 -->
 
 <!--
-* Identify a series as geometric and determine its convergergence as well as its sum if it converges
+* Identify a series as geometric and determine its convergence as well as its sum if it converges
   * Know when to apply the divergence test
   * Apply the integral test and know what conditions are needed
   * 
 -->
 
 <!--
-Unit 10 final unit test scheduled for <b>Monday, Arpil 10</a> in-class. You should be proficient in all material contained in Unit 10, though the majority of questions will focus on 10.9-10.15. More precisely, you should be able to:
+Unit 10 final unit test scheduled for <b>Monday, April 10</a> in-class. You should be proficient in all material contained in Unit 10, though the majority of questions will focus on 10.9-10.15. More precisely, you should be able to:
   * Determine convergence or divergence of a series using:
     * its partial sums
     * geometric series (and know the value of the sum if it converges)
@@ -702,7 +704,7 @@ Hours are:
   * Monday, September 28, 4PM-7PM
   * Thursday, October 1, 4PM-7PM
   * Saturday, October 3, 11AM-2PM
-I will not be answering questions regarding Chapter 1 starting Monday, September 28 at 4PM, treating it as if the exam has started for everyone. This also means that you are not to discuss any aspects of the test with anyone until after Saturday at 2PM, in order to maintain integrity of the exam. Please let me know ASAP if you cannot write at one of these times, and we will have to make alternate arrangements (such as during class).
+I will not be answering questions regarding Chapter 1 starting Monday, September 28 at 4PM, treating it as if the exam has started for everyone. This also means that you are not to discuss any aspects of the test with anyone until after Saturday at 2PM, in order to maintain the integrity of the exam. Please let me know ASAP if you cannot write at one of these times, and we will have to make alternate arrangements (such as during class).
 -->
 
 ---
