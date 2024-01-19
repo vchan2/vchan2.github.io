@@ -744,6 +744,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://www.desmos.com/calculator/q3avtnrgoq">Volume with cross sections</a>
   * <a href="https://www.geogebra.org/classic/XArpgR3A">Volume with cross sections (2nd version)</a>
 
+* Parametric/Polar
+  * <a href="https://www.desmos.com/calculator/h84i8pvwtn">Area common to a rose curve and a circle</a>
+
 <!--
 * <a href="https://vchan2.github.io/2021Calculus/10_series_cheat_sheet.pdf">Cheat sheet for series tests (Unit 10)</a>
 * <a href="https://vchan2.github.io/2021Calculus/10_Taylor_cheat_sheet.pdf">Cheat sheet for Taylor series (Unit 10)</a>
