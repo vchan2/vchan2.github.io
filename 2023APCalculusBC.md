@@ -111,8 +111,6 @@ Tentative schedule for upcoming classes:
     * Monday, Jan. 1: Winter break
     * Wednesday, Jan. 3: Winter break
     * Friday, Jan. 5: Winter break
--->
-
   * Week of Jan. 8
     * Monday, Jan. 8: 9.1-9.3
     * Wednesday, Jan. 10: 9.4-9.6
@@ -121,8 +119,10 @@ Tentative schedule for upcoming classes:
     * Monday, Jan. 15: 9.7-9.8
     * Wednesday, Jan. 17: 9.9
     * Friday, Jan. 19: Mini-math (9.6-9.9)
+-->
+
   * Week of Jan. 22
-    * Monday, Jan. 22: 
+    * Monday, Jan. 22: Unit 9 Review
     * Wednesday, Jan. 24: Unit 9 test
     * Friday, Jan. 26: 10.1
   * Week of Jan. 29
