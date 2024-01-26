@@ -510,8 +510,7 @@ NOTE: any material from Units 1 to 8 is also fair game and may be useful/necessa
 Unit 10 test is tentatively scheduled for <b>Friday, April 7</b> in-class (calculator?) and <b>Monday, April 10</b> in-class (non-calculator?). You should be proficient in all material contained in Unit 10. 
 -->
 
-<!--
-Unit 10 mid-unit test scheduled for <b>Monday, March 20</a> in-class. You should be proficient in all material contained in 10.1 through 10.9. More precisely, you should be able to:
+Unit 10 mid-unit test scheduled for <b>Wednesday, February 14</a> in-class. You should be proficient in all material contained in 10.1 through 10.9. More precisely, you should be able to:
   * Determine convergence or divergence of a series using:
     * its partial sums
     * geometric series (and know the value of the sum if it converges)
@@ -521,11 +520,11 @@ Unit 10 mid-unit test scheduled for <b>Monday, March 20</a> in-class. You should
     * alternating series test
     * ratio test
     * absolute convergence
+  * Determine if a series converges absolutely or conditionally (or neither)
 Exam weighting: 9
 
 NOTE: any material from Units 1 to 9 is also fair game and may be useful/necessary.
 
--->
 
 <!--
 * Identify a series as geometric and determine its convergence as well as its sum if it converges
