@@ -881,9 +881,6 @@ Calculus-based:
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit06_03Coefficients_in_PFD.pdf"> Unit 6: Coefficients in a partial fraction decomposition </a> - Why are we allowed to use values of x for which the original expression is undefined?
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit06_04An_Improper_Integral.pdf"> Unit 6: An improper integral </a> - Evaluate this improper integral.
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit07_01separation_of_variables_division_by_0.pdf"> Unit 7: division by 0 in separation of variables </a> - Find an example where you have to be more careful about separation of variables
-
-
-<!--
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit09_bat_curve.pdf"> Unit 9: bat curve </a> - Find a function whose graph matches mine
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_01Challenging_series.pdf"> Unit 10: A Challenging Series </a> - Find the exact value of this non-geometric series
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_02Sparse_harmonic_series.pdf"> Unit 10: Sparse Harmonic Series </a> - Show that if we remove certain terms from the harmonic series, we get convergence
@@ -891,7 +888,6 @@ Calculus-based:
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_04Sum_of_product.pdf"> Unit 10: Sum of Product </a> - Prove that the product of summands from convergent series is convergent
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_05Rearrangment.pdf"> Unit 10: Rearrangement of conditionally convergent series </a> - Prove that the terms of a conditionally convergent series can be rearranged so that the new series will converge to any given real number
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_06Basel_problem.pdf"> Unit 10: Basel problem </a> - Find the exact value of the sum of the reciprocals of the squares of the positive integers
--->
 
 
 <!--
