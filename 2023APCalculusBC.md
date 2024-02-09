@@ -491,6 +491,7 @@ Exam weighting: 7.5
 NOTE: any material from Units 1 to 7 is also fair game and may be useful/necessary.
 -->
 
+<!--
 Unit 9 test is scheduled for <b>Wednesday, February 24</b> in-class. You should be proficient in all material contained in Unit 9. More precisely, you should be able to:
   * Convert between parametric form and Cartesian form
   * Calculate the first and second derivatives in parametric form
@@ -505,6 +506,7 @@ Unit 9 test is scheduled for <b>Wednesday, February 24</b> in-class. You should 
 Exam weighting: 11.5
 
 NOTE: any material from Units 1 to 8 is also fair game and may be useful/necessary.
+-->
 
 <!--
 Unit 10 test is tentatively scheduled for <b>Friday, April 7</b> in-class (calculator?) and <b>Monday, April 10</b> in-class (non-calculator?). You should be proficient in all material contained in Unit 10. 
@@ -512,7 +514,7 @@ Unit 10 test is tentatively scheduled for <b>Friday, April 7</b> in-class (calcu
 
 Unit 10 mid-unit test scheduled for <b>Wednesday, February 14</a> in-class. You should be proficient in all material contained in 10.1 through 10.9. More precisely, you should be able to:
   * Determine convergence or divergence of a series using:
-    * its partial sums
+    * its partial sums (e.g. telescoping series)
     * geometric series (and know the value of the sum if it converges)
     * nth term test
     * p-series
