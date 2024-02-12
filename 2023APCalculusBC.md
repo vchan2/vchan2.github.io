@@ -783,6 +783,8 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://vchan2.github.io/2023APCalculusBC/6.3_Numerical_Integration.pdf">Numerical Integration worksheet</a> (<a href="https://vchan2.github.io/2023APCalculusBC/6.3_Numerical_Integration_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/6.14_practice.pdf">6.14 practice</a> (<a href="https://vchan2.github.io/2023APCalculusBC/6.14_practice_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/IntegrationBee2023partial.pdf">Integration Bee</a> (<a href="https://vchan2.github.io/2023APCalculusBC/IntegrationBee2023partial_sol.pdf">Solutions</a>)
+* Unit 9
+  * <a href="https://vchan2.github.io/2023APCalculusBC/SeriesBee2023.pdf">Series Bee</a> (<a href="https://vchan2.github.io/2023APCalculusBC/SeriesBee2023_sol.pdf">Solutions</a>)
 
 <!--
   * <a href="https://vchan2.github.io/2022APCalculusBC/6.10prep_Dividing_Polynomials.pdf">6.10 preparation - polynomial division</a> (answers included)
