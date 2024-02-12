@@ -781,8 +781,18 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 * Unit 6
   * <a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout.pdf">6.1-6.3 handout</a> (<a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/6.3_Numerical_Integration.pdf">Numerical Integration worksheet</a> (<a href="https://vchan2.github.io/2023APCalculusBC/6.3_Numerical_Integration_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/6.9_WS%201%20on%20substitution.pdf">Worksheet 1 on substitution</a>
+  * <a href="https://vchan2.github.io/2021Calculus/6.9_WS%202%20on%20substitution.pdf">Worksheet 2 on substitution</a>
+  * <a href="https://vchan2.github.io/2021Calculus/6.10_WS%20on%20Long%20Division%20and%20Completing%20the%20Square.pdf">Worksheet on long division and completing the square</a>
+  * <a href="https://vchan2.github.io/2021Calculus/6.14_practice.pdf">Practice with various integration techniques</a> (<a href="https://vchan2.github.io/2021Calculus/6.14_practice_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/6.14_practice.pdf">6.14 practice</a> (<a href="https://vchan2.github.io/2023APCalculusBC/6.14_practice_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/IntegrationBee2023partial.pdf">Integration Bee</a> (<a href="https://vchan2.github.io/2023APCalculusBC/IntegrationBee2023partial_sol.pdf">Solutions</a>)
+* Unit 7
+  * <a href="https://vchan2.github.io/2022APCalculusBC/7_Slope_Fields.pdf">Slope Fields practice 1</a> (<a href="https://vchan2.github.io/2022APCalculusBC/7_Slope_Fields_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2022APCalculusBC/7_Visualizing_Differential_Equations_Slope_Fields_practice.pdf">Slope Fields practice 2</a> (<a href="https://vchan2.github.io/2022APCalculusBC/7_Visualizing_Differential_Equations_Slope_Fields_practice_sol.pdf">Solutions</a>)
+* Unit 8
+  * <a href="https://vchan2.github.io/2021Calculus/8_Volumes.pdf">Practice with volumes 1 (specific examples)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2021Calculus/8_Volumes2.pdf">Practice with volumes 2 (more general examples)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes2_sol.pdf">Solutions</a>)
 * Unit 9
   * <a href="https://vchan2.github.io/2023APCalculusBC/SeriesBee2023.pdf">Series Bee</a> (<a href="https://vchan2.github.io/2023APCalculusBC/SeriesBee2023_sol.pdf">Solutions</a>)
 
@@ -793,9 +803,6 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 * Unit 8
   * <a href="https://vchan2.github.io/2022APCalculusBC/8_Volumes.pdf">Volumes practice 1</a> (<a href="https://vchan2.github.io/2022APCalculusBC/8_Volumes_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2022APCalculusBC/8_Volumes2.pdf">Volumes practice 2</a> (<a href="https://vchan2.github.io/2022APCalculusBC/8_Volumes2_sol.pdf">Solutions</a>)
-* Unit 7
-  * <a href="https://vchan2.github.io/2022APCalculusBC/7_Slope_Fields.pdf">Slope Fields practice 1</a> (<a href="https://vchan2.github.io/2022APCalculusBC/7_Slope_Fields_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2022APCalculusBC/7_Visualizing_Differential_Equations_Slope_Fields_practice.pdf">Slope Fields practice 2</a> (<a href="https://vchan2.github.io/2022APCalculusBC/7_Visualizing_Differential_Equations_Slope_Fields_practice_sol.pdf">Solutions</a>)
 -->
 
 
@@ -833,14 +840,6 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://vchan2.github.io/2021Calculus/4.5_Related_Rates.pdf">4.5 Three related rates problems</a> (<a href="https://vchan2.github.io/2021Calculus/4.5_Related_Rates_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/5.11_Optimization.pdf">5.11 Three optimization problems</a> (<a href="https://vchan2.github.io/2021Calculus/5.11_Optimization_sol.pdf">Solutions</a>)
 -->
-
-* Integration
-  * <a href="https://vchan2.github.io/2021Calculus/6.9_WS%201%20on%20substitution.pdf">Worksheet 1 on substitution</a>
-  * <a href="https://vchan2.github.io/2021Calculus/6.9_WS%202%20on%20substitution.pdf">Worksheet 2 on substitution</a>
-  * <a href="https://vchan2.github.io/2021Calculus/6.10_WS%20on%20Long%20Division%20and%20Completing%20the%20Square.pdf">Worksheet on long division and completing the square</a>
-  * <a href="https://vchan2.github.io/2021Calculus/6.14_practice.pdf">Practice with various integration techniques</a> (<a href="https://vchan2.github.io/2021Calculus/6.14_practice_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/8_Volumes.pdf">Practice with volumes 1 (specific examples)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2021Calculus/8_Volumes2.pdf">Practice with volumes 2 (more general examples)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes2_sol.pdf">Solutions</a>)
 
 <!--
 * <a href="https://www.wolframalpha.com/problem-generator/"> Problem generator (WolframAlpha) </a>
