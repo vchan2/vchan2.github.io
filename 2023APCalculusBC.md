@@ -119,8 +119,6 @@ Tentative schedule for upcoming classes:
     * Monday, Jan. 15: 9.7-9.8
     * Wednesday, Jan. 17: 9.9
     * Friday, Jan. 19: Mini-math (9.6-9.9)
--->
-
   * Week of Jan. 22
     * Monday, Jan. 22: Unit 9 Review
     * Wednesday, Jan. 24: Unit 9 test
@@ -141,9 +139,11 @@ Tentative schedule for upcoming classes:
     * Monday, Feb. 19: February break
     * Wednesday, Feb. 21: February break
     * Friday, Feb. 23: February break
+-->
+
   * Week of Feb. 26
     * Monday, Feb. 26: 10.10
-    * Wednesday, Feb. 28: No class - PCF contests
+    * Wednesday, Feb. 28: No class - PCF contests. Unit 10 mid-unit test for some?
     * Friday, Mar. 1: 10.11
   * Week of Mar. 4
     * Monday, Mar. 4: 10.11-10.12
