@@ -14,9 +14,6 @@ Quick links
 
 ### Updates
 
-Brachistochrone curve
-* <a href="https://www.youtube.com/shorts/zzf9rZWAa90">Short by ActionLab</a>
-* <a href="https://www.youtube.com/watch?v=Cld0p3a43fU">16 minute in-depth video by 3Blue1Brown</a>
 
 <!--
 <a href="https://vchan2.github.io/pi/pi_is_irrational.pdf">Niven's proof that &pi; is irrational</a>
@@ -728,6 +725,10 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 * <a href="https://www.wolframalpha.com/">Online calculator (WolframAlpha)</a>
 * <a href="https://www.desmos.com/">Online graphing program (Desmos)</a>
 
+Brachistochrone curve
+* <a href="https://www.youtube.com/shorts/zzf9rZWAa90">Short by ActionLab</a>
+* <a href="https://www.youtube.com/watch?v=Cld0p3a43fU">16 minute in-depth video by 3Blue1Brown</a>
+
 * <a href="http://webspace.ship.edu/msrenault/GeoGebraCalculus/derivative_intuitive_chain_rule.html"> Interactive visualization of the Chain Rule </a>
 * Optimization problems
   * <a href="https://www.desmos.com/calculator/l3bpllxpmb"> Visualization of: Cable to two points</a>
@@ -748,8 +749,11 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 * Parametric/Polar
   * <a href="https://www.desmos.com/calculator/h84i8pvwtn">Area common to a rose curve and a circle</a>
 
+* Series
+  * <a href="https://vchan2.github.io/2021Calculus/10_series_cheat_sheet.pdf">Cheat sheet for series tests (Unit 10)</a>
+
+
 <!--
-* <a href="https://vchan2.github.io/2021Calculus/10_series_cheat_sheet.pdf">Cheat sheet for series tests (Unit 10)</a>
 * <a href="https://vchan2.github.io/2021Calculus/10_Taylor_cheat_sheet.pdf">Cheat sheet for Taylor series (Unit 10)</a>
 -->
 
