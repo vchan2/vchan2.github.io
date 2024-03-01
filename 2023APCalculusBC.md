@@ -136,12 +136,12 @@ Tentative schedule for upcoming classes:
     * Monday, Feb. 19: February break
     * Wednesday, Feb. 21: February break
     * Friday, Feb. 23: February break
--->
-
   * Week of Feb. 26
     * Monday, Feb. 26: 10.10
     * Wednesday, Feb. 28: No class - PCF contests. Unit 10 mid-unit test for some?
     * Friday, Mar. 1: 10.11
+-->
+
   * Week of Mar. 4
     * Monday, Mar. 4: 10.11-10.12
     * Wednesday, Mar. 6: 10.13
@@ -155,8 +155,8 @@ Tentative schedule for upcoming classes:
     * Wednesday, Mar. 20: 
     * Friday, Mar. 22: 
   * Week of Mar. 25
-    * Monday, Mar. 25: Unit 10 test
-    * Wednesday, Mar. 27: ski day (either Monday or Wednesday)
+    * Monday, Mar. 25: Unit 10 test (tentative)
+    * Wednesday, Mar. 27: 
     * Friday, Mar. 29: Good Friday
   * Week of Apr. 1
     * Monday, Apr. 1: AP Calculus FRQ practice/review
