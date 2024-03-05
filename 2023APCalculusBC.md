@@ -736,7 +736,7 @@ Brachistochrone curve
 * Concavity
   * <a href="https://www.desmos.com/calculator/rn3t3zbamk"> Visualization of relationship between a curve's concavity, its tangent line, and the second derivative </a>
 * Trigonometry
-  * <a href="https://mathisonian.github.io/trig/etymology/"> The etymology of the 6 standard trig fuctions, complete with animations </a>
+  * <a href="https://mathisonian.github.io/trig/etymology/"> The etymology of the 6 standard trig functions, complete with animations </a>
   * <a href="https://vchan2.github.io/2021Calculus/Trig_derivatives_proofs.pdf"> Proofs of Trigonometric Derivatives </a>
 * DE
   * <a href="https://www.geogebra.org/m/W7dAdgqc">Slope field plotter</a>
@@ -751,7 +751,7 @@ Brachistochrone curve
 
 * Series
   * <a href="https://vchan2.github.io/2021Calculus/10_series_cheat_sheet.pdf">Cheat sheet for series tests (Unit 10)</a>
-
+  * <a href="https://www.desmos.com/calculator/ee0gyucdhe">Visualization of Taylor series</a>
 
 <!--
 * <a href="https://vchan2.github.io/2021Calculus/10_Taylor_cheat_sheet.pdf">Cheat sheet for Taylor series (Unit 10)</a>
