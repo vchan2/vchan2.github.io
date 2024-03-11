@@ -140,16 +140,16 @@ Tentative schedule for upcoming classes:
     * Monday, Feb. 26: 10.10
     * Wednesday, Feb. 28: No class - PCF contests. Unit 10 mid-unit test for some?
     * Friday, Mar. 1: 10.11
--->
-
   * Week of Mar. 4
     * Monday, Mar. 4: 10.11-10.12
     * Wednesday, Mar. 6: 10.13
     * Friday, Mar. 8: 10.14
+-->
+
   * Week of Mar. 11
     * Monday, Mar. 11: 10.14-10.15
-    * Wednesday, Mar. 13: pi day
-    * Friday, Mar. 15: 10.15
+    * Wednesday, Mar. 13: pi is irrational (tentative)
+    * Friday, Mar. 15: pi day
   * Week of Mar. 18
     * Monday, Mar. 18: Mini-math (10.10-10.15)
     * Wednesday, Mar. 20: 
