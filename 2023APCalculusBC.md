@@ -148,7 +148,7 @@ Tentative schedule for upcoming classes:
 
   * Week of Mar. 11
     * Monday, Mar. 11: 10.14-10.15
-    * Wednesday, Mar. 13: pi is irrational (tentative)
+    * Wednesday, Mar. 13: 10.15, pi is irrational (tentative)
     * Friday, Mar. 15: pi day
   * Week of Mar. 18
     * Monday, Mar. 18: Mini-math (10.10-10.15)
