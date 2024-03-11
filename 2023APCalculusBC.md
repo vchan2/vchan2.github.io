@@ -893,6 +893,8 @@ Calculus-based:
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_04Sum_of_product.pdf"> Unit 10: Sum of Product </a> - Prove that the product of summands from convergent series is convergent
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_05Rearrangment.pdf"> Unit 10: Rearrangement of conditionally convergent series </a> - Prove that the terms of a conditionally convergent series can be rearranged so that the new series will converge to any given real number
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_06Basel_problem.pdf"> Unit 10: Basel problem </a> - Find the exact value of the sum of the reciprocals of the squares of the positive integers
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_07Eulers_constant.pdf"> Unit 10: Euler's Constant </a> - Explore the harmonic series
+* <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_06Basel_problem.pdf"> Unit 10: Function that is not equal to its Taylor series</a> - Find a function that does equal its Taylor series
 
 
 <!--
