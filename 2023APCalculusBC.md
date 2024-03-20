@@ -820,6 +820,7 @@ Brachistochrone curve
   * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2024_01_12_(9.1-9.6).pdf"> Mini-math for January 12 (9.1-9.6)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2024_01_12_(9.1-9.6)_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2024_01_12_(9.6-9.9).pdf"> Mini-math for January 19 (9.6-9.9)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2024_01_12_(9.6-9.9)_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2024_02_09_(10.1-10.9).pdf"> Mini-math for February 9 (10.1-10.9)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2024_02_09_(10.1-10.9)_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2024_03_18_(10.10-10.15).pdf"> Mini-math for March 20 (10.10-10.15)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2024_03_18_(10.10-10.15)_sol.pdf">Solutions</a>)
 
 
 
