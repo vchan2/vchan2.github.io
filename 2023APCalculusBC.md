@@ -521,7 +521,7 @@ Unit 10 mid-unit test scheduled for <b>Wednesday, February 14</b> in-class. You 
     * ratio test
     * absolute convergence
   * Determine if a series converges absolutely or conditionally (or neither)
-Exam weighting: 9
+Exam weighting: 8.75
 
 NOTE: any material from Units 1 to 9 is also fair game and may be useful/necessary.
 -->
