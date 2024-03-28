@@ -144,8 +144,6 @@ Tentative schedule for upcoming classes:
     * Monday, Mar. 4: 10.11-10.12
     * Wednesday, Mar. 6: 10.13
     * Friday, Mar. 8: 10.14
--->
-
   * Week of Mar. 11
     * Monday, Mar. 11: 10.14-10.15
     * Wednesday, Mar. 13: 10.15, pi is irrational (tentative)
@@ -158,10 +156,12 @@ Tentative schedule for upcoming classes:
     * Monday, Mar. 25: Unit 10 test (tentative)
     * Wednesday, Mar. 27: 
     * Friday, Mar. 29: Good Friday
+-->
+
   * Week of Apr. 1
-    * Monday, Apr. 1: AP Calculus FRQ practice/review
-    * Wednesday, Apr. 3: AP Calculus FRQ practice/review
-    * Friday, Apr. 5: AP Calculus FRQ practice/review
+    * Monday, Apr. 1: AP Calculus practice/review (Social 30 pull-out) - Test 3 Part I Part A
+    * Wednesday, Apr. 3: AP Calculus practice/review - Test 3 Part I Part B, Part II Part A
+    * Friday, Apr. 5: AP Calculus practice/review (Social 30 diploma) - Test 3 Part II Part B
   * Week of Apr. 8
     * Monday, Apr. 8: AP Calculus FRQ practice/review
     * Wednesday, Apr. 10: AP Calculus FRQ practice/review
