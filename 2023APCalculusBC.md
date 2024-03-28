@@ -27,6 +27,8 @@ Quick links
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. 
 -->
 
+<b>NOTICE:</b> We plan to start Test 3 Part II Part B at 8:15AM on Friday, April 5.
+
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. This class is <b>mandatory</b> for those who scored below 80% on a unit test, but highly encouraged for anyone who is struggling or unsure about any of the material. Otherwise, please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. Please let me know in advance if you intend to come; I will typically come for the first few minutes to see if anyone shows up.
 
 ---
@@ -161,7 +163,7 @@ Tentative schedule for upcoming classes:
   * Week of Apr. 1
     * Monday, Apr. 1: AP Calculus practice/review (Social 30 pull-out) - Test 3 Part I Part A
     * Wednesday, Apr. 3: AP Calculus practice/review - Test 3 Part I Part B, Part II Part A
-    * Friday, Apr. 5: AP Calculus practice/review (Social 30 diploma) - Test 3 Part II Part B
+    * Friday, Apr. 5: AP Calculus practice/review (Social 30 diploma) - Test 3 Part II Part B (start at 8:15AM)
   * Week of Apr. 8
     * Monday, Apr. 8: AP Calculus FRQ practice/review
     * Wednesday, Apr. 10: AP Calculus FRQ practice/review
