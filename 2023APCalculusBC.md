@@ -454,6 +454,7 @@ Unit 6 test is scheduled for <b>Wednesday, October 4</b> in-class. There will be
     * Integration by Parts (IBP)
     * Partial Fraction Decomposition (PFD)
   * Handle improper integrals
+
 Exam weighting: 18.5
 
 NOTE: any material from Units 1 to 5 is also fair game and may be useful/necessary.
@@ -468,6 +469,7 @@ Unit 7 test is scheduled for <b>Wednesday, October 25</b> in-class (for two stud
   * Solve and reason about exponential models with DEs
   * Solve and reason about logistic models with DEs
   * Approximate solutions to DEs using Euler's Method
+
 Exam weighting: 7.5
 
 NOTE: any material from Units 1 to 6 is also fair game and may be useful/necessary.
@@ -485,6 +487,7 @@ Unit 8 test is scheduled for <b>Wednesday, December 6</b> in-class. You should b
   * Find the volume of a solid using cross-sections
   * Find the volume of a solid of revolution using the disc/washer method
   * Find the arc length of a curve.
+
 Exam weighting: 7.5
 
 NOTE: any material from Units 1 to 7 is also fair game and may be useful/necessary.
@@ -502,6 +505,7 @@ Unit 9 test is scheduled for <b>Wednesday, February 24</b> in-class. You should 
   * Find the first and second derivatives in polar form (special case of parametric)
   * Find the area of polar curves
   * Find the area between polar curves
+
 Exam weighting: 11.5
 
 NOTE: any material from Units 1 to 8 is also fair game and may be useful/necessary.
@@ -523,6 +527,7 @@ Unit 10 mid-unit test scheduled for <b>Wednesday, February 14</b> in-class. You 
     * ratio test
     * absolute convergence
   * Determine if a series converges absolutely or conditionally (or neither)
+
 Exam weighting: 8.75
 
 NOTE: any material from Units 1 to 9 is also fair game and may be useful/necessary.
@@ -551,6 +556,7 @@ Unit 10 final unit test scheduled for <b>Monday, April 10</b> in-class. You shou
   * Find the radius and interval of convergence of a power series
   * Find Taylor and Maclaurin series of a function
     * this includes using known series to generate new series via substitution, addition/subtraction/multiplication/division, differentiation, or integration
+
 Exam weighting: 17.5
 
 NOTE: any material from Units 1 to 9 is also fair game and may be useful/necessary.
