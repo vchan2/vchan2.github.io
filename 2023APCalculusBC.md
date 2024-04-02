@@ -163,17 +163,17 @@ Tentative schedule for upcoming classes:
   * Week of Apr. 1
     * Monday, Apr. 1: AP Calculus practice/review (Social 30 pull-out) - Test 3 Part I Part A
     * Wednesday, Apr. 3: AP Calculus practice/review - Test 3 Part I Part B, Part II Part A
-    * Friday, Apr. 5: AP Calculus practice/review (Social 30 diploma) - Test 3 Part II Part B (start at 8:15AM)
+    * Friday, Apr. 5: AP Calculus practice/review (Social 30 diploma) - Test 3 Part II Part B (start at 8:15)
   * Week of Apr. 8
-    * Monday, Apr. 8: AP Calculus FRQ practice/review
-    * Wednesday, Apr. 10: AP Calculus FRQ practice/review
-    * Friday, Apr. 12: AP Calculus FRQ practice/review
+    * Monday, Apr. 8: AP Calculus practice/review (Social 30 pull-out) - Test 4 Part I Part A, Part I Part B
+    * Wednesday, Apr. 10: AP Calculus practice/review - Test 4 Part II Part A, Part II Part B
+    * Friday, Apr. 12: AP Calculus practice/review (Social 30 diploma) - Review Test 4
   * Week of Apr. 15
-    * Monday, Apr. 15: AP Calculus FRQ practice/review
-    * Wednesday, Apr. 17: Pre-break activities
+    * Monday, Apr. 15: AP Calculus practice/review - Test 5 Part I Part A, Part I Part B
+    * Wednesday, Apr. 17: Test 5 Part II Part A, Part II Part B
     * Friday, Apr. 19: PTC
   * Week of Apr. 22
-    * Monday, Apr. 22: Spring break
+    * Monday, Apr. 22: Spring break - Review Test 5 (tentative). Test 6 and 7 in testing center (tentative)
     * Wednesday, Apr. 24: Spring break
     * Friday, Apr. 26: Spring break
   * Week of Apr. 29
