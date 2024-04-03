@@ -175,7 +175,7 @@ Tentative schedule for upcoming classes:
   * Week of Apr. 8
     * Monday, Apr. 8: AP Calculus practice/review (Social 30 pull-out) - Test 4 Part I Part A, Part I Part B
     * Wednesday, Apr. 10: AP Calculus practice/review - Test 4 Part II Part A, Part II Part B
-    * Friday, Apr. 12: AP Calculus practice/review (Social 30 diploma) - Review Test 4
+    * Friday, Apr. 12: COL Fine Arts - No class
     * Sunday, Apr. 14: Review Test 4 (9:00-10:00)
   * Week of Apr. 15
     * Monday, Apr. 15: AP Calculus practice/review - Test 5 Part I Part A, Part I Part B
