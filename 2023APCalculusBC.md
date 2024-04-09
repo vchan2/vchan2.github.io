@@ -177,26 +177,25 @@ Tentative schedule for upcoming classes:
     * Monday, Apr. 1: AP Calculus practice/review (Social 30 pull-out) - Test 3 Part I Part A
     * Wednesday, Apr. 3: AP Calculus practice/review - Test 3 Part I Part B, Part II Part A
     * Friday, Apr. 5: AP Calculus practice/review (Social 30 diploma) - Test 3 Part II Part B (start at 8:15)
-    * Saturday, Apr. 6: Review Test 3 (9:00-11:00)
   * Week of Apr. 8
-    * Monday, Apr. 8: AP Calculus practice/review (Social 30 pull-out) - Test 4 Part I (Part II at home)
-    * Wednesday, Apr. 10: AP Calculus practice/review - Test 5 Part I (Part II at home)
+    * Monday, Apr. 8: AP Calculus practice/review (Social 30 pull-out) - Test 4 Part I (Part II at home) and review Test 4 (until 4:30PM)
+    * Wednesday, Apr. 10: AP Calculus practice/review - Test 5 Part I (Part II at home) and review Test 5 (period 4-6)
     * Friday, Apr. 12: AP Calculus practice/review (Social 30 diploma) - COL Fine Arts, no class
   * Week of Apr. 15
-    * Monday, Apr. 15: AP Calculus practice/review - Test 6 Part I (Part II at home)
-    * Wednesday, Apr. 17: AP Calculus practice/review - Test 7 Part I (Part II at home)
+    * Monday, Apr. 15: AP Calculus practice/review - Test 6 Part I (Part II at home) until 3:45PM
+    * Wednesday, Apr. 17: AP Calculus practice/review - Review Test 6, any FRQ
     * Friday, Apr. 19: PTC
   * Week of Apr. 22
-    * Monday, Apr. 22: Spring break - Review Test 5 (tentative). Test 6 and 7 in testing center (tentative)
+    * Monday, Apr. 22: 
     * Wednesday, Apr. 24: Spring break
     * Friday, Apr. 26: Spring break
   * Week of Apr. 29
-    * Monday, Apr. 29: AP Calculus FRQ practice/review
-    * Wednesday, May. 1: AP Calculus FRQ practice/review
+    * Monday, Apr. 29: AP Calculus practice/review - Test 7 Part I (Part II at home) until 3:45PM
+    * Wednesday, May. 1: AP Calculus FRQ practice/review - Review Test 7, any FRQ
     * Friday, May. 3: AP Calculus FRQ practice/review
   * Week of May. 6
-    * Monday, May. 6: AP Calculus FRQ practice/review
-    * Wednesday, May. 8: AP Calculus FRQ practice/review
+    * Monday, May. 6: AP Calculus practice/review - Test 8 Part I (Part II at home) until 3:45PM
+    * Wednesday, May. 8: AP Calculus FRQ practice/review - Review Test 8, any FRQ
     * Friday, May. 10: AP Calculus FRQ practice/review
   * Week of May. 13
     * Monday, May. 13: AP test
