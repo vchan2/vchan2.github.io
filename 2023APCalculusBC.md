@@ -31,7 +31,9 @@ Quick links
 <b>NOTICE:</b> We plan to start Test 3 Part II Part B at 8:15AM on Friday, April 5.
 -->
 
+<!--
 <b>NOTICE:</b> We will start class on Wednesday, April 10, at the start of Period 4.
+-->
 
 <!--
 <b>NOTICE:</b> I will be running a zoom session to review Test 3 on Saturday, starting at 9AM. As this is our first review and we will be going over all of the MCQ as well as the FRQ, I imagine it will take a while to finish - I'm estimating 2 hours. I will be recording the session and posting in our shared google drive. 
@@ -40,6 +42,9 @@ Quick links
 <!--
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. This class is <b>mandatory</b> for those who scored below 80% on a unit test, but highly encouraged for anyone who is struggling or unsure about any of the material. Otherwise, please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. Please let me know in advance if you intend to come; I will typically come for the first few minutes to see if anyone shows up.
 -->
+
+<b>NOTICE:</b> We will go over Practice Test 4 MCQ on Sunday morning, 9:00AM-10:30AM in my zoom room.
+
 
 <b>NOTICE:</b> I am no longer running a calculus tutorial on Fridays. However, please reach out to me directly if you ever have any questions and we will find a time to go over your questions.
 
