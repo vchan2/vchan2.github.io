@@ -43,8 +43,11 @@ Quick links
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. This class is <b>mandatory</b> for those who scored below 80% on a unit test, but highly encouraged for anyone who is struggling or unsure about any of the material. Otherwise, please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. Please let me know in advance if you intend to come; I will typically come for the first few minutes to see if anyone shows up.
 -->
 
+<!--
 <b>NOTICE:</b> We will go over Practice Test 5 MCQ on Sunday morning, 9:00AM-10:30AM in my zoom room.
+-->
 
+<b>NOTICE:</b> AP Daily: Practice Sessions will be available on AP Classroom and Youtube starting Monday, April 22. These are 15-minute videos are designed to be quick reviews and a look into AP-style questions. 
 
 <b>NOTICE:</b> I am no longer running a calculus tutorial on Fridays. However, please reach out to me directly if you ever have any questions and we will find a time to go over your questions.
 
