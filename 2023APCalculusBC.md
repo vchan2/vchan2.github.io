@@ -14,6 +14,9 @@ Quick links
 
 ### Updates
 
+We start test 8 at 12PM on Wednesday, during lunch, and will continue until 3:15PM. Afterwards, we will spend about 30 minutes going over MCQ. You can mark your own FRQ at home with the answer key.
+
+
 
 <!--
 <a href="https://vchan2.github.io/pi/pi_is_irrational.pdf">Niven's proof that &pi; is irrational</a>
