@@ -179,8 +179,6 @@ Tentative schedule for upcoming classes:
     * Monday, Mar. 25: Unit 10 test (tentative)
     * Wednesday, Mar. 27: 
     * Friday, Mar. 29: Good Friday
--->
-
   * Week of Apr. 1
     * Monday, Apr. 1: AP Calculus practice/review (Social 30 pull-out) - Test 3 Part I Part A
     * Wednesday, Apr. 3: AP Calculus practice/review - Test 3 Part I Part B, Part II Part A
@@ -201,13 +199,40 @@ Tentative schedule for upcoming classes:
     * Monday, Apr. 29: AP Calculus practice/review - Test 7 Part I (Part II at home) until 3:45PM
     * Wednesday, May. 1: AP Calculus FRQ practice/review - Review Test 7, any FRQ
     * Friday, May. 3: AP Calculus FRQ practice/review
+-->
+
+
   * Week of May. 6
-    * Monday, May. 6: AP Calculus practice/review - Test 8 Part I (Part II at home) until 3:45PM
-    * Wednesday, May. 8: AP Calculus FRQ practice/review - Review Test 8, any FRQ
+    * Monday, May. 6: AP Chem pull-out, AP Calculus practice/review
+    * Wednesday, May. 8: AP Calculus practice/review - Test 7 FULL MOCK 12:00PM-3:15PM, test review 3:15PM-3:45PM
     * Friday, May. 10: AP Calculus FRQ practice/review
   * Week of May. 13
     * Monday, May. 13: AP test
-
+    * Wednesday, May. 15: Celebration!
+    * Friday, May. 17: Victoria Day weekend
+  * Week of May. 20
+    * Monday, May. 20: Victoria Day weekend
+    * Wednesday, May. 22: Approximate integration and numerical methods
+    * Friday, May. 24: Spare
+  * Week of May. 27
+    * Monday, May. 27: Spare
+    * Wednesday, May. 29: Spare
+    * Friday, May. 31: Trigonometric integrals
+  * Week of Jun. 3
+    * Monday, Jun. 3: Inverse trig substitution
+    * Wednesday, Jun. 5: Spare
+    * Friday, Jun. 7: Spare
+  * Week of Jun. 10
+    * Monday, Jun. 10: Surface area of revolution and Gabriel's horn
+    * Wednesday, Jun. 12: Locked Out
+    * Friday, Jun. 14: Spare
+  * Week of Jun. 17
+    * Monday, Jun. 17: Newton's Law of Cooling and forensics
+    * Wednesday, Jun. 19: MasterChef Calculus
+    * Friday, Jun. 21: Spare
+  * Week of Jun. 24
+    * Monday, Jun. 24: Spare
+    * Wednesday, Jun. 26: Last class activities
 
 <!--
 <b>Notice:</b> In Stewart, 9.3 Q7, 8, 15 use integration by parts - skip it.
