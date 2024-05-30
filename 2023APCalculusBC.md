@@ -14,8 +14,9 @@ Quick links
 
 ### Updates
 
+<!--
 We start test 8 at 12PM on Wednesday, during lunch, and will continue until 3:15PM. Afterwards, we will spend about 30 minutes going over MCQ. You can mark your own FRQ at home with the answer key.
-
+-->
 
 
 <!--
@@ -50,10 +51,11 @@ We start test 8 at 12PM on Wednesday, during lunch, and will continue until 3:15
 <b>NOTICE:</b> We will go over Practice Test 5 MCQ on Sunday morning, 9:00AM-10:30AM in my zoom room.
 -->
 
+<!--
 <b>NOTICE:</b> AP Daily: Practice Sessions will be available on AP Classroom and Youtube starting Monday, April 22. These are 15-minute videos are designed to be quick reviews and a look into AP-style questions. 
 
 <b>NOTICE:</b> I am no longer running a calculus tutorial on Fridays. However, please reach out to me directly if you ever have any questions and we will find a time to go over your questions.
-
+-->
 
 ---
 
@@ -202,9 +204,6 @@ Tentative schedule for upcoming classes:
     * Monday, Apr. 29: AP Calculus practice/review - Test 7 Part I (Part II at home) until 3:45PM
     * Wednesday, May. 1: AP Calculus FRQ practice/review - Review Test 7, any FRQ
     * Friday, May. 3: AP Calculus FRQ practice/review
--->
-
-
   * Week of May. 6
     * Monday, May. 6: AP Chem pull-out, AP Calculus practice/review
     * Wednesday, May. 8: AP Calculus practice/review - Test 7 FULL MOCK 12:00PM-3:15PM, test review 3:15PM-3:45PM
@@ -217,6 +216,8 @@ Tentative schedule for upcoming classes:
     * Monday, May. 20: Victoria Day weekend
     * Wednesday, May. 22: Approximate integration and numerical methods
     * Friday, May. 24: Spare
+ -->
+
   * Week of May. 27
     * Monday, May. 27: Spare
     * Wednesday, May. 29: Spare
