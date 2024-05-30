@@ -590,6 +590,7 @@ NOTE: any material from Units 1 to 9 is also fair game and may be useful/necessa
   * 
 -->
 
+<!--
 Unit 10 final unit test scheduled for <b>Monday, April 10</b> in-class. You should be proficient in all material contained in Unit 10, though the majority of questions will focus on 10.10-10.15. More precisely, you should be able to:
   * Determine convergence or divergence of a series using:
     * its partial sums
@@ -610,7 +611,7 @@ Unit 10 final unit test scheduled for <b>Monday, April 10</b> in-class. You shou
 Exam weighting: 17.5
 
 NOTE: any material from Units 1 to 9 is also fair game and may be useful/necessary.
-
+-->
 
 Final exam information: 8:00AM, Monday, May 13, 5th floor
 <img src="https://vchan2.github.io/2021Calculus/Exam_info.png">
