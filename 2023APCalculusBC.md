@@ -216,12 +216,12 @@ Tentative schedule for upcoming classes:
     * Monday, May. 20: Victoria Day weekend
     * Wednesday, May. 22: Approximate integration and numerical methods
     * Friday, May. 24: Spare
- -->
-
   * Week of May. 27
     * Monday, May. 27: Spare
     * Wednesday, May. 29: Spare
     * Friday, May. 31: Trigonometric integrals
+ -->
+
   * Week of Jun. 3
     * Monday, Jun. 3: Inverse trig substitution
     * Wednesday, Jun. 5: Spare
