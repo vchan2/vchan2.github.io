@@ -444,7 +444,7 @@ Unit 5 test is scheduled for <b>Monday, January 17</b> in-class. Unit 5 AP mater
   * (AP) Handle more challenging problems of the types above.
 -->
 
-Unit 1-5 test is scheduled for <b>Monday, September 9</b> in-class. You should be proficient in all material contained in Units 1-5. More precisely, you should be able to:
+Unit 1-5 test is scheduled for <b>Wednesday, September 11</b> in-class. You should be proficient in all material contained in Units 1-5. More precisely, you should be able to:
   * Compute limits of a function graphically.
   * Compute limits of a composite function graphically.
   * Interpret tabular information for finding limits.
