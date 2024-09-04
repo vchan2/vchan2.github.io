@@ -805,11 +805,16 @@ Brachistochrone curve
 * Optimization problems
   * <a href="https://www.desmos.com/calculator/l3bpllxpmb"> Visualization of: Cable to two points</a>
   * <a href="https://www.desmos.com/calculator/stfesdxk3f"> Visualization of: Distance from point to square root graph</a>
+-->
+
+
 * Concavity
-  * <a href="https://www.desmos.com/calculator/rn3t3zbamk"> Visualization of relationship between a curve's concavity, its tangent line, and the second derivative </a>
+  * <a href="https://www.desmos.com/calculator/rn3t3zbamk"> Visualization of the relationship between a curve's concavity, its tangent line, and the second derivative </a>
 * Trigonometry
   * <a href="https://mathisonian.github.io/trig/etymology/"> The etymology of the 6 standard trig functions, complete with animations </a>
   * <a href="https://vchan2.github.io/2021Calculus/Trig_derivatives_proofs.pdf"> Proofs of Trigonometric Derivatives </a>
+
+<!--
 * DE
   * <a href="https://www.geogebra.org/m/W7dAdgqc">Slope field plotter</a>
 
@@ -856,6 +861,9 @@ Brachistochrone curve
 * <a href="2022APCalculusBC/calculus_readiness.pdf">Calculus readiness test</a> (<a href="2022APCalculusBC/calculus_readiness_sol.pdf">Answers</a>)
 * Unit 1
   * <a href="https://vchan2.github.io/2022APCalculusBC/Limits(graphical).pdf">Limits (graphical)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/Limits(graphical)_sol.pdf">Answers</a>)
+* Unit 3-5
+  * <a href="vchan2.github.io/APCalculus/practice_derivatives.pdf">Derivative practice</a> (not comprehensive, answers included)
+
 
 <!--
 * Unit 6
