@@ -68,9 +68,21 @@ Tentative schedule for upcoming classes:
     * Wednesday, Sep. 4: First-day activities, 6.1
     * Friday, Sep. 6: Tuesday schedule (no class)
   * Week of Sep. 9
-    * Monday, Sep. 9: 6.1-6.4
+    * Monday, Sep. 9: 6.1-6.3
     * Wednesday, Sep. 11: Unit 1-5 test
-    * Friday, Sep. 13: Mini-math (6.1-6.4)
+    * Friday, Sep. 13: Mini-math (6.1-6.3)
+  * Week of Sep. 16
+    * Monday, Sep. 16: 6.4-6.6
+    * Wednesday, Sep. 18: 6.7-6.9
+    * Friday, Sep. 20: Terry Fox Run
+  * Week of Sep. 23
+    * Monday, Sep. 23: 6.10-6.12
+    * Wednesday, Sep. 25: 6.13-6.14
+    * Friday, Sep. 27: Mini-math (6.4-6.14)
+  * Week of Sep. 30
+    * Monday, Sep. 30: Integration Bee
+    * Wednesday, Oct. 2: Unit 6 test
+    * Friday, Oct. 4: 7.1
 
 
 <!--
