@@ -70,7 +70,7 @@ Tentative schedule for upcoming classes:
   * Week of Sep. 9
     * Monday, Sep. 9: 6.1-6.3
     * Wednesday, Sep. 11: Unit 1-5 test
-    * Friday, Sep. 13: Mini-math (6.1-6.3)
+    * Friday, Sep. 13: Mini-math (6.1-6.3), 6.4
   * Week of Sep. 16
     * Monday, Sep. 16: 6.4-6.6
     * Wednesday, Sep. 18: 6.7-6.9
@@ -511,8 +511,7 @@ Unit 1-5 test is scheduled for <b>Wednesday, September 11</b> in-class. You shou
   * Determine where a function satisfies the Mean Value Theorem
 
 
-<!--
-Unit 6 test is scheduled for <b>Wednesday, October 4</b> in-class. There will be a calculator portion and a non-calculator portion. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
+Unit 6 test is scheduled for <b>Wednesday, October 2</b> in-class. There will be a calculator portion and a non-calculator portion. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
   * Approximate the area under a curve using right and left Riemann sums, midpoint and trapezoidal rules, both with equal and unequal intervals, from a function, graph, or table of values
   * Identify if an area estimate is an overestimate or underestimate
   * Interpret or produce an integral given a contextual application
@@ -530,7 +529,7 @@ Unit 6 test is scheduled for <b>Wednesday, October 4</b> in-class. There will be
 Exam weighting: 18.5
 
 NOTE: any material from Units 1 to 5 is also fair game and may be useful/necessary.
--->
+
 
 <!--
 Unit 7 test is scheduled for <b>Wednesday, October 25</b> in-class (for two students) and <b>Wednesday, November 1</b> in-class (everyone else). You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
@@ -877,10 +876,11 @@ Brachistochrone curve
   * <a href="vchan2.github.io/APCalculus/practice_derivatives.pdf">Derivative practice</a> (not comprehensive, answers included)
 
 
-<!--
 * Unit 6
   * <a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout.pdf">6.1-6.3 handout</a> (<a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/6.3_Numerical_Integration.pdf">Numerical Integration worksheet</a> (<a href="https://vchan2.github.io/2023APCalculusBC/6.3_Numerical_Integration_sol.pdf">Solutions</a>)
+
+<!--
   * <a href="https://vchan2.github.io/2021Calculus/6.9_WS%201%20on%20substitution.pdf">Worksheet 1 on substitution</a>
   * <a href="https://vchan2.github.io/2021Calculus/6.9_WS%202%20on%20substitution.pdf">Worksheet 2 on substitution</a>
   * <a href="https://vchan2.github.io/2021Calculus/6.10_WS%20on%20Long%20Division%20and%20Completing%20the%20Square.pdf">Worksheet on long division and completing the square</a>
@@ -908,9 +908,9 @@ Brachistochrone curve
 
 
 * Mini-maths
+  * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3:4_2024_09_13.pdf"> Mini-math for September 13 (6.1-6.3)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3:4_2024_09_13_sol.pdf">Solutions</a>)
 
 <!--
-  * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_09_15.pdf"> Mini-math for September 15 (6.1-6.4)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_09_15_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_09_29.pdf"> Mini-math for September 29 (6.5-6.14)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_09_29_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_10_18_(7.1-7.5).pdf"> Mini-math for October 18 (7.1-7.5)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_10_18_(7.1-7.5)_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_10_23_(7.6-7.9).pdf"> Mini-math for October 23 (7.6-7.9)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_10_23_(7.6-7.9)_sol.pdf">Solutions</a>)
