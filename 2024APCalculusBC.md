@@ -805,9 +805,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 * <a href="https://www.wolframalpha.com/">Online calculator (WolframAlpha)</a>
 * <a href="https://www.desmos.com/">Online graphing program (Desmos)</a>
 
-Brachistochrone curve
-* <a href="https://www.youtube.com/shorts/zzf9rZWAa90">Short by ActionLab</a>
-* <a href="https://www.youtube.com/watch?v=Cld0p3a43fU">16 minute in-depth video by 3Blue1Brown</a>
+* Brachistochrone curve
+  * <a href="https://www.youtube.com/shorts/zzf9rZWAa90">Short by ActionLab</a>
+  * <a href="https://www.youtube.com/watch?v=Cld0p3a43fU">16 minute in-depth video by 3Blue1Brown</a>
 
 * <a href="http://webspace.ship.edu/msrenault/GeoGebraCalculus/derivative_intuitive_chain_rule.html"> Interactive visualization of the Chain Rule </a>
 * Optimization problems
