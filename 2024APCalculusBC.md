@@ -14,8 +14,6 @@ Quick links
 
 ### Updates
 
-You do not need to do Unit 6.1 flipped math as homework. Please focus on Units 1-5 for Monday. 
-
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in 2403. This class is <b>mandatory</b> for those who scored below 80% on a unit test, but highly encouraged for anyone who is struggling or unsure about any of the material. Otherwise, please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. Please let me know in advance if you intend to come; I will typically come for the first few minutes to see if anyone shows up.
 
 <!--
@@ -807,7 +805,6 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 * <a href="https://www.wolframalpha.com/">Online calculator (WolframAlpha)</a>
 * <a href="https://www.desmos.com/">Online graphing program (Desmos)</a>
 
-<!--
 Brachistochrone curve
 * <a href="https://www.youtube.com/shorts/zzf9rZWAa90">Short by ActionLab</a>
 * <a href="https://www.youtube.com/watch?v=Cld0p3a43fU">16 minute in-depth video by 3Blue1Brown</a>
@@ -816,9 +813,6 @@ Brachistochrone curve
 * Optimization problems
   * <a href="https://www.desmos.com/calculator/l3bpllxpmb"> Visualization of: Cable to two points</a>
   * <a href="https://www.desmos.com/calculator/stfesdxk3f"> Visualization of: Distance from point to square root graph</a>
--->
-
-
 * Concavity
   * <a href="https://www.desmos.com/calculator/rn3t3zbamk"> Visualization of the relationship between a curve's concavity, its tangent line, and the second derivative </a>
 * Trigonometry
@@ -880,11 +874,11 @@ Brachistochrone curve
 * Unit 6
   * <a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout.pdf">6.1-6.3 handout</a> (<a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/6.3_Numerical_Integration.pdf">Numerical Integration worksheet</a> (<a href="https://vchan2.github.io/2023APCalculusBC/6.3_Numerical_Integration_sol.pdf">Solutions</a>)
-
-<!--
   * <a href="https://vchan2.github.io/2021Calculus/6.9_WS%201%20on%20substitution.pdf">Worksheet 1 on substitution</a>
   * <a href="https://vchan2.github.io/2021Calculus/6.9_WS%202%20on%20substitution.pdf">Worksheet 2 on substitution</a>
   * <a href="https://vchan2.github.io/2021Calculus/6.10_WS%20on%20Long%20Division%20and%20Completing%20the%20Square.pdf">Worksheet on long division and completing the square</a>
+
+<!--
   * <a href="https://vchan2.github.io/2021Calculus/6.14_practice.pdf">Practice with various integration techniques</a> (<a href="https://vchan2.github.io/2021Calculus/6.14_practice_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/6.14_practice.pdf">6.14 practice</a> (<a href="https://vchan2.github.io/2023APCalculusBC/6.14_practice_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/IntegrationBee2023partial.pdf">Integration Bee</a> (<a href="https://vchan2.github.io/2023APCalculusBC/IntegrationBee2023partial_sol.pdf">Solutions</a>)
