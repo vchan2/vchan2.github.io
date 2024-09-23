@@ -74,10 +74,10 @@ Tentative schedule for upcoming classes:
   * Week of Sep. 16
     * Monday, Sep. 16: 6.4-6.6
     * Wednesday, Sep. 18: 6.7-6.9
-    * Friday, Sep. 20: Terry Fox Run
+    * Friday, Sep. 20: Terry Fox Run (no class)
   * Week of Sep. 23
-    * Monday, Sep. 23: 6.10-6.12
-    * Wednesday, Sep. 25: 6.13-6.14
+    * Monday, Sep. 23: 6.9-6.11
+    * Wednesday, Sep. 25: 6.12-6.14
     * Friday, Sep. 27: Mini-math (6.4-6.14)
   * Week of Sep. 30
     * Monday, Sep. 30: Integration Bee
