@@ -535,7 +535,7 @@ Unit 1-5 test is scheduled for <b>Wednesday, September 11</b> in-class. You shou
   * Determine where a function satisfies the Mean Value Theorem
 
 
-Unit 6 test is scheduled for <b>Wednesday, October 2</b> in-class. There will be a calculator portion and a non-calculator portion. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
+Unit 6 test is scheduled for <b>Wednesday, October 16</b> in-class. There will be a calculator portion and a non-calculator portion. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
   * Approximate the area under a curve using right and left Riemann sums, midpoint and trapezoidal rules, both with equal and unequal intervals, from a function, graph, or table of values
   * Identify if an area estimate is an overestimate or underestimate
   * Interpret or produce an integral given a contextual application
