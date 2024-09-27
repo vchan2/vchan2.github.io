@@ -62,6 +62,7 @@ We start test 8 at 12PM on Wednesday, during lunch, and will continue until 3:15
 
 Tentative schedule for upcoming classes:
 
+<!--
   * Week of Sep. 2
     * Wednesday, Sep. 4: First-day activities, 6.1
     * Friday, Sep. 6: Tuesday schedule (no class)
@@ -77,11 +78,36 @@ Tentative schedule for upcoming classes:
     * Monday, Sep. 23: 6.9-6.11
     * Wednesday, Sep. 25: 6.12-6.14
     * Friday, Sep. 27: Mini-math (6.4-6.14)
-  * Week of Sep. 30
-    * Monday, Sep. 30: Integration Bee
-    * Wednesday, Oct. 2: Unit 6 test
-    * Friday, Oct. 4: 7.1
+-->
 
+  * Week of Sep. 30
+    * Monday, Sep. 30: Unit 6 Review
+    * Wednesday, Oct. 2: Integration Bee
+    * Friday, Oct. 4: Work period
+  * Week of Oct. 7
+    * Monday, Oct. 7: Work period
+    * Wednesday, Oct. 9: Work period
+    * Friday, Oct. 11: No class
+  * Week of Oct. 14
+    * Monday, Oct. 14: No class
+    * Wednesday, Oct. 16: Unit 6 test
+    * Friday, Oct. 18: 7.1
+  * Week of Oct. 21
+    * Monday, Oct. 21: 7.2-7.3
+    * Wednesday, Oct. 23: 7.5-7.7
+    * Friday, Oct. 25: Mini-math (7.1-7.5)
+  * Week of Oct. 28
+    * Monday, Oct. 28: 7.8-7.9
+    * Wednesday, Oct. 30: Mini-math (7.6-7.9)
+    * Friday, Nov. 1: Unit 7 Review
+  * Week of Nov. 4
+    * Monday, Nov. 4: Unit 7 test
+    * Wednesday, Nov. 6: Pre-break activities
+    * Friday, Nov. 8: PTC
+  * Week of Nov. 11
+    * Monday, Nov. 11: November break
+    * Wednesday, Nov. 13: November break
+    * Friday, Nov. 15: November break
 
 <!--
   * Week of Sep. 4
