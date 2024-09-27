@@ -83,8 +83,8 @@ Tentative schedule for upcoming classes:
 -->
 
   * Week of Sep. 30
-    * Monday, Sep. 30: Unit 6 Review
-    * Wednesday, Oct. 2: Integration Bee
+    * Monday, Sep. 30: Integration Bee
+    * Wednesday, Oct. 2: Unit 6 Review
     * Friday, Oct. 4: Work period
   * Week of Oct. 7
     * Monday, Oct. 7: Work period
