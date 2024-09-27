@@ -904,6 +904,7 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 * Mini-maths
   * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3:4_2024_09_13.pdf"> Mini-math for September 13 (6.1-6.3)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3:4_2024_09_13_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3:4_2024_09_27.pdf"> Mini-math for September 27 (6.4-6.14)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3:4_2024_09_27_sol.pdf">Solutions</a>)
 
 <!--
   * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_09_29.pdf"> Mini-math for September 29 (6.5-6.14)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_09_29_sol.pdf">Solutions</a>)
