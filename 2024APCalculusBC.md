@@ -906,7 +906,6 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://vchan2.github.io/2021Calculus/6.9_WS%202%20on%20substitution.pdf">Worksheet 2 on substitution</a>
   * <a href="https://vchan2.github.io/2021Calculus/6.10_WS%20on%20Long%20Division%20and%20Completing%20the%20Square.pdf">Worksheet on long division and completing the square</a>
   * <a href="https://vchan2.github.io/2021Calculus/6.14_practice.pdf">Practice with various integration techniques</a> (<a href="https://vchan2.github.io/2021Calculus/6.14_practice_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2023APCalculusBC/6.14_practice.pdf">6.14 practice</a> (<a href="https://vchan2.github.io/2023APCalculusBC/6.14_practice_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2024APCalculusBC/IntegrationBee2024partial.pdf">Integration Bee</a> (<a href="https://vchan2.github.io/2024APCalculusBC/IntegrationBee2024partial_sol.pdf">Solutions</a>)
 
 <!--
