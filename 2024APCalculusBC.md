@@ -14,8 +14,6 @@ Quick links
 
 ### Updates
 
-Unit 6 test has been postponed until October 16.
-
 <b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in 2403. This class is <b>mandatory</b> for those who scored below 80% on a unit test, but highly encouraged for anyone who is struggling or unsure about any of the material. Otherwise, please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. Please let me know in advance if you intend to come; I will typically come for the first few minutes to see if anyone shows up.
 
 <!--
@@ -80,8 +78,6 @@ Tentative schedule for upcoming classes:
     * Monday, Sep. 23: 6.9-6.11
     * Wednesday, Sep. 25: 6.12-6.14
     * Friday, Sep. 27: Mini-math (6.4-6.14)
--->
-
   * Week of Sep. 30
     * Monday, Sep. 30: Integration Bee
     * Wednesday, Oct. 2: Unit 6 Review
@@ -90,6 +86,8 @@ Tentative schedule for upcoming classes:
     * Monday, Oct. 7: Work period
     * Wednesday, Oct. 9: Work period
     * Friday, Oct. 11: No class
+-->
+
   * Week of Oct. 14
     * Monday, Oct. 14: No class
     * Wednesday, Oct. 16: Unit 6 test
