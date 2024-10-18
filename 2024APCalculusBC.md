@@ -91,9 +91,9 @@ Tentative schedule for upcoming classes:
   * Week of Oct. 14
     * Monday, Oct. 14: No class
     * Wednesday, Oct. 16: Unit 6 test
-    * Friday, Oct. 18: 7.1-7.3
+    * Friday, Oct. 18: 7.1-7.2
   * Week of Oct. 21
-    * Monday, Oct. 21: 7.2-7.4
+    * Monday, Oct. 21: 7.3-7.4
     * Wednesday, Oct. 23: 7.5-7.7
     * Friday, Oct. 25: Mini-math (7.1-7.5)
   * Week of Oct. 28
