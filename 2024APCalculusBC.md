@@ -845,9 +845,10 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://mathisonian.github.io/trig/etymology/"> The etymology of the 6 standard trig functions, complete with animations </a>
   * <a href="https://vchan2.github.io/2021Calculus/Trig_derivatives_proofs.pdf"> Proofs of Trigonometric Derivatives </a>
 
-<!--
 * DE
   * <a href="https://www.geogebra.org/m/W7dAdgqc">Slope field plotter</a>
+
+<!--
 
 * Integration
   * <a href="https://www.desmos.com/calculator/tyqezuilba">8.2 example</a>
@@ -873,9 +874,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://www.desmos.com/calculator/l3bpllxpmb"> Visualization of: Cable to two points</a>
   * <a href="https://www.desmos.com/calculator/stfesdxk3f"> Visualization of: Distance from point to square root graph</a>
 * Concavity
-  * <a href="https://www.desmos.com/calculator/rn3t3zbamk"> Visualization of relationship between a curve's concavity, its tangent line, and the second derivative </a>
+  * <a href="https://www.desmos.com/calculator/rn3t3zbamk"> Visualization of the relationship between a curve's concavity, its tangent line, and the second derivative </a>
 * Trigonometry
-  * <a href="https://mathisonian.github.io/trig/etymology/"> The etymology of the 6 standard trig fuctions, complete with animations </a>
+  * <a href="https://mathisonian.github.io/trig/etymology/"> The etymology of the 6 standard trig functions, complete with animations </a>
 * Differential Equations
   * <a href="https://www.geogebra.org/m/W7dAdgqc"> Slope field plotter </a>
 * <a href="https://calculus.flippedmath.com/list-of-lessons.html"> Notes, videos, and practice problems for all of AP Calculus AB </a>
@@ -906,9 +907,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://vchan2.github.io/2021Calculus/6.14_practice.pdf">Practice with various integration techniques</a> (<a href="https://vchan2.github.io/2021Calculus/6.14_practice_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2024APCalculusBC/IntegrationBee2024partial.pdf">Integration Bee</a> (<a href="https://vchan2.github.io/2024APCalculusBC/IntegrationBee2024partial_sol.pdf">Solutions</a>)
 
-<!--
 * Unit 7
   * <a href="https://vchan2.github.io/2022APCalculusBC/7_Slope_Fields.pdf">Slope Fields practice 1</a> (<a href="https://vchan2.github.io/2022APCalculusBC/7_Slope_Fields_sol.pdf">Solutions</a>)
+<!--
   * <a href="https://vchan2.github.io/2022APCalculusBC/7_Visualizing_Differential_Equations_Slope_Fields_practice.pdf">Slope Fields practice 2</a> (<a href="https://vchan2.github.io/2022APCalculusBC/7_Visualizing_Differential_Equations_Slope_Fields_practice_sol.pdf">Solutions</a>)
 * Unit 8
   * <a href="https://vchan2.github.io/2021Calculus/8_Volumes.pdf">Practice with volumes 1 (specific examples)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes_sol.pdf">Solutions</a>)
