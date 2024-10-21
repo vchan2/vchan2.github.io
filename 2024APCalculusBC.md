@@ -909,8 +909,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 * Unit 7
   * <a href="https://vchan2.github.io/2022APCalculusBC/7_Slope_Fields.pdf">Slope Fields practice 1</a> (<a href="https://vchan2.github.io/2022APCalculusBC/7_Slope_Fields_sol.pdf">Solutions</a>)
-<!--
   * <a href="https://vchan2.github.io/2022APCalculusBC/7_Visualizing_Differential_Equations_Slope_Fields_practice.pdf">Slope Fields practice 2</a> (<a href="https://vchan2.github.io/2022APCalculusBC/7_Visualizing_Differential_Equations_Slope_Fields_practice_sol.pdf">Solutions</a>)
+
+<!--
 * Unit 8
   * <a href="https://vchan2.github.io/2021Calculus/8_Volumes.pdf">Practice with volumes 1 (specific examples)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/8_Volumes2.pdf">Practice with volumes 2 (more general examples)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes2_sol.pdf">Solutions</a>)
