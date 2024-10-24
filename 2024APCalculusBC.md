@@ -1067,8 +1067,12 @@ Assorted:
 
 ### Logistics
 
-* <a href="https://vchan2.github.io/2020Calculus/ap-calculus-course-at-a-glance.pdf"> AP Calculus course at a glance </a>
-* <a href="https://vchan2.github.io/2024APCalculusBC/Div_3-4_AP_Calculus_BC_Course_Outline_2023-24_online.pdf"> Course outline </a>
+* <a href="https://vchan2.github.io/2020Calculus/ap-calculus-course-at-a-glance.pdf">AP Calculus course at a glance</a>
+* <a href="https://vchan2.github.io/2024APCalculusBC/Div_3-4_AP_Calculus_BC_Course_Outline_2023-24_online.pdf">Course outline</a>
+* <a href="https://vchan2.github.io/2024APCalculusBC/AP_Mastery_Policy_2024-2025_Approved.pdf">Renert AP Policy</a>
+
+
+
 
 <!--
 * <a href="https://vchan2.github.io/2020Calculus/ap-calculus-course-at-a-glance.pdf"> AP Calculus course at a glance </a>
