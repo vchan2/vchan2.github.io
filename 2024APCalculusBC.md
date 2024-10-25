@@ -935,10 +935,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 * Mini-maths
   * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_09_13_(6.1-6.3).pdf"> Mini-math for September 13 (6.1-6.3)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_09_13_(6.1-6.3)_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_09_27_(6.4-6.14).pdf"> Mini-math for September 27 (6.4-6.14)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_09_27_(6.4-6.14)_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_10_25_(7.1-7.5).pdf"> Mini-math for October 25 (7.1-7.5)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_10_25_(7.1-7.5)_sol.pdf">Solutions</a>)
 
 <!--
-  * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_09_29.pdf"> Mini-math for September 29 (6.5-6.14)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_09_29_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_10_18_(7.1-7.5).pdf"> Mini-math for October 18 (7.1-7.5)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_10_18_(7.1-7.5)_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_10_23_(7.6-7.9).pdf"> Mini-math for October 23 (7.6-7.9)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3:4_2023_10_23_(7.6-7.9)_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2023_11_20_(8.1-8.6).pdf"> Mini-math for November 20 (8.1-8.6)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2023_11_20_(8.1-8.6)_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2023_12_04_(8.7-8.13).pdf"> Mini-math for December 4 (8.7-8.13)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2023_12_04_(8.7-8.13)_sol.pdf">Solutions</a>)
