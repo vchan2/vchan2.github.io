@@ -638,7 +638,7 @@ NOTE: any material from Units 1 to 5 is also fair game and may be useful/necessa
  (for two students) and <b>Wednesday, November 1</b> in-class (everyone else). 
 -->
 
-Unit 7 test is scheduled for <b>Monday, November 4</b> in-class. You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
+Unit 7 test is scheduled for <b>Wednesday, November 6</b> in-class. You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
   * Model and verify solutions to a differential equation
   * Sketch slope fields
   * Reason with slope fields
