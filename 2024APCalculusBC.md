@@ -97,15 +97,15 @@ Tentative schedule for upcoming classes:
     * Monday, Oct. 21: 7.3-7.4
     * Wednesday, Oct. 23: 7.5-7.7
     * Friday, Oct. 25: Mini-math (7.1-7.5)
--->
-
   * Week of Oct. 28
     * Monday, Oct. 28: 7.8-7.9
     * Wednesday, Oct. 30: Mini-math (7.6-7.9)
     * Friday, Nov. 1: Unit 7 Review
+-->
+
   * Week of Nov. 4
-    * Monday, Nov. 4: Unit 7 test
-    * Wednesday, Nov. 6: Pre-break activities
+    * Monday, Nov. 4: Unit 7 Review
+    * Wednesday, Nov. 6: Unit 7 test
     * Friday, Nov. 8: PTC
   * Week of Nov. 11
     * Monday, Nov. 11: November break
@@ -929,6 +929,8 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 * DE
   * <a href="https://www.geogebra.org/m/W7dAdgqc">Slope field plotter</a>
+  * <a href="https://vchan2.github.io/APCalculus/7.9_Logistic_model_derivation.pdf">Derivation of logistic model formulae</a>
+
 
 <!--
 
