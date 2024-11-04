@@ -896,9 +896,7 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 
 ### Online resources
 
-<!--
-* <a href="https://drive.google.com/drive/folders/1ARG_U0qmO9oJGcThLseyC02MLiFo4Dvg?usp=drive_link">Shared Google drive for AP Calculus BC</a>
--->
+* <a href="https://drive.google.com/drive/folders/1mslINF4F8cKRhuO-1u0ucl0vmPtakK9n?usp=drive_link">Shared Google drive for AP Calculus BC</a>
 
 * <a href="https://docs.google.com/document/d/1Ag_JfeakR__Lp3QTsUHtt_DT6hfYD8P-aB9Xw4bkMW0/edit?usp=sharing">RTC information</a>
 * <a href="https://calculus.flippedmath.com/list-of-lessons.html">Flipped Math - AP Calculus</a>
