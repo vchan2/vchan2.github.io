@@ -101,8 +101,6 @@ Tentative schedule for upcoming classes:
     * Monday, Oct. 28: 7.8-7.9
     * Wednesday, Oct. 30: Mini-math (7.6-7.9)
     * Friday, Nov. 1: Unit 7 Review
--->
-
   * Week of Nov. 4
     * Monday, Nov. 4: Unit 7 Review
     * Wednesday, Nov. 6: Unit 7 test
@@ -111,6 +109,8 @@ Tentative schedule for upcoming classes:
     * Monday, Nov. 11: November break
     * Wednesday, Nov. 13: November break
     * Friday, Nov. 15: November break
+-->
+
   * Week of Nov. 18
     * Monday, Nov. 18: 8.1-8.3
     * Wednesday, Nov. 20: 8.4-8.5
