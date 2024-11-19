@@ -113,8 +113,8 @@ Tentative schedule for upcoming classes:
 
   * Week of Nov. 18
     * Monday, Nov. 18: 8.1-8.3
-    * Wednesday, Nov. 20: 8.4-8.5
-    * Friday, Nov. 22: 8.6
+    * Wednesday, Nov. 20: 8.4-8.6
+    * Friday, Nov. 22: Mini-math (8.1-8.6)
   * Week of Nov. 25
     * Monday, Nov. 25: 8.7-8.8
     * Wednesday, Nov. 27: 8.9-8.12
