@@ -17,7 +17,7 @@ Quick links
 <b>NOTICE:</b> The <a href="https://vchan2.github.io/2024APCalculusBC/AP_Mastery_Policy_2024-2025_Approved.pdf">Renert AP Policy</a> has been finalized. 
 
 
-<b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in 2403. This class is <b>mandatory</b> for those who scored below 80% on a unit test, but highly encouraged for anyone who is struggling or unsure about any of the material. Otherwise, please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. Please let me know in advance if you intend to come; I will typically come for the first few minutes to see if anyone shows up.
+<b>NOTICE:</b> I will be offering "Captivating Calculus" in period 5 on Choice Fridays in 2408. This class is <b>mandatory</b> for those who scored below 80% on a unit test, but highly encouraged for anyone who is struggling or unsure about any of the material. Otherwise, please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. Please let me know in advance if you intend to come; I will typically come for the first few minutes to see if anyone shows up.
 
 <!--
 We start test 8 at 12PM on Wednesday, during lunch, and will continue until 3:15PM. Afterwards, we will spend about 30 minutes going over MCQ. You can mark your own FRQ at home with the answer key.
