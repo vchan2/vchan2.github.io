@@ -634,7 +634,7 @@ Exam weighting: 18.5
 
 NOTE: any material from Units 1 to 5 is also fair game and may be useful/necessary.
 
-<!-->
+<!--
  (for two students) and <b>Wednesday, November 1</b> in-class (everyone else). 
 -->
 
