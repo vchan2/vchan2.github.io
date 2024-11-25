@@ -109,12 +109,12 @@ Tentative schedule for upcoming classes:
     * Monday, Nov. 11: November break
     * Wednesday, Nov. 13: November break
     * Friday, Nov. 15: November break
--->
-
   * Week of Nov. 18
     * Monday, Nov. 18: 8.1-8.3
     * Wednesday, Nov. 20: 8.4-8.6
     * Friday, Nov. 22: Mini-math (8.1-8.6)
+-->
+
   * Week of Nov. 25
     * Monday, Nov. 25: 8.7-8.8
     * Wednesday, Nov. 27: 8.9-8.12
@@ -560,6 +560,7 @@ Unit 5 test is scheduled for <b>Monday, January 17</b> in-class. Unit 5 AP mater
   * (AP) Handle more challenging problems of the types above.
 -->
 
+<!--
 Unit 1-5 test is scheduled for <b>Wednesday, September 11</b> in-class. You should be proficient in all material contained in Units 1-5. More precisely, you should be able to:
   * Compute limits of a function graphically.
   * Compute limits of a composite function graphically.
@@ -613,8 +614,9 @@ Unit 1-5 test is scheduled for <b>Wednesday, September 11</b> in-class. You shou
   * Analyze an implicit function using derivatives and second derivatives 
   * Apply the Mean Value Theorem
   * Determine where a function satisfies the Mean Value Theorem
+-->
 
-
+<!--
 Unit 6 test is scheduled for <b>Wednesday, October 16</b> in-class. There will be a calculator portion and a non-calculator portion. You should be proficient in all material contained in Unit 6. More precisely, you should be able to:
   * Approximate the area under a curve using right and left Riemann sums, midpoint and trapezoidal rules, both with equal and unequal intervals, from a function, graph, or table of values
   * Identify if an area estimate is an overestimate or underestimate
@@ -633,6 +635,8 @@ Unit 6 test is scheduled for <b>Wednesday, October 16</b> in-class. There will b
 Exam weighting: 18.5
 
 NOTE: any material from Units 1 to 5 is also fair game and may be useful/necessary.
+-->
+
 
 <!--
  (for two students) and <b>Wednesday, November 1</b> in-class (everyone else). 
@@ -652,8 +656,7 @@ Exam weighting: 7.5
 NOTE: any material from Units 1 to 6 is also fair game and may be useful/necessary.
 
 
-<!--
-Unit 8 test is scheduled for <b>Wednesday, December 6</b> in-class. You should be proficient in all material contained in Unit 8. More precisely, you should be able to:
+Unit 8 test is scheduled for <b>Monday, December 9</b> in-class. You should be proficient in all material contained in Unit 8. More precisely, you should be able to:
   * Use the formula for the average value of a function to solve problems
   * Connect position, velocity, and acceleration of a function using integrals (includes distance and speed)
   * Use accumulation functions and integrals in applied contexts
@@ -668,7 +671,7 @@ Unit 8 test is scheduled for <b>Wednesday, December 6</b> in-class. You should b
 Exam weighting: 7.5
 
 NOTE: any material from Units 1 to 7 is also fair game and may be useful/necessary.
--->
+
 
 <!--
 Unit 9 test is scheduled for <b>Wednesday, February 24</b> in-class. You should be proficient in all material contained in Unit 9. More precisely, you should be able to:
@@ -930,12 +933,13 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://vchan2.github.io/APCalculus/7.9_Logistic_model_derivation.pdf">Derivation of logistic model formulae</a>
 
 
-<!--
 
 * Integration
   * <a href="https://www.desmos.com/calculator/tyqezuilba">8.2 example</a>
   * <a href="https://www.desmos.com/calculator/q3avtnrgoq">Volume with cross sections</a>
   * <a href="https://www.geogebra.org/classic/XArpgR3A">Volume with cross sections (2nd version)</a>
+
+<!--
 
 * Parametric/Polar
   * <a href="https://www.desmos.com/calculator/h84i8pvwtn">Area common to a rose curve and a circle</a>
@@ -993,22 +997,16 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://vchan2.github.io/APCalculus/7_Slope_Fields.pdf">Slope Fields practice 1</a> (<a href="https://vchan2.github.io/APCalculus/7_Slope_Fields_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/APCalculus/7_Visualizing_Differential_Equations_Slope_Fields_practice.pdf">Slope Fields practice 2</a> (<a href="https://vchan2.github.io/APCalculus/7_Visualizing_Differential_Equations_Slope_Fields_practice_sol.pdf">Solutions</a>)
 
-<!--
 * Unit 8
   * <a href="https://vchan2.github.io/2021Calculus/8_Volumes.pdf">Practice with volumes 1 (specific examples)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/8_Volumes2.pdf">Practice with volumes 2 (more general examples)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes2_sol.pdf">Solutions</a>)
+
+<!--
+
 * Unit 10
   * <a href="https://vchan2.github.io/2023APCalculusBC/SeriesBee2023.pdf">Series Bee</a> (<a href="https://vchan2.github.io/2023APCalculusBC/SeriesBee2023_sol.pdf">Solutions</a>)
 -->
 
-<!--
-  * <a href="https://vchan2.github.io/2022APCalculusBC/6.10prep_Dividing_Polynomials.pdf">6.10 preparation - polynomial division</a> (answers included)
-  * <a href="https://vchan2.github.io/2022APCalculusBC/6.10prep_Completing_the_Square.pdf">6.10 preparation - completing the square</a> (answers included)
-  * <a href="https://vchan2.github.io/2022APCalculusBC/IntegrationBee2022partial.pdf">Integration Bee questions (plus additional problems we didn't get to)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/IntegrationBee2022partial_sol.pdf">Solutions</a>)
-* Unit 8
-  * <a href="https://vchan2.github.io/2022APCalculusBC/8_Volumes.pdf">Volumes practice 1</a> (<a href="https://vchan2.github.io/2022APCalculusBC/8_Volumes_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2022APCalculusBC/8_Volumes2.pdf">Volumes practice 2</a> (<a href="https://vchan2.github.io/2022APCalculusBC/8_Volumes2_sol.pdf">Solutions</a>)
--->
 
 
 * Mini-maths
@@ -1019,11 +1017,11 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_11_22_(8.1-8.6).pdf"> Mini-math for November 22 (8.1-8.6)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_11_22_(8.1-8.6)_sol.pdf">Solutions</a>)
 
 <!--
-  * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2023_12_04_(8.7-8.13).pdf"> Mini-math for December 4 (8.7-8.13)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2023_12_04_(8.7-8.13)_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2024_01_12_(9.1-9.6).pdf"> Mini-math for January 12 (9.1-9.6)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2024_01_12_(9.1-9.6)_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2024_01_12_(9.6-9.9).pdf"> Mini-math for January 19 (9.6-9.9)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2024_01_12_(9.6-9.9)_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2024_02_09_(10.1-10.9).pdf"> Mini-math for February 9 (10.1-10.9)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2024_02_09_(10.1-10.9)_sol.pdf">Solutions</a>)
-  * <a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2024_03_18_(10.10-10.15).pdf"> Mini-math for March 20 (10.10-10.15)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2024_03_18_(10.10-10.15)_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_12_04_(8.7-8.13).pdf"> Mini-math for December 4 (8.7-8.13)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_12_04_(8.7-8.13)_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_01_12_(9.1-9.6).pdf"> Mini-math for January 12 (9.1-9.6)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_01_12_(9.1-9.6)_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_01_12_(9.6-9.9).pdf"> Mini-math for January 19 (9.6-9.9)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_01_12_(9.6-9.9)_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_02_09_(10.1-10.9).pdf"> Mini-math for February 9 (10.1-10.9)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_02_09_(10.1-10.9)_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_03_18_(10.10-10.15).pdf"> Mini-math for March 20 (10.10-10.15)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2025_03_18_(10.10-10.15)_sol.pdf">Solutions</a>)
 -->
 
 
@@ -1085,13 +1083,13 @@ Calculus-based:
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit02_01Continuous_but_not_differentiable.pdf"> Unit 2: Continuous but not differentiable </a> - Does there exist a function which is continuous everywhere but not differentiable infinitely often?
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit02_02Differentiability_for_piecewise.pdf"> Unit 2: Differentiability for piecewise </a> - Prove you can use derivatives from the left and right to determine differentiability for piecewise functions.
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit02_01Continuous_but_not_differentiable.pdf"> Unit 3: Continuous but nowhere differentiable </a> - Does there exist a function which is continuous everywhere but differentiable nowhere?
-
-<!--
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit06_01Integral.pdf"> Unit 6: An integral </a> - Evaluate this integral.
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit06_02Integration_by_parts.pdf"> Unit 6: Integration by parts </a> - Evaluate this integral using integration by parts.
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit06_03Coefficients_in_PFD.pdf"> Unit 6: Coefficients in a partial fraction decomposition </a> - Why are we allowed to use values of x for which the original expression is undefined?
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit06_04An_Improper_Integral.pdf"> Unit 6: An improper integral </a> - Evaluate this improper integral.
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit07_01separation_of_variables_division_by_0.pdf"> Unit 7: division by 0 in separation of variables </a> - Find an example where you have to be more careful about separation of variables
+
+<!--
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit09_bat_curve.pdf"> Unit 9: bat curve </a> - Find a function whose graph matches mine
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_01Challenging_series.pdf"> Unit 10: A Challenging Series </a> - Find the exact value of this non-geometric series
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_02Sparse_harmonic_series.pdf"> Unit 10: Sparse Harmonic Series </a> - Show that if we remove certain terms from the harmonic series, we get convergence
