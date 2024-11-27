@@ -938,6 +938,7 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://www.desmos.com/calculator/tyqezuilba">8.2 example</a>
   * <a href="https://www.desmos.com/calculator/q3avtnrgoq">Volume with cross sections</a>
   * <a href="https://www.geogebra.org/classic/XArpgR3A">Volume with cross sections (2nd version)</a>
+  * <a href="https://www.desmos.com/calculator/0ir4zzke9i">Volumes of revolution</a>
 
 <!--
 
