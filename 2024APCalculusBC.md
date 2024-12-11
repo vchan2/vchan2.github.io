@@ -1113,6 +1113,8 @@ Calculus-based:
 
 Assorted:
 * <a href="https://vincentchan02.wixsite.com/cosmospuzzle">CoSMOS 2020 Challenge</a> 
+* <a href="https://renertmath.github.io/Challenges/12Days2024.html">12 Days of ChrisMATH 2024</a>
+* <a href="https://vchan2.github.io/Challenges/2024-25Winter_Break.pdf">2024-25 Winter Break challenges
 
 
 <!--
