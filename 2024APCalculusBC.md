@@ -117,8 +117,6 @@ Tentative schedule for upcoming classes:
     * Monday, Nov. 25: 8.7-8.8
     * Wednesday, Nov. 27: 8.9-8.12
     * Friday, Nov. 29: Work period
--->
-
   * Week of Dec. 2
     * Monday, Dec. 2: 8.13
     * Wednesday, Dec. 4: Mini-math (8.7-8.13)
@@ -139,6 +137,9 @@ Tentative schedule for upcoming classes:
     * Monday, Dec. 30: Winter break
     * Wednesday, Jan. 1: Winter break
     * Friday, Jan. 3: Winter break
+-->
+
+
   * Week of Jan. 6
     * Monday, Jan. 6: 9.1-9.3 (Social 30 pull-out)
     * Wednesday, Jan. 8: 9.4-9.6
