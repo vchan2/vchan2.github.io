@@ -160,7 +160,7 @@ Tentative schedule for upcoming classes:
     * Wednesday, Feb. 5: 10.6-10.7
     * Friday, Feb. 7: 10.8
   * Week of Feb. 10
-    * Monday, Feb. 10: 10.9, Unit 9 review
+    * Monday, Feb. 10: 10.9, mid-Unit 10 review
     * Wednesday, Feb. 12: Series Bee
     * Friday, Feb. 14: Mini-math (10.1-10.9)
   * Week of Feb. 17
