@@ -137,58 +137,56 @@ Tentative schedule for upcoming classes:
     * Monday, Dec. 30: Winter break
     * Wednesday, Jan. 1: Winter break
     * Friday, Jan. 3: Winter break
--->
-
-
   * Week of Jan. 6
     * Monday, Jan. 6: 9.1-9.3 (Social 30 pull-out)
     * Wednesday, Jan. 8: 9.4-9.6
     * Friday, Jan. 10: Mini-math (9.1-9.6)
+-->
+
   * Week of Jan. 13
-    * Monday, Jan. 13: 9.7-9.8
-    * Wednesday, Jan. 15: Social diploma A - 9.9
-    * Friday, Jan. 17: Mini-math (9.6-9.9)
+    * Monday, Jan. 13: Social 30 pull-out - work period
+    * Wednesday, Jan. 15: Social diploma A - work period
+    * Friday, Jan. 17: 9.7
   * Week of Jan. 20
-    * Monday, Jan. 20: ELA diploma B - Unit 9 review
-    * Wednesday, Jan. 22: Unit 9 test
-    * Friday, Jan. 24: 
+    * Monday, Jan. 20: 9.8-9.9
+    * Wednesday, Jan. 22: Mini-math (9.6-9.9)
+    * Friday, Jan. 24: Unit 9 review
   * Week of Jan. 27
-    * Monday, Jan. 27: 10.1-10.3
-    * Wednesday, Jan. 29: 10.4-10.5
-    * Friday, Jan. 31: 10.6
+    * Monday, Jan. 27: Unit 9 test
+    * Wednesday, Jan. 29: 10.1-10.2
+    * Friday, Jan. 31: 10.3
   * Week of Feb. 3
-    * Monday, Feb. 3: 10.7-10.8
-    * Wednesday, Feb. 5: 10.8-10.9
-    * Friday, Feb. 7: Mini-math (10.1-10.9)
+    * Monday, Feb. 3: 10.4-10.5
+    * Wednesday, Feb. 5: 10.6-10.7
+    * Friday, Feb. 7: 10.8
   * Week of Feb. 10
-    * Monday, Feb. 10: Series Bee
-    * Wednesday, Feb. 12: Unit 10 mid-unit test (10.1-10.9)
-    * Friday, Feb. 14: Pre-break activities
+    * Monday, Feb. 10: 10.9, Unit 9 review
+    * Wednesday, Feb. 12: Series Bee
+    * Friday, Feb. 14: Mini-math (10.1-10.9)
   * Week of Feb. 17
     * Monday, Feb. 17: February break
     * Wednesday, Feb. 19: February break
     * Friday, Feb. 21: February break
   * Week of Feb. 24
-    * Monday, Feb. 24: 10.10
+    * Monday, Feb. 24: Unit 10 mid-unit test (10.1-10.9)
     * Wednesday, Feb. 26: No class - PCF contests
-    * Friday, Feb. 28: 10.11
+    * Friday, Feb. 28: 
   * Week of Mar. 3
-    * Monday, Mar. 3: 10.11-10.12
-    * Wednesday, Mar. 5: 10.13
-    * Friday, Mar. 7: 10.14
+    * Monday, Mar. 3: 10.10
+    * Wednesday, Mar. 5: 10.11
+    * Friday, Mar. 7: 10.12
   * Week of Mar. 10
-    * Monday, Mar. 10: 10.14-10.15
+    * Monday, Mar. 10: 10.13
     * Wednesday, Mar. 12: pi is irrational (tentative)
     * Friday, Mar. 14: pi day
   * Week of Mar. 17
-    * Monday, Mar. 17: Mini-math (10.10-10.15)
-    * Wednesday, Mar. 19: 
-    * Friday, Mar. 21: 
+    * Monday, Mar. 17: 10.14-10.15
+    * Wednesday, Mar. 19: Mini-math (10.10-10.15)
+    * Friday, Mar. 21: Unit 10 review
   * Week of Mar. 24
-    * Monday, Mar. 24: Unit 10 test (Social 30 pull-out)
+    * Monday, Mar. 24: Unit 10 test
     * Wednesday, Mar. 26: 
     * Friday, Mar. 28: Good Friday
-
 
 <!--
   * Week of Sep. 4
