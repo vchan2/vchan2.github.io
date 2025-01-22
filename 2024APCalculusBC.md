@@ -674,9 +674,7 @@ Exam weighting: 7.5
 
 NOTE: any material from Units 1 to 7 is also fair game and may be useful/necessary.
 
-
-<!--
-Unit 9 test is scheduled for <b>Wednesday, February 24</b> in-class. You should be proficient in all material contained in Unit 9. More precisely, you should be able to:
+Unit 9 test is scheduled for <b>Monday, January 27</b> in-class. You should be proficient in all material contained in Unit 9. More precisely, you should be able to:
   * Convert between parametric form and Cartesian form
   * Calculate the first and second derivatives in parametric form
   * Determine where a graph (in parametric or polar) has a horizontal or vertical tangent
@@ -691,7 +689,6 @@ Unit 9 test is scheduled for <b>Wednesday, February 24</b> in-class. You should 
 Exam weighting: 11.5
 
 NOTE: any material from Units 1 to 8 is also fair game and may be useful/necessary.
--->
 
 <!--
 Unit 10 test is tentatively scheduled for <b>Friday, April 7</b> in-class (calculator?) and <b>Monday, April 10</b> in-class (non-calculator?). You should be proficient in all material contained in Unit 10. 
@@ -1021,9 +1018,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_11_22_(8.1-8.6).pdf"> Mini-math for November 22 (8.1-8.6)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_11_22_(8.1-8.6)_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_12_04_(8.7-8.13).pdf"> Mini-math for December 4 (8.7-8.13)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_12_04_(8.7-8.13)_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_01_10_(9.1-9.6).pdf"> Mini-math for January 10 (9.1-9.6)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_01_10_(9.1-9.6)_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_01_22_(9.6-9.9).pdf"> Mini-math for January 22 (9.6-9.9)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_01_22_(9.6-9.9)_sol.pdf">Solutions</a>)
 
 <!--
-  * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_01_12_(9.6-9.9).pdf"> Mini-math for January 19 (9.6-9.9)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_01_12_(9.6-9.9)_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_02_09_(10.1-10.9).pdf"> Mini-math for February 9 (10.1-10.9)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_02_09_(10.1-10.9)_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_03_18_(10.10-10.15).pdf"> Mini-math for March 20 (10.10-10.15)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2025_03_18_(10.10-10.15)_sol.pdf">Solutions</a>)
 -->
