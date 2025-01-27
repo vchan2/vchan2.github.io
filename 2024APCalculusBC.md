@@ -145,12 +145,12 @@ Tentative schedule for upcoming classes:
     * Monday, Jan. 13: Social 30 pull-out - work period
     * Wednesday, Jan. 15: Social diploma A - work period
     * Friday, Jan. 17: 9.7
--->
-
   * Week of Jan. 20
     * Monday, Jan. 20: 9.8-9.9
     * Wednesday, Jan. 22: Mini-math (9.6-9.9)
     * Friday, Jan. 24: Unit 9 review
+-->
+
   * Week of Jan. 27
     * Monday, Jan. 27: Unit 9 test
     * Wednesday, Jan. 29: 10.1-10.2
