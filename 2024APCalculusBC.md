@@ -149,12 +149,12 @@ Tentative schedule for upcoming classes:
     * Monday, Jan. 20: 9.8-9.9
     * Wednesday, Jan. 22: Mini-math (9.6-9.9)
     * Friday, Jan. 24: Unit 9 review
--->
-
   * Week of Jan. 27
     * Monday, Jan. 27: Unit 9 test
     * Wednesday, Jan. 29: 10.1-10.2
     * Friday, Jan. 31: 10.3
+-->
+
   * Week of Feb. 3
     * Monday, Feb. 3: 10.4-10.5
     * Wednesday, Feb. 5: 10.6-10.7
@@ -644,6 +644,7 @@ NOTE: any material from Units 1 to 5 is also fair game and may be useful/necessa
  (for two students) and <b>Wednesday, November 1</b> in-class (everyone else). 
 -->
 
+<!--
 Unit 7 test is scheduled for <b>Wednesday, November 6</b> in-class. You should be proficient in all material contained in Unit 7. More precisely, you should be able to:
   * Model and verify solutions to a differential equation
   * Sketch slope fields
@@ -656,8 +657,9 @@ Unit 7 test is scheduled for <b>Wednesday, November 6</b> in-class. You should b
 Exam weighting: 7.5
 
 NOTE: any material from Units 1 to 6 is also fair game and may be useful/necessary.
+-->
 
-
+<!--
 Unit 8 test is scheduled for <b>Monday, December 9</b> in-class. You should be proficient in all material contained in Unit 8. More precisely, you should be able to:
   * Use the formula for the average value of a function to solve problems
   * Connect position, velocity, and acceleration of a function using integrals (includes distance and speed)
@@ -673,7 +675,9 @@ Unit 8 test is scheduled for <b>Monday, December 9</b> in-class. You should be p
 Exam weighting: 7.5
 
 NOTE: any material from Units 1 to 7 is also fair game and may be useful/necessary.
+-->
 
+<!--
 Unit 9 test is scheduled for <b>Monday, January 27</b> in-class. You should be proficient in all material contained in Unit 9. More precisely, you should be able to:
   * Convert between parametric form and Cartesian form
   * Calculate the first and second derivatives in parametric form
@@ -689,13 +693,13 @@ Unit 9 test is scheduled for <b>Monday, January 27</b> in-class. You should be p
 Exam weighting: 11.5
 
 NOTE: any material from Units 1 to 8 is also fair game and may be useful/necessary.
+-->
 
 <!--
 Unit 10 test is tentatively scheduled for <b>Friday, April 7</b> in-class (calculator?) and <b>Monday, April 10</b> in-class (non-calculator?). You should be proficient in all material contained in Unit 10. 
 -->
 
-<!--
-Unit 10 mid-unit test scheduled for <b>Wednesday, February 14</b> in-class. You should be proficient in all material contained in 10.1 through 10.9. More precisely, you should be able to:
+Unit 10 mid-unit test scheduled for <b>Monday, February 24</b> in-class. You should be proficient in all material contained in 10.1 through 10.9. More precisely, you should be able to:
   * Determine convergence or divergence of a series using:
     * its partial sums (e.g. telescoping series)
     * geometric series (and know the value of the sum if it converges)
@@ -710,7 +714,6 @@ Unit 10 mid-unit test scheduled for <b>Wednesday, February 14</b> in-class. You 
 Exam weighting: 8.75
 
 NOTE: any material from Units 1 to 9 is also fair game and may be useful/necessary.
--->
 
 <!--
 * Identify a series as geometric and determine its convergence as well as its sum if it converges
@@ -1090,12 +1093,12 @@ Calculus-based:
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit06_04An_Improper_Integral.pdf"> Unit 6: An improper integral </a> - Evaluate this improper integral.
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit07_01separation_of_variables_division_by_0.pdf"> Unit 7: division by 0 in separation of variables </a> - Find an example where you have to be more careful about separation of variables
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit09_bat_curve.pdf"> Unit 9: bat curve </a> - Find a function whose graph matches mine
-
-<!--
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_01Challenging_series.pdf"> Unit 10: A Challenging Series </a> - Find the exact value of this non-geometric series
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_02Sparse_harmonic_series.pdf"> Unit 10: Sparse Harmonic Series </a> - Show that if we remove certain terms from the harmonic series, we get convergence
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_03DivergenceTest2.pdf"> Unit 10: Divergence Test II </a> - Prove that even if n times the summands do not converge to 0, then the series divereges
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_04Sum_of_product.pdf"> Unit 10: Sum of Product </a> - Prove that the product of summands from convergent series is convergent
+
+<!--
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_05Rearrangment.pdf"> Unit 10: Rearrangement of conditionally convergent series </a> - Prove that the terms of a conditionally convergent series can be rearranged so that the new series will converge to any given real number
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_06Basel_problem.pdf"> Unit 10: Basel problem </a> - Find the exact value of the sum of the reciprocals of the squares of the positive integers
 * <a href="https://vchan2.github.io/Challenges/Calculus/Unit10_07Eulers_constant.pdf"> Unit 10: Euler's Constant </a> - Explore the harmonic series
