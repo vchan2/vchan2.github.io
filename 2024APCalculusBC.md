@@ -153,12 +153,12 @@ Tentative schedule for upcoming classes:
     * Monday, Jan. 27: Unit 9 test
     * Wednesday, Jan. 29: 10.1-10.2
     * Friday, Jan. 31: 10.3
--->
-
   * Week of Feb. 3
     * Monday, Feb. 3: 10.4-10.5
     * Wednesday, Feb. 5: 10.6-10.7
     * Friday, Feb. 7: 10.8
+-->
+
   * Week of Feb. 10
     * Monday, Feb. 10: 10.9, mid-Unit 10 review
     * Wednesday, Feb. 12: Series Bee
@@ -1003,6 +1003,9 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
 * Unit 8
   * <a href="https://vchan2.github.io/2021Calculus/8_Volumes.pdf">Practice with volumes 1 (specific examples)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2021Calculus/8_Volumes2.pdf">Practice with volumes 2 (more general examples)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes2_sol.pdf">Solutions</a>)
+
+* Unit 10
+  * <a href="https://vchan2.github.io/APCalculus/10.1-10.9_11.7Series.pdf">Some practice testing series (10.1-10.9)</a> (<a href="https://vchan2.github.io/APCalculus/10.1-10.9_11.7Series_sol.pdf">Answers</a>)
 
 
 <!--
