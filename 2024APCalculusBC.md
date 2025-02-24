@@ -157,8 +157,6 @@ Tentative schedule for upcoming classes:
     * Monday, Feb. 3: 10.4-10.5
     * Wednesday, Feb. 5: 10.6-10.7
     * Friday, Feb. 7: 10.8
--->
-
   * Week of Feb. 10
     * Monday, Feb. 10: 10.9, mid-Unit 10 review
     * Wednesday, Feb. 12: Series Bee
@@ -167,6 +165,8 @@ Tentative schedule for upcoming classes:
     * Monday, Feb. 17: February break
     * Wednesday, Feb. 19: February break
     * Friday, Feb. 21: February break
+-->
+
   * Week of Feb. 24
     * Monday, Feb. 24: Unit 10 mid-unit test (10.1-10.9)
     * Wednesday, Feb. 26: No class - PCF contests
