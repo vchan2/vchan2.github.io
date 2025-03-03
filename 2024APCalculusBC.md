@@ -173,7 +173,7 @@ Tentative schedule for upcoming classes:
     * Friday, Feb. 28: 10.10
   * Week of Mar. 3
     * Monday, Mar. 3: 10.11
-    * Wednesday, Mar. 5: 10.12
+    * Wednesday, Mar. 5: 10.12-10.13
     * Friday, Mar. 7: 10.13
   * Week of Mar. 10
     * Monday, Mar. 10: 10.14-10.15
