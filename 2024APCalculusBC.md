@@ -165,8 +165,6 @@ Tentative schedule for upcoming classes:
     * Monday, Feb. 17: February break
     * Wednesday, Feb. 19: February break
     * Friday, Feb. 21: February break
--->
-
   * Week of Feb. 24
     * Monday, Feb. 24: Unit 10 mid-unit test (10.1-10.9)
     * Wednesday, Feb. 26: No class - PCF contests
@@ -175,6 +173,8 @@ Tentative schedule for upcoming classes:
     * Monday, Mar. 3: 10.11
     * Wednesday, Mar. 5: 10.12-10.13
     * Friday, Mar. 7: 10.13
+-->
+
   * Week of Mar. 10
     * Monday, Mar. 10: 10.14-10.15
     * Wednesday, Mar. 12: pi is irrational (tentative)
@@ -184,8 +184,8 @@ Tentative schedule for upcoming classes:
     * Wednesday, Mar. 19: Mini-math (10.10-10.15)
     * Friday, Mar. 21: Unit 10 review
   * Week of Mar. 24
-    * Monday, Mar. 24: Unit 10 test
-    * Wednesday, Mar. 26: 
+    * Monday, Mar. 24: Unit 10 test (Social 30 pull-out)
+    * Wednesday, Mar. 26: Ski day
     * Friday, Mar. 28: Good Friday
 
 <!--
