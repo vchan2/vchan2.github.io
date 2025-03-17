@@ -224,7 +224,7 @@ Tentative schedule for upcoming classes:
     * Wednesday, May. 28: Spare
     * Friday, May. 30: Spare
   * Week of Jun. 2
-    * Monday, Jun. 2: Spare
+    * Monday, Jun. 2: Locked Out?
     * Wednesday, Jun. 4: Spare
     * Friday, Jun. 6: Spare
   * Week of Jun. 9
