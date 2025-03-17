@@ -187,6 +187,20 @@ Tentative schedule for upcoming classes:
     * Monday, Mar. 24: Unit 10 test (Social 30 pull-out)
     * Wednesday, Mar. 26: Ski day
     * Friday, Mar. 28: Good Friday
+  * Week of Mar. 31
+    * Monday, Mar. 31: AP Calculus practice/review (Social 30 pull-out) - Test 3 Part I until 3:45PM
+    * Wednesday, Apr. 2: AP Calculus practice/review - Test 3 Part II Part B
+    * Friday, Apr. 4: AP Calculus practice/review - Test 3 Part II Part A
+    * <b>Saturday, Apr. 5: Test 3 MCQ and FRQ Review</b>
+  * Week of Apr. 7
+    * Monday, Apr. 7: AP Calculus practice/review (Social 30 pull-out) - Test 4 Part I (Part II at home) (until 3:45PM)
+    * Wednesday, Apr. 9: AP Calculus practice/review - Test 5 Part I (Part II at home) and review Test 5 (period 4-6)
+    * Friday, Apr. 11: PTC
+  * Week of Apr. 14
+    * Monday, Apr. 14: Spring break
+    * Wednesday, Apr. 16: Spring break
+    * Friday, Apr. 18: Spring break
+
 
 <!--
   * Week of Sep. 4
