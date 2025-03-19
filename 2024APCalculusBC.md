@@ -14,6 +14,16 @@ Quick links
 
 ### Updates
 
+<b>NOTICE:</b> We have been displaced from our usual room. Now our schedule is a little strange - we'll be in 2307 every Friday as well as the following dates:
+  * Monday, March 24
+  * Wednesday, March 26
+  * Monday, May 5
+  * Wednesday, May 7
+  * Wednesday, May 14
+  * Wednesday, May 28
+  * Monday, June 23
+For the other Mondays and Wednesdays, we will be in 2514/2515.
+
 <b>NOTICE:</b> I will be offering "Calculus help" in period 5 on Choice Fridays in 2407. This class is <b>mandatory</b> for those who scored below 80% on a unit test, but highly encouraged for anyone who is struggling or unsure about any of the material. Otherwise, please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. Please let me know in advance if you intend to come; I will typically come for the first few minutes to see if anyone shows up.
 
 As I mentioned in class earlier this year, the AP exam will be hybrid - meaning the MCQ will be done online, and the FRQ will be viewed online (while the responses are still on paper). When I say online, I mean you will be using Bluebook to access everything. There are test previews available on Bluebook as of today, so I encourage you to <a href="https://bluebook.app.collegeboard.org/?SFMC_cid=EM1351079-">download Bluebook</a> on your own (Windows) device to familiarize yourself with the system. For the actual test, you will not need your devices as Bluebook will be loaded onto secure devices for your use. <b>Please note you will also need your CollegeBoard login information to access the app for the exam.</b>
@@ -1078,6 +1088,7 @@ I will not be answering questions regarding Chapter 1 starting Monday, September
   * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_01_10_(9.1-9.6).pdf"> Mini-math for January 10 (9.1-9.6)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_01_10_(9.1-9.6)_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_01_22_(9.6-9.9).pdf"> Mini-math for January 22 (9.6-9.9)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_01_22_(9.6-9.9)_sol.pdf">Solutions</a>)
   * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_02_14_(10.1-10.9).pdf"> Mini-math for February 14 (10.1-10.9)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_02_14_(10.1-10.9)_sol.pdf">Solutions</a>)
+  * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_03_19_(10.10-10.15).pdf"> Mini-math for March 19 (10.10-10.15)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_03_19_(10.10-10.15)_sol.pdf">Solutions</a>)
 
 <!--
   * <a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_03_18_(10.10-10.15).pdf"> Mini-math for March 20 (10.10-10.15)</a> (<a href="https://vchan2.github.io/2023APCalculusBC/mm/Mini-math_Div3_4_2025_03_18_(10.10-10.15)_sol.pdf">Solutions</a>)
