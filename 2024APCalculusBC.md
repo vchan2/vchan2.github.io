@@ -763,6 +763,7 @@ NOTE: any material from Units 1 to 8 is also fair game and may be useful/necessa
 Unit 10 test is tentatively scheduled for <b>Friday, April 7</b> in-class (calculator?) and <b>Monday, April 10</b> in-class (non-calculator?). You should be proficient in all material contained in Unit 10. 
 -->
 
+<!--
 Unit 10 mid-unit test scheduled for <b>Monday, February 24</b> in-class. You should be proficient in all material contained in 10.1 through 10.9. More precisely, you should be able to:
   * Determine convergence or divergence of a series using:
     * its partial sums (e.g. telescoping series)
@@ -778,6 +779,7 @@ Unit 10 mid-unit test scheduled for <b>Monday, February 24</b> in-class. You sho
 Exam weighting: 8.75
 
 NOTE: any material from Units 1 to 9 is also fair game and may be useful/necessary.
+-->
 
 <!--
 * Identify a series as geometric and determine its convergence as well as its sum if it converges
@@ -786,8 +788,7 @@ NOTE: any material from Units 1 to 9 is also fair game and may be useful/necessa
   * 
 -->
 
-<!--
-Unit 10 final unit test scheduled for <b>Monday, April 10</b> in-class. You should be proficient in all material contained in Unit 10, though the majority of questions will focus on 10.10-10.15. More precisely, you should be able to:
+Unit 10 final unit test scheduled for <b>Monday, March 24</b> in-class. You should be proficient in all material contained in Unit 10, though the majority of questions will focus on 10.10-10.15. More precisely, you should be able to:
   * Determine convergence or divergence of a series using:
     * its partial sums
     * geometric series (and know the value of the sum if it converges)
@@ -806,8 +807,7 @@ Unit 10 final unit test scheduled for <b>Monday, April 10</b> in-class. You shou
 
 Exam weighting: 17.5
 
-NOTE: any material from Units 1 to 9 is also fair game and may be useful/necessary.
--->
+NOTE: any material from Units 1 to 9 as well as 10.1-10.9 is also fair game and may be useful/necessary.
 
 Final exam information: 8:00AM, Monday, May 12, 5th floor
 <img src="https://vchan2.github.io/2021Calculus/Exam_info.png">
