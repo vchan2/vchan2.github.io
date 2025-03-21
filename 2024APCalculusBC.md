@@ -14,7 +14,6 @@ Quick links
 
 ### Updates
 
-<b>NOTICE:</b> Room change just for Friday, March 21: we will be in 2409/2410. 
 
 <b>NOTICE:</b> We have been displaced from our usual room. Now our schedule is a little strange - we'll be in 2307 every Friday as well as the following dates:
   * Monday, March 24
