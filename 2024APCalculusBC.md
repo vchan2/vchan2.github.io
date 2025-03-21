@@ -192,47 +192,47 @@ Tentative schedule for upcoming classes:
 -->
 
   * Week of Mar. 17
-    * Monday, Mar. 17: 10.15, Unit 10 review
-    * Wednesday, Mar. 19: Mini-math (10.10-10.15)
-    * Friday, Mar. 21: Unit 10 review
+    * Monday, Mar. 17: Unit 10 review
+    * Wednesday, Mar. 19: Mini-math (10.10-10.15) (2514/2515)
+    * Friday, Mar. 21: Unit 10 review (2409/2410)
   * Week of Mar. 24
-    * Monday, Mar. 24: Unit 10 test (Social 30 pull-out)
-    * Wednesday, Mar. 26: Ski day
+    * Monday, Mar. 24: Unit 10 test (Social 30 pull-out) (2307)
+    * Wednesday, Mar. 26: ski day
     * Friday, Mar. 28: Good Friday
   * Week of Mar. 31
-    * Monday, Mar. 31: AP Calculus practice/review (Social 30 pull-out) - Test 3 Part I until 3:45PM
-    * Wednesday, Apr. 2: AP Calculus practice/review - Test 3 Part II Part B
-    * Friday, Apr. 4: AP Calculus practice/review - Test 3 Part II Part A
+    * Monday, Mar. 31: AP Calculus practice/review (Social 30 pull-out) - Test 3 Part I until 3:45PM (2514/2515)
+    * Wednesday, Apr. 2: AP Calculus practice/review - Test 3 Part II Part B (2514/2515)
+    * Friday, Apr. 4: AP Calculus practice/review - Test 3 Part II Part A (2307)
   * Week of Apr. 7
-    * Monday, Apr. 7: AP Calculus practice/review (Social 30 pull-out) - Test 4 Part I (Part II at home) (until 3:45PM)
-    * Wednesday, Apr. 9: Test 4 MCQ Review
+    * Monday, Apr. 7: AP Calculus practice/review (Social 30 pull-out) - Test 4 Part I (Part II at home) (until 3:45PM) (2514/2515)
+    * Wednesday, Apr. 9: Test 4 MCQ Review (2514/2515)
     * Friday, Apr. 11: PTC
   * Week of Apr. 14
     * Monday, Apr. 14: Spring break
     * Wednesday, Apr. 16: Spring break
     * Friday, Apr. 18: Spring break
   * Week of Apr. 21
-    * Monday, Apr. 21: AP Calculus practice/review - Test 5 Part I (Part II at home) (until 3:45PM)
-    * Wednesday, Apr. 23: AP Calculus practice/review - Test 6 Part I (Part II at home) until 3:45PM
-    * Friday, Apr. 25: AP Calculus practice/review - Review Test 5 and 6, any FRQ
+    * Monday, Apr. 21: AP Calculus practice/review - Test 5 Part I (Part II at home) and test 5 MCQ review (until 4:30PM) (2514/2515)
+    * Wednesday, Apr. 23: AP Calculus practice/review - Test 5 MCQ mini-review, Test 6 Part I Part A (Part II at home) (2514/2515)
+    * Friday, Apr. 25: AP Calculus practice/review - Test 6 Part I Part B (Part II at home) (2307)
   * Week of Apr. 28
-    * Monday, Apr. 28: AP Calculus practice/review - Test 7 Part I (Part II at home) until 3:45PM
-    * Wednesday, Apr. 30: AP Calculus FRQ practice/review - Review Test 7, any FRQ
-    * Friday, May. 2: AP Calculus practice/review
+    * Monday, Apr. 28: AP Calculus practice/review - Test 7 Part I (Part II at home) until 3:45PM (2514/2515)
+    * Wednesday, Apr. 30: AP Calculus FRQ practice/review - Review Test 7, any FRQ (2514/2515)
+    * Friday, May. 2: AP Calculus practice/review (2307)
   * Week of May. 5
-    * Monday, May. 5: (AP Chem pull-out?) AP Calculus practice/review (full mock?)
-    * Wednesday, May. 7: AP Calculus practice/review - Test 8 FULL MOCK 12:00PM-3:15PM, test review 3:15PM-3:45PM
-    * Friday, May. 9: AP Calculus FRQ practice/review
+    * Monday, May. 5: AP Chem pull-out? AP Calculus practice/review (full mock?) (2307)
+    * Wednesday, May. 7: AP Calculus practice/review - Test 8 FULL MOCK 12:00PM-3:15PM, test review 3:15PM-3:45PM (2307)
+    * Friday, May. 9: AP Calculus FRQ practice/review (2307)
   * Week of May. 12
     * Monday, May. 12: AP test, spare during class
     * Wednesday, May. 14: Celebration! (with Mr. Merrick)
     * Friday, May. 16: Victoria Day weekend
   * Week of May. 19
     * Monday, May. 19: Victoria Day weekend
-    * Wednesday, May. 21: Approximate integration and numerical methods
+    * Wednesday, May. 21: Approximate integration and numerical methods (2514/2515)
     * Friday, May. 23: Spare
   * Week of May. 26
-    * Monday, May. 26: Trigonometric integrals
+    * Monday, May. 26: Trigonometric integrals (2514/2515)
     * Wednesday, May. 28: Spare
     * Friday, May. 30: Spare
   * Week of Jun. 2
@@ -240,16 +240,16 @@ Tentative schedule for upcoming classes:
     * Wednesday, Jun. 4: Spare
     * Friday, Jun. 6: Spare
   * Week of Jun. 9
-    * Monday, Jun. 9: Inverse trig substitution
-    * Wednesday, Jun. 11: Surface area of revolution and Gabriel's horn
+    * Monday, Jun. 9: Inverse trig substitution (2514/2515)
+    * Wednesday, Jun. 11: Surface area of revolution and Gabriel's horn (2514/2515)
     * Friday, Jun. 13: Spare
   * Week of Jun. 16
-    * Monday, Jun. 16: Newton's Law of Cooling and forensics
-    * Wednesday, Jun. 18: MasterChef Calculus
+    * Monday, Jun. 16: Newton's Law of Cooling and Forensics (2514/2515)
+    * Wednesday, Jun. 18: Spare
     * Friday, Jun. 20: Spare
   * Week of Jun. 23
-    * Monday, Jun. 23: Spare
-    * Wednesday, Jun. 25: Last class activities
+    * Monday, Jun. 23: MasterChef Calculus (2307)
+    * Wednesday, Jun. 25: Last class activities (2514/2515)
 
 
 <!--
