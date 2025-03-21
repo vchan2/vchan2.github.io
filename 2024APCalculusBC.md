@@ -189,12 +189,12 @@ Tentative schedule for upcoming classes:
     * Monday, Mar. 10: 10.14-10.15
     * Wednesday, Mar. 12: pi is irrational (tentative)
     * Friday, Mar. 14: pi day
--->
-
   * Week of Mar. 17
     * Monday, Mar. 17: Unit 10 review
     * Wednesday, Mar. 19: Mini-math (10.10-10.15) (2514/2515)
     * Friday, Mar. 21: Unit 10 review (2409/2410)
+-->
+
   * Week of Mar. 24
     * Monday, Mar. 24: Unit 10 test (Social 30 pull-out) (2307)
     * Wednesday, Mar. 26: ski day
@@ -203,6 +203,7 @@ Tentative schedule for upcoming classes:
     * Monday, Mar. 31: AP Calculus practice/review (Social 30 pull-out) - Test 3 Part I until 3:45PM (2514/2515)
     * Wednesday, Apr. 2: AP Calculus practice/review - Test 3 Part II Part B (2514/2515)
     * Friday, Apr. 4: AP Calculus practice/review - Test 3 Part II Part A (2307)
+    * Saturday, Apr. 5: Test 3 MCQ and FRQ Review (9AM-12PM) (on zoom)
   * Week of Apr. 7
     * Monday, Apr. 7: AP Calculus practice/review (Social 30 pull-out) - Test 4 Part I (Part II at home) (until 3:45PM) (2514/2515)
     * Wednesday, Apr. 9: Test 4 MCQ Review (2514/2515)
@@ -236,15 +237,15 @@ Tentative schedule for upcoming classes:
     * Wednesday, May. 28: Spare
     * Friday, May. 30: Spare
   * Week of Jun. 2
-    * Monday, Jun. 2: Locked Out?
+    * Monday, Jun. 2: Inverse trig substitution (2514/2515)
     * Wednesday, Jun. 4: Spare
     * Friday, Jun. 6: Spare
   * Week of Jun. 9
-    * Monday, Jun. 9: Inverse trig substitution (2514/2515)
-    * Wednesday, Jun. 11: Surface area of revolution and Gabriel's horn (2514/2515)
+    * Monday, Jun. 9: Surface area of revolution and Gabriel's horn (2514/2515)
+    * Wednesday, Jun. 11:  (2514/2515)
     * Friday, Jun. 13: Spare
   * Week of Jun. 16
-    * Monday, Jun. 16: Newton's Law of Cooling and Forensics (2514/2515)
+    * Monday, Jun. 16: Newton's Law of Cooling and forensics (2514/2515)
     * Wednesday, Jun. 18: Spare
     * Friday, Jun. 20: Spare
   * Week of Jun. 23
