@@ -3,8 +3,8 @@ Quick links
 
   * [Updates](#updates)
   * [Schedule](#schedule)
-  * [Exams](#exams)
   * [Homework](#homework)
+  * [Exams](#exams)
   * [Online resources](#online-resources)
   * [Practice problems](#practice-problems)
   * [Challenges](#challenges)
