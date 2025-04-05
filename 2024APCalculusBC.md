@@ -206,7 +206,7 @@ Tentative schedule for upcoming classes:
 
   * Week of Apr. 7
     * Monday, Apr. 7: AP Calculus practice/review (Social 30 pull-out) - Test 4 Part I (Part II at home) (until 3:45PM) (2514/2515)
-    * Tuesday, Apr. 8: Test 4 MCQ Review (3:45-5:30PM)
+    * Tuesday, Apr. 8: Test 4 MCQ Review (3:45-5:30PM) (2303)
     * Wednesday, Apr. 9: CoSMOS (no class)
     * Friday, Apr. 11: PTC
   * Week of Apr. 14
