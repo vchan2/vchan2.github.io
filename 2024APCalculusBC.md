@@ -16,8 +16,6 @@ Quick links
 
 
 <b>NOTICE:</b> We have been displaced from our usual room. Now our schedule is a little strange - we'll be in 2307 every Friday as well as the following dates:
-  * Monday, March 24
-  * Wednesday, March 26
   * Monday, May 5
   * Wednesday, May 7
   * Wednesday, May 14
@@ -224,6 +222,7 @@ Tentative schedule for upcoming classes:
     * Friday, May. 2: AP Calculus practice/review (2307)
   * Week of May. 5
     * Monday, May. 5: AP Chem pull-out? AP Calculus practice/review (full mock?) (2307)
+    * Tuesday, May. 6: Test 8 FULL MOCK 11:45AM-3:20PM
     * Wednesday, May. 7: AP Calculus practice/review - Test 8 FULL MOCK 12:00PM-3:15PM, test review 3:15PM-3:45PM (2307)
     * Friday, May. 9: AP Calculus FRQ practice/review (2307)
   * Week of May. 12
