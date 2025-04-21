@@ -202,8 +202,6 @@ Tentative schedule for upcoming classes:
     * Wednesday, Apr. 2: AP Calculus practice/review - Test 3 Part II Part B (2514/2515)
     * Friday, Apr. 4: Test 3 FRQ Review (2307)
     * Saturday, Apr. 5: Test 3 MCQ and FRQ Review (9AM-11PM) (on zoom)
--->
-
   * Week of Apr. 7
     * Monday, Apr. 7: AP Calculus practice/review (Social 30 pull-out) - Test 4 Part I (Part II at home) (until 3:45PM) (2514/2515)
     * Tuesday, Apr. 8: Test 4 MCQ Review (3:45-5:30PM) (2303)
@@ -213,8 +211,11 @@ Tentative schedule for upcoming classes:
     * Monday, Apr. 14: Spring break
     * Wednesday, Apr. 16: Spring break
     * Friday, Apr. 18: Spring break
+-->
+
   * Week of Apr. 21
     * Monday, Apr. 21: AP Calculus practice/review - Test 5 Part I (Part II at home) and test 5 MCQ review (until 4:30PM) (2514/2515)
+    * Tuesday, Apr. 22: Test 5 MCQ Review (3:45-5:30PM) (2303)
     * Wednesday, Apr. 23: AP Calculus practice/review - Test 5 MCQ mini-review, Test 6 Part I Part A (Part II at home) (2514/2515)
     * Friday, Apr. 25: AP Calculus practice/review - Test 6 Part I Part B (Part II at home) (2307)
   * Week of Apr. 28
