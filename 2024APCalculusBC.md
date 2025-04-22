@@ -221,9 +221,8 @@ Tentative schedule for upcoming classes:
     * Wednesday, Apr. 30: AP Calculus FRQ practice/review - Review Test 7, any FRQ (2514/2515)
     * Friday, May. 2: AP Calculus practice/review (2307)
   * Week of May. 5
-    * Monday, May. 5: AP Chem pull-out? AP Calculus practice/review (full mock?) (2307)
-    * Tuesday, May. 6: Test 8 FULL MOCK 11:45AM-3:20PM
-    * Wednesday, May. 7: AP Calculus practice/review - Test 8 FULL MOCK 12:00PM-3:15PM, test review 3:15PM-3:45PM (2307)
+    * Monday, May. 5: AP Calculus practice/review - Test 8 FULL MOCK 12:15PM-3:30PM (2307)
+    * Wednesday, May. 7: AP Calculus practice/review - Review Test 8 (2307)
     * Friday, May. 9: AP Calculus FRQ practice/review (2307)
   * Week of May. 12
     * Monday, May. 12: AP test, spare during class
