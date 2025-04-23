@@ -214,10 +214,10 @@ Tentative schedule for upcoming classes:
   * Week of Apr. 21
     * Monday, Apr. 21: AP Calculus practice/review - Test 5 Part I (Part II at home) and test 5 MCQ review (until 4:30PM) (2514/2515)
     * Tuesday, Apr. 22: Test 5 MCQ Review (3:45-5:30PM) (2303)
-    * Wednesday, Apr. 23: AP Calculus practice/review - Test 5 MCQ mini-review, Test 6 Part I Part A (Part II at home) (2514/2515)
+    * Wednesday, Apr. 23: AP Calculus practice/review - Test 6 Part I Part A (Part II at home) (2514/2515)
     * Friday, Apr. 25: AP Calculus practice/review - Test 6 Part I Part B (Part II at home) (2307)
   * Week of Apr. 28
-    * Monday, Apr. 28: AP Calculus practice/review - Test 7 Part I (Part II at home) until 3:45PM (2514/2515)
+    * Monday, Apr. 28: AP Calculus practice/review - Review Test 6, Test 7 Part I (Part II at home) until 4:30PM (2514/2515)
     * Wednesday, Apr. 30: AP Calculus FRQ practice/review - Review Test 7, any FRQ (2514/2515)
     * Friday, May. 2: AP Calculus practice/review (2307)
   * Week of May. 5
