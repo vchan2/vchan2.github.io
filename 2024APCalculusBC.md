@@ -14,6 +14,8 @@ Quick links
 
 ### Updates
 
+I have added another full practice test to AP Classroom. It is split into 4 parts, each timed - when you start, the timer will start, and the assignment will end when you run out of time. Thus, make sure you are ready to write the test when you begin.
+
 
 <b>NOTICE:</b> We have been displaced from our usual room. Now our schedule is a little strange - we'll be in 2307 every Friday as well as the following dates:
   * Monday, May 5
