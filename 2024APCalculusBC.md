@@ -231,7 +231,7 @@ Tentative schedule for upcoming classes:
     * Friday, May. 9: AP Calculus FRQ practice/review (2307)
   * Week of May. 12
     * Monday, May. 12: AP test, spare during class
-    * Wednesday, May. 14: Celebration! (with Mr. Merrick)
+    * Wednesday, May. 14: Celebration! (with Mr. Merrick, 2307)
     * Friday, May. 16: Victoria Day weekend
   * Week of May. 19
     * Monday, May. 19: Victoria Day weekend
