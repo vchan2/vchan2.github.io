@@ -223,8 +223,6 @@ Tentative schedule for upcoming classes:
     * Monday, Apr. 28: AP Calculus practice/review - Review Test 6, Test 7 Part I Part A (Part II at home) until 4:30PM (2514/2515)
     * Wednesday, Apr. 30: AP Calculus FRQ practice/review - Test 7 Part I Part B, Review Test 7 (2514/2515)
     * Friday, May. 2: AP Calculus practice/review - Review Test 7 (2307)
--->
-
   * Week of May. 5
     * Monday, May. 5: AP Calculus practice/review - Test 8 FULL MOCK 12:15PM-3:30PM (2403/2404)
     * Wednesday, May. 7: AP Calculus practice/review - Review Test 8 (2307)
@@ -233,6 +231,8 @@ Tentative schedule for upcoming classes:
     * Monday, May. 12: AP test, spare during class
     * Wednesday, May. 14: Celebration! (with Mr. Merrick, 2307)
     * Friday, May. 16: Victoria Day weekend
+-->
+
   * Week of May. 19
     * Monday, May. 19: Victoria Day weekend
     * Wednesday, May. 21: Approximate integration and numerical methods (2514/2515)
