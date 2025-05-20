@@ -14,16 +14,11 @@ Quick links
 
 ### Updates
 
-Full mock test on Monday, May 5, in 2403/2404 (our old room). Bring your calculator (and laptop if you want to use Desmos).
 
-
-I have added another full practice test to AP Classroom. It is split into 4 parts, each timed - when you start, the timer will start, and the assignment will end when you run out of time. Thus, make sure you are ready to write the test when you begin.
 
 
 <b>NOTICE:</b> We have been displaced from our usual room. Now our schedule is a little strange - we'll be in 2307 every Friday as well as the following dates:
-  * Monday, May 5
-  * Wednesday, May 7
-  * Wednesday, May 14
+  * Wednesday, May 21
   * Wednesday, May 28
   * Monday, June 23
 
@@ -235,7 +230,7 @@ Tentative schedule for upcoming classes:
 
   * Week of May. 19
     * Monday, May. 19: Victoria Day weekend
-    * Wednesday, May. 21: Approximate integration and numerical methods (2514/2515)
+    * Wednesday, May. 21: Approximate integration and numerical methods (2307)
     * Friday, May. 23: Spare
   * Week of May. 26
     * Monday, May. 26: Trigonometric integrals (2514/2515)
