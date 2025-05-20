@@ -24,7 +24,9 @@ Quick links
 
 For the other Mondays and Wednesdays, we will be in 2514/2515.
 
+<!--
 <b>NOTICE:</b> I will be offering "Calculus help" in period 5 on Choice Fridays in 2407. This class is <b>mandatory</b> for those who scored below 80% on a unit test, but highly encouraged for anyone who is struggling or unsure about any of the material. Otherwise, please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. Please let me know in advance if you intend to come; I will typically come for the first few minutes to see if anyone shows up.
+-->
 
 As I mentioned in class earlier this year, the AP exam will be hybrid - meaning the MCQ will be done online, and the FRQ will be viewed online (while the responses are still on paper). When I say online, I mean you will be using Bluebook to access everything. There are test previews available on Bluebook as of today, so I encourage you to <a href="https://bluebook.app.collegeboard.org/?SFMC_cid=EM1351079-">download Bluebook</a> on your own (Windows) device to familiarize yourself with the system. For the actual test, you will not need your devices as Bluebook will be loaded onto secure devices for your use. <b>Please note you will also need your CollegeBoard login information to access the app for the exam.</b>
 
