@@ -247,14 +247,14 @@ Tentative schedule for upcoming classes:
     * Friday, Jun. 6: Spare
   * Week of Jun. 9
     * Monday, Jun. 9: Surface area of revolution and Gabriel's horn (2514/2515)
-    * Wednesday, Jun. 11:  (2514/2515)
+    * Wednesday, Jun. 11: Spare
     * Friday, Jun. 13: Spare
   * Week of Jun. 16
-    * Monday, Jun. 16: Newton's Law of Cooling and forensics (2514/2515)
+    * Monday, Jun. 16: MasterChef Calculus (2514/2515)
     * Wednesday, Jun. 18: Spare
     * Friday, Jun. 20: Spare
   * Week of Jun. 23
-    * Monday, Jun. 23: MasterChef Calculus (2307)
+    * Monday, Jun. 23: Newton's Law of Cooling and forensics (2307)
     * Wednesday, Jun. 25: Last class activities (2514/2515)
 
 
