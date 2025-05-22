@@ -228,12 +228,12 @@ Tentative schedule for upcoming classes:
     * Monday, May. 12: AP test, spare during class
     * Wednesday, May. 14: Celebration! (with Mr. Merrick, 2307)
     * Friday, May. 16: Victoria Day weekend
--->
-
   * Week of May. 19
     * Monday, May. 19: Victoria Day weekend
     * Wednesday, May. 21: Approximate integration and numerical methods (2307)
     * Friday, May. 23: Spare
+-->
+
   * Week of May. 26
     * Monday, May. 26: Trigonometric integrals (2514/2515)
     * Wednesday, May. 28: Spare
@@ -244,15 +244,15 @@ Tentative schedule for upcoming classes:
     * Friday, Jun. 6: Spare
   * Week of Jun. 9
     * Monday, Jun. 9: Surface area of revolution and Gabriel's horn (2514/2515)
-    * Wednesday, Jun. 11: Spare
+    * Wednesday, Jun. 11: Newton's Law of Cooling and forensics (2514/2515)
     * Friday, Jun. 13: Spare
   * Week of Jun. 16
     * Monday, Jun. 16: MasterChef Calculus (2514/2515)
     * Wednesday, Jun. 18: Spare
     * Friday, Jun. 20: Spare
   * Week of Jun. 23
-    * Monday, Jun. 23: Newton's Law of Cooling and forensics (2307)
-    * Wednesday, Jun. 25: Last class activities (2514/2515)
+    * Monday, Jun. 23: Last class activities (2307)
+    * Wednesday, Jun. 25: No class (half-day)
 
 
 <!--
