@@ -18,7 +18,6 @@ Quick links
 
 
 <b>NOTICE:</b> We have been displaced from our usual room. Now our schedule is a little strange - we'll be in 2307 every Friday as well as the following dates:
-  * Wednesday, May 21
   * Wednesday, May 28
   * Monday, June 23
 
@@ -236,15 +235,15 @@ Tentative schedule for upcoming classes:
 
   * Week of May. 26
     * Monday, May. 26: Trigonometric integrals (2514/2515)
-    * Wednesday, May. 28: Spare
+    * Wednesday, May. 28: Inverse trig substitution(2307)
     * Friday, May. 30: Spare
   * Week of Jun. 2
-    * Monday, Jun. 2: Inverse trig substitution (2514/2515)
+    * Monday, Jun. 2: Surface area of revolution and Gabriel's horn (2514/2515)
     * Wednesday, Jun. 4: Spare
     * Friday, Jun. 6: Spare
   * Week of Jun. 9
-    * Monday, Jun. 9: Surface area of revolution and Gabriel's horn (2514/2515)
-    * Wednesday, Jun. 11: Newton's Law of Cooling and forensics (2514/2515)
+    * Monday, Jun. 9: Newton's Law of Cooling and forensics (2514/2515)
+    * Wednesday, Jun. 11: Spare
     * Friday, Jun. 13: Spare
   * Week of Jun. 16
     * Monday, Jun. 16: MasterChef Calculus (2514/2515)
