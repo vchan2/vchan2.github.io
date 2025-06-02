@@ -14,7 +14,7 @@ Quick links
 
 ### Updates
 
-
+<b>NOTICE:</b> We've been kicked out of mountainview today (Monday, June 2) - go to 2307 instead. 
 
 
 <b>NOTICE:</b> We have been displaced from our usual room. Now our schedule is a little strange - we'll be in 2307 every Friday as well as the following dates:
