@@ -14,11 +14,6 @@ Quick links
 
 ### Updates
 
-<b>NOTICE:</b> We have been displaced from our usual room. Now our schedule is a little strange - we'll be in 2307 every Friday as well as the following dates:
-  * Monday, June 23
-
-For the other Mondays and Wednesdays, we will be in 2514/2515.
-
 <!--
 <b>NOTICE:</b> I will be offering "Calculus help" in period 5 on Choice Fridays in 2407. This class is <b>mandatory</b> for those who scored below 80% on a unit test, but highly encouraged for anyone who is struggling or unsure about any of the material. Otherwise, please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. Please let me know in advance if you intend to come; I will typically come for the first few minutes to see if anyone shows up.
 -->
@@ -240,189 +235,15 @@ Tentative schedule for upcoming classes:
 
   * Week of Jun. 9
     * Monday, Jun. 9: Newton's Law of Cooling and forensics (2514/2515)
-    * Wednesday, Jun. 11: Spare
+    * Wednesday, Jun. 11: Spare (Unit 10 re-write in 2307)
     * Friday, Jun. 13: Spare
   * Week of Jun. 16
-    * Monday, Jun. 16: MasterChef Calculus (2514/2515)
+    * Monday, Jun. 16: MasterChef Calculus (2307)
     * Wednesday, Jun. 18: Spare
     * Friday, Jun. 20: Spare
   * Week of Jun. 23
     * Monday, Jun. 23: Last class activities (2307)
     * Wednesday, Jun. 25: No class (half-day)
-
-
-<!--
-  * Week of Sep. 4
-    * Wednesday, Sep. 6: First day activities, 6.1
-    * Friday, Sep. 8: BLOCK WEEK
-  * Week of Sep. 11
-    * Monday, Sep. 11: Unit 1-5 test
-    * Wednesday, Sep. 13: 6.2-6.4
-    * Friday, Sep. 15: Mini-math (6.1-6.5)
-  * Week of Sep. 18
-    * Monday, Sep. 18: 6.5-6.8
-    * Wednesday, Sep. 20: 6.9-6.10
-    * Friday, Sep. 22: Terry Fox Run
-  * Week of Sep. 25
-    * Monday, Sep. 25: 6.11-6.12
-    * Wednesday, Sep. 27: 6.13-6.14
-    * Friday, Sep. 29: Mini-math (6.5-6.14)
-  * Week of Oct. 2
-    * Monday, Oct. 2: Integration Bee
-    * Wednesday, Oct. 4: Unit 6 test
-    * Friday, Oct. 6: Org Day
-  * Week of Oct. 9
-    * Monday, Oct. 9: Thanksgiving
-    * Wednesday, Oct. 11: 7.1-7.3
-    * Friday, Oct. 13: 7.3-7.4
-  * Week of Oct. 16
-    * Monday, Oct. 16: 7.5-7.7
-    * Wednesday, Oct. 18: Mini-math (7.1-7.5), 7.8-7.9
-    * Friday, Oct. 20: 7.9
-  * Week of Oct. 23
-    * Monday, Oct. 23: Mini-math (7.6-7.9)
-    * Wednesday, Oct. 25: Unit 7 test (for some students)
-    * Friday, Oct. 27: 8.1
-  * Week of Oct. 30
-    * Monday, Oct. 30: Unit 7 test
-    * Wednesday, Nov. 1: Pre-break activities
-    * Friday, Nov. 3: PTC
-  * Week of Nov. 6
-    * Monday, Nov. 6: November break
-    * Wednesday, Nov. 8: November break
-    * Friday, Nov. 10: November break
-  * Week of Nov. 13
-    * Monday, Nov. 13: 8.1-8.3
-    * Wednesday, Nov. 15: 8.4, 8.6
-    * Friday, Nov. 17: 8.5
-  * Week of Nov. 20
-    * Monday, Nov. 20: Mini-math (8.1-8.6)
-    * Wednesday, Nov. 22: 8.7-8.8
-    * Friday, Nov. 24: 8.9
-  * Week of Nov. 27
-    * Monday, Nov. 27: 8.9-8.12
-    * Wednesday, Nov. 29: 8.9-8.12
-    * Friday, Dec. 1: 8.13
-  * Week of Dec. 4
-    * Monday, Dec. 4: Mini-math (8.7-8.13), Unit 8 Review
-    * Wednesday, Dec. 6: Unit 8 test
-    * Friday, Dec. 8: Parametric equations and vector-valued-functions
-  * Week of Dec. 11
-    * Monday, Dec. 11: Parametric equations and vector-valued-functions (Social 30 pull-out)
-    * Wednesday, Dec. 13: Polar coordinates and equations
-    * Friday, Dec. 15: Intersections of polar curves
-  * Week of Dec. 18
-    * Monday, Dec. 18: Parametric/polar paint-off
-    * Wednesday, Dec. 20: Infinite sequences and series
-    * Friday, Dec. 22: Pre-break activities
-  * Week of Dec. 25
-    * Monday, Dec. 25: Winter break
-    * Wednesday, Dec. 27: Winter break
-    * Friday, Dec. 29: Winter break
-  * Week of Jan. 1
-    * Monday, Jan. 1: Winter break
-    * Wednesday, Jan. 3: Winter break
-    * Friday, Jan. 5: Winter break
-  * Week of Jan. 8
-    * Monday, Jan. 8: 9.1-9.3
-    * Wednesday, Jan. 10: 9.4-9.6
-    * Friday, Jan. 12: Mini-math (9.1-9.6)
-  * Week of Jan. 15
-    * Monday, Jan. 15: 9.7-9.8
-    * Wednesday, Jan. 17: 9.9
-    * Friday, Jan. 19: Mini-math (9.6-9.9)
-  * Week of Jan. 22
-    * Monday, Jan. 22: Unit 9 Review
-    * Wednesday, Jan. 24: Unit 9 test
-    * Friday, Jan. 26: 10.1
-  * Week of Jan. 29
-    * Monday, Jan. 29: 10.2-10.3
-    * Wednesday, Jan. 31: 10.4-10.5
-    * Friday, Feb. 2: 10.6
-  * Week of Feb. 5
-    * Monday, Feb. 5: 10.7-10.8
-    * Wednesday, Feb. 7: 10.9
-    * Friday, Feb. 9: Mini-math (10.1-10.9)
-  * Week of Feb. 12
-    * Monday, Feb. 12: Series Bee
-    * Wednesday, Feb. 14: Unit 10 mid-unit test (10.1-10.9)
-    * Friday, Feb. 16: Pre-break activities
-  * Week of Feb. 19
-    * Monday, Feb. 19: February break
-    * Wednesday, Feb. 21: February break
-    * Friday, Feb. 23: February break
-  * Week of Feb. 26
-    * Monday, Feb. 26: 10.10
-    * Wednesday, Feb. 28: No class - PCF contests. Unit 10 mid-unit test for some?
-    * Friday, Mar. 1: 10.11
-  * Week of Mar. 4
-    * Monday, Mar. 4: 10.11-10.12
-    * Wednesday, Mar. 6: 10.13
-    * Friday, Mar. 8: 10.14
-  * Week of Mar. 11
-    * Monday, Mar. 11: 10.14-10.15
-    * Wednesday, Mar. 13: 10.15, pi is irrational (tentative)
-    * Friday, Mar. 15: pi day
-  * Week of Mar. 18
-    * Monday, Mar. 18: Mini-math (10.10-10.15)
-    * Wednesday, Mar. 20: 
-    * Friday, Mar. 22: 
-  * Week of Mar. 25
-    * Monday, Mar. 25: Unit 10 test (tentative)
-    * Wednesday, Mar. 27: 
-    * Friday, Mar. 29: Good Friday
-  * Week of Apr. 1
-    * Monday, Apr. 1: AP Calculus practice/review (Social 30 pull-out) - Test 3 Part I Part A
-    * Wednesday, Apr. 3: AP Calculus practice/review - Test 3 Part I Part B, Part II Part A
-    * Friday, Apr. 5: AP Calculus practice/review (Social 30 diploma) - Test 3 Part II Part B (start at 8:15)
-  * Week of Apr. 8
-    * Monday, Apr. 8: AP Calculus practice/review (Social 30 pull-out) - Test 4 Part I (Part II at home) and review Test 4 (until 4:30PM)
-    * Wednesday, Apr. 10: AP Calculus practice/review - Test 5 Part I (Part II at home) and review Test 5 (period 4-6)
-    * Friday, Apr. 12: AP Calculus practice/review (Social 30 diploma) - COL Fine Arts, no class
-  * Week of Apr. 15
-    * Monday, Apr. 15: AP Calculus practice/review - Test 6 Part I (Part II at home) until 3:45PM
-    * Wednesday, Apr. 17: AP Calculus practice/review - Review Test 6, any FRQ
-    * Friday, Apr. 19: PTC
-  * Week of Apr. 22
-    * Monday, Apr. 22: 
-    * Wednesday, Apr. 24: Spring break
-    * Friday, Apr. 26: Spring break
-  * Week of Apr. 29
-    * Monday, Apr. 29: AP Calculus practice/review - Test 7 Part I (Part II at home) until 3:45PM
-    * Wednesday, May. 1: AP Calculus FRQ practice/review - Review Test 7, any FRQ
-    * Friday, May. 3: AP Calculus FRQ practice/review
-  * Week of May. 6
-    * Monday, May. 6: AP Chem pull-out, AP Calculus practice/review
-    * Wednesday, May. 8: AP Calculus practice/review - Test 7 FULL MOCK 12:00PM-3:15PM, test review 3:15PM-3:45PM
-    * Friday, May. 10: AP Calculus FRQ practice/review
-  * Week of May. 13
-    * Monday, May. 13: AP test
-    * Wednesday, May. 15: Celebration!
-    * Friday, May. 17: Victoria Day weekend
-  * Week of May. 20
-    * Monday, May. 20: Victoria Day weekend
-    * Wednesday, May. 22: Approximate integration and numerical methods
-    * Friday, May. 24: Spare
-  * Week of May. 27
-    * Monday, May. 27: Spare
-    * Wednesday, May. 29: Spare
-    * Friday, May. 31: Trigonometric integrals
-  * Week of Jun. 3
-    * Monday, Jun. 3: Inverse trig substitution
-    * Wednesday, Jun. 5: Spare
-    * Friday, Jun. 7: Spare
-  * Week of Jun. 10
-    * Monday, Jun. 10: Surface area of revolution and Gabriel's horn
-    * Wednesday, Jun. 12: Locked Out
-    * Friday, Jun. 14: Spare
-  * Week of Jun. 17
-    * Monday, Jun. 17: Newton's Law of Cooling and forensics
-    * Wednesday, Jun. 19: MasterChef Calculus
-    * Friday, Jun. 21: Spare
-  * Week of Jun. 24
-    * Monday, Jun. 24: Spare
-    * Wednesday, Jun. 26: Last class activities
- -->
 
 
 <!--
