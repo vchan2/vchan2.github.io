@@ -14,11 +14,7 @@ Quick links
 
 ### Updates
 
-<b>NOTICE:</b> We've been kicked out of mountainview today (Monday, June 2) - go to 2307 instead. 
-
-
 <b>NOTICE:</b> We have been displaced from our usual room. Now our schedule is a little strange - we'll be in 2307 every Friday as well as the following dates:
-  * Wednesday, May 28
   * Monday, June 23
 
 For the other Mondays and Wednesdays, we will be in 2514/2515.
@@ -236,12 +232,12 @@ Tentative schedule for upcoming classes:
     * Monday, May. 26: Trigonometric integrals (2514/2515)
     * Wednesday, May. 28: Inverse trig substitution(2307)
     * Friday, May. 30: Spare
--->
-
   * Week of Jun. 2
     * Monday, Jun. 2: Surface area of revolution and Gabriel's horn (2307)
     * Wednesday, Jun. 4: Spare
     * Friday, Jun. 6: Spare
+-->
+
   * Week of Jun. 9
     * Monday, Jun. 9: Newton's Law of Cooling and forensics (2514/2515)
     * Wednesday, Jun. 11: Spare
