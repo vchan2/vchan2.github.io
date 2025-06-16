@@ -14,6 +14,8 @@ Quick links
 
 ### Updates
 
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWPUSWDpZic_DvxcIbCfer60SdfuoQWFcpBMYiBXVXSedLvGzOd6q0VrAosCTLehZTL5LGwo9lQVMe/pubhtml?gid=1229149756&single=true"><b>MasterChef Calculus auction lot order</b></a> 
+
 <!--
 <b>NOTICE:</b> I will be offering "Calculus help" in period 5 on Choice Fridays in 2407. This class is <b>mandatory</b> for those who scored below 80% on a unit test, but highly encouraged for anyone who is struggling or unsure about any of the material. Otherwise, please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others. Please let me know in advance if you intend to come; I will typically come for the first few minutes to see if anyone shows up.
 -->
