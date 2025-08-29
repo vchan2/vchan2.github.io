@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -9,17 +10,18 @@
   <style>
     
   :root{
-    --bg:#ffffff;
+    --bg:#fafafa;
     --surface:#ffffff;
-    --surface-alt:#f4f6ff;
-    --text:#0f172a;
-    --muted:#475569;
-    --indigo:#5459AC;
-    --purple:#52357B;
-    --ring:rgba(84,89,172,.28);
+    --surface-alt:#fff7ed;
+    --text:#1e293b;
+    --muted:#64748b;
+    --indigo:#0d9488; /* teal */
+    --purple:#f59e0b; /* amber */
+    --ring:rgba(13,148,136,.28);
     --shadow:0 10px 25px rgba(2,6,23,.08);
     --radius:18px;
   }
+
   body,.page-header,.main-content,header,footer{background:var(--bg) !important;border:0 !important;}
   body{margin:0;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:'Cormorant', serif;color:var(--text);line-height:1.6;}
   .banner{width:100%;background:linear-gradient(135deg,#648DB3,#5459AC,#52357B);color:#fff;padding:12px 10px;}
@@ -51,18 +53,50 @@
 <!-- body content remains the same -->
 <div class="title-wrap">
   <!-- Gaussian SVG -->
-  <svg class="title-logo" version="1.1" xmlns="http://www.w3.org/2000/svg" width="210" height="100" viewBox="0 0 210 100" role="img" aria-label="Gaussian distribution">
-    <title>Gaussian distribution</title>
-    <polyline fill="#ED1C24" points="78.549,84.75 81.549,84.75 80.049,89.25 "/>
-    <polyline fill="#ED1C24" points="128.529,84.75 131.529,84.75 130.029,89.25 "/>
-    <polyline fill="#39B54A" points="103.539,84.75 106.539,84.75 105.039,89.25 "/>
-    <line fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="5" y1="82.482" x2="204.96" y2="82.482"/>
-    <line fill="none" stroke="#ED1C24" stroke-width="0.75" stroke-linecap="round" x1="80.049" y1="35.037" x2="80.049" y2="85.587"/>
-    <line fill="none" stroke="#ED1C24" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="130.029" y1="34.994" x2="130.029" y2="85.587"/>
-    <line fill="none" stroke="#39B54A" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="105.039" y1="4.189" x2="105.039" y2="85.587"/>
-    <path fill="none" stroke="#0071BC" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M5.078,82.456c4.511-0.019,9.021-0.058,13.53-0.175c4.312-0.113,8.639-0.297,12.923-0.836c4.536-0.572,8.991-1.522,13.261-3.25c4.255-1.723,8.016-4.334,11.491-7.389c3.378-2.968,6.334-6.613,8.934-10.324c2.676-3.817,5.156-7.777,7.458-11.854c2.372-4.2,4.644-8.458,6.896-12.729c2.208-4.187,4.419-8.368,6.715-12.502c2.244-4.042,4.669-8.055,7.508-11.674c1.471-1.875,3.092-3.546,4.906-5.054c1.765-1.467,3.896-2.293,6.126-2.468c2.262-0.177,4.408,0.98,6.232,2.234c1.866,1.283,3.42,3.086,4.861,4.844c2.973,3.619,5.365,7.744,7.704,11.822c2.267,3.953,4.362,8.014,6.489,12.049c2.24,4.25,4.479,8.502,6.841,12.682c2.29,4.056,4.69,8.058,7.354,11.858c2.731,3.898,5.724,7.564,9.159,10.809c3.378,3.188,7.235,5.673,11.417,7.527c4.024,1.785,8.44,2.759,12.768,3.305c4.449,0.563,8.912,0.803,13.39,0.938c4.426,0.135,8.856,0.164,13.284,0.185c0.227,0,0.449,0.002,0.674,0.003"/>
-    <path fill="#39B54A" d="M105.691,93.879c-0.131,0.248-0.438,0.549-0.907,0.549c-0.286,0-0.553-0.105-0.689-0.347v0.384c0,0.354,0.013,0.934,0.071,1.193h-0.516c-0.064-0.195-0.091-0.658-0.091-1.167v-3.279h0.573v1.864c0,0.488,0.202,0.895,0.711,0.895c0.378,0,0.646-0.269,0.75-0.529c0.033-0.084,0.052-0.188,0.052-0.299v-1.931h0.573v2.289c0,0.345,0.066,0.481,0.302,0.495l-0.047,0.417c-0.072,0.021-0.104,0.026-0.201,0.026c-0.281,0-0.508-0.157-0.562-0.562L105.691,93.879L105.691,93.879z"/>
-    <!-- (trimmed: rest of small label glyphs retained in original) -->
+  <!-- Simple grid with several functions -->
+  <svg class="title-logo" xmlns="http://www.w3.org/2000/svg"
+       viewBox="0 0 420 140" role="img"
+       aria-label="Coordinate grid with several functions">
+    <title>Functions on a grid</title>
+  
+    <!-- Grid (minor + major) -->
+    <defs>
+      <!-- minor grid every 20px -->
+      <pattern id="gridMinor" width="20" height="20" patternUnits="userSpaceOnUse">
+        <path d="M20 0H0V20" fill="none" stroke="var(--ring)" stroke-width="0.6"/>
+      </pattern>
+      <!-- major grid every 100px -->
+      <pattern id="gridMajor" width="100" height="100" patternUnits="userSpaceOnUse">
+        <path d="M100 0H0V100" fill="none" stroke="#e5e7eb" stroke-width="1.1"/>
+      </pattern>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#gridMinor)"/>
+    <rect width="100%" height="100%" fill="url(#gridMajor)"/>
+  
+    <!-- Axes (centered) -->
+    <line x1="0" y1="70" x2="420" y2="70" stroke="var(--text)" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="210" y1="0" x2="210" y2="140" stroke="var(--text)" stroke-width="1.5" stroke-linecap="round"/>
+  
+    <!-- Functions -->
+    <!-- 1) Sine-like curve -->
+    <path d="M 10 70
+             C 45 40, 80 40, 115 70
+             S 185 100, 220 70
+             S 290 40, 325 70
+             S 395 100, 410 70"
+          fill="none" stroke="var(--indigo)" stroke-width="2" stroke-linecap="round"/>
+  
+    <!-- 2) Quadratic-like curve (opens up) -->
+    <path d="M 24 102
+             Q 210 12 396 102"
+          fill="none" stroke="var(--purple)" stroke-width="2" stroke-linecap="round"/>
+  
+    <!-- 3) Exponential-like growth -->
+    <path d="M 24 116
+             C 120 114, 175 104, 240 80
+             S 340 42, 396 22"
+          fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round"/>
+  
   </svg>
   <h1 class="page-title">Mathematics with Dr. Vince</h1>
   <a href="mailto:vincent.chan@renertschool.ca" class="email-link" aria-label="Email Vincent Chan">
