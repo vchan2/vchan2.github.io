@@ -1,270 +1,337 @@
+
 <!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>AP Calculus BC</title>
-  <!-- Typography -->
+  <title>AP Calculus BC – Dr. Vince</title>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@400;600;700&display=swap" rel="stylesheet">
   <style>
-    :root{
-      --bg:#ffffff;
-      --surface:#ffffff;
-      --surface-alt:#B2D8CE1a; /* mint tint */
-      --text:#0f172a;
-      --muted:#475569;
-      --indigo:#5459AC;
-      --purple:#52357B;
-      --lt-blue:#648DB3;
-      --ring:rgba(84,89,172,.28);
-      --shadow:0 10px 25px rgba(2,6,23,.08);
-      --radius:18px;
-    }
+  :root{
+    /* Calm academic palette */
+    --brand-1:#1A2980;   /* deep indigo */
+    --brand-2:#26D0CE;   /* teal */
+    --accent:#514a9d;    /* headings */
+    --link:#0AB9DC;      /* links */
+    --ink:#606c71;       /* body text */
+    --bg:#f9fafc;        /* page bg */
+    --card:#ffffff;      /* cards */
+    --muted:#819198;     /* secondary text */
+    --stroke:#e8eaf2;    /* borders */
+  }
 
-    *{box-sizing:border-box}
-    body{margin:0;font-family:'Cormorant',serif;color:var(--text);background:var(--bg);line-height:1.6;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+  html,body{height:100%}
+  body{margin:0;font-family:'Cormorant',serif;color:var(--ink);line-height:1.55;background:var(--bg)}
 
-    /* Header */
-    header.site-header{padding:28px 16px;background:linear-gradient(135deg,var(--lt-blue),var(--indigo),var(--purple));color:#fff;text-align:center}
-    .site-title{margin:0;font-weight:700;font-size:clamp(28px,4vw,44px)}
-    .site-sub{margin:.25rem 0 0;font-size:1.1rem;opacity:.95}
-    .contact-icon svg{fill:#fff;vertical-align:middle}
-    .contact-icon a{display:inline-flex;align-items:center;gap:.4rem;margin-top:.35rem;color:inherit;text-decoration:none}
+  /* Header */
+  header{ text-align:center; padding:1.6rem 1rem; background:linear-gradient(135deg,var(--brand-1),var(--brand-2)); color:#fff; box-shadow:0 3px 8px rgba(0,0,0,.12); }
+  header h1{ margin:0; font-weight:700; font-size:clamp(26px,3.8vw,40px); }
+  header p{ margin-top:.3rem; font-size:1.05rem; opacity:.92; }
+  .contact-icon svg{ fill:#fff; }
 
-    /* Layout */
-    .container{max-width:1000px;margin:26px auto 60px;padding:0 18px}
-    .card{background:var(--surface);border:1px solid #e5e7eb;border-radius:var(--radius);box-shadow:var(--shadow);padding:18px 18px 12px}
-    h2{margin:0 0 10px;font-size:clamp(1.35rem,2.4vw,1.7rem);font-weight:600;color:var(--indigo);border-bottom:2px solid var(--lt-blue);padding-bottom:.25rem}
-    h3{margin:6px 0 6px;font-size:1.2rem;font-weight:600;color:var(--purple)}
-    p{margin:.2rem 0 1rem}
+  /* Layout */
+  main{ max-width:1000px; margin:1.5rem auto; padding:0 1rem; display:grid; gap:1rem; }
 
-    /* Lists & links */
-    ul{padding-left:1.2rem;margin:.1rem 0 1rem}
-    ul.inline{list-style:none;padding:0;margin:0;display:grid;gap:8px}
-    .linkitem a{display:flex;align-items:center;justify-content:space-between;gap:10px;text-decoration:none;color:var(--indigo);background:var(--surface-alt);padding:10px 12px;border-radius:12px;border:1px solid var(--ring);transition:transform .12s ease, box-shadow .12s ease, border-color .12s ease, background .12s ease;outline-offset:3px;font-weight:600}
-    .linkitem a:hover,.linkitem a:focus{transform:translateY(-1px);box-shadow:0 10px 18px rgba(2,6,23,.10);border-color:var(--indigo);background:#e9ecff}
+  /* Cards/sections */
+  section, article{ background:var(--card); border-radius:10px; padding:1rem 1.2rem; box-shadow:0 4px 12px rgba(0,0,0,.05); border:1px solid var(--stroke); }
+  section a{ color:var(--link); text-decoration:none; font-weight:600; }
+  section a:hover{ color:var(--brand-1); text-decoration:underline; }
 
-    /* Grid */
-    .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:16px}
-    .col-12{grid-column:span 12}
-    @media(min-width:900px){
-      .col-6{grid-column:span 6}
-    }
+  h2{ color:var(--accent); font-weight:600; border-bottom:2px solid var(--brand-1); padding-bottom:.2rem; margin:0 0 .6rem; }
+  h3{ margin:.6rem 0 .4rem; color:var(--brand-1); font-weight:600; font-size:1.06rem; }
 
-    /* Footer */
-    footer.site-footer{margin:28px 0 0;text-align:center;color:var(--muted);font-size:.95rem}
+  ul{ line-height:1.4; margin:.4rem 0; padding-left:1rem; }
+  li{ margin:.2rem 0; }
+
+  /* Quick links */
+  .quicklinks{ display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:.6rem; margin:.6rem 0; }
+  .quicklinks a{ display:inline-block; background:#e6f9fc; color:var(--brand-1)!important; padding:.5rem .8rem; border-radius:6px; text-align:center; border:1px solid #b8ecf5; font-size:.95rem; transition:background .2s ease, transform .15s ease; }
+  .quicklinks a:hover{ background:#d0f3fa; transform:translateY(-1px); }
+
+  /* Notes */
+  .note{ border-left:4px solid #2f855a; background:#f6fffa; padding:.8rem 1rem; border-radius:8px; }
+  .muted{ color:var(--muted); font-style:italic; }
+
+  /* Countdown pill INSIDE note */
+  .exam-countdown{display:flex;flex-wrap:wrap;align-items:center;gap:.6rem;margin:.1rem 0 .6rem 0}
+  .exam-countdown strong{color:var(--brand-1)}
+  .pill{display:inline-block;padding:.35rem .6rem;border-radius:999px;background:var(--brand-1);color:#fff;font-weight:700}
+
+  footer{ margin-top:1.2rem; text-align:center; color:#777; font-size:.85rem; }
   </style>
 </head>
 <body>
-  <header class="site-header" role="banner">
-    <h1 class="site-title">AP Calculus BC</h1>
+  <header>
+    <h1>AP Calculus</h1>
+    <p>Dr. Vince</p>
     <div class="contact-icon">
-      <a href="mailto:vincent.chan@renertschool.ca" aria-label="Email Dr. Vince">
-        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .02c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6.99 6.98l-6.99 5.666-6.991-5.666h13.981zm.01 10h-14v-8.505l7 5.673 7-5.672v8.504z"/></svg>
+      <a href="mailto:vincent.chan@renertschool.ca" aria-label="Email the teacher">
+        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24"><path d="M12 .02c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6.99 6.98l-6.99 5.666-6.991-5.666h13.981zm.01 10h-14v-8.505l7 5.673 7-5.672v8.504z"/></svg>
       </a>
     </div>
-    <p class="site-sub">Dr. Vince</p>
   </header>
 
-  <main class="container" id="content" role="main">
-    <section class="grid" aria-label="Course sections">
-      <article class="card col-12">
-        <p>Welcome to our MATH course page. Here you will find the important information such as dates for tests and links to resources.</p>
-      </article>
+  <main>
+    <div class="quicklinks" aria-label="Quick links">
+      <a href="#updates">Updates</a>
+      <a href="#schedule">Schedule</a>
+      <a href="#homework">Homework</a>
+      <a href="#exams">Exams</a>
+      <a href="#online-resources">Online Resources</a>
+      <a href="#practice-problems">Practice Problems</a>
+      <a href="#challenges">Challenges</a>
+      <a href="#logistics">Logistics</a>
+    </div>
 
-      <article class="card col-12" aria-labelledby="h-Announcements">
-        <h2 id="h-Announcements">Announcements</h2>
-          <strong>NOTICE:</strong> I will be offering "Captivating Calculus" in period 5 on Choice Fridays on the 4th floor. Please use this as an additional opportunity to get help with calculus, or to come ask deeper questions that we don't have time for in class. If you don't have any questions, feel free to come by anyway for your lunch hour to hang out in case any questions arise from others.  
-      </article>
-
-     <article class="card col-12" aria-labelledby="h-Schedule">
-        <h2 id="h-Schedule">Schedule</h2>
-       Tentative schedule for upcoming classes:
-        <ul>
-          <li><strong>September:</strong> <em>(to be posted)</em></li>
-        </ul>
-      </article>
-
-      
-      <article class="card col-12" aria-labelledby="h-homework">
-        <h2 id="h-homework">Homework</h2>
-        If you are consistently spending more than 1 hour per day on homework, please see me. (Nearly) Every section we cover will have an associated AP Classroom online homework for you to complete by a certain deadline, typically before the next class (or in the case of a test, the class after that). You will also receive paper assignments from Flipped Math to work on. Any additional homework outside of these two will be posted here.
-        
-        <ul>
-          <li><strong>Monday, September 8:</strong> <em>Introduction questionnaire and course outline</em></li>
-        </ul>
-      </article>
-
-      <!--
-      <article class="card col-12" aria-labelledby="h-dates">
-        <h2 id="h-dates">Important Dates</h2>
-        <ul>
-          <li><strong>Unit Test 1 (Number):</strong> <em>TBA</em></li>
-          <li><strong>Unit Test 2 ():</strong> <em>TBA</em></li>
-          <li><strong>Unit Test 3 ():</strong> <em>TBA</em></li>
-          <li><strong>Unit Test 4 ():</strong> <em>TBA</em></li>
-          <li><strong>Unit Test 5 ():</strong> <em>TBA</em></li>
-          <li><strong>Unit Test 6 ():</strong> <em>TBA</em></li>
-          <li><strong>Unit Test 7 ():</strong> <em>TBA</em></li>
-          <li><strong>Unit Test 8 ():</strong> <em>TBA</em></li>
-          <li><strong>Unit Test 9 ():</strong> <em>TBA</em></li>
-        </ul>
-      </article>
-      -->
-
-      <article class="card col-12" aria-labelledby="h-exams">
-        <h2 id="h-exams">Exams</h2>
-        <ul class="inline">
-          <li>Unit 1-5 test is scheduled for <b>Wednesday, September 10</b> in-class. You should be proficient in all material contained in Units 1-5. More precisely, you should be able to:</li>
-              <ul>
-  <li>Compute limits of a function graphically.</li>
-  <li>Compute limits of a composite function graphically.</li>
-  <li>Interpret tabular information for finding limits.</li>
-  <li>Use limit properties and arithmetic to find limits.</li>
-  <li>Compute a limit of a function algebraically via 4 techniques:
-    <ul>
-      <li>Technique 0: rational-like function evaluation</li>
-      <li>Technique 1: factor and reduce</li>
-      <li>Technique 2: rationalize</li>
-      <li>Technique 3: Fundamental Trigonometric Limit</li>
-      <li>Technique 4: (for x approaching +/- infinity) divide by dominant terms in the denominator
-        <ul>
-          <li>Apply this technique for expressions involving radicals</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>Compute a one-sided limit, including checking for signs in absolute values and values close to 0.</li>
-  <li>Find a limit via one-sided limits.</li>
-  <li>Determine where a function is continuous, or find values for constants which give continuity.</li>
-  <li>Identify the type of a discontinuity.</li>
-  <li>Find vertical and horizontal asymptotes of a function.</li>
-  <li>Use Squeeze Theorem.</li>
-  <li>Use Intermediate Value Theorem.</li>
-  <li>Describe the relationship between continuity and differentiability.</li>
-  <li>Calculate the average rate of change from a table, graph, or function.</li>
-  <li>Compute a derivative from first principles.</li>
-  <li>Identify a limit as a derivative and use derivative rules to find the limit.</li>
-  <li>Approximate the value of a derivative from either a table or graph.</li>
-  <li>Sketch the derivative of a function given a graph of the function and vice versa, the graph of a function given the derivative.</li>
-  <li>Apply the various derivative rules: sum/difference rule, constant multiple rule, power rule, product rule, quotient rule (this is of course the vast majority of the test, either directly or indirectly)
-    <ul>
-      <li>Note: This is true both for given functions (involving powers, trigonometric functions, exponential functions, and logarithmic functions) as well as given a table of values for f(x), g(x), f'(x), g'(x).</li>
-    </ul>
-  </li>
-  <li>Use derivatives to find the equation of tangent/normal lines with a given slope and through a point or parallel/perpendicular to given lines.</li>
-  <li>Apply chain rule</li>
-  <li>Compute dy/dx implicitly, and find the slope of the tangent to an implicit curve at a point.</li>
-  <li>Compute higher-order derivatives.</li>
-  <li>Be able to compute higher-order implicit derivatives.</li>
-  <li>Differentiate inverse functions, including the inverse trigonometric functions.</li>
-  <li>Be able to compute derivatives via logarithmic differentiation.</li>
-  <li>Determine the velocity and acceleration of a particle moving in a straight-line given its position/displacement function as well as compute the value of the velocity or acceleration at particular times.</li>
-  <li>Determine when a particle is at rest as well as when it is moving in the positive or negative direction.</li>
-  <li>Find the total distance travelled by a particle within a specified amount of time.</li>
-  <li>Find rates of change in contexts other than motion including understanding the correct units</li>
-  <li>Solve related rates problems (you should know standard formulas for area/volume and perimeter/surface area, and be able to use simple geometry such as similarity of triangles and Pythagorean Theorem)</li>
-  <li>Approximate a function with local linearization and analyze a linearization</li>
-  <li>Use l'H&ocirc;pital's rule appropriately</li>
-  <li>Apply the Extreme Value Theorem</li>
-  <li>Find and classify critical points</li>
-  <li>Find local and global extrema</li>
-  <li>Determine where a function is increasing or decreasing</li>
-  <li>Use the First Derivative Test</li>
-  <li>Determine the concavity of a function on an interval</li>
-  <li>Use the Second Derivative Test</li>
-  <li>Determine information about f, f', or f'' given information about another one of these functions</li>
-  <li>Solve optimization problems</li>
-  <li>Analyze an implicit function using derivatives and second derivatives</li>
-  <li>Apply the Mean Value Theorem</li>
-  <li>Determine where a function satisfies the Mean Value Theorem</li>
-</ul></li>
-
-       <li>Final exam information: 8:00AM, Monday, May 11, 5th floor
-<img src="https://vchan2.github.io/2021Calculus/Exam_info.png">
-Part I tests are MCQ and Part II tests are FRQ
-</li> 
-        
-        </ul>
-      </article>
-      
-      <article class="card col-12" aria-labelledby="h-resources">
-        <h2 id="h-resources">Online Resources</h2>
-        <ul class="inline">
-          <li class="linkitem"><a href="https://drive.google.com/drive/folders/1NP3fmQUBLzhSBn-4SzLzcUMZaTHusw__?usp=drive_link" target="_blank" rel="noopener">Shared Google drive for AP Calculus BC</a></li>
-          <li class="linkitem"><a href="https://docs.google.com/document/d/1Ag_JfeakR__Lp3QTsUHtt_DT6hfYD8P-aB9Xw4bkMW0/edit?usp=sharing" target="_blank" rel="noopener">RTC information</a></li>
-          <li class="linkitem"><a href="https://calculus.flippedmath.com/list-of-lessons.html" target="_blank" rel="noopener"><span>Flipped Math - AP Calculus</span></a></li>
-          <li class="linkitem"><a href="https://www.youtube.com/watch?v=WUvTyaaNkzM" target="_blank" rel="noopener">The Essence of Calculus YouTube series</a></li>
-          <li class="linkitem"><a href="https://www.khanacademy.org/math/ap-calculus-bc" target="_blank" rel="noopener">AP Calculus BC course (Khan Academy)</a></li>
-          <li class="linkitem"><a href="https://www.wolframalpha.com/" target="_blank" rel="noopener">Online calculator (WolframAlpha)</a></li>
-          <li class="linkitem"><a href="https://www.desmos.com" target="_blank" rel="noopener">Online graphing program (Desmos)</a></li>
-          <li class="linkitem"><a href="http://webspace.ship.edu/msrenault/GeoGebraCalculus/derivative_intuitive_chain_rule.html" target="_blank" rel="noopener">Interactive visualization of the Chain Rule</a></li>
-          <li class="linkitem"><a href="https://www.desmos.com/calculator/rn3t3zbamk" target="_blank" rel="noopener">Visualization of the relationship between a curve's concavity, its tangent line, and the second derivative</a></li>
-          <li class="linkitem"><a href="https://mathisonian.github.io/trig/etymology/" target="_blank" rel="noopener">The etymology of the 6 standard trig functions, complete with animations</a></li>
-          <li class="linkitem"><a href="https://vchan2.github.io/2021Calculus/Trig_derivatives_proofs.pdf" target="_blank" rel="noopener">Proofs of Trigonometric Derivatives</a></li>
-        </ul>
-
-        <ul class="inline">
-          <li class="linkitem"><a href="https://www.3blue1brown.com" target="_blank" rel="noopener"><span>3 Blue 1 Brown</span></a></li>
-          <li class="linkitem"><a href="https://www.veritasium.com" target="_blank" rel="noopener"><span>Veritasium</span></a></li>
-          <li class="linkitem"><a href="https://www.youtube.com/user/standupmaths" target="_blank" rel="noopener"><span>Stand Up Maths</span></a></li>
-          <li class="linkitem"><a href="https://www.youtube.com/numberphile" target="_blank" rel="noopener"><span>Numberphile</span></a></li>
-        </ul>
-        
-      </article>
-
-      <article class="card col-12" aria-labelledby="h-practice">
-        <h2 id="h-practice">Practice Problems</h2>
-        <ul class="inline">
-<!--          <li class="linkitem"><a href="https://vchan2.github.io/2022APCalculusBC/calculus_readiness.pdf" target="_blank" rel="noopener"><span>Calculus readiness test</span></a></li>
-          <li>Unit 1</li>
-          <ul class="inline">
-          </ul>
-        </ul>
-      </article>
-
-      <article class="card col-12" aria-labelledby="h-minimath">
-        <h2 id="h-minimath">Mini-maths</h2>
-        <ul class="inline">
-<!--          <li class="linkitem"><a href="https://vchan2.github.io/2022APCalculusBC/calculus_readiness.pdf" target="_blank" rel="noopener"><span>Calculus readiness test</span></a></li>
-          <li>Unit 1</li>
-          <ul class="inline">
-          </ul>
-        </ul>
-      </article>
-
-      <article class="card col-12" aria-labelledby="h-challenges">
-        <h2 id="h-challenges">Challenges</h2>
-        <ul>
-          <li>Calculus-based
-          <ul>
-<li><a href="https://vchan2.github.io/Challenges/Calculus/Unit01_01A_weird_limit.pdf">Unit 1: A weird limit</a> - Find an example of a function whose limit at 0 from the right DNE.</li>
-  <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit01_02Continuous_nowhere.pdf">Unit 1: Continuous nowhere</a> - Does there exist a function which is continuous nowhere?</li>
-  <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit01_03Continuous_on_irrationals.pdf">Unit 1: Continuous on the irrationals</a> - Does there exist a function which is continuous only on the irrationals?</li>
-  <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit01_04Continuous_on_rationals.pdf">Unit 1: Continuous on the rationals</a> - Does there exist a function which is continuous only on the rationals?</li>
-  <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit02_01Continuous_but_not_differentiable.pdf">Unit 2: Continuous but not differentiable</a> - Does there exist a function which is continuous everywhere but not differentiable infinitely often?</li>
-  <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit02_02Differentiability_for_piecewise.pdf">Unit 2: Differentiability for piecewise</a> - Prove you can use derivatives from the left and right to determine differentiability for piecewise functions.</li>
-  <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit02_01Continuous_but_not_differentiable.pdf">Unit 3: Continuous but nowhere differentiable</a> - Does there exist a function which is continuous everywhere but differentiable nowhere?</li>
-        </ul></li>
-          <li>Assorted</li>
-        </ul>
-      </article>
+    <section id="updates">
+      <h2>Updates</h2>
+      <p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWPUSWDpZic_DvxcIbCfer60SdfuoQWFcpBMYiBXVXSedLvGzOd6q0VrAosCTLehZTL5LGwo9lQVMe/pubhtml?gid=1229149756&single=true" target="_blank" rel="noopener"><strong>MasterChef Calculus auction lot order</strong></a></p>
+      <p class="muted">(Additional notices can be added here as needed.)</p>
     </section>
 
-    <footer class="site-footer">
-      <small id="last-updated">Last updated: <span>—</span></small>
+    <section id="schedule">
+      <h2>Schedule</h2>
+      <ul>
+        <li><strong>Week of Jun. 9</strong>
+          <ul>
+            <li>Mon, Jun. 9: Newton's Law of Cooling and forensics (2514/2515)</li>
+            <li>Wed, Jun. 11: Spare (Unit 10 re-write in 2307)</li>
+            <li>Fri, Jun. 13: Spare</li>
+          </ul>
+        </li>
+        <li><strong>Week of Jun. 16</strong>
+          <ul>
+            <li>Mon, Jun. 16: MasterChef Calculus (2307)</li>
+            <li>Wed, Jun. 18: Spare</li>
+            <li>Fri, Jun. 20: Spare</li>
+          </ul>
+        </li>
+        <li><strong>Week of Jun. 23</strong>
+          <ul>
+            <li>Mon, Jun. 23: Last class activities (2307)</li>
+            <li>Wed, Jun. 25: No class (half-day)</li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+
+    <section id="homework">
+      <h2>Homework</h2>
+      <p>If you are consistently spending more than 1 hour per day on homework, please see me. Nearly every section has an AP Classroom homework with a deadline (usually the next class). Paper assignments from Flipped Math will also be assigned.</p>
+      <ul>
+        <li><strong>Fri, Dec 13:</strong> 10.1 Q1–37 (odd only, skip 17)</li>
+        <li><strong>Mon, Sep 9:</strong> Introduction Questionnaire</li>
+      </ul>
+    </section>
+
+    <section id="exams">
+      <h2>Exams</h2>
+
+      <p><strong>Unit 10 final unit test</strong> scheduled for <b>Monday, March 24</b> (in class). Majority of questions focus on 10.10–10.15. You should be able to:</p>
+      <ul>
+        <li>Determine convergence/divergence (partial sums, geometric, nth-term, p-series, comparison, alternating series, ratio, absolute convergence)</li>
+        <li>Apply the AST error bound</li>
+        <li>Find and use Taylor/Maclaurin polynomials; apply Lagrange error bound</li>
+        <li>Find radius/interval of convergence; build series via substitution/ops/diff/integration</li>
+      </ul>
+      <p><em>Exam weighting:</em> 17.5. Note: any material from Units 1–9 and 10.1–10.9 is fair game.</p>
+
+      <div class="note" style="margin:.6rem 0">
+        <div class="exam-countdown" role="group" aria-label="Exam information">
+          <strong>AP Exam:</strong>
+          <span>Monday, May 11, 2026, 8:00 AM</span>
+          <span class="pill" id="days-left" aria-live="polite">—</span>
+        </div>
+        <p><strong>Final exam information:</strong> 8:00 AM, Monday, May 12, 5th floor</p>
+        <table style="width:100%;border-collapse:collapse;text-align:center">
+          <tr>
+            <th colspan="2" style="border:1px solid var(--stroke);padding:.4rem">Part I - MC</th>
+            <th colspan="2" style="border:1px solid var(--stroke);padding:.4rem">Part II - FRQ</th>
+          </tr>
+          <tr>
+            <th style="border:1px solid var(--stroke);padding:.4rem">Part A</th>
+            <th style="border:1px solid var(--stroke);padding:.4rem">Part B</th>
+            <th style="border:1px solid var(--stroke);padding:.4rem">Part A</th>
+            <th style="border:1px solid var(--stroke);padding:.4rem">Part B</th>
+          </tr>
+          <tr>
+            <td style="border:1px solid var(--stroke);padding:.4rem">30</td>
+            <td style="border:1px solid var(--stroke);padding:.4rem">15</td>
+            <td style="border:1px solid var(--stroke);padding:.4rem">2</td>
+            <td style="border:1px solid var(--stroke);padding:.4rem">4</td>
+          </tr>
+          <tr>
+            <td style="border:1px solid var(--stroke);padding:.4rem">60 minutes</td>
+            <td style="border:1px solid var(--stroke);padding:.4rem">45 minutes</td>
+            <td style="border:1px solid var(--stroke);padding:.4rem">30 minutes</td>
+            <td style="border:1px solid var(--stroke);padding:.4rem">60 minutes</td>
+          </tr>
+          <tr>
+            <td style="border:1px solid var(--stroke);padding:.4rem">No Calculator</td>
+            <td style="border:1px solid var(--stroke);padding:.4rem">Calculator Required</td>
+            <td style="border:1px solid var(--stroke);padding:.4rem">Calculator Required</td>
+            <td style="border:1px solid var(--stroke);padding:.4rem">No Calculator</td>
+          </tr>
+          <tr>
+            <td style="border:1px solid var(--stroke);padding:.4rem">33.3%</td>
+            <td style="border:1px solid var(--stroke);padding:.4rem">16.7%</td>
+            <td style="border:1px solid var(--stroke);padding:.4rem">16.7%</td>
+            <td style="border:1px solid var(--stroke);padding:.4rem">33.3%</td>
+          </tr>
+        </table>
+      </div>
+    </section>
+
+    <section id="online-resources">
+      <h2>Online Resources</h2>
+      <ul>
+        <li><a href="https://drive.google.com/drive/folders/1mslINF4F8cKRhuO-1u0ucl0vmPtakK9n?usp=drive_link">Shared Google Drive for AP Calculus BC</a></li>
+        <li><a href="https://docs.google.com/document/d/1Ag_JfeakR__Lp3QTsUHtt_DT6hfYD8P-aB9Xw4bkMW0/edit?usp=sharing">RTC information</a></li>
+        <li><a href="https://calculus.flippedmath.com/list-of-lessons.html">Flipped Math – AP Calculus</a></li>
+        <li><a href="https://www.youtube.com/watch?v=WUvTyaaNkzM">The Essence of Calculus (3Blue1Brown)</a></li>
+        <li><a href="https://www.khanacademy.org/math/ap-calculus-bc">Khan Academy: AP Calculus BC</a></li>
+        <li><a href="https://www.wolframalpha.com/">WolframAlpha – Online calculator</a></li>
+        <li><a href="https://www.desmos.com/">Desmos – Graphing calculator</a></li>
+        <li>Brachistochrone curve: <a href="https://www.youtube.com/shorts/zzf9rZWAa90">ActionLab (short)</a> · <a href="https://www.youtube.com/watch?v=Cld0p3a43fU">3Blue1Brown (16 min)</a></li>
+        <li><a href="http://webspace.ship.edu/msrenault/GeoGebraCalculus/derivative_intuitive_chain_rule.html">Interactive: Chain Rule</a></li>
+        <li>Optimization visuals: <a href="https://www.desmos.com/calculator/l3bpllxpmb">Cable to two points</a> · <a href="https://www.desmos.com/calculator/stfesdxk3f">Distance to √x</a></li>
+        <li>Concavity visual: <a href="https://www.desmos.com/calculator/rn3t3zbamk">Curve, tangent, and f''</a></li>
+        <li>Trig: <a href="https://mathisonian.github.io/trig/etymology/">Etymology of trig functions</a> · <a href="https://vchan2.github.io/2021Calculus/Trig_derivatives_proofs.pdf">Proofs of trig derivatives</a></li>
+        <li>DE: <a href="https://www.geogebra.org/m/W7dAdgqc">Slope field plotter</a> · <a href="https://vchan2.github.io/APCalculus/7.9_Logistic_model_derivation.pdf">Logistic model derivation</a></li>
+        <li>Integration: <a href="https://www.desmos.com/calculator/tyqezuilba">8.2 example</a> · <a href="https://www.desmos.com/calculator/q3avtnrgoq">Volume: cross sections</a> · <a href="https://www.geogebra.org/classic/XArpgR3A">Volume (GeoGebra)</a> · <a href="https://www.desmos.com/calculator/0ir4zzke9i">Volumes of revolution</a></li>
+      </ul>
+    </section>
+
+    <section id="practice-problems">
+      <h2>Practice Problems</h2>
+      <ul>
+        <li><a href="https://vchan2.github.io/2022APCalculusBC/calculus_readiness.pdf">Calculus readiness test</a> (<a href="https://vchan2.github.io/2022APCalculusBC/calculus_readiness_sol.pdf">Answers</a>)</li>
+        <li><strong>Unit 1</strong>
+          <ul>
+            <li><a href="https://vchan2.github.io/2022APCalculusBC/Limits(graphical).pdf">Limits (graphical)</a> (<a href="https://vchan2.github.io/2022APCalculusBC/Limits(graphical)_sol.pdf">Answers</a>)</li>
+          </ul>
+        </li>
+        <li><strong>Units 3–5</strong>
+          <ul>
+            <li><a href="https://vchan2.github.io/APCalculus/practice_derivatives.pdf">Derivative practice</a> (answers included)</li>
+          </ul>
+        </li>
+        <!--<li><strong>Unit 6</strong>
+          <ul>
+            <li><a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout.pdf">6.1–6.3 handout</a> (<a href="https://vchan2.github.io/2022APCalculusBC/6.1-6.3_handout_sol.pdf">Solutions</a>)</li>
+            <li><a href="https://vchan2.github.io/2023APCalculusBC/6.3_Numerical_Integration.pdf">Numerical Integration worksheet</a> (<a href="https://vchan2.github.io/2023APCalculusBC/6.3_Numerical_Integration_sol.pdf">Solutions</a>)</li>
+            <li><a href="https://vchan2.github.io/2021Calculus/6.9_WS%201%20on%20substitution.pdf">Worksheet 1 on substitution</a></li>
+            <li><a href="https://vchan2.github.io/2021Calculus/6.9_WS%202%20on%20substitution.pdf">Worksheet 2 on substitution</a></li>
+            <li><a href="https://vchan2.github.io/2021Calculus/6.10_WS%20on%20Long%20Division%20and%20Completing%20the%20Square.pdf">Worksheet on long division & completing the square</a></li>
+            <li><a href="https://vchan2.github.io/2021Calculus/6.14_practice.pdf">Practice with various integration techniques</a> (<a href="https://vchan2.github.io/2021Calculus/6.14_practice_sol.pdf">Solutions</a>)</li>
+            <li><a href="https://vchan2.github.io/2024APCalculusBC/IntegrationBee2024partial.pdf">Integration Bee</a> (<a href="https://vchan2.github.io/2024APCalculusBC/IntegrationBee2024partial_sol.pdf">Solutions</a>)</li>
+          </ul>
+        </li>
+        <li><strong>Unit 7</strong>
+          <ul>
+            <li><a href="https://vchan2.github.io/APCalculus/7_Slope_Fields.pdf">Slope Fields practice 1</a> (<a href="https://vchan2.github.io/APCalculus/7_Slope_Fields_sol.pdf">Solutions</a>)</li>
+            <li><a href="https://vchan2.github.io/APCalculus/7_Visualizing_Differential_Equations_Slope_Fields_practice.pdf">Slope Fields practice 2</a> (<a href="https://vchan2.github.io/APCalculus/7_Visualizing_Differential_Equations_Slope_Fields_practice_sol.pdf">Solutions</a>)</li>
+          </ul>
+        </li>
+        <li><strong>Unit 8</strong>
+          <ul>
+            <li><a href="https://vchan2.github.io/2021Calculus/8_Volumes.pdf">Volumes 1 (specific examples)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes_sol.pdf">Solutions</a>)</li>
+            <li><a href="https://vchan2.github.io/2021Calculus/8_Volumes2.pdf">Volumes 2 (more general)</a> (<a href="https://vchan2.github.io/2021Calculus/8_Volumes2_sol.pdf">Solutions</a>)</li>
+          </ul>
+        </li>
+        <li><strong>Unit 10</strong>
+          <ul>
+            <li><a href="https://vchan2.github.io/APCalculus/10.1-10.9_11.7Series.pdf">Series practice (10.1–10.9)</a> (<a href="https://vchan2.github.io/APCalculus/10.1-10.9_11.7Series_sol.pdf">Answers</a>)</li>
+          </ul>
+        </li>-->
+        <li><strong>Mini-maths</strong>
+          <ul>
+            <!--<li><a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_09_13_(6.1-6.3).pdf">Mini-math Sep 13 (6.1–6.3)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_09_13_(6.1-6.3)_sol.pdf">Solutions</a>)</li>
+            <li><a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_09_27_(6.4-6.14).pdf">Mini-math Sep 27 (6.4–6.14)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_09_27_(6.4-6.14)_sol.pdf">Solutions</a>)</li>
+            <li><a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_10_25_(7.1-7.5).pdf">Mini-math Oct 25 (7.1–7.5)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_10_25_(7.1-7.5)_sol.pdf">Solutions</a>)</li>
+            <li><a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_10_30_(7.6-7.9).pdf">Mini-math Oct 30 (7.6–7.9)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_10_30_(7.6-7.9)_sol.pdf">Solutions</a>)</li>
+            <li><a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_11_22_(8.1-8.6).pdf">Mini-math Nov 22 (8.1–8.6)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_11_22_(8.1-8.6)_sol.pdf">Solutions</a>)</li>
+            <li><a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_12_04_(8.7-8.13).pdf">Mini-math Dec 4 (8.7–8.13)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2024_12_04_(8.7-8.13)_sol.pdf">Solutions</a>)</li>
+            <li><a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_01_10_(9.1-9.6).pdf">Mini-math Jan 10 (9.1–9.6)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_01_10_(9.1-9.6)_sol.pdf">Solutions</a>)</li>
+            <li><a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_01_22_(9.6-9.9).pdf">Mini-math Jan 22 (9.6–9.9)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_01_22_(9.6-9.9)_sol.pdf">Solutions</a>)</li>
+            <li><a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_02_14_(10.1-10.9).pdf">Mini-math Feb 14 (10.1–10.9)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_02_14_(10.1-10.9)_sol.pdf">Solutions</a>)</li>
+            <li><a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_03_19_(10.10-10.15).pdf">Mini-math Mar 19 (10.10–10.15)</a> (<a href="https://vchan2.github.io/2024APCalculusBC/mm/Mini-math_Div3_4_2025_03_19_(10.10-10.15)_sol.pdf">Solutions</a>)</li>-->
+          </ul>
+        </li>
+      </ul>
+    </section>
+
+    <section id="challenges">
+      <h2>Challenges</h2>
+      <ul>
+        <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit01_01A_weird_limit.pdf">Unit 1: A weird limit</a> – limit at 0⁺ DNE example.</li>
+        <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit01_02Continuous_nowhere.pdf">Unit 1: Continuous nowhere</a></li>
+        <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit01_03Continuous_on_irrationals.pdf">Unit 1: Continuous on irrationals</a></li>
+        <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit01_04Continuous_on_rationals.pdf">Unit 1: Continuous on rationals</a></li>
+        <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit02_01Continuous_but_not_differentiable.pdf">Unit 2: Continuous but not differentiable</a></li>
+        <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit02_02Differentiability_for_piecewise.pdf">Unit 2: Differentiability for piecewise</a></li>
+        <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit02_01Continuous_but_not_differentiable.pdf">Unit 3: Continuous but nowhere differentiable</a></li>
+        <!--<li><a href="https://vchan2.github.io/Challenges/Calculus/Unit06_01Integral.pdf">Unit 6: An integral</a></li>
+        <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit06_02Integration_by_parts.pdf">Unit 6: Integration by parts</a></li>
+        <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit06_03Coefficients_in_PFD.pdf">Unit 6: Coefficients in PFD</a></li>
+        <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit06_04An_Improper_Integral.pdf">Unit 6: An improper integral</a></li>
+        <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit07_01separation_of_variables_division_by_0.pdf">Unit 7: SOV & division by 0</a></li>
+        <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit09_bat_curve.pdf">Unit 9: Bat curve</a></li>
+        <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit10_01Challenging_series.pdf">Unit 10: Challenging series</a></li>
+        <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit10_02Sparse_harmonic_series.pdf">Unit 10: Sparse Harmonic Series</a></li>
+        <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit10_03DivergenceTest2.pdf">Unit 10: Divergence Test II</a></li>
+        <li><a href="https://vchan2.github.io/Challenges/Calculus/Unit10_04Sum_of_product.pdf">Unit 10: Sum of product</a></li>-->
+      </ul>
+      <h3>Assorted</h3>
+      <ul>
+        <li><a href="https://vincentchan02.wixsite.com/cosmospuzzle">CoSMOS 2020 Challenge</a></li>
+        <!--<li><a href="https://renertmath.github.io/Challenges/12Days2024.html">12 Days of ChrisMATH 2024</a></li>
+        <li><a href="https://vchan2.github.io/Challenges/2024-25Winter_Break.pdf">2024–25 Winter Break challenges</a></li>-->
+      </ul>
+    </section>
+
+    <section id="logistics">
+      <h2>Logistics</h2>
+      <ul>
+        <li><a href="https://vchan2.github.io/2020Calculus/ap-calculus-course-at-a-glance.pdf">AP Calculus course at a glance</a></li>
+        <li><a href="https://vchan2.github.io/2024APCalculusBC/Div_3-4_AP_Calculus_BC_Course_Outline_2023-24_online.pdf">Course outline</a></li>
+        <li><a href="https://vchan2.github.io/2024APCalculusBC/AP_Mastery_Policy_2024-2025_Approved.pdf">Renert AP Policy</a></li>
+      </ul>
+    </section>
+
+    <footer>
+      <small>Last updated: Aug 29, 2025</small>
     </footer>
   </main>
 
+  <!-- Countdown script: fixed to Calgary time (MDT, UTC-06:00) for May -->
   <script>
-    // Render a friendly "Last updated" date (local)
-    (function(){
-      const el = document.querySelector('#last-updated span');
-      if(!el) return;
-      const d = new Date();
-      const opts = { month: 'short', day: '2-digit', year: 'numeric' };
-      el.textContent = d.toLocaleDateString(undefined, opts);
-    })();
+  (function(){
+    var EXAM_DATE = new Date('2026-05-11T08:00:00-06:00');
+    var pill = document.getElementById('days-left');
+    if(!pill) return;
+    function update(){
+      var now = new Date();
+      var diff = EXAM_DATE - now;
+      var oneDay = 24*60*60*1000;
+      if(diff <= 0 && Math.abs(diff) < oneDay){
+        pill.textContent = 'Exam today';
+        pill.setAttribute('aria-label','Exam is today');
+        return;
+      }
+      if(diff < 0){
+        pill.textContent = 'Done';
+        pill.setAttribute('aria-label','Exam has passed');
+        return;
+      }
+      var days = Math.ceil(diff/oneDay);
+      if(days > 1){ pill.textContent = days + ' days'; pill.setAttribute('aria-label', days + ' days until exam'); }
+      else if(days === 1){ pill.textContent = '1 day'; pill.setAttribute('aria-label','1 day until exam'); }
+      else { var hours = Math.ceil(diff/(60*60*1000)); pill.textContent = hours + ' hr'; pill.setAttribute('aria-label', hours + ' hours until exam'); }
+    }
+    update();
+    setInterval(update, 60*60*1000);
+  })();
   </script>
 </body>
 </html>
