@@ -1,0 +1,563 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Grade 4/5 Mathematics – Dr. Vince</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+/* Calm academic palette */
+--brand-1:#1A2980; /* deep indigo */
+--brand-2:#26D0CE; /* teal */
+--accent:#514a9d; /* headings */
+--link:#0AB9DC; /* links */
+--ink:#606c71; /* body text */
+--bg:#f9fafc; /* page bg */
+--card:#ffffff; /* cards */
+--muted:#819198; /* secondary text */
+--stroke:#e8eaf2; /* borders */
+}
+
+html,body{height:100%}
+body{margin:0;font-family:'Cormorant',serif;color:var(--ink);line-height:1.55;background:var(--bg)}
+
+/* Header */
+header{ text-align:center; padding:1.6rem 1rem; background:linear-gradient(135deg,var(--brand-1),var(--brand-2)); color:#fff; box-shadow:0 3px 8px rgba(0,0,0,.12); }
+header h1{ margin:0; font-weight:700; font-size:clamp(26px,3.8vw,40px); }
+header p{ margin-top:.3rem; font-size:1.05rem; opacity:.92; }
+.contact-icon svg{ fill:#fff; }
+
+/* Layout */
+main{ max-width:1000px; margin:1.5rem auto; padding:0 1rem; display:grid; gap:1rem; }
+
+/* Cards/sections */
+section, article{ background:var(--card); border-radius:10px; padding:1rem 1.2rem; box-shadow:0 4px 12px rgba(0,0,0,.05); border:1px solid var(--stroke); }
+section a{ color:var(--link); text-decoration:none; font-weight:600; }
+section a:hover{ color:var(--brand-1); text-decoration:underline; }
+
+h2{ color:var(--accent); font-weight:600; border-bottom:2px solid var(--brand-1); padding-bottom:.2rem; margin:0 0 .6rem; }
+h3{ margin:.6rem 0 .4rem; color:var(--brand-1); font-weight:600; font-size:1.06rem; }
+
+ul{ line-height:1.4; margin:.4rem 0; padding-left:1rem; }
+li{ margin:.2rem 0; }
+
+/* Quick links */
+.quicklinks{ display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:.6rem; margin:.6rem 0; }
+.quicklinks a{ display:inline-block; background:#e6f9fc; color:var(--brand-1)!important; padding:.5rem .8rem; border-radius:6px; text-align:center; border:1px solid #b8ecf5; font-size:.95rem; transition:background .2s ease, transform .15s ease; }
+.quicklinks a:hover{ background:#d0f3fa; transform:translateY(-1px); }
+
+/* Notes */
+.note{ border-left:4px solid #2f855a; background:#f6fffa; padding:.8rem 1rem; border-radius:8px; }
+.muted{ color:var(--muted); font-style:italic; }
+
+/* Countdown pill INSIDE note */
+.exam-countdown{display:flex;flex-wrap:wrap;align-items:center;gap:.6rem;margin:.1rem 0 .6rem 0}
+.exam-countdown strong{color:var(--brand-1)}
+.pill{display:inline-block;padding:.35rem .6rem;border-radius:999px;background:var(--brand-1);color:#fff;font-weight:700}
+
+footer{ margin-top:1.2rem; text-align:center; color:#777; font-size:.85rem; }
+</style>
+</head>
+<body>
+<header>
+<h1>Grade 4/5 Mathematics</h1>
+<p>Dr. Vince</p>
+<div class="contact-icon">
+<a href="mailto:vincent.chan@renertschool.ca" aria-label="Email the teacher">
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24"><path d="M12 .02c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6.99 6.98l-6.99 5.666-6.991-5.666h13.981zm.01 10h-14v-8.505l7 5.673 7-5.672v8.504z"/></svg>
+</a>
+</div>
+</header>
+
+<main>
+<div class="quicklinks" aria-label="Quick links">
+<a href="#announcements">Announcements</a>
+<a href="#schedule">Schedule</a>
+<a href="#homework">Homework</a>
+<a href="#exams">Exams</a>
+<a href="#online-resources">Online links and games</a>
+<a href="#challenges">Challenges</a>
+<a href="#files">Files</a>
+</div>
+
+<section id="updates">
+<h2>Updates</h2>
+
+<!--
+<p><a href="https://forms.gle/EGEmJr2VdYZ1JFoD7">Upload data here</a></p>
+  
+<p><a href="https://vchan2.github.io/2025gr45/quadrilaterals/quadrilaterals.pdf">Quadrilaterals project</a></p>
+-->
+  
+  </section>
+
+<section id="schedule">
+<h2>Schedule</h2>
+<ul>
+
+  <!--
+        <li><strong>Week of Sep. 1</strong>
+          <ul>
+            <li>Tuesday, Sep. 2: FIRST DAY OF SCHOOL (no regularly scheduled math class)</li>
+            <li>Wednesday, Sep. 3: First-day activities</li>
+            <li>Thursday, Sep. 4: Assessments</li>
+            <li>Friday, Sep. 5: Assessments</li>
+          </ul>
+        </li>
+          <li><strong>Week of Sep. 8</strong>
+          <ul>
+            <li>Monday, Sep. 8: Hand calculations</li>
+            <li>Tuesday, Sep. 9: Hand calculations</li>
+            <li>Wednesday, Sep. 10: WB day</li>
+            <li>Thursday, Sep. 11: Fun day</li>
+          </ul>
+        </li>
+         <li><strong>Week of Sep. 15</strong>
+          <ul>
+            <li>Monday, Sep. 15: Integers and mixed operations with integers</li>
+            <li>Tuesday, Sep. 16: Fractions and mixed operations with fractions</li>
+            <li>Wednesday, Sep. 17: WB day</li>
+            <li>Thursday, Sep. 18: Fun day (Aggression)</li>
+          </ul>
+        </li>
+        <li><strong>Week of Sep. 22</strong>
+          <ul>
+            <li>Monday, Sep. 22: Decimals and mixed operations with decimals</li>
+            <li>Tuesday, Sep. 23: Early years numeracy screening assessments (Grade 4)</li>
+            <li>Wednesday, Sep. 24: WB day</li>
+            <li>Thursday, Sep. 25: Fun day</li>
+          </ul>
+        </li>
+        <li><strong>Week of Sep. 29</strong>
+          <ul>
+            <li>Monday, Sep. 29: Fractions to decimals</li>
+            <li>Tuesday, Sep. 30: Decimals to fractions</li>
+            <li>Wednesday, Oct. 1: WB day</li>
+            <li>Thursday, Oct. 2: Fun day</li>
+          </ul>
+        </li>
+        <li><strong>Week of Oct. 6</strong>
+          <ul>
+            <li>Monday, Oct. 6: Math contest (Q1-10)</li>
+            <li>Tuesday, Oct. 7: Math contest (Q11-16)</li>
+            <li>Wednesday, Oct. 8: WB day</li>
+            <li>Thursday, Oct. 9: Fun day</li>
+          </ul>
+        </li>
+        <li><strong>Week of Oct. 13</strong>
+          <ul>
+            <li>Monday, Oct. 13: NO SCHOOL - Thanksgiving</li>
+            <li>Tuesday, Oct. 14: Reviewing math contest</li>
+            <li>Wednesday, Oct. 15: WB day</li>
+            <li>Thursday, Oct. 16: Fun day</li>
+          </ul>
+        </li>
+         <li><strong>Week of Oct. 20</strong>
+          <ul>
+            <li>Monday, Oct. 20: Systems of equations (substitution)</li>
+            <li>Tuesday, Oct. 21: Systems of equations (elimination)</li>
+            <li>Wednesday, Oct. 22: WB day</li>
+            <li>Thursday, Oct. 23: Fun day (mobile balance puzzles)</li>
+          </ul>
+        </li>
+        <li><strong>Week of Oct. 27</strong>
+          <ul>
+            <li>Monday, Oct. 27: Systems of equations (word problems)</li>
+            <li>Tuesday, Oct. 28: WB day</li>
+            <li>Wednesday, Oct. 29: Halloween puzzles</li>
+            <li>Thursday, Oct. 30: Halloween</li>
+          </ul>
+        </li>
+        <li><strong>Week of Nov. 3</strong>
+          <ul>
+            <li>Monday, Nov. 3: POTW</li>
+            <li>Tuesday, Nov. 4: WB day</li>
+            <li>Wednesday, Nov. 5: Fun day</li>
+            <li>Thursday, Nov. 6: Early dismissal (no class)</li>
+          </ul>
+        </li>
+        <li><strong>Week of Nov. 17</strong>
+          <ul>
+            <li>Monday, Nov. 17: Reviews A and B</li>
+            <li>Tuesday, Nov. 18: BCC practice</li>
+            <li>Wednesday, Nov. 19: BCC</li>
+            <li>Thursday, Nov. 20: Fun day</li>
+          </ul>
+        </li>
+        <li><strong>Week of Nov. 24</strong>
+          <ul>
+            <li>Monday, Nov. 24: PAT6 Part A mock</li>
+            <li>Tuesday, Nov. 25: Prime and composite numbers</li>
+            <li>Wednesday, Nov. 26: WB day</li>
+            <li>Thursday, Nov. 27: Fun day</li>
+          </ul>
+        </li>
+        <li><strong>Week of Dec. 1</strong>
+          <ul>
+            <li>Monday, Dec. 1: Fundamental Theorem of Arithmetic and factoring</li>
+            <li>Tuesday, Dec. 2: Remainder vs divisibility tests (including 4, 8, ..., 7)</li>
+            <li>Wednesday, Dec. 3: Grade 4/5 fun activity</li>
+            <li>Thursday, Dec. 4: WB day</li>
+          </ul>
+        </li>
+          <li><strong>Week of Dec. 8</strong>
+          <ul>
+            <li>Monday, Dec. 8: POTW</li>
+            <li>Tuesday, Dec. 9: Modular arithmetic</li>
+            <li>Wednesday, Dec. 10: WB day</li>
+            <li>Thursday, Dec. 11: Fun day</li>
+          </ul>
+        </li>
+          <li><strong>Week of Dec. 15</strong>
+          <ul>
+            <li>Monday, Dec. 15: GCD and LCM</li>
+            <li>Tuesday, Dec. 16: Work period</li>
+            <li>Wednesday, Dec. 17: WB day</li>
+            <li>Thursday, Dec. 18: Fun day</li>
+          </ul>
+        </li>
+          <li><strong>Week of Jan. 5</strong>
+          <ul>
+            <li>Monday, Jan. 5: Swimming (no class)</li>
+            <li>Tuesday, Jan. 6: Swimming (no class)</li>
+            <li>Wednesday, Jan. 7: Swimming (no class)</li>
+            <li>Thursday, Jan. 8: Swimming (no class)</li>
+          </ul>
+        </li>
+        <li><strong>Week of Jan. 12</strong>
+          <ul>
+            <li>Monday, Jan. 12: Quadrilaterals
+Definitions</li>
+            <li>Tuesday, Jan. 13: Quadrilaterals
+Cyclic, convex/concave, simple/complex</li>
+            <li>Wednesday, Jan. 14: WB day</li>
+            <li>Thursday, Jan. 15: Fun day</li>
+          </ul>
+        </li>
+        <li><strong>Week of Jan. 19</strong>
+          <ul>
+            <li>Monday, Jan. 19: Quadrilaterals project: Drawing quadrilaterials with straightedge and compass</li>
+            <li>Tuesday, Jan. 20: Quadrilaterals project: Properties (sides, parallel, angles, diagonals, tessellation, symmetry)</li>
+            <li>Wednesday, Jan. 21: WB day</li>
+            <li>Thursday, Jan. 22: Fun day </li>
+          </ul>
+        </li>
+        <li><strong>Week of Feb. 2</strong>
+          <ul>
+            <li>Monday, Feb. 2: Euler diagram for triangles, Quadrilateral project </li>
+            <li>Tuesday, Feb. 3: Quadrilaterals project </li>
+            <li>Wednesday, Feb. 4: Fun day</li>
+            <li>Thursday, Feb. 5: Renert Rabbit</li>
+          </ul>
+        </li>
+        <li><strong>Week of Feb. 9</strong>
+          <ul>
+            <li>Monday, Feb. 9: Quadrilaterals project </li>
+            <li>Tuesday, Feb. 10: Quadrilaterals project </li>
+            <li>Wednesday, Feb. 11: WB day</li>
+            <li>Thursday, Feb. 12: Fun day</li>
+          </ul>
+        </li>
+        <li><strong>Week of Feb. 23</strong>
+          <ul>
+            <li>Monday, Feb. 23: Quadrilaterals project </li>
+            <li>Tuesday, Feb. 24: Quadrilaterals project </li>
+            <li>Wednesday, Feb. 25: 2026 Pascal</li>
+            <li>Thursday, Feb. 26: Fun day</li>
+          </ul>
+        </li>
+        <li><strong>Week of Mar. 2</strong>
+          <ul>
+            <li>Monday, Mar. 2: Quadrilaterals project </li>
+            <li>Tuesday, Mar. 3: Quadrilaterals project </li>
+            <li>Wednesday, Mar. 4: WB day</li>
+            <li>Thursday, Mar. 5: Fun day</li>
+          </ul>
+        </li>
+        <li><strong>Week of Mar. 9</strong>
+          <ul>
+            <li>Monday, Mar. 9: Patterns</li>
+            <li>Tuesday, Mar. 10: Patterns</li>
+            <li>Wednesday, Mar. 11: pi activities</li>
+            <li>Thursday, Mar. 12: pi Day 2026</li>
+          </ul>
+        </li>
+        <li><strong>Week of Mar. 16</strong>
+          <ul>
+            <li>Monday, Mar. 16: 2023 Kangaroo Gr 5-6 mock</li>
+            <li>Tuesday, Mar. 17: Go over contest</li>
+            <li>Wednesday, Mar. 18: WB day</li>
+            <li>Thursday, Mar. 19: Fun day</li>
+          </ul>
+        </li>
+        <li><strong>Week of Mar. 23</strong>
+          <ul>
+            <li>Monday, Mar. 23: Arithmetic and geometric series</li>
+            <li>Tuesday, Mar. 24: ski day</li>
+            <li>Wednesday, Mar. 25: Geometric series, WB day</li>
+            <li>Thursday, Mar. 26: Fun day</li>
+          </ul>
+        </li>
+        <li><strong>Week of Mar. 30</strong>
+          <ul>
+            <li>Monday, Mar. 30: Work period</li>
+            <li>Tuesday, Mar. 31: Sequences and series</li>
+            <li>Wednesday, Apr. 1: WB day</li>
+            <li>Thursday, Apr. 2: Fun day</li>
+          </ul>
+        </li> 
+
+          <li><strong>Week of Apr. 6</strong>
+          <ul>
+            <li>Monday, Apr. 6: JMC mock</li>
+            <li>Tuesday, Apr. 7: Work period</li>
+            <li>Wednesday, Apr. 8: WB day</li>
+            <li>Thursday, Apr. 9: Fun day</li>
+          </ul>
+        </li>
+"        <li><strong>Week of Apr. 13</strong>
+          <ul>"
+"            <li>Monday, Apr. 13: POTW
+C: The Sequence of the Year
+C: 1000 is a SUM Number!
+D: Summing up a Sequence I
+D: 1225 is SUMthing Special
+E: It's the Ones that We Want
+E: Summing up a Sequence 2
+E: 1225 is Even More Special
+E: Coin Combinations</li>"
+            <li>Tuesday, Apr. 14: Work period, WB check</li>
+            <li>Wednesday, Apr. 15: Fun day</li>
+"            <li>Thursday, Apr. 16: Early dismissal</li>
+          </ul>
+        </li>"
+        <li><strong>Week of Apr. 27</strong>
+          <ul>
+            <li>Monday, Apr. 27: CESMC mock</li>
+            <li>Tuesday, Apr. 28: Work period</li>
+            <li>Wednesday, Apr. 29: CESMC</li>
+            <li>Thursday, Apr. 30: Fun day</li>
+          </ul>
+        </li>
+        <li><strong>Week of May. 4</strong>
+          <ul>
+            <li>Monday, May. 4: JMC mock (2023)</li>
+            <li>Tuesday, May. 5: WB day and go over JMC</li>
+            <li>Wednesday, May. 6: JMC (morning), Games day (with Ms. Marina, 2206)</li>
+            <li>Thursday, May. 7: Sneak-a-peek (with Ms. Marina, 2206)</li>
+          </ul>
+        </li>
+          <li><strong>Week of May. 11</strong>
+          <ul>
+            <li>Monday, May. 11: Gauss mock</li>
+            <li>Tuesday, May. 12: No Gr 4 (5s with Mr. Vlad, 2210)</li>
+            <li>Wednesday, May. 13: No class - Gr 4/5 milestones</li>
+            <li>Thursday, May. 14: No Gr 5 (4s with Joyce, 2208)</li>
+          </ul>
+        </li>
+        <li><strong>Week of May. 25</strong>
+          <ul>
+            <li>Monday, May. 25: PAT6 Part A mock, Ratios and percentage review</li>
+            <li>Tuesday, May. 26: Work period</li>
+            <li>Wednesday, May. 27: PAT mock on 5th floor</li>
+            <li>Thursday, May. 28: Fun day</li>
+          </ul>
+        </li>
+        <li><strong>Week of Jun. 1</strong>
+          <ul>
+            <li>Monday, Jun. 1: Open-ended problem: water day</li>
+            <li>Tuesday, Jun. 2: Open-ended problem: water day</li>
+            <li>Wednesday, Jun. 3: WB day</li>
+            <li>Thursday, Jun. 4: Fun day (with Ms. Doina, 2204)</li>
+          </ul>
+        </li>
+        <li><strong>Week of Jun. 8</strong>
+          <ul>
+            <li>Monday, Jun. 8: Open-ended problem: water day </li>
+            <li>Tuesday, Jun. 9: Open-ended problem: water day (presentations)</li>
+            <li>Wednesday, Jun. 10: WB day</li>
+            <li>Thursday, Jun. 11: Open-ended problem: water day (presentations)</li>
+          </ul>
+        </li>
+  -->
+
+
+        <li><strong>Week of Jun. 22</strong>
+          <ul>
+            <li>Monday, Jun. 22: WB check</li>
+            <li>Tuesday, Jun. 23: Outdoor activity?</li>
+            <li>Wednesday, Jun. 24: Last day activities</li>
+            <li>Thursday, Jun. 25: Assembly (no class)</li>
+          </ul>
+        </li>
+
+  
+</ul>
+  
+<!-- <li><strong>Week of Jun. 16</strong>
+<ul>
+<li>Mon, Jun. 16: MasterChef Calculus (2307)</li>
+<li>Wed, Jun. 18: Spare</li>
+<li>Fri, Jun. 20: Spare</li>
+</ul>
+</li>
+<li><strong>Week of Jun. 23</strong>
+<ul>
+<li>Mon, Jun. 23: Last class activities (2307)</li>
+<li>Wed, Jun. 25: No class (half-day)</li>
+</ul>
+</li>
+</ul>-->
+</section>
+
+<section id="homework">
+<h2>Homework</h2>
+<p>25 minutes/day</p>
+        <ul>
+          <li><strong>Friday, September 5:</strong> Introduction questionnaire and course outline</li>
+          <li><strong>Thursday, September 18:</strong> <a href="https://vchan2.github.io/2025gr45/integers/05_ooo_integers_two-threesteps_negative_pemdas_001_q.pdf">Order of operations with integers (2-3 steps)</a> and <a href="https://vchan2.github.io/2025gr45/integers/06_ooo_integers_four-fivesteps_negative_pemdas_001_q.pdf">Order of operations with integers (4-5 steps)</a></li>
+          <li><strong>Monday, September 22:</strong> <a href="https://vchan2.github.io/2025gr45/fractions/06_ooo_fractions_pemdas_two-threesteps_negative_q.pdf">Order of operations with fractions (2-3 steps)</a> and <a href="https://vchan2.github.io/2025gr45/fractions/07_ooo_fractions_pemdas_four-fivesteps_negative_002_q.pdf">Order of operations with fractions (4-5 steps)</a></li>
+          <li><strong>Monday, September 29: <a href="https://vchan2.github.io/2025gr45/decimals/decimals_mixed.pdf">Mixed decimals</a></li>
+          <li><strong>Monday, October 6:</strong> <a href="https://vchan2.github.io/2025gr45/decimals/fractions_to_decimals.pdf">Fractions to decimals</a></li>
+          <li><strong>Monday, October 6:</strong> <a href="https://vchan2.github.io/2025gr45/decimals/decimals_to_fractions.pdf">Decimals to fractions</a></li>
+          <li><strong>Monday, October 27:</strong> <a href="https://vchan2.github.io/2025gr45/algebra/Systems_of_2lin_eqns.pdf">Systems of 2 linear equations (elimination)</a></li>
+          <li><strong>Monday, October 27:</strong> <a href="https://vchan2.github.io/2025gr45/algebra/Systems_of_eqns_sub.pdf">Systems of 2 linear equations (substitution)</a></li>
+          <li><strong>Monday, November 3:</strong> <a href="https://vchan2.github.io/2025gr45/algebra/Systems_of_eqns_app_hard_2.pdf">Systems of linear equations (applications)</a></li>
+          <li><strong>Monday, December 1:</strong> <a href="https://vchan2.github.io/2025gr45/number_theory/01_divisibility_testing.pdf">Divisibility testing</a> and <a href="https://vchan2.github.io/2025gr45/number_theory/02_primality_testing.pdf">Primality testing</a></li>
+          <li><strong>Monday, December 8:</strong> <a href="https://vchan2.github.io/2025gr45/number_theory/03_prime_factorization.pdf">Prime factorization</a></li>
+          <li><strong>Tuesday, December 16:</strong> <a href="https://vchan2.github.io/2025gr45/number_theory/Modular_arithmetic_basic.pdf">Modular arithmetic basics</a></li>
+          <li><strong>Wednesday, December 17:</strong> <a href="https://vchan2.github.io/2025gr45/number_theory/04_GCD_LCM.pdf">GCD and LCM</a></li>
+          <li><strong>Monday, March 16:</strong> <a href="https://vchan2.github.io/2025gr45/patterns/arithmetic_sequences_i_gr6.pdf">Arithmetic Sequences Part I</a></li>
+          <li><strong>Monday, March 30:</strong> <a href="https://vchan2.github.io/2025gr45/patterns/SequencePuzzles.pdf">Sequences Puzzles</a></li>
+          <li><strong>Monday, April 27:</strong> <a href="https://vchan2.github.io/2025gr45/patterns/arithmetic_geometric.pdf">Arithmetic and Geometric sequences and series</a></li>
+        </ul>
+</section>
+
+<section id="exams">
+<h2>Exams</h2>
+
+
+</section>
+
+<section id="online-resources">
+<h2>Online Resources</h2>
+<ul>
+<li><a href="https://logic.puzzlebaron.com/">Grid-style logic puzzles</a></li>
+<li><a href="https://www.cemc.uwaterloo.ca/contests/past_contests.html" target="_blank" rel="noopener"><span>CEMC Past Contests</span></a></li>
+<li><a href="https://artofproblemsolving.com/wiki/index.php/AMC_Problems_and_Solutions" target="_blank" rel="noopener"><span>AMC Problems and Solutions</span></a></li>
+<li><a href="https://solveme.edc.org/mobiles/"> Mobile balance puzzles </a>
+   <ul>
+     <li><a href="https://solveme.edc.org/mobiles/?mobiles=200662"> Dr. Vince's puzzle #1 </a> (Moderate)</li>
+     <li><a href="https://solveme.edc.org/mobiles/?mobiles=201443"> Dr. Vince's puzzle #2 </a> (Hard)</li>
+     <li><a href="https://solveme.edc.org/mobiles/?mobiles=201442"> Dr. Vince's puzzle #3 </a> (Ultra hard)</li>
+   </ul>
+   </li>
+<li><a href="https://euclid.findell.org/Level1/">Euclid: the game</a></li>
+</ul>
+</section>
+
+<section id="challenges">
+<h2>Challenges</h2>
+<ul>
+
+</ul>
+<ul>
+<li><a href="https://vincentchan02.wixsite.com/cosmospuzzle">CoSMOS 2020 Challenge</a></li>
+<li><a href="https://vchan2.github.io/Challenges/digit_puzzle/1001.pdf">10-01 digit puzzle</a></li>
+<li><a href="https://renertmath.github.io/Challenges/12Days2025.html">12 Days of ChrisMATH 2024</a></li>
+<li><a href="https://vchan2.github.io/Challenges/2025-26Winter_Break.pdf">2025–26 Winter Break challenges</a></li>
+</ul>
+</section>
+
+<section id="files">
+<h2>Files</h2>
+<ul>
+<li><a href="https://vchan2.github.io/2025gr45/Math_Gr4-5_Course_Outline_2025-2026.pdf">Course outline</a></li>
+<li>Integers</li>
+  <ul>
+    <li><a href="https://vchan2.github.io/2025gr45/integers/01_integer_add_sub_2terms_q.pdf">Addition and subtraction of integers</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/integers/02_integers_addition_and_subtraction_easy_001_q.pdf">Addition and subtraction of integers (mixed)</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/integers/03_integers_mult_div.pdf">Multiplication and division of integers</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/integers/04_integer_mixed_problems_q.pdf">Mixed operations with integers</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/integers/04_integer_mixed_problems_q.pdf">Mixed operations with integers</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/integers/05_ooo_integers_two-threesteps_negative_pemdas_001_q">Order of operations with integers (2-3 steps)</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/integers/06_ooo_integers_four-fivesteps_negative_pemdas_001_q">Order of operations with integers (4-5 steps)</a></li>
+  </ul>
+<li>Fractions</li>
+  <ul>
+    <li><a href="https://vchan2.github.io/2025gr45/integers/01_fractions_adding_subtracting_q.pdf">Adding and subtracting fractions (proper or improper)</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/integers/02_adding_subtracting_mixed_numbers_q.pdf">Adding and subtracting fractions (mixed numbers)</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/fractions/03_fractions_multiply_and_multiply_cross_cancel_q.pdf">Multiplying fractions (proper or improper)</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/fractions/04_fractions_divide_q.pdf">Dividing fractions (proper or improper)</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/fractions/05_multiplying_dividing_mixed_numbers_q">Multiplying/dividing mixed numbers</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/fractions/06_ooo_fractions_pemdas_two-threesteps_negative_q">Order of operations with fractions (2-3 steps)</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/fractions/07_ooo_fractions_pemdas_four-fivesteps_negative_q">Order of operations with fractions (4-5 steps)</a></li>
+  </ul>
+<li>Decimals</li>
+  <ul>
+    <li><a href="https://vchan2.github.io/2025gr45/decimals/mult_div_by_powers_of_10_q.pdf">Multiply and divide by powers of 10</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/decimals/decimals_mixed.pdf">Mixed decimals</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/decimals/fractions_to_decimals.pdf">Fractions to decimals</a></li>
+  </ul>
+<li>Algebra</li>
+  <ul>
+    <li><a href="https://vchan2.github.io/2025gr45/algebra/Systems_of_2lin_eqns.pdf">Systems of 2 linear equations (elimination)</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/algebra/Systems_of_eqns_sub.pdf">Systems of 2 linear equations (substitution)</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/algebra/Systems_of_eqns_app_hard_2.pdf">Systems of linear equations (applications)</a></li>
+  </ul>
+<li>Number theory</li>
+  <ul>
+    <li><a href="https://vchan2.github.io/2025gr45/number_theory/01_divisibility_testing.pdf">Divisibility testing</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/number_theory/02_primality_testing.pdf">Primality testing</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/number_theory/03_prime_factorization.pdf">Prime factorization</a></li>
+    <li><a href="https://vchan2.github.io/2025gr6/number_theory/04_GCD_LCM.pdf">GCD and LCM</a></li>
+  </ul>
+<li>Patterns</li>
+  <ul>
+    <li><a href="https://vchan2.github.io/2025gr45/patterns/arithmetic_sequences_i_gr6.pdf">Arithmetic Sequences Part I</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/patterns/SequencePuzzles.pdf">Sequences Puzzles</a></li>
+    <li><a href="https://vchan2.github.io/2025gr45/patterns/arithmetic_geometric.pdf">Arithmetic and Geometric sequences and series</a></li>
+  </ul>
+</ul>
+  
+</ul>
+</section>
+
+<footer>
+<small>Last updated: Aug 29, 2025</small>
+</footer>
+</main>
+
+<!-- Countdown script: fixed to Calgary time (MDT, UTC-06:00) for May -->
+<script>
+(function(){
+var EXAM_DATE = new Date('2026-05-11T08:00:00-06:00');
+var pill = document.getElementById('days-left');
+if(!pill) return;
+function update(){
+var now = new Date();
+var diff = EXAM_DATE - now;
+var oneDay = 24*60*60*1000;
+if(diff <= 0 && Math.abs(diff) < oneDay){
+pill.textContent = 'Exam today';
+pill.setAttribute('aria-label','Exam is today');
+return;
+}
+if(diff < 0){
+pill.textContent = 'Done';
+pill.setAttribute('aria-label','Exam has passed');
+return;
+}
+var days = Math.ceil(diff/oneDay);
+if(days > 1){ pill.textContent = days + ' days'; pill.setAttribute('aria-label', days + ' days until exam'); }
+else if(days === 1){ pill.textContent = '1 day'; pill.setAttribute('aria-label','1 day until exam'); }
+else { var hours = Math.ceil(diff/(60*60*1000)); pill.textContent = hours + ' hr'; pill.setAttribute('aria-label', hours + ' hours until exam'); }
+}
+update();
+setInterval(update, 60*60*1000);
+})();
+</script>
+</body>
+</html>
